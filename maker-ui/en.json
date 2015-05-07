@@ -1,0 +1,10 @@
+{
+  "dashboard": {
+    "drafts": {
+      "default": "Drafts"
+    },
+    "published": {
+      "default": "Published"
+    }
+  }
+}
