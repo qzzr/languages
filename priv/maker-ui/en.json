@@ -1,11 +1,11 @@
 {
   "breakdown": {
-    "by-nearby": "nearby",
-    "by-country": "country",
-    "by-world": "world",
-    "breakdown-by-region": "BY REGION",
-    "breakdown-by-age": "BY AGE",
-    "breakdown-by-gender": "BY GENDER"
+    "by_nearby": "nearby",
+    "by_country": "country",
+    "by_world": "world",
+    "breakdown_by_region": "BY REGION",
+    "breakdown_by_age": "BY AGE",
+    "breakdown_by_gender": "BY GENDER"
   },
   "create_dropdown": {
     "toolbar_create": "Create",
