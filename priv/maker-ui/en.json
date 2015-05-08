@@ -1,58 +1,80 @@
 {
   "dashboard": {
-    "all-content" : {
-      "default": "All content"
-    },
-    "create-first": {
-      "pollcaster": "Create your first poll. It's fast and easy.",
-      "qzzr": ""
-    },
-    "drafts": {
-      "default": "Drafts"
-    },
-    "empty-published": {
-      "default": "You have no published content."
-    },
-    "no-results": {
-      "default": "Your search returned no results"
-    },
-    "published": {
-      "default": "Published"
-    },
-    "search": {
-      "default": "SEARCH"
-    },
-    "side-links-poll": {
-      "default": "Poll"
-    },
-    "side-links-quiz": {
-      "default": "Quiz"
-    },
+    "all-content": "All content",
+    "create-first": "Create your first poll. It's fast and easy.",
+    "drafts": "Drafts",
+    "empty-published": "You have no published content.",
+    "leads-description": "Learn about some of the premium features that are available for Pro and Enterprise accounts.",
+    "no-results": "Your search returned no results",
+    "published": "Published",
+    "search": "SEARCH",
+    "side-links-poll": "Poll",
+    "side-links-quiz": "Quiz",
+    "tips-description": "Get tips and strategies to help you make quizzes like the experts at BuzzFeed.",
+    "tips-for-creating-poll": "Tips for creating polls",
+    "tips-for-creating-quiz": "Tips for creating quizzes",
+    "tips-for-poll-strategy": "Read poll content tips & strategies",
+    "tips-for-quiz-strategy": "Read quiz content tips & strategies",
+    "tips-learn-offers": "Learn more about leads & offers",
+    "tips-poll-tour": "Take a tour of our poll editor",
+    "tips-quiz-tour": "Take a tour of our quiz editor",
     "tour-description": {
-      "pollcaster": "In this two-minute video you’ll learn some tips on creating a poll and embedding it on your site."
+      "pollcaster": "In this two-minute video you’ll learn some tips on creating a poll and embedding it on your site.",
+      "qzzr": "Take a tour of Qzzr in this six-minute video to discover everything you can do with your new account."
     },
-    "tour-label": {
-      "pollcaster": "Watch video"
-    },
-    "tour-title": {
-      "pollcaster": "Take a tour"
-    },
-    "webinar-description": {
-      "pollcaster": "Watch this webinar for the tips and strategies that will help you get the most out of your polls."
-    },
-    "webinar-label": {
-      "pollcaster": "Watch webinar"
-    },
-    "webinar-title": {
-      "pollcaster": "Make your polls remarkable"
-    },
+    "tour-label": "Watch video",
+    "tour-title": "Take a tour",
+    "webinar-description": "Watch this webinar for the tips and strategies that will help you get the most out of your polls.",
+    "webinar-label": "Watch webinar",
+    "webinar-title": "Make your polls remarkable",
     "zero-state-header": {
+      "enterprise": "Welcome to Qzzr",
       "pollcaster": "Welcome to Pollcaster",
       "qzzr": "Welcome to Qzzr"
     },
     "zero-state-sub-header": {
+      "enterprise": "Create a quiz or a poll. It's fast and easy.",
       "pollcaster": "Create your first poll. It's fast and easy.",
       "qzzr": "Create your first quiz. It's fast and easy."
     }
+  },
+  "maker": {
+    "appearance-accent-color": "Accent color",
+    "appearance-display-settings": "Display settings",
+    "appearance-preview": "Embed preview",
+    "appearance-show-option-labels": "Show options labels",
+    "appearance-show-title": "Show poll title",
+    "browse": "browse",
+    "crop-image": "Crop image",
+    "option-placeholder": "Enter an option",
+    "question-title": "Ask a question",
+    "remove-image": "Remove image",
+    "settings-header": "Poll settings",
+    "settings-tweet-via-label": "Tweet via",
+    "settings-tweet-via-placeholder": "@yourtwitterhandle",
+    "settings-hashtags-label": "Hashtags",
+    "settings-hashtags-placeholder": "#quiz #personality",
+    "side-nav-appearance": "Appearance",
+    "side-nav-offers": "Offers (coming soon)",
+    "side-nav-settings": "Settings",
+    "tap-upload-image": "Tap here to upload an image",
+    "upload-image": "Drag image here or"
+  },
+  "overview": {
+    "breakdown-by-region": "BY REGION",
+    "breakdown-by-age": "BY AGE",
+    "breakdown-by-gender": "BY GENDER",
+    "check-later": "Check back later...",
+    "published": "Poll published",
+    "published-subtext": "Now share it with the world.",
+    "sharing-embed": "Embed this poll",
+    "sharing-link": "Link to this poll",
+    "sharing-share": "Share this poll",
+    "stats": "Stats",
+    "tooltip-mac": "Press ⌘C to copy",
+    "tooltip-win": "Press Ctrl+C to copy",
+    "unpublished-changes": "Unpublished changes",
+    "untitled": "Untitled",
+    "updated": "Poll updated"
   }
 }
