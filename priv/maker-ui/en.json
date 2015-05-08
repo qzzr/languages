@@ -82,5 +82,32 @@
     "side-nav-settings": "Settings",
     "tap-upload-image": "Tap here to upload an image",
     "upload-image": "Drag image here or"
+  },
+  "overview": {
+      "breakdown-by-region": "BY REGION",
+      "breakdown-by-age": "BY AGE",
+      "breakdown-by-gender": "BY GENDER",
+      "check-later": "Check back later...",
+      "published": {
+        "pollcaster": "Poll published"
+      },
+      "published-subtext": "Now share it with the world.",
+      "sharing-embed": {
+        "pollcaster": "Embed this poll"
+      },
+      "sharing-link": {
+        "pollcaster": "Link to this poll"
+      },
+      "sharing-share": {
+        "pollcaster": "Share this poll"
+      },
+      "stats": "Stats",
+      "tooltip-mac": "Press ⌘C to copy",
+      "tooltip-win": "Press Ctrl+C to copy",
+      "unpublished-changes": "Unpublished changes",
+      "untitled": "Untitled",
+      "updated": {
+        "pollcaster": "Poll updated"
+      }
   }
 }
