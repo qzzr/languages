@@ -2,7 +2,15 @@
   "breakdown": {
     "by-nearby": "nearby",
     "by-country": "country",
-    "by-world": "world"
+    "by-world": "world",
+    "breakdown-by-region": "BY REGION",
+    "breakdown-by-age": "BY AGE",
+    "breakdown-by-gender": "BY GENDER"
+  },
+  "create_dropdown": {
+    "toolbar_create": "Create",
+    "toolbar_create_quiz": "Quiz",
+    "toolbar_create_poll": "Poll",
   },
   "dashboard": {
     "all-content": "All content",
