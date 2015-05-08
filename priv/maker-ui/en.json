@@ -1,0 +1,60 @@
+{
+  "dashboard": {
+    "all-content" : {
+      "default": "All content"
+    },
+    "create-first": {
+      "pollcaster": "Create your first poll. It's fast and easy.",
+      "qzzr": 
+    },
+    "drafts": {
+      "default": "Drafts"
+    },
+    "empty-published": {
+      "default": "You have no published content."
+    },
+    "no-results": {
+      "default": "Your search returned no results"
+    },
+    "polls-webinar-title" {
+    },
+    "published": {
+      "default": "Published"
+    },
+    "search": {
+      "default": "SEARCH"
+    },
+    "side-links-poll": {
+      "default": "Poll"
+    },
+    "side-links-quiz": {
+      "default": "Quiz"
+    },
+    "tour-description": {
+      "pollcaster": "In this two-minute video you’ll learn some tips on creating a poll and embedding it on your site."
+    },
+    "tour-label": {
+      "pollcaster": "Watch video"
+    },
+    "tour-title": {
+      "pollcaster": "Take a tour"
+    },
+    "webinar-description": {
+      "pollcaster": "Watch this webinar for the tips and strategies that will help you get the most out of your polls."
+    },
+    "webinar-label": {
+      "pollcaster": "Watch webinar"
+    },
+    "webinar-title": {
+      "pollcaster": "Make your polls remarkable"
+    },
+    "zero-state-header": {
+      "pollcaster": "Welcome to Pollcaster",
+      "qzzr": "Welcome to Qzzr"
+    },
+    "zero-state-sub-header": {
+      "pollcaster": "Create your first poll. It's fast and easy.",
+      "qzzr": "Create your first quiz. It's fast and easy."
+    }
+  }
+}
