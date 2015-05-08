@@ -5,7 +5,7 @@
     },
     "create-first": {
       "pollcaster": "Create your first poll. It's fast and easy.",
-      "qzzr": 
+      "qzzr": ""
     },
     "drafts": {
       "default": "Drafts"
@@ -15,8 +15,6 @@
     },
     "no-results": {
       "default": "Your search returned no results"
-    },
-    "polls-webinar-title" {
     },
     "published": {
       "default": "Published"
