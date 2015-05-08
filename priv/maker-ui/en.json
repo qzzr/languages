@@ -1,4 +1,9 @@
 {
+  "breakdown": {
+    "by-nearby": "nearby",
+    "by-country": "country",
+    "by-world": "world"
+  },
   "dashboard": {
     "all-content": "All content",
     "create-first": "Create your first poll. It's fast and easy.",
