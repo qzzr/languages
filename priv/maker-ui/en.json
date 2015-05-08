@@ -1,38 +1,29 @@
 {
   "dashboard": {
-    "all-content" : {
-      "default": "All content"
-    },
+    "all-content": "All content",
     "create-first": {
       "pollcaster": "Create your first poll. It's fast and easy."
     },
-    "drafts": {
-      "default": "Drafts"
-    },
-    "empty-published": {
-      "default": "You have no published content."
-    },
+    "drafts": "Drafts",
+    "empty-published": "You have no published content.",
     "leads-description": {
       "qzzr": "Learn about some of the premium features that are available for Pro and Enterprise accounts."
     },
-    "no-results": {
-      "default": "Your search returned no results"
-    },
-    "published": {
-      "default": "Published"
-    },
-    "search": {
-      "default": "SEARCH"
-    },
-    "side-links-poll": {
-      "default": "Poll"
-    },
-    "side-links-quiz": {
-      "default": "Quiz"
-    },
+    "no-results": "Your search returned no results",
+    "published": "Published",
+    "search": "SEARCH",
+    "side-links-poll": "Poll",
+    "side-links-quiz": "Quiz",
     "tips-description": {
       "qzzr": "Get tips and strategies to help you make quizzes like the experts at BuzzFeed."
     },
+    "tips-for-creating-poll": "Tips for creating polls",
+    "tips-for-creating-quiz": "Tips for creating quizzes",
+    "tips-for-poll-strategy": "Read poll content tips & strategies",
+    "tips-for-quiz-strategy": "Read quiz content tips & strategies",
+    "tips-learn-offers": "Learn more about leads & offers",
+    "tips-poll-tour": "Take a tour of our poll editor",
+    "tips-quiz-tour": "Take a tour of our quiz editor",
     "tour-description": {
       "pollcaster": "In this two-minute video you’ll learn some tips on creating a poll and embedding it on your site.",
       "qzzr": "Take a tour of Qzzr in this six-minute video to discover everything you can do with your new account."
@@ -63,5 +54,16 @@
       "pollcaster": "Create your first poll. It's fast and easy.",
       "qzzr": "Create your first quiz. It's fast and easy."
     }
+  },
+  "maker": {
+    "appearance-accent-color": "Accent color",
+    "appearance-display-settings": "Display settings",
+    "appearance-preview": "Embed preview",
+    "appearance-show-title": {
+      "pollcaster": "Show poll title"
+    },
+    "side-nav-appearance": "Appearance",
+    "side-nav-offers": "Offers (coming soon)",
+    "side-nav-settings": "Settings"
   }
 }
