@@ -1,9 +1,9 @@
 {
-  "account-dropdown": {
-    "edit-settings": "Edit settings",
-    "logout": "Log out",
+  "account_dropdown": {
+    "edit_settings": "Edit settings",
+    "log_out": "Log out",
     "privacy": "Privacy",
-    "Terms": "Terms"
+    "terms": "Terms"
   },
   "breakdown": {
     "breakdown_by_age": "BY AGE",
