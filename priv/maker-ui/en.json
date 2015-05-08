@@ -54,6 +54,9 @@
   "edit_button": {
     "edit": "Edit"
   },
+  "embed_text": {
+    "having_trouble": "Having trouble?"
+  },
   "maker": {
     "appearance_accent_color": "Accent color",
     "appearance_display_settings": "Display settings",
@@ -75,6 +78,9 @@
     "side_nav_settings": "Settings",
     "tap_upload_image": "Tap here to upload an image",
     "upload_image": "Drag image here or"
+  },
+  "next_step": {
+    "next_step": "Next Step"
   },
   "overview": {
     "breakdown_by_region": "BY REGION",
