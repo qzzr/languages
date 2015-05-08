@@ -4,14 +4,16 @@
       "default": "All content"
     },
     "create-first": {
-      "pollcaster": "Create your first poll. It's fast and easy.",
-      "qzzr": ""
+      "pollcaster": "Create your first poll. It's fast and easy."
     },
     "drafts": {
       "default": "Drafts"
     },
     "empty-published": {
       "default": "You have no published content."
+    },
+    "leads-description": {
+      "qzzr": "Learn about some of the premium features that are available for Pro and Enterprise accounts."
     },
     "no-results": {
       "default": "Your search returned no results"
@@ -28,8 +30,12 @@
     "side-links-quiz": {
       "default": "Quiz"
     },
+    "tips-description": {
+      "qzzr": "Get tips and strategies to help you make quizzes like the experts at BuzzFeed."
+    },
     "tour-description": {
-      "pollcaster": "In this two-minute video you’ll learn some tips on creating a poll and embedding it on your site."
+      "pollcaster": "In this two-minute video you’ll learn some tips on creating a poll and embedding it on your site.",
+      "qzzr": "Take a tour of Qzzr in this six-minute video to discover everything you can do with your new account."
     },
     "tour-label": {
       "pollcaster": "Watch video"
@@ -47,10 +53,13 @@
       "pollcaster": "Make your polls remarkable"
     },
     "zero-state-header": {
+      "default": "Welcome to Qzzr",
+      "enterprise": "Welcome to Qzzr",
       "pollcaster": "Welcome to Pollcaster",
       "qzzr": "Welcome to Qzzr"
     },
     "zero-state-sub-header": {
+      "enterprise": "Create a quiz or a poll. It's fast and easy.",
       "pollcaster": "Create your first poll. It's fast and easy.",
       "qzzr": "Create your first quiz. It's fast and easy."
     }
