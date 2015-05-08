@@ -65,6 +65,11 @@
     "appearance-show-title": {
       "pollcaster": "Show poll title"
     },
+    "browse": "browse",
+    "crop-image": "Crop image",
+    "option-placeholder": "Enter an option",
+    "question-title": "Ask a question",
+    "remove-image": "Remove image",
     "settings-header": {
       "pollcaster": "Poll settings"
     },
@@ -74,6 +79,8 @@
     "settings-hashtags-placeholder": "#quiz #personality",
     "side-nav-appearance": "Appearance",
     "side-nav-offers": "Offers (coming soon)",
-    "side-nav-settings": "Settings"
+    "side-nav-settings": "Settings",
+    "tap-upload-image": "Tap here to upload an image",
+    "upload-image": "Drag image here or"
   }
 }
