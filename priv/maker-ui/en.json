@@ -10,7 +10,7 @@
   "create_dropdown": {
     "toolbar_create": "Create",
     "toolbar_create_quiz": "Quiz",
-    "toolbar_create_poll": "Poll",
+    "toolbar_create_poll": "Poll"
   },
   "dashboard": {
     "all_content": "All content",
