@@ -1,4 +1,10 @@
 {
+  "account-dropdown": {
+    "edit-settings": "Edit settings",
+    "logout": "Log out",
+    "privacy": "Privacy",
+    "Terms": "Terms"
+  },
   "breakdown": {
     "breakdown_by_age": "BY AGE",
     "breakdown_by_gender": "BY GENDER",
