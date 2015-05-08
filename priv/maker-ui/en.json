@@ -1,116 +1,116 @@
 {
   "breakdown": {
-    "breakdownByAge": "BY AGE",
-    "breakdownByGender": "BY GENDER",
-    "breakdownByRegion": "BY REGION",
-    "byCountry": "country",
-    "byNearby": "nearby",
-    "byWorld": "world"
+    "breakdown_by_age": "BY AGE",
+    "breakdown_by_gender": "BY GENDER",
+    "breakdown_by_region": "BY REGION",
+    "by_country": "country",
+    "by_nearby": "nearby",
+    "by_world": "world"
   },
-  "createDropdown": {
-    "toolbarCreate": "Create",
-    "toolbarCreatePoll": "Poll",
-    "toolbarCreateQuiz": "Quiz"
+  "create_dropdown": {
+    "toolbar_create": "Create",
+    "toolbar_create_poll": "Poll",
+    "toolbar_create_quiz": "Quiz"
   },
   "dashboard": {
-    "allContent": "All content",
-    "createFirst": "Create your first poll. It's fast and easy.",
+    "all_content": "All content",
+    "create_first": "Create your first poll. It's fast and easy.",
     "drafts": "Drafts",
-    "emptyPublished": "You have no published content.",
-    "leadsDescription": "Learn about some of the premium features that are available for Pro and Enterprise accounts.",
-    "noResults": "Your search returned no results",
+    "empty_published": "You have no published content.",
+    "leads_description": "Learn about some of the premium features that are available for Pro and Enterprise accounts.",
+    "no_results": "Your search returned no results",
     "published": "Published",
     "search": "SEARCH",
-    "sideLinksPoll": "Poll",
-    "sideLinksQuiz": "Quiz",
-    "tipsDescription": "Get tips and strategies to help you make quizzes like the experts at BuzzFeed.",
-    "tipsForCreatingPoll": "Tips for creating polls",
-    "tipsForCreatingQuiz": "Tips for creating quizzes",
-    "tipsForPollStrategy": "Read poll content tips & strategies",
-    "tipsForQuizStrategy": "Read quiz content tips & strategies",
-    "tipsLearnOffers": "Learn more about leads & offers",
-    "tipsPollTour": "Take a tour of our poll editor",
-    "tipsQuizTour": "Take a tour of our quiz editor",
-    "tourDescription": {
+    "side_links_poll": "Poll",
+    "side_links_quiz": "Quiz",
+    "tips_description": "Get tips and strategies to help you make quizzes like the experts at BuzzFeed.",
+    "tips_for_creating_poll": "Tips for creating polls",
+    "tips_for_creating_quiz": "Tips for creating quizzes",
+    "tips_for_poll_strategy": "Read poll content tips & strategies",
+    "tips_for_quiz_strategy": "Read quiz content tips & strategies",
+    "tips_learn_offers": "Learn more about leads & offers",
+    "tips_poll_tour": "Take a tour of our poll editor",
+    "tips_quiz_tour": "Take a tour of our quiz editor",
+    "tour_description": {
       "pollcaster": "In this two-minute video you’ll learn some tips on creating a poll and embedding it on your site.",
       "qzzr": "Take a tour of Qzzr in this six-minute video to discover everything you can do with your new account."
     },
-    "tourLabel": "Watch video",
-    "tourTitle": "Take a tour",
-    "webinarDescription": "Watch this webinar for the tips and strategies that will help you get the most out of your polls.",
-    "webinarLabel": "Watch webinar",
-    "webinarTitle": "Make your polls remarkable",
-    "zeroStateHeader": {
+    "tour_label": "Watch video",
+    "tour_title": "Take a tour",
+    "webinar_description": "Watch this webinar for the tips and strategies that will help you get the most out of your polls.",
+    "webinar_label": "Watch webinar",
+    "webinar_title": "Make your polls remarkable",
+    "zero_state_header": {
       "enterprise": "Welcome to Qzzr",
       "pollcaster": "Welcome to Pollcaster",
       "qzzr": "Welcome to Qzzr"
     },
-    "zeroStateSubHeader": {
+    "zero_state_sub_header": {
       "enterprise": "Create a quiz or a poll. It's fast and easy.",
       "pollcaster": "Create your first poll. It's fast and easy.",
       "qzzr": "Create your first quiz. It's fast and easy."
     }
   },
-  "editButton": {
+  "edit_button": {
     "edit": "Edit"
   },
-  "embedText": {
-    "havingTrouble": "Having trouble?"
+  "embed_text": {
+    "having_trouble": "Having trouble?"
   },
   "maker": {
-    "appearanceAccentColor": "Accent color",
-    "appearanceDisplaySettings": "Display settings",
-    "appearancePreview": "Embed preview",
-    "appearanceShowOptionLabels": "Show options labels",
-    "appearanceShowTitle": "Show poll title",
+    "appearance_accent_color": "Accent color",
+    "appearance_display_settings": "Display settings",
+    "appearance_preview": "Embed preview",
+    "appearance_show_option_labels": "Show options labels",
+    "appearance_show_title": "Show poll title",
     "browse": "browse",
-    "cropImage": "Crop image",
-    "optionPlaceholder": "Enter an option",
-    "questionTitle": "Ask a question",
-    "removeImage": "Remove image",
-    "settingsHeader": "Poll settings",
-    "settingsTweetViaLabel": "Tweet via",
-    "settingsTweetViaPlaceholder": "@yourtwitterhandle",
-    "settingsHashtagsLabel": "Hashtags",
-    "settingsHashtagsPlaceholder": "#quiz #personality",
-    "sideNavAppearance": "Appearance",
-    "sideNavOffers": "Offers (coming soon)",
-    "sideNavSettings": "Settings",
-    "tapUploadImage": "Tap here to upload an image",
-    "uploadImage": "Drag image here or"
+    "crop_image": "Crop image",
+    "option_placeholder": "Enter an option",
+    "question_title": "Ask a question",
+    "remove_image": "Remove image",
+    "settings_header": "Poll settings",
+    "settings_tweet_via_label": "Tweet via",
+    "settings_tweet_via_placeholder": "@yourtwitterhandle",
+    "settings_hashtags_label": "Hashtags",
+    "settings_hashtags_placeholder": "#quiz #personality",
+    "side_nav_appearance": "Appearance",
+    "side_nav_offers": "Offers (coming soon)",
+    "side_nav_settings": "Settings",
+    "tap_upload_image": "Tap here to upload an image",
+    "upload_image": "Drag image here or"
   },
-  "nextStep": {
-    "nextStep": "Next Step"
+  "next_step": {
+    "next_step": "Next Step"
   },
   "overview": {
-    "breakdownByRegion": "BY REGION",
-    "breakdownByAge": "BY AGE",
-    "breakdownByGender": "BY GENDER",
-    "checkLater": "Check back later...",
+    "breakdown_by_region": "BY REGION",
+    "breakdown_by_age": "BY AGE",
+    "breakdown_by_gender": "BY GENDER",
+    "check_later": "Check back later...",
     "published": "Poll published",
-    "publishedSubtext": "Now share it with the world.",
-    "sharingEmbed": "Embed this poll",
-    "sharingLink": "Link to this poll",
-    "sharingShare": "Share this poll",
+    "published_subtext": "Now share it with the world.",
+    "sharing_embed": "Embed this poll",
+    "sharing_link": "Link to this poll",
+    "sharing_share": "Share this poll",
     "stats": "Stats",
-    "tooltipMac": "Press ⌘C to copy",
-    "tooltipWin": "Press Ctrl+C to copy",
-    "unpublishedChanges": "Unpublished changes",
+    "tooltip_mac": "Press ⌘C to copy",
+    "tooltip_win": "Press Ctrl+C to copy",
+    "unpublished_changes": "Unpublished changes",
     "untitled": "Untitled",
     "updated": "Poll updated"
   },
-  "publishButton": {
+  "publish_button": {
     "publish": "Publish",
     "update": "Update"
   },
-  "publishDropdown": {
-    "deleteConfirm": "Are you sure you want to delete this?",
-    "unpublishConfirm": "Are you sure you want to unpublish this?"
+  "publish_dropdown": {
+    "delete_confirm": "Are you sure you want to delete this?",
+    "unpublish_confirm": "Are you sure you want to unpublish this?"
   },
-  "sortDropdown": {
-    "createdAt": "Date created",
-    "sortBy": "Sort by",
-    "updatedAt": "Date updated",
+  "sort_dropdown": {
+    "created_at": "Date created",
+    "sort_by": "Sort by",
+    "updated_at": "Date updated",
     "votes": "Number of votes"
   }
 }
