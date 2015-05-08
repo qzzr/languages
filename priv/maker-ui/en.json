@@ -51,6 +51,9 @@
       "qzzr": "Create your first quiz. It's fast and easy."
     }
   },
+  "edit_button": {
+    "edit": "Edit"
+  },
   "maker": {
     "appearance_accent_color": "Accent color",
     "appearance_display_settings": "Display settings",
