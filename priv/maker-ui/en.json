@@ -59,9 +59,19 @@
     "appearance-accent-color": "Accent color",
     "appearance-display-settings": "Display settings",
     "appearance-preview": "Embed preview",
+    "appearance-show-option-labels": {
+      "pollcaster": "Show options labels"
+    },
     "appearance-show-title": {
       "pollcaster": "Show poll title"
     },
+    "settings-header": {
+      "pollcaster": "Poll settings"
+    },
+    "settings-tweet-via-label": "Tweet via",
+    "settings-tweet-via-placeholder": "@yourtwitterhandle"
+    "settings-hashtags-label": "Hashtags",
+    "settings-hashtags-placeholder": "#quiz #personality",
     "side-nav-appearance": "Appearance",
     "side-nav-offers": "Offers (coming soon)",
     "side-nav-settings": "Settings"
