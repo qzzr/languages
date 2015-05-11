@@ -1,3 +1,56 @@
 {
-
+  "account": {
+    "cancel": "Cancel",
+    "changes_saved": "Changes saved",
+    "confirm_label": "Confirm changes",
+    "confirm_placeholder": "Enter current password",
+    "delete_account_label": "Cancel account",
+    "delete_account_message": "We're so sorry to see you go! Let us know why you're leaving and help make us better!",
+    "delete_account_subject": "Hey guys I'm canceling because...",
+    "email_label": "Email address",
+    "error_message_email": "Enter a different email address",
+    "heading": "Account settings",
+    "name_label": "Full name",
+    "password_label": "Change password",
+    "password_placeholder": "4 characters minimum",
+    "save":"Save changes",
+    "upload_avatar": "UPLOAD AVATAR"
+  },
+  "authorize": {
+    "approve": "Approve",
+    "deny": "Deny",
+    "logging-in-with": "You are logging into %{client} with your %{sister} account"
+  },
+  "login": {
+    "email": "Email",
+    "email_placeholder": "example@%{domain}",
+    "login_error": "Incorrect info. Try entering it again.",
+    "password": "Password",
+    "password_placeholder": "password",
+    "signup_name": "SIGN UP",
+    "sister": "Log into %{sister} with your %{product} account info.",
+    "submit": "LOG IN",
+    "title": "Log in"
+  },
+  "reset_password": {
+    "email": "Enter your email",
+    "email_placeholder": "example@%{domain}",
+    "login_name": "LOG IN",
+    "submit": "RESET PASSWORD",
+    "title": "Enter your email, and we’ll send you an email on how to reset your password."
+  },
+  "signup": {
+    "agree_to": "By signing up, you agree to ",
+    "callout": "First sign up for a free %{product} account.",
+    "email": "Email address",
+    "email_placeholder": "Don't worry, we won't spam you",
+    "error": "That email has already been taken",
+    "fullname": "Full name",
+    "fullname_placeholder": "Let's put a name to that lovely face",
+    "login_name": "LOG IN",
+    "password": "Password",
+    "password_placeholder": "4 character minimum",
+    "submit": "SIGN UP & CONTINUE",
+    "terms_of_service": "'s terms of service"
+  }
 }
