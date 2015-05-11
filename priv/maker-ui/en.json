@@ -97,7 +97,7 @@
     "tap_upload_image": "Tap here to upload an image",
     "upload_image": "Drag image here or"
   },
-  "map" {
+  "map": {
     "your_selection": "Your selection",
     "other": "Other option"
   },
