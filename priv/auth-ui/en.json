@@ -40,7 +40,6 @@
     "title": "Enter your email, and we’ll send you an email on how to reset your password."
   },
   "signup": {
-    "agree_to": "By signing up, you agree to ",
     "callout": "First sign up for a free %{product} account.",
     "email": "Email address",
     "email_placeholder": "Don't worry, we won't spam you",
@@ -51,6 +50,7 @@
     "password": "Password",
     "password_placeholder": "4 character minimum",
     "submit": "SIGN UP & CONTINUE",
-    "terms_of_service": "'s terms of service"
+    "terms_of_service_1": "By signing up, you agree to ",
+    "terms_of_service_2": "%{product}'s terms of service"
   }
 }
