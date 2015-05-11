@@ -1,3 +1,41 @@
 {
-  
+  "breakdown": {
+    "by_region": "BY REGION",
+    "by_age": "BY AGE",
+    "by_gender": "BY GENDER",
+    "other": "Other option",
+    "your_selection": "Your selection"
+  },
+  "by_region": {
+    "nearby": "nearby",
+    "country": "country",
+    "world": "world"
+  },
+  "collect_info": {
+    "female": "Female",
+    "how_old_are_you": "How old are you?",
+    "male": "Male",
+    "see_the_breakdown": "See the breakdown",
+    "skip": "Skip",
+    "subtitle": "Your info is anonymous.",
+    "title": "See how you compare to the rest of the world.",
+    "whats_your_gender": "What's your gender?",
+    "years": "years"
+  },
+  "poll": {
+    "embed_poll": "Embed this poll",
+    "link_poll": "Link to this poll",
+    "made_with": "Made with",
+    "share_poll": "Share this poll"
+  },
+  "question": {
+    "by_categories": "by region, age & gender",
+    "see_the_breakdown": "SEE THE BREAKDOWN",
+    "vote_now": "vote now",
+    "num_votes": {
+      "0": "No votes",
+      "one": "1 vote",
+      "other": "%{count} votes"
+    }
+  }
 }
