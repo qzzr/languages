@@ -1,4 +1,10 @@
 {
+  "account_dropdown": {
+    "edit_settings": "Edit settings",
+    "log_out": "Log out",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  },
   "account": {
     "cancel": "Cancel",
     "changes_saved": "Changes saved",
