@@ -27,6 +27,10 @@
     "deny": "Deny",
     "logging-in-with": "You are logging into %{client} with your %{sister} account"
   },
+  "image_crop": {
+    "cancel": "Cancel",
+    "save": "Save"
+  },
   "login": {
     "email": "Email",
     "email_placeholder": "example@%{domain}",

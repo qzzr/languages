@@ -22,6 +22,10 @@
     "whats_your_gender": "What's your gender?",
     "years": "years"
   },
+  "map" {
+    "your_selection": "Your selection",
+    "other": "Other option"
+  },
   "poll": {
     "embed_poll": "Embed this poll",
     "link_poll": "Link to this poll",
