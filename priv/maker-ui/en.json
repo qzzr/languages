@@ -26,6 +26,8 @@
     "leads_description": "Learn about some of the premium features that are available for Pro and Enterprise accounts.",
     "no_results": "Your search returned no results",
     "published": "Published",
+    "qzzr_ad_text": "Want to create a quiz instead? Try Qzzr.",
+    "qzzr_ad_create": "Create a Quiz",
     "search": "SEARCH",
     "side_links_poll": "Poll",
     "side_links_quiz": "Quiz",
@@ -63,6 +65,10 @@
   "embed_text": {
     "having_trouble": "Having trouble?"
   },
+  "image_crop": {
+    "cancel": "Cancel",
+    "save": "Save"
+  },
   "item": {
     "delete_confirm": "Are you sure you want to delete this item?",
     "delete_item": "Delete item",
@@ -92,6 +98,10 @@
     "side_nav_settings": "Settings",
     "tap_upload_image": "Tap here to upload an image",
     "upload_image": "Drag image here or"
+  },
+  "map": {
+    "your_selection": "Your selection",
+    "other": "Other option"
   },
   "next_step": {
     "next_step": "Next Step"
@@ -126,5 +136,8 @@
     "sort_by": "Sort by",
     "updated_at": "Date updated",
     "votes": "Number of votes"
+  },
+  "widget_loader": {
+    "refresh": "Refresh"
   }
 }
