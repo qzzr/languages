@@ -23,6 +23,14 @@
     "create_first": "Create your first poll. It's fast and easy.",
     "drafts": "Drafts",
     "empty_published": "You have no published content.",
+    "empty_drafts_search_results": "No matches for \"%{search}\".",
+    "empty_published_search_results": "No matches for \"%{search}\".",
+    "empty_search_suggestions": {
+      "title": "Suggestions",
+      "spelling": "Make sure all words are spelled correctly.",
+      "words": "Try different words.",
+      "search": "Search all content."
+    },
     "leads_description": "Learn about some of the premium features that are available for Pro and Enterprise accounts.",
     "no_results": "Your search returned no results",
     "published": "Published",
