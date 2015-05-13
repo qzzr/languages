@@ -128,14 +128,16 @@
     "update": "Update"
   },
   "publish_dropdown": {
+    "delete": "Delete",
     "delete_confirm": "Are you sure you want to delete this?",
+    "unpublish": "Unpublish"
     "unpublish_confirm": "Are you sure you want to unpublish this?"
   },
   "sort_dropdown": {
     "created_at": "Date created",
     "sort_by": "Sort by",
     "updated_at": "Date updated",
-    "votes": "Number of votes"
+    "engagements": "Engagements"
   },
   "widget_loader": {
     "refresh": "Refresh"
