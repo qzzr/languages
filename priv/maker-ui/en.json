@@ -1,5 +1,6 @@
 {
   "account_dropdown": {
+    "edit_profile": "Edit profile",
     "edit_settings": "Edit settings",
     "log_out": "Log out",
     "privacy": "Privacy",
@@ -23,6 +24,12 @@
     "create_first": "Create your first poll. It's fast and easy.",
     "drafts": "Drafts",
     "empty_published": "You have no published content.",
+    "empty_drafts_search_results": "No matches for \"%{search}\".",
+    "empty_published_search_results": "No matches for \"%{search}\".",
+    "empty_search_suggestions_title": "Suggestions",
+    "empty_search_suggestions_spelling": "Make sure all words are spelled correctly.",
+    "empty_search_suggestions_words": "Try different words.",
+    "empty_search_suggestions_search": "Search all content.",
     "leads_description": "Learn about some of the premium features that are available for Pro and Enterprise accounts.",
     "no_results": "Your search returned no results",
     "published": "Published",
