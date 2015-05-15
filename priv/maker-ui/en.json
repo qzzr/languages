@@ -24,6 +24,7 @@
     "create_first": "Create your first poll. It's fast and easy.",
     "drafts": "Drafts",
     "empty_published": "You have no published content.",
+    "empty_drafts": "You have no draft content.",
     "empty_drafts_search_results": "No matches for \"%{search}\".",
     "empty_published_search_results": "No matches for \"%{search}\".",
     "empty_search_suggestions_title": "Suggestions",
