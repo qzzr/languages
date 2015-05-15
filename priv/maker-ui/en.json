@@ -24,6 +24,7 @@
     "create_first": "Create your first poll. It's fast and easy.",
     "drafts": "Drafts",
     "empty_published": "You have no published content.",
+    "empty_drafts": "You have no draft content.",
     "empty_drafts_search_results": "No matches for \"%{search}\".",
     "empty_published_search_results": "No matches for \"%{search}\".",
     "empty_search_suggestions_title": "Suggestions",
@@ -118,6 +119,7 @@
     "breakdown_by_age": "BY AGE",
     "breakdown_by_gender": "BY GENDER",
     "check_later": "Check back later...",
+    "embed_preview": "Embed preview",
     "published": "Poll published",
     "published_subtext": "Now share it with the world.",
     "sharing_embed": "Embed this poll",
@@ -144,7 +146,8 @@
     "created_at": "Date created",
     "sort_by": "Sort by",
     "updated_at": "Date updated",
-    "engagements": "Engagements"
+    "engagements": "Engagements",
+    "votes": "Number of votes"
   },
   "widget_loader": {
     "refresh": "Refresh"
