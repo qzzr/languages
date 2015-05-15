@@ -144,7 +144,8 @@
     "created_at": "Date created",
     "sort_by": "Sort by",
     "updated_at": "Date updated",
-    "engagements": "Engagements"
+    "engagements": "Engagements",
+    "votes": "Number of votes"
   },
   "widget_loader": {
     "refresh": "Refresh"
