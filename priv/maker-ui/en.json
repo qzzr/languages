@@ -7,9 +7,9 @@
     "terms": "Terms"
   },
   "breakdown": {
-    "breakdown_by_age": "BY AGE",
-    "breakdown_by_gender": "BY GENDER",
-    "breakdown_by_region": "BY REGION",
+    "by_age": "BY AGE",
+    "by_gender": "BY GENDER",
+    "by_region": "BY REGION",
     "by_country": "country",
     "by_nearby": "nearby",
     "by_world": "world"
@@ -150,6 +150,7 @@
     "votes": "Number of votes"
   },
   "widget_loader": {
-    "refresh": "Refresh"
+    "refresh": "Refresh",
+    "embed_preview": "Embed preview"
   }
 }
