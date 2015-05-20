@@ -152,5 +152,19 @@
   "widget_loader": {
     "refresh": "Refresh",
     "embed_preview": "Embed preview"
+  },
+  "sharing": {
+    "title": "Vote now: %{title}",
+    "description": ""
+  },
+  "sharing": {
+    "title": "Vote now: %{title}",
+    "description": "%{option1} or %{option2}",
+    "caption": "WWW.POLLCASTER.COM",
+    "twitter-title" : "Vote now: %{title} %{option1} or %{option2}",
+    "hashtags": "poll",
+    "share-poll": "Share this poll",
+    "link-poll": "Link to this poll",
+    "embed-poll": "Embed this poll",
   }
 }
