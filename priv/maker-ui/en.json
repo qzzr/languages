@@ -57,9 +57,9 @@
     "webinar_label": "Watch webinar",
     "webinar_title": "Make your polls remarkable",
     "zero_state_header": {
-      "enterprise": "Welcome to Qzzr",
-      "pollcaster": "Welcome to Pollcaster",
-      "qzzr": "Welcome to Qzzr"
+      "enterprise": "Welcome to Qzzr.",
+      "pollcaster": "Welcome to Pollcaster.",
+      "qzzr": "Welcome to Qzzr."
     },
     "zero_state_sub_header": {
       "enterprise": "Create a quiz or a poll. It's fast and easy.",
