@@ -132,6 +132,10 @@
     "untitled": "Untitled",
     "updated": "Poll updated"
   },
+  "poll_type_selector": {
+    "multi": "Multiple",
+    "this_that": "This or That"
+  },
   "publish_button": {
     "publish": "Publish",
     "update": "Update"
