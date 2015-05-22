@@ -115,11 +115,11 @@
     "next_step": "Next Step"
   },
   "organization": {
-    "admin_label": "Admin",
     "admin_description": "Admins can add, and remove users from the organization, and create and edit content.",
+    "admin_label": "Admin",
     "cancel": "Cancel",
-    "collaborator_label": "Collaborator",
     "collaborator_description": "Collaborators can create and edit content.",
+    "collaborator_label": "Collaborator",
     "create": "Create your organization",
     "edit": "Edit your organization",
     "invite_collaborators": "Invite collaborators",
@@ -128,8 +128,8 @@
     "name_placeholder": "Organization name",
     "organization_help": "Organizations help you work with others on the same quizzes and polls.",
     "organization_info": "Organization owners have access to billing information. Owners and admins can add, and remove people from the organization. Owners, admins, and collaborators can create and edit content.",
-    "owner_label": "Owner",
     "owner_description": "Owners can access to billing information, add, and remove users from the organization, and create and edit content.",
+    "owner_label": "Owner",
     "press_enter": "Press enter to send",
     "remove": "Remove",
     "save": "Save",
