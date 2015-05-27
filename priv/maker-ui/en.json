@@ -6,6 +6,9 @@
     "privacy": "Privacy",
     "terms": "Terms"
   },
+  "add_option": {
+    "add": "Add Option"
+  },
   "breakdown": {
     "by_age": "BY AGE",
     "by_gender": "BY GENDER",
