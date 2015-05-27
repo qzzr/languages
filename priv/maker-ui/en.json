@@ -118,6 +118,9 @@
   "next_step": {
     "next_step": "Next Step"
   },
+  "option_actions": {
+    "delete": "Delete"
+  },
   "organization": {
     "admin_description": "Admins can add, and remove users from the organization, and create and edit content.",
     "admin_label": "Admin",
