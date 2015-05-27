@@ -24,6 +24,7 @@
   },
   "dashboard": {
     "all_content": "All content",
+    "clear_search": "Clear Search",
     "create_first": "Create your first poll. It's fast and easy.",
     "drafts": "Drafts",
     "empty_published": "You have no published content.",
