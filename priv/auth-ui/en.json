@@ -28,6 +28,11 @@
     "deny": "Deny",
     "logging-in-with": "You are logging into %{client} with your %{sister} account"
   },
+  "credit_card": {
+    "card_number": "Card Number",
+    "exp_date": "Exp. Date",
+    "cvv": "CVV"
+  },
   "image_crop": {
     "cancel": "Cancel",
     "save": "Save"
