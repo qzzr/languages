@@ -52,7 +52,7 @@
   },
   "signup": {
     "callout": "First sign up for a free %{product} account.",
-    "callout_paid": "First sign up for a %{product} account."
+    "callout_paid": "First sign up for a %{product} account.",
     "email": "Email address",
     "email_placeholder": "Don't worry, we won't spam you",
     "error": "That email has already been taken",
