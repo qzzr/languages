@@ -62,11 +62,13 @@
     "webinar_label": "Watch webinar",
     "webinar_title": "Make your polls remarkable",
     "zero_state_header": {
+      "boombox": "Welcome to Boombox.",
       "enterprise": "Welcome to Qzzr.",
       "pollcaster": "Welcome to Pollcaster.",
       "qzzr": "Welcome to Qzzr."
     },
     "zero_state_sub_header": {
+      "boombox": "Create a quiz or a poll. It's fast and easy.",
       "enterprise": "Create a quiz or a poll. It's fast and easy.",
       "pollcaster": "Create your first poll. It's fast and easy.",
       "qzzr": "Create your first quiz. It's fast and easy."
