@@ -74,6 +74,12 @@
     "submit": "RESET PASSWORD",
     "title": "Enter your email, and we’ll send you an email on how to reset your password."
   },
+  "set_password": {
+    "title": "Change your password",
+    "new_password": "New password",
+    "match_password": "Confirm new password",
+    "submit": "Change my password"
+  },
   "signup": {
     "callout": "First sign up for a free %{product} account.",
     "callout_paid": "First sign up for a %{product} account.",
