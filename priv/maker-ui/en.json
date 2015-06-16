@@ -17,6 +17,10 @@
     "by_nearby": "nearby",
     "by_world": "world"
   },
+  "create_button": {
+    "outcome_quiz": "OUTCOME QUIZ",
+    "graded_quiz": "GRADED QUIZ"
+  },
   "create_dropdown": {
     "toolbar_create": "Create",
     "toolbar_create_poll": "Poll",
