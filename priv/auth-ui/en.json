@@ -6,23 +6,6 @@
     "privacy": "Privacy",
     "terms": "Terms"
   },
-  "account": {
-    "cancel": "Cancel",
-    "changes_saved": "Changes saved",
-    "confirm_label": "Confirm changes",
-    "confirm_placeholder": "Enter current password",
-    "delete_account_label": "Cancel account",
-    "delete_account_message": "We're so sorry to see you go! Let us know why you're leaving and help make us better!",
-    "delete_account_subject": "Hey guys I'm canceling because...",
-    "email_label": "Email address",
-    "error_message_email": "Enter a different email address",
-    "heading": "Account settings",
-    "name_label": "Full name",
-    "password_label": "Change password",
-    "password_placeholder": "4 characters minimum",
-    "save":"Save changes",
-    "upload_avatar": "UPLOAD AVATAR"
-  },
   "authorize": {
     "approve": "Approve",
     "deny": "Deny",
@@ -66,6 +49,26 @@
     "send": "Send",
     "send": "SENT INVITE",
     "upload_avatar": "UPLOAD AVATAR"
+  },
+  "profile": {
+    "cancel": "Cancel",
+    "changes_saved": "Changes saved",
+    "confirm_label": "Confirm changes",
+    "confirm_placeholder": "Enter current password",
+    "current_plan_heading": "Your current plan",
+    "delete_account_label": "Cancel account",
+    "delete_account_message": "We're so sorry to see you go! Let us know why you're leaving and help make us better!",
+    "delete_account_subject": "Hey guys I'm canceling because...",
+    "edit_billing_info": "Edit billing info",
+    "email_label": "Email address",
+    "error_message_email": "Enter a different email address",
+    "heading": "Account settings",
+    "name_label": "Full name",
+    "password_label": "Change password",
+    "password_placeholder": "4 characters minimum",
+    "save": "Save changes",
+    "upload_avatar": "UPLOAD AVATAR"
+    "view_billing_history": "View billing history"
   },
   "reset_password": {
     "email": "Enter your email",
