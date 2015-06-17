@@ -77,6 +77,7 @@
   "set_password": {
     "title": "Change your password",
     "new_password": "New password",
+    "match_error": "Passwords must match",
     "match_password": "Confirm new password",
     "submit": "Change my password"
   },
