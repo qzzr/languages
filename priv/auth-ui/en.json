@@ -102,5 +102,16 @@
   },
   "billing": {
     "update_info": "Update Billing info"
+  },
+  "receipt": {
+    "receipt": "Receipt",
+    "subheading": "We received payment for your %{product} subscription. Thanks for your business! Questions? Contact us anytime at ",
+    "date": "Date",
+    "account-billed": "Account billed",
+    "plan": "Plan",
+    "amount": "Amount",
+    "charged_to": "Charged to",
+    "transaction_id": "Transaction id",
+    "thank_you": "Thank you"
   }
 }
