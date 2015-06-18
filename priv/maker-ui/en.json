@@ -60,6 +60,13 @@
       "pollcaster": "In this two-minute video you’ll learn some tips on creating a poll and embedding it on your site.",
       "qzzr": "Take a tour of Qzzr in this six-minute video to discover everything you can do with your new account."
     },
+    "boombox_redirect": {
+      "go": "Take me to boombox",
+      "info": "Boombox is a creative toolbox for serious publishers brought to you by the same team who brought you Qzzr.  It contains a bevy of world-class engagement tools (including Qzzr).  Great for teams, Boombox allows you share, re-purpose, and collaborate on the same pool of creations.",
+      "subtitle": "Qzzr Enterprise is now Boombox.",
+      "summary": "Because you believed in us through Qzzr, we're upgrading you (at no extra charge) as an expression of our gratitude.",
+      "title": "You've been upgraded!",
+    },
     "tour_label": "Watch video",
     "tour_title": "Take a tour",
     "webinar_description": "Watch this webinar for the tips and strategies that will help you get the most out of your polls.",
