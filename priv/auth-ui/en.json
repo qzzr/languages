@@ -111,7 +111,7 @@
     "receipt": "Receipt",
     "subheading": "We received payment for your %{product} subscription. Thanks for your business! Questions? Contact us anytime at ",
     "date": "Date",
-    "account-billed": "Account billed",
+    "account_billed": "Account billed",
     "plan": "Plan",
     "amount": "Amount",
     "charged_to": "Charged to",
