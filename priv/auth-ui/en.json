@@ -105,7 +105,8 @@
     "no_history": "No billing history found"
   },
   "billing": {
-    "update_info": "Update Billing info"
+    "update_info": "Update billing info",
+    "submit": "Submit"
   },
   "receipt": {
     "receipt": "Receipt",
@@ -117,5 +118,10 @@
     "charged_to": "Charged to",
     "transaction_id": "Transaction id",
     "thank_you": "Thank you!"
+  },
+  "credit_card": {
+    "card_number": "Card number",
+    "exp_date": "Exp. date",
+    "cvv": "CVV"
   }
 }
