@@ -24,7 +24,7 @@
     "password_placeholder": "password",
     "signup_name": "SIGN UP",
     "sister": "Log into %{sister} with your %{product} account info.",
-    "submit": "LOG IN",
+    "submit": "Log in",
     "title": "Log in"
   },
   "organization": {
@@ -74,8 +74,9 @@
   "reset_password": {
     "email": "Enter your email",
     "email_placeholder": "example@%{domain}",
-    "login_name": "LOG IN",
-    "submit": "RESET PASSWORD",
+    "email_sent_message": "Check your inbox and follow the instructions in the email to reset your password.",
+    "login_name": "Log in",
+    "submit": "Reset password",
     "title": "Enter your email, and we’ll send you an email on how to reset your password."
   },
   "set_password": {
