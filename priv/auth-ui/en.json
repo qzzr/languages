@@ -108,7 +108,8 @@
   },
   "billing": {
     "update_info": "Update billing info",
-    "submit": "Submit"
+    "submit": "Submit",
+    "success_message": "Successfully updated credit card"
   },
   "receipt": {
     "receipt": "Receipt",
