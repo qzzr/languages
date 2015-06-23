@@ -29,6 +29,14 @@
     "graded_quiz": "GRADED QUIZ"
   },
   "create_dropdown": {
+    "graded_quiz_label": "Graded quiz",
+    "graded_quiz_sublabel": "e.g. Where is this place?",
+    "multi_poll_label": "Multi option poll",
+    "multi_poll_sublabel": "e.g. John, Paul, Ringo, or George?",
+    "outcome_quiz_label": "Outcome quiz",
+    "outcome_quiz_sublabel": "e.g. Which color are you?",
+    "this_that_poll_label": "This or that poll",
+    "this_that_poll_sublabel": "e.g. Superman, or Batman",
     "toolbar_create": "Create",
     "toolbar_create_poll": "Poll",
     "toolbar_create_quiz": "Quiz"
