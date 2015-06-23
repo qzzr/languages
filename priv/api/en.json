@@ -1,0 +1,6 @@
+{
+  "invitations": {
+    "same_org": "This person already belongs to your organization.",
+    "other_org": "This user already belongs to an organization. Users can only belong to one organization."
+  }
+}
