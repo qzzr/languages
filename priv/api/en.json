@@ -5,8 +5,11 @@
     "has_invite": "This user has already been invited to your organization."
   },
   "org_roles": {
+    "admin_description": "Admins can add, and remove users from the organization, and create and edit content.",
     "admin_label": "Admin",
+    "contributor_description": "Collaborators can create and edit content.",
     "contributor_label": "Collaborator",
+    "owner_description": "Owners can access to billing information, add, and remove users from the organization, and create and edit content.",
     "owner_label": "Owner"
   }
 }
