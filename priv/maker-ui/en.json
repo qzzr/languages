@@ -9,6 +9,13 @@
   "add_option": {
     "add": "Add Option"
   },
+  "boombox_redirect": {
+    "go": "Take me to boombox",
+    "info": "Boombox is a creative toolbox for serious publishers brought to you by the same team who brought you Qzzr.  It contains a bevy of world-class engagement tools (including Qzzr).  Great for teams, Boombox allows you share, re-purpose, and collaborate on the same pool of creations.",
+    "subtitle": "Qzzr Enterprise is now Boombox.",
+    "summary": "Because you believed in us through Qzzr, we're upgrading you (at no extra charge) as an expression of our gratitude.",
+    "title": "You've been upgraded!"
+  },
   "breakdown": {
     "by_age": "BY AGE",
     "by_gender": "BY GENDER",
@@ -22,6 +29,14 @@
     "graded_quiz": "GRADED QUIZ"
   },
   "create_dropdown": {
+    "graded_quiz_label": "Graded quiz",
+    "graded_quiz_sublabel": "e.g. Where is this place?",
+    "multi_poll_label": "Multi option poll",
+    "multi_poll_sublabel": "e.g. John, Paul, Ringo, or George?",
+    "outcome_quiz_label": "Outcome quiz",
+    "outcome_quiz_sublabel": "e.g. Which color are you?",
+    "this_that_poll_label": "This or that poll",
+    "this_that_poll_sublabel": "e.g. Superman, or Batman",
     "toolbar_create": "Create",
     "toolbar_create_poll": "Poll",
     "toolbar_create_quiz": "Quiz"
@@ -44,6 +59,8 @@
     "published": "Published",
     "qzzr_ad_text": "Want to create a quiz instead? Try Qzzr.",
     "qzzr_ad_create": "Create a Quiz",
+    "boombox_ad_text": "Create, share, re-purpose, and collaborate on quizzes and polls all in one place.",
+    "boombox_ad_create": "Learn more",
     "search": "SEARCH",
     "side_links_poll": "Poll",
     "side_links_quiz": "Quiz",
