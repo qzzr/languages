@@ -9,7 +9,7 @@
     "admin_label": "Admin",
     "contributor_description": "Collaborators can create and edit content.",
     "contributor_label": "Collaborator",
-    "owner_description": "Owners can access to billing information, add, and remove users from the organization, and create and edit content.",
+    "owner_description": "Owners can access billing information, add and remove users from the organization, and create and edit content.",
     "owner_label": "Owner"
   }
 }
