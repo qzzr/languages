@@ -3,5 +3,10 @@
     "same_org": "This person already belongs to your organization.",
     "other_org": "This user already belongs to an organization. Users can only belong to one organization.",
     "has_invite": "This user has already been invited to your organization."
+  },
+  "org_roles": {
+    "admin_label": "Admin",
+    "contributor_label": "Collaborator",
+    "owner_label": "Owner"
   }
 }
