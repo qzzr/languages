@@ -35,6 +35,7 @@
     "collaborator_label": "Collaborator",
     "create": "Create your organization",
     "edit": "Edit your organization",
+    "invalid_email": "Invalid email",
     "invite_collaborators": "Invite collaborators",
     "invite_label": "Invite people",
     "invite_placeholder": "name@email.com",
