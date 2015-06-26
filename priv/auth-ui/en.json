@@ -24,7 +24,6 @@
     "password_placeholder": "password",
     "signup_name": "SIGN UP",
     "sister": "Log into %{sister} with your %{product} account info.",
-    "sister_sign_in": "Sign in with %{name}",
     "submit": "Log in",
     "title": "Log in"
   },
@@ -104,6 +103,10 @@
     "submit": "SIGN UP & CONTINUE",
     "terms_of_service_1": "By signing up, you agree to ",
     "terms_of_service_2": "%{product}'s terms of service"
+  },
+  "sister_products": {
+    "heading": "Have another account?",
+    "sign_in": "Sign in with %{name}"
   },
   "history": {
     "billing_history": "Billing history",
