@@ -24,6 +24,7 @@
     "password_placeholder": "password",
     "signup_name": "SIGN UP",
     "sister": "Log into %{sister} with your %{product} account info.",
+    "sister_sign_in": "Sign in with %{name}",
     "submit": "Log in",
     "title": "Log in"
   },
