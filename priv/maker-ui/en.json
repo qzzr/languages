@@ -198,5 +198,13 @@
     "share-poll": "Share this poll",
     "link-poll": "Link to this poll",
     "embed-poll": "Embed this poll"
+  },
+  "quiz_title": {
+    "graded": "Graded",
+    "outcome": "Outcome",
+    "title_placeholder": "Quiz title",
+    "description_placeholder": "Description (optional)",
+    "define_outcomes": "Define outcomes (optional)",
+    "outcomes_example": "e.g. You're a genius (95-100)"
   }
 }
