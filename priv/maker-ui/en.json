@@ -206,5 +206,11 @@
     "description_placeholder": "Description (optional)",
     "define_outcomes": "Define outcomes (optional)",
     "outcomes_example": "e.g. You're a genius (95-100)"
+  },
+  "outcome": {
+    "title": "Outcome title",
+    "title_placeholder": "e.g. Indiana Jones",
+    "description": "Description (optional)",
+    "description_placeholder": "e.g. You enjoy being awesome..."
   }
 }
