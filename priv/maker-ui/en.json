@@ -181,6 +181,10 @@
     "unpublish": "Unpublish",
     "unpublish_confirm": "Are you sure you want to unpublish this?"
   },
+  "quizzes_questions_question": {
+    "description_placeholder": "Question description",
+    "title_placeholder": "Question title"
+  },
   "sort_dropdown": {
     "created_at": "Date created",
     "sort_by": "Sort by",
