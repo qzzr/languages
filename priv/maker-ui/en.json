@@ -28,6 +28,9 @@
     "outcome_quiz": "OUTCOME QUIZ",
     "graded_quiz": "GRADED QUIZ"
   },
+  "create_outcome": {
+    "create": "Add Outcome"
+  },
   "create_dropdown": {
     "graded_quiz_label": "Graded quiz",
     "graded_quiz_sublabel": "e.g. Where is this place?",
