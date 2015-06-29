@@ -23,7 +23,7 @@
     "password": "Password",
     "password_placeholder": "password",
     "signup_name": "SIGN UP",
-    "sister": "Log into %{sister} with your %{product} account info.",
+    "sister": "Log into %{product} with your %{sister} account info.",
     "submit": "Log in",
     "title": "Log in"
   },
