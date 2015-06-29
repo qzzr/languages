@@ -28,6 +28,9 @@
     "outcome_quiz": "OUTCOME QUIZ",
     "graded_quiz": "GRADED QUIZ"
   },
+  "create_outcome": {
+    "create": "Add Outcome"
+  },
   "create_dropdown": {
     "graded_quiz_label": "Graded quiz",
     "graded_quiz_sublabel": "e.g. Where is this place?",
@@ -178,6 +181,10 @@
     "unpublish": "Unpublish",
     "unpublish_confirm": "Are you sure you want to unpublish this?"
   },
+  "quizzes_questions_question": {
+    "description_placeholder": "Question description",
+    "title_placeholder": "Question title"
+  },
   "sort_dropdown": {
     "created_at": "Date created",
     "sort_by": "Sort by",
@@ -206,5 +213,11 @@
     "description_placeholder": "Description (optional)",
     "define_outcomes": "Define outcomes (optional)",
     "outcomes_example": "e.g. You're a genius (95-100)"
+  },
+  "outcome": {
+    "title": "Outcome title",
+    "title_placeholder": "e.g. Indiana Jones",
+    "description": "Description (optional)",
+    "description_placeholder": "e.g. You enjoy being awesome..."
   }
 }
