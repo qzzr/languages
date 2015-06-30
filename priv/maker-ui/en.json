@@ -214,7 +214,12 @@
     "define_outcomes": "Define outcomes (optional)",
     "outcomes_example": "e.g. You're a genius (95-100)"
   },
-  "outcome": {
+  "quizzes_question": {
+    "select_many_label": "Select many",
+    "select_one_label": "Select one",
+    "true_false_label": "True / false"
+  },
+  "quizzes_outcome": {
     "title": "Outcome title",
     "title_placeholder": "e.g. Indiana Jones",
     "description": "Description (optional)",
