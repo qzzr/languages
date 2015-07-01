@@ -101,10 +101,11 @@
     "password": "Password",
     "password_placeholder": "4 character minimum",
     "submit": "SIGN UP & CONTINUE",
+    "submit_upgrade": "UPGRADE",
     "terms_of_service_1": "By signing up, you agree to ",
     "terms_of_service_2": "%{product}'s terms of service",
     "upgrade_plan": "Change plan to %{plan}",
-    "secure_server": "You're using our secure server."
+    "secure_server": "You're using our secure server.",
   },
   "sister_products": {
     "heading": "Have another account?",
