@@ -18,12 +18,13 @@
   "login": {
     "email": "Email",
     "email_placeholder": "example@%{domain}",
+    "forgot_password": "Forgot your password?",
     "login_error": "Incorrect info. Try entering it again.",
     "password": "Password",
     "password_placeholder": "password",
     "signup_name": "SIGN UP",
-    "sister": "Log into %{sister} with your %{product} account info.",
-    "submit": "LOG IN",
+    "sister": "Log into %{product} with your %{sister} account info.",
+    "submit": "Log in",
     "title": "Log in"
   },
   "organization": {
@@ -34,6 +35,7 @@
     "collaborator_label": "Collaborator",
     "create": "Create your organization",
     "edit": "Edit your organization",
+    "invalid_email": "Invalid email",
     "invite_collaborators": "Invite collaborators",
     "invite_label": "Invite people",
     "invite_placeholder": "name@email.com",
@@ -73,8 +75,9 @@
   "reset_password": {
     "email": "Enter your email",
     "email_placeholder": "example@%{domain}",
-    "login_name": "LOG IN",
-    "submit": "RESET PASSWORD",
+    "email_sent_message": "Check your inbox and follow the instructions in the email to reset your password.",
+    "login_name": "Log in",
+    "submit": "Reset password",
     "title": "Enter your email, and we’ll send you an email on how to reset your password."
   },
   "set_password": {
@@ -86,13 +89,14 @@
   },
   "signup": {
     "billing_info": "Your billing info",
-    "callout": "First sign up for a free %{product} account.",
-    "callout_paid": "First sign up for a %{product} account.",
-    "email": "Email address",
-    "email_placeholder": "Don't worry, we won't spam you",
+    "callout": "Sign up for a free %{product} account.",
+    "callout_paid": "Sign up for %{product}",
+    "sign_up_for": "Sign up for %{prodcut}",
+    "email": "Email",
+    "email_placeholder": "joe@example.com",
     "error": "That email has already been taken",
     "fullname": "Full name",
-    "fullname_placeholder": "Let's put a name to that lovely face",
+    "fullname_placeholder": "Joe Smith",
     "login_name": "LOG IN",
     "password": "Password",
     "password_placeholder": "4 character minimum",
@@ -102,12 +106,18 @@
     "upgrade_plan": "Change plan to %{plan}",
     "secure_server": "You're using our secure server."
   },
+  "sister_products": {
+    "heading": "Have another account?",
+    "sign_in": "Sign in with %{name}"
+  },
   "history": {
     "billing_history": "Billing history",
     "no_history": "No billing history found"
   },
   "billing": {
-    "update_info": "Update Billing info"
+    "update_info": "Update billing info",
+    "submit": "Submit",
+    "success_message": "Successfully updated credit card"
   },
   "receipt": {
     "receipt": "Receipt",
@@ -119,5 +129,10 @@
     "charged_to": "Charged to",
     "transaction_id": "Transaction id",
     "thank_you": "Thank you!"
+  },
+  "credit_card": {
+    "card_number": "Card number",
+    "exp_date": "Exp. date",
+    "cvv": "CVV"
   }
 }
