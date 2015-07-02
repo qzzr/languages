@@ -1,6 +1,6 @@
 {
   "account_dropdown": {
-    "edit_profile": "Edit profile",
+    "edit_profile": "Edit settings",
     "edit_settings": "Edit settings",
     "log_out": "Log out",
     "privacy": "Privacy",
@@ -64,6 +64,7 @@
     "edit_billing_info": "Edit billing info",
     "email_label": "Email address",
     "error_message_email": "Enter a different email address",
+    "free_plan": "Free",
     "heading": "Account settings",
     "name_label": "Full name",
     "password_label": "Change password",
@@ -91,22 +92,23 @@
     "billing_info": "Your billing info",
     "callout": "Sign up for a free %{product} account.",
     "callout_paid": "Sign up for %{product}",
-    "sign_up_for": "Sign up for %{prodcut}",
     "email": "Email",
     "email_placeholder": "joe@example.com",
     "error": "Something went wrong while processing this request, try again later.",
     "fullname": "Full name",
     "fullname_placeholder": "Joe Smith",
+    "is_current_plan": "You are already signed up for this plan",
     "login_name": "LOG IN",
     "password": "Password",
     "password_placeholder": "4 character minimum",
+    "secure_server": "You're using our secure server.",
+    "secure_server": "You're using our secure server.",
+    "sign_up_for": "Sign up for %{prodcut}",
     "submit": "SIGN UP & CONTINUE",
     "submit_upgrade": "UPGRADE",
     "terms_of_service_1": "By signing up, you agree to ",
     "terms_of_service_2": "%{product}'s terms of service",
-    "upgrade_plan": "Change plan to %{plan}",
-    "secure_server": "You're using our secure server.",
-    "is_current_plan": "You are already signed up for this plan"
+    "upgrade_plan": "Change plan to %{plan}"
   },
   "sister_products": {
     "heading": "Have another account?",
