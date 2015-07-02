@@ -94,7 +94,7 @@
     "sign_up_for": "Sign up for %{prodcut}",
     "email": "Email",
     "email_placeholder": "joe@example.com",
-    "error": "That email has already been taken",
+    "error": "Something went wrong while processing this request, try again later.",
     "fullname": "Full name",
     "fullname_placeholder": "Joe Smith",
     "login_name": "LOG IN",
@@ -106,6 +106,7 @@
     "terms_of_service_2": "%{product}'s terms of service",
     "upgrade_plan": "Change plan to %{plan}",
     "secure_server": "You're using our secure server.",
+    "is_current_plan": "You are already signed up for this plan"
   },
   "sister_products": {
     "heading": "Have another account?",
