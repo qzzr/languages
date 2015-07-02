@@ -2,7 +2,6 @@
   "account_dropdown": {
     "edit_profile": "Edit settings",
     "edit_settings": "Edit settings",
-    "free_plan": "Free",
     "log_out": "Log out",
     "privacy": "Privacy",
     "terms": "Terms"
@@ -65,6 +64,7 @@
     "edit_billing_info": "Edit billing info",
     "email_label": "Email address",
     "error_message_email": "Enter a different email address",
+    "free_plan": "Free",
     "heading": "Account settings",
     "name_label": "Full name",
     "password_label": "Change password",
