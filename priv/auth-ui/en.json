@@ -15,6 +15,22 @@
     "cancel": "Cancel",
     "save": "Save"
   },
+  "invitation": {
+    "email_label": "Email address",
+    "invited_you": "%{inviter} has invited you to the %{orgName} organization.",
+    "full_name_label": "Full name",
+    "full_name_placeholder": "Let's put a name to that face",
+    "join_now": "Join now by signing in with your Qzzr account.",
+    "login_name": "LOG IN",
+    "password_label": "Password",
+    "password_placeholder": "4 characters minimum",
+    "signup_name": "SIGN UP",
+    "signup_free": "First sign up for a free Qzzr account.",
+    "submit_signin": "SIGN IN",
+    "submit_signup": "SIGN UP & CONTINUE",
+    "terms_of_service_1": "By signing up, you agree to ",
+    "terms_of_service_2": "%{product}'s terms of service"
+  },
   "login": {
     "email": "Email",
     "email_placeholder": "example@%{domain}",
