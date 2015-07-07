@@ -15,7 +15,7 @@
     "cancel": "Cancel",
     "save": "Save"
   },
-  "invitation": {
+  "invitations": {
     "email_label": "Email address",
     "invited_you": "%{inviter} has invited you to the %{orgName} organization.",
     "full_name_label": "Full name",
