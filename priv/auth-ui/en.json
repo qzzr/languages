@@ -25,7 +25,8 @@
     "signup_name": "SIGN UP",
     "sister": "Log into %{product} with your %{sister} account info.",
     "submit": "Log in",
-    "title": "Log in"
+    "title": "Log in",
+    "facebook_login":"Looking for Facebook login?"
   },
   "organization": {
     "admin_description": "Admins can add, and remove users from the organization, and create and edit content.",
