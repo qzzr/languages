@@ -137,7 +137,8 @@
     "side_nav_offers": "Offers (coming soon)",
     "side_nav_settings": "Settings",
     "tap_upload_image": "Tap here to upload an image",
-    "upload_image": "Drag image here or"
+    "upload_image": "Drag image here or",
+    "visible_by": "Visible by %{name}"
   },
   "map": {
     "your_selection": "Your selection",
