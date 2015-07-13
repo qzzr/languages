@@ -236,5 +236,16 @@
     "billion" : "B",
     "million" : "M",
     "thousand" : "K"
+  },
+  "stats": {
+    "times_taken": "Times taken",
+    "completion_rate": "Completion rate",
+    "avg_time_spent": "Avg. time spent",
+    "avg_score": "Avg. score",
+    "lead_impressions": "Lead impressions",
+    "lead_conversions": "Lead conversions",
+    "offer_impressions": "Offer impressions",
+    "offer_conversions": "Offer conversions",
+    "conversion_rate": "Conversion rate"
   }
 }
