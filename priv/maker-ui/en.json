@@ -224,5 +224,15 @@
     "title_placeholder": "e.g. Indiana Jones",
     "description": "Description (optional)",
     "description_placeholder": "e.g. You enjoy being awesome..."
+  },
+  "date_range_picker": {
+    "to": "To",
+    "from": "From"
+  },
+  "human_readable_numbers": {
+    "trillion" : "T",
+    "billion" : "B",
+    "million" : "M",
+    "thousand" : "K"
   }
 }
