@@ -120,6 +120,7 @@
     "appearance_accent_color": "Accent color",
     "appearance_display_settings": "Display settings",
     "appearance_preview": "Embed preview",
+    "appearance_randomize_options": "Randomize options",
     "appearance_show_option_labels": "Show options labels",
     "appearance_show_title": "Show poll title",
     "appearance_share_image": "Share image",
@@ -137,7 +138,8 @@
     "side_nav_offers": "Offers (coming soon)",
     "side_nav_settings": "Settings",
     "tap_upload_image": "Tap here to upload an image",
-    "upload_image": "Drag image here or"
+    "upload_image": "Drag image here or",
+    "visible_by": "Visible by %{name}"
   },
   "map": {
     "your_selection": "Your selection",
