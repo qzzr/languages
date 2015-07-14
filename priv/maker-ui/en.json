@@ -102,7 +102,11 @@
     "edit": "Edit"
   },
   "embed_text": {
-    "having_trouble": "Having trouble?"
+    "default": "Default",
+    "having_trouble": "Having trouble?",
+    "try_alternate": "Try this code instead",
+    "try_preferred": "Go back to recommended code",
+    "wordpress": "Wordpress"
   },
   "image_crop": {
     "cancel": "Cancel",
