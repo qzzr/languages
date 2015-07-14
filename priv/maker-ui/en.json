@@ -247,5 +247,11 @@
     "offer_impressions": "Offer impressions",
     "offer_conversions": "Offer conversions",
     "conversion_rate": "Conversion rate"
+  },
+  "engagement_funnel": {
+    "views": "Views",
+    "starts": "Starts",
+    "completions": "Completions",
+    "shares": "Shares"
   }
 }
