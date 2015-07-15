@@ -262,7 +262,7 @@
     "completions": "Completions",
     "shares": "Shares"
   },
-  "activity_over_time": {
-    "no_data": "No data yet!"
+  "no_data": {
+    "no_data": "No data found"
   }
 }
