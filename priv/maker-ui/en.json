@@ -242,6 +242,10 @@
     "thousand" : "K"
   },
   "stats": {
+    "no_title": "No title found",
+    "engagement_funnel": "Engagement funnel",
+    "outcomes": "Outcomes",
+    "activity_over_time": "Activity over time",
     "times_taken": "Times taken",
     "completion_rate": "Completion rate",
     "avg_time_spent": "Avg. time spent",
@@ -257,5 +261,8 @@
     "starts": "Starts",
     "completions": "Completions",
     "shares": "Shares"
+  },
+  "activity_over_time": {
+    "no_data": "No data yet!"
   }
 }
