@@ -71,6 +71,8 @@
     "search": "SEARCH",
     "side_links_poll": "Poll",
     "side_links_quiz": "Quiz",
+    "side_link_create_organization": "Create an organization",
+    "side_link_organizations_allow": "Organizations allow you to collaborate with multiple people on the same content.",
     "tips_description": "Get tips and strategies to help you make quizzes like the experts at BuzzFeed.",
     "tips_for_creating_poll": "Tips for creating polls",
     "tips_for_creating_quiz": "Tips for creating quizzes",
