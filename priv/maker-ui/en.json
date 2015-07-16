@@ -248,19 +248,23 @@
     "thousand" : "K"
   },
   "stats": {
-    "no_title": "No title found",
-    "engagement_funnel": "Engagement funnel",
-    "outcomes": "Outcomes",
     "activity_over_time": "Activity over time",
-    "times_taken": "Times taken",
-    "completion_rate": "Completion rate",
-    "avg_time_spent": "Avg. time spent",
     "avg_score": "Avg. score",
-    "lead_impressions": "Lead impressions",
+    "avg_time_spent": "Avg. time spent",
+    "completion_rate": "Completion rate",
+    "conversion_rate": "Conversion rate",
+    "engagement_funnel": "Engagement funnel",
+    "export_leads_label": "Export leads",
+    "export_responses_label": "Export responses",
+    "export_success": "We'll email you a CSV file shortly",
+    "export_fail": "An error exporting your data occurred, please try again later",
     "lead_conversions": "Lead conversions",
-    "offer_impressions": "Offer impressions",
+    "lead_impressions": "Lead impressions",
+    "no_title": "No title found",
     "offer_conversions": "Offer conversions",
-    "conversion_rate": "Conversion rate"
+    "offer_impressions": "Offer impressions",
+    "outcomes": "Outcomes",
+    "times_taken": "Times taken"
   },
   "engagement_funnel": {
     "views": "Views",
