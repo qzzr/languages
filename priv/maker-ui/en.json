@@ -56,6 +56,7 @@
     "create_first": "Create your first poll. It's fast and easy.",
     "create_org_text_1": "Creating your organization will move all your billing information to your organization.",
     "create_org_text_2": "Owners on your organization will be able to view, and edit this information.",
+    "create_org_text_3": "You will be made the first owner of the organization.",
     "drafts": "Drafts",
     "empty_drafts": "You have no draft content.",
     "empty_drafts_search_results": "No matches for \"%{search}\".",
