@@ -49,13 +49,14 @@
   "dashboard": {
     "all_content": "All content",
     "boombox_ad_create": "Learn more",
-    "boombox_ad_text": "Create, share, re-purpose, and collaborate on quizzes and polls all in one place.",
+    "boombox_ad_text": "Create, share, re-purpose, and collaborate on all your content in one place.",
     "cancel": "Cancel",
     "clear_search": "Clear Search",
     "create": "Create",
     "create_first": "Create your first poll. It's fast and easy.",
     "create_org_text_1": "Creating your organization will move all your billing information to your organization.",
     "create_org_text_2": "Owners on your organization will be able to view, and edit this information.",
+    "create_org_text_3": "You will be made the first owner of the organization.",
     "drafts": "Drafts",
     "empty_drafts": "You have no draft content.",
     "empty_drafts_search_results": "No matches for \"%{search}\".",
@@ -288,5 +289,8 @@
     "last_thirty": "Last 30 days",
     "last_ninety": "Last 90 days",
     "all_time": "All time"
+  },
+  "question_breakdown": {
+    "no_questions": "No questions found, at questions to your quiz."
   }
 }
