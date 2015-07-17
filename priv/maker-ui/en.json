@@ -33,7 +33,7 @@
   },
   "create_dropdown": {
     "checkbox_quiz_label": "Checklist quiz",
-    "checkbox_quiz_sublabel": "How New Yorker are you?",
+    "checkbox_quiz_sublabel": "e.g. How New Yorker are you?",
     "graded_quiz_label": "Graded quiz",
     "graded_quiz_sublabel": "e.g. Where is this place?",
     "multi_poll_label": "Multi option poll",
