@@ -67,6 +67,7 @@
     "empty_search_suggestions_words": "Try different words.",
     "invalid_email": "Invalid email",
     "invite_collaborators": "Invite collaborators",
+    "invite_email_placeholder": "name@email.com",
     "invite_sent": "INVITE SENT",
     "leads_description": "Learn about some of the premium features that are available for Pro and Enterprise accounts.",
     "no_results": "Your search returned no results",
