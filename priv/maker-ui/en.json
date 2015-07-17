@@ -276,5 +276,8 @@
     "last_thirty": "Last 30 days",
     "last_ninety": "Last 90 days",
     "all_time": "All time"
+  },
+  "question_breakdown": {
+    "no_questions": "No questions found, at questions to your quiz."
   }
 }
