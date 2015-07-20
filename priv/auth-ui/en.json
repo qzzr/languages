@@ -48,10 +48,12 @@
   "organization": {
     "admin_description": "Admins can add, and remove users from the organization, and create and edit content.",
     "admin_label": "Admin",
+    "back": "Back",
     "cancel": "Cancel",
     "collaborator_description": "Collaborators can create and edit content.",
     "collaborator_label": "Collaborator",
     "create": "Create your organization",
+    "done": "Done",
     "edit": "Edit your organization",
     "invalid_email": "Invalid email",
     "invite_collaborators": "Invite collaborators",
@@ -65,7 +67,8 @@
     "press_enter": "Press enter to send",
     "remove": "Remove",
     "resend": "RESEND INVITE",
-    "save": "Save",
+    "saved": "Saved",
+    "saving": "Saving",
     "send": "Send",
     "send": "SENT INVITE",
     "upload_avatar": "UPLOAD AVATAR"
