@@ -88,7 +88,7 @@
     "free_plan": "Free",
     "heading": "Account settings",
     "name_label": "Full name",
-    "page_title": "Manage your %{brand} account",
+    "page_title": "%{brand}",
     "password_label": "Change password",
     "password_placeholder": "4 characters minimum",
     "save": "Save changes",
