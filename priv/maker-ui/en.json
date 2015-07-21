@@ -132,6 +132,7 @@
   "item": {
     "delete_confirm": "Are you sure you want to delete this item?",
     "delete_item": "Delete",
+    "duplicate": "Duplicate",
     "edit": "Edit",
     "stats": "Stats",
     "unpublished_changes": "Unpublished changes",
