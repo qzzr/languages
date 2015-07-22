@@ -56,7 +56,6 @@
     "trillion" : "T",
     "billion" : "B",
     "million" : "M",
-    "thousand" : "K",
-    "one" : ""
+    "thousand" : "K"
   }
 }
