@@ -253,7 +253,8 @@
     "trillion" : "T",
     "billion" : "B",
     "million" : "M",
-    "thousand" : "K"
+    "thousand" : "K",
+    "one" : ""
   },
   "stats": {
     "activity_over_time": "Activity over time",

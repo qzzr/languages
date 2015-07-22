@@ -51,5 +51,12 @@
     "share-poll"  : "Share this poll",
     "link-poll"   : "Link to this poll",
     "embed-poll"  : "Embed this poll"
+  },
+  "human_readable_numbers": {
+    "trillion" : "T",
+    "billion" : "B",
+    "million" : "M",
+    "thousand" : "K",
+    "one" : ""
   }
 }
