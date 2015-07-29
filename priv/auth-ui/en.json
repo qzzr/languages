@@ -20,7 +20,7 @@
     "invited_you": "%{inviter} has invited you to the %{orgName} organization.",
     "full_name_label": "Full name",
     "full_name_placeholder": "Let's put a name to that pretty face",
-    "join_now": "Upgrade now for free by signing in with your Qzzr or Pollcaster account.",
+    "join_now": "Join now by signing in with your Qzzr account.",
     "login_name": "LOG IN",
     "password_label": "Password",
     "password_placeholder": "4 characters minimum",
