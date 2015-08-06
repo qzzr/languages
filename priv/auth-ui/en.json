@@ -16,7 +16,7 @@
     "save": "Save"
   },
   "invitations": {
-    "ask_new_invite": "Ask the person who invited to the organization to send you another invite.",
+    "ask_new_invite": "Ask the person who invited you to the organization to send you another invite.",
     "email_label": "Email address",
     "expired_invitation": "This invitation has expired.",
     "invited_you": "%{inviter} has invited you to the %{orgName} organization.",
