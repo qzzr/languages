@@ -16,7 +16,9 @@
     "save": "Save"
   },
   "invitations": {
+    "ask_new_invite": "Ask the person who invited to the organization to send you another invite.",
     "email_label": "Email address",
+    "expired_invitation": "This invitation has expired.",
     "invited_you": "%{inviter} has invited you to the %{orgName} organization.",
     "full_name_label": "Full name",
     "full_name_placeholder": "Let's put a name to that pretty face",
