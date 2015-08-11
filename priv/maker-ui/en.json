@@ -269,10 +269,8 @@
     "export_success": "We'll email you a CSV file shortly",
     "export_fail": "An error exporting your data occurred, please try again later",
     "lead_conversions": "Lead conversions",
-    "lead_impressions": "Lead impressions",
     "no_title": "No title found",
     "offer_conversions": "Offer conversions",
-    "offer_impressions": "Offer impressions",
     "outcomes": "Outcomes",
     "times_taken": "Times taken"
   },
@@ -295,5 +293,14 @@
   },
   "question_breakdown": {
     "no_questions": "No questions found, add questions to your quiz."
+  },
+  "lists_cover": {
+    "title": "Title (optional)",
+    "description": "Title description (optional)"
+  },
+  "lists_images_item": {
+    "title": "Title (optional)",
+    "description": "Description (optional)",
+    "attribution": "Attribution (optional)"
   }
 }
