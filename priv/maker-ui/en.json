@@ -302,5 +302,10 @@
     "title": "Title (optional)",
     "description": "Description (optional)",
     "attribution": "Attribution (optional)"
+  },
+  "lists_configure_sidebar": {
+    "accent_color": "Accent color",
+    "font": "Font",
+    "invert_text_color": "Invert text color"
   }
 }
