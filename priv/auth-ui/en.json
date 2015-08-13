@@ -61,7 +61,7 @@
     "change_role": "Change Role",
     "changing_role_owner_to_admin": "Changing your role to an Admin will make it so you can’t see billing info.",
     "changing_role_owner_to_contributor": "Changing your role to a Collaborator will make it so you can’t see billing info, invite others, or change their roles.",
-    "changing_role_admin_to_contributor": "Changing your role to a Collaborator will make it so you invite others, or change their roles.",
+    "changing_role_admin_to_contributor": "Changing your role to a Collaborator will make it so you can't invite others, or change their roles.",
     "edit": "Edit your organization",
     "edit_email": "Edit email",
     "invalid_email": "Invalid email",
