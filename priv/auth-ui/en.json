@@ -2,6 +2,8 @@
   "account_dropdown": {
     "edit_profile": "Edit settings",
     "edit_settings": "Edit settings",
+    "log_into_qzzr": "Log into Qzzr",
+    "log_into_pollcaster": "Log into Pollcaster",
     "log_out": "Log out",
     "privacy": "Privacy",
     "terms": "Terms"
