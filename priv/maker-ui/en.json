@@ -196,6 +196,8 @@
     "updated": "Poll updated"
   },
   "type_selector": {
+    "image": "Image",
+    "text": "Text",
     "multi": "Multiple",
     "this_that": "This or That"
   },
