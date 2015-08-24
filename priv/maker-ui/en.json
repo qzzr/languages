@@ -200,7 +200,8 @@
     "image": "Image",
     "multi": "Multiple",
     "text": "Text",
-    "this_that": "This or That"
+    "this_that": "This or That",
+    "type_label": "Option type"
   },
   "publish_button": {
     "publish": "Publish",
