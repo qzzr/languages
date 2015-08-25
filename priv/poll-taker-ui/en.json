@@ -53,9 +53,9 @@
     "embed-poll"  : "Embed this poll"
   },
   "human_readable_numbers": {
-    "trillion" : "T",
-    "billion" : "B",
-    "million" : "M",
-    "thousand" : "K"
+    "billion"  : "%{value}B",
+    "million"  : "%{value}M",
+    "thousand" : "%{value}k",
+    "trillion" : "%{value}T"
   }
 }
