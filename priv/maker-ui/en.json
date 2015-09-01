@@ -96,6 +96,12 @@
     "tips_learn_offers": "Learn more about leads & offers",
     "tips_poll_tour": "Take a tour of our poll editor",
     "tips_quiz_tour": "Take a tour of our quiz editor",
+    "title": {
+      "boombox": "Boombox",
+      "enterprise": "Qzzr",
+      "pollcaster": "Pollcaster",
+      "qzzr": "Qzzr"
+    },
     "tour_description": {
       "boombox": "Take a tour of Boombox in this six-minute video to discover everything you can do with your new account.",
       "pollcaster": "In this two-minute video you’ll learn some tips on creating a poll and embedding it on your site.",
