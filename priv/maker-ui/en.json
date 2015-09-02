@@ -247,6 +247,10 @@
     "link-poll": "Link to this poll",
     "embed-poll": "Embed this poll"
   },
+  "select_text": {
+    "keyboard": "Press %{key} to copy",
+    "default": "Copy text"
+  },
   "quizzes_title": {
     "graded": "Graded",
     "outcome": "Outcome",

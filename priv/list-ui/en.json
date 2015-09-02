@@ -1,0 +1,6 @@
+{
+  "select_text": {
+    "keyboard": "Press %{key} to copy",
+    "default": "Copy text"
+  }
+}
