@@ -324,7 +324,20 @@
   },
   "lists_configure_sidebar": {
     "accent_color": "Accent color",
-    "font": "Font",
-    "invert_text_color": "Invert text color"
+    "cover_description_color": "Description color",
+    "cover_description_show": "Description show",
+    "cover_image_show": "Image show",
+    "cover_share_show": "Share show",
+    "cover_show": "Show",
+    "cover_text_background_color": "Text background color",
+    "cover_text_background_filter": "Text background filter",
+    "cover_text_show": "Text show",
+    "cover_title_color": "Title color",
+    "cover_title_show": "Title show",
+    "font_family": "Font family",
+    "is_votable": "Is votable",
+    "item_number_show": "Number show",
+    "order": "Order"
   }
 }
+
