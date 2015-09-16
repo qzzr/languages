@@ -177,5 +177,8 @@
     "card_number": "Card number",
     "exp_date": "Exp. date",
     "cvv": "CVV"
+  },
+  "browser_alert": {
+    "message": "Your browser is not supported. please use a %{supported_browser : supported browser}"
   }
 }

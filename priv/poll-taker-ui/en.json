@@ -61,5 +61,8 @@
     "million"  : "%{value}M",
     "thousand" : "%{value}k",
     "trillion" : "%{value}T"
+  },
+  "browser_alert": {
+    "message": "Your browser is not supported. please use a %{supported_browser : supported browser}"
   }
 }

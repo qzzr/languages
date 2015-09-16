@@ -338,6 +338,9 @@
     "is_votable": "Is votable",
     "item_number_show": "Number show",
     "order": "Order"
+  },
+  "browser_alert": {
+    "message": "Your browser is not supported. please use a %{supported_browser : supported browser}"
   }
 }
 
