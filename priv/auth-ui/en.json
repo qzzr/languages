@@ -179,6 +179,6 @@
     "cvv": "CVV"
   },
   "browser_alert": {
-    "message": "Your browser is not supported. please use a %{supported_browser : supported browser}"
+    "message": "Your browser is not supported. please use a %{browser : supported browser}"
   }
 }
