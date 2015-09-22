@@ -350,7 +350,9 @@
     "item_header_color": "Heading color",
     "item_number_shoW": "Number show",
     "item_text_invert": "Invert body text",
-    "order": "Order",
+    "order": "List style",
+    "order_ascending": "Ascending",
+    "order_descending": "Descending",
     "reader_list_show": "Display readers' list"
   },
   "browser_alert": {
