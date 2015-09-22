@@ -337,7 +337,7 @@
     "cover_description_show": "Description show",
     "cover_image_show": "Image show",
     "cover_share_show": "Share show",
-    "cover_show": "Show",
+    "cover_show": "Cover",
     "cover_text_background_blur": "Text background blur",
     "cover_text_background_color": "Text background color",
     "cover_text_color": "Text color",
@@ -353,7 +353,7 @@
     "order": "List style",
     "order_ascending": "Ascending",
     "order_descending": "Descending",
-    "reader_list_show": "Display readers' list"
+    "reader_list_show": "Display readers list"
   },
   "browser_alert": {
     "item_text_invert": "Invert body text",
