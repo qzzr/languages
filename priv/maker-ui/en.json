@@ -314,13 +314,22 @@
     "no_questions": "No questions found, add questions to your quiz."
   },
   "lists_cover": {
-    "title": "Title (optional)",
-    "description": "Title description (optional)"
+    "cover_media_optional": "COVER MEDIA (OPTIONAL)",
+    "description": "List description",
+    "title": "List title"
   },
-  "lists_items": {
-    "title": "Title (optional)",
-    "description": "Description (optional)",
-    "attribution": "Attribution (optional)"
+  "list_items": {
+    "description": "List item description",
+    "list_media_optional": "LIST MEDIA (OPTIONAL)",
+    "title": "List item title",
+    "untitled": "Untitled"
+  },
+  "list_media_uploader": {
+    "cancel": "CANCEL EMBED",
+    "embed_media": "EMBED MEDIA",
+    "media_attribution": "Media attribution (optional)",
+    "paste_embed": "Paste your embed code",
+    "press_enter": "PRESS ENTER TO ADD"
   },
   "lists_configure_sidebar": {
     "accent_color": "Accent color",
