@@ -348,8 +348,10 @@
     "font_family": "Font",
     "is_votable": "Allow voting",
     "item_header_color": "Heading color",
-    "item_number_show": "Number show",
-    "order": "Order"
+    "item_number_shoW": "Number show",
+    "item_text_invert": "Invert body text",
+    "order": "Order",
+    "reader_list_show": "Display readers' list"
   },
   "browser_alert": {
     "item_text_invert": "Invert body text",
