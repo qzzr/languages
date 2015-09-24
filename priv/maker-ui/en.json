@@ -313,24 +313,6 @@
   "question_breakdown": {
     "no_questions": "No questions found, add questions to your quiz."
   },
-  "lists_cover": {
-    "cover_media_optional": "COVER MEDIA (OPTIONAL)",
-    "description": "List description",
-    "title": "List title"
-  },
-  "list_items": {
-    "description": "List item description",
-    "list_media_optional": "LIST MEDIA (OPTIONAL)",
-    "title": "List item title",
-    "untitled": "Untitled"
-  },
-  "list_media_uploader": {
-    "cancel": "CANCEL EMBED",
-    "embed_media": "EMBED MEDIA",
-    "media_attribution": "Media attribution (optional)",
-    "paste_embed": "Paste your embed code",
-    "press_enter": "PRESS ENTER TO ADD"
-  },
   "lists_configure_sidebar": {
     "accent_color": "Accent color",
     "cover_description_color": "Description color",
@@ -354,6 +336,24 @@
     "order_ascending": "Ascending",
     "order_descending": "Descending",
     "reader_list_show": "Display readers list"
+  },
+  "lists_cover": {
+    "media_optional": "COVER MEDIA (OPTIONAL)",
+    "description": "List description",
+    "title": "List title"
+  },
+  "lists_items": {
+    "description": "List item description",
+    "media_optional": "LIST MEDIA (OPTIONAL)",
+    "title": "List item title",
+    "untitled": "Untitled"
+  },
+  "lists_media_uploader": {
+    "cancel": "CANCEL EMBED",
+    "embed_media": "EMBED MEDIA",
+    "media_attribution": "Media attribution (optional)",
+    "paste_embed": "Paste your embed code",
+    "press_enter": "PRESS ENTER TO ADD"
   },
   "browser_alert": {
     "item_text_invert": "Invert body text",
