@@ -65,6 +65,7 @@
     "custom_font_learnMore": "LEARN MORE ABOUT IMPLEMENTING CUSTOM FONTS",
     "custom_font_placeholder": "@font-face code",
     "custom_font_save": "Press enter to save",
+    "custom_font_success": "Changes saved",
     "done": "Done",
     "change_role": "Change Role",
     "changing_role_owner_to_admin": "Changing your role to an Admin will make it so you can’t see billing info.",
