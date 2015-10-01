@@ -60,6 +60,8 @@
     "confirm_role_change": "Are you sure you want to change your role?",
     "create": "Create your organization",
     "custom_font_description": "Have a custom font you'd like to use across all your content? Paste the same @font-face CSS code from your website.",
+    "custom_font_family_label": "Font family",
+    "custom_font_family_placeholder": "e.g. Georgia, sarif",
     "custom_font_header": "IMPLEMENT A CUSTOM FONT USING @FONT-FACE",
     "custom_font_invalid": "Only @font-face CSS is valid.",
     "custom_font_learnMore": "LEARN MORE ABOUT IMPLEMENTING CUSTOM FONTS",
