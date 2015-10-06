@@ -174,6 +174,7 @@
     "side_nav_appearance": "Appearance",
     "side_nav_offers": "Offers (coming soon)",
     "side_nav_settings": "Settings",
+    "side_nav_sharing": "Sharing",
     "tap_upload_image": "Tap here to upload an image",
     "untitled_list": "Untitled List",
     "untitled_poll": "Untitled Poll",
@@ -361,6 +362,20 @@
     "media_attribution": "Media attribution (optional)",
     "paste_embed": "Paste your embed code",
     "press_enter": "PRESS ENTER TO ADD"
+  },
+  "lists-sharing": {
+    "cover_image_default": "Your cover image is used by default",
+    "danger": "Danger. ",
+    "danger_description": "Read this before using share redirect URL",
+    "optional": " (optional)",
+    "meta_tags_label": "Use your site's sharing meta tags",
+    "redirect_url_label": "Share redirect URL",
+    "redirect_url_placeholder": "Use the full URL where your list is embeded",
+    "share_image": "Share Image",
+    "twitter_hashtags_label": "Twitter hashtags",
+    "twitter_hashtags_placeholder": "ex. #list",
+    "twitter_username_label": "Twitter username",
+    "twitter_username_placeholder": "ex. @YourCompany"
   },
   "browser_alert": {
     "item_text_invert": "Invert body text",
