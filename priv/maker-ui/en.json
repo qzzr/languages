@@ -363,7 +363,7 @@
     "paste_embed": "Paste your embed code",
     "press_enter": "PRESS ENTER TO ADD"
   },
-  "lists-sharing": {
+  "lists_sharing": {
     "cover_image_default": "Your cover image is used by default",
     "danger": "Danger. ",
     "danger_description": "Read this before using share redirect URL",
