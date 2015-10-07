@@ -293,8 +293,10 @@
     "export_success": "We'll email you a CSV file shortly",
     "export_fail": "An error exporting your data occurred, please try again later",
     "lead_conversions": "Lead conversions",
+    "form_conversions": "Form conversions",
     "no_title": "No title found",
     "offer_conversions": "Offer conversions",
+    "link_conversions": "Link conversions",
     "outcomes": "Outcomes",
     "times_taken": "Times taken"
   },
