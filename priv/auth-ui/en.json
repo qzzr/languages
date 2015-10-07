@@ -47,7 +47,12 @@
     "sister": "Log into %{product}",
     "submit": "Log in",
     "title": "Log in",
-    "facebook_login":"Looking for Facebook login?"
+    "facebook_login":"Looking for Facebook login?",
+    "existing_account": "Already have a %{sister} account?",
+    "login_to_existing": "Log in using your existing credentials.",
+    "depricate_facebook_title": "Log in with Facebook as gone away.",
+    "depricate_facebook_message": "To gain access to your account, email %{support}",
+    "qzzr_support": "Qzzr support"
   },
   "organization": {
     "admin_description": "Admins can add, and remove users from the organization, and create and edit content.",
