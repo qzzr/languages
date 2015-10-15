@@ -1,0 +1,12 @@
+{
+  "toolbar": {
+    "create": "Create",
+    "create_a_list": "Create a list",
+    "create_a_poll": "Create a poll",
+    "create_a_quiz": "Create a quiz",
+    "log_in": "Log in",
+    "log_out": "Log out",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  }
+}
