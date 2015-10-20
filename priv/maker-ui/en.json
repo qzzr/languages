@@ -54,7 +54,10 @@
   "dashboard": {
     "all_content": "All content",
     "boombox_ad_create": "Learn more",
-    "boombox_ad_text": {
+    "boombox_ad_text_pollcaster": "Create polls and quizzes in one place and collaborate with your team.",
+    "boombox_ad_text_qzzr": "Create quizzes and polls in one place and collaborate with your team.",
+    "boombox_ad_text": "Create, share, re-purpose, and collaborate on all your content in one place.",
+    "sidebar_ad_label": {
       "pollcaster": "Create polls and quizzes in one place and collaborate with your team.",
       "qzzr": "Create quizzes and polls in one place and collaborate with your team.",
       "boombox": "Create, share, re-purpose, and collaborate on all your content in one place."
