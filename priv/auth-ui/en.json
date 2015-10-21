@@ -102,6 +102,7 @@
     "send": "SENT INVITE",
     "unsent_email_message_1": "You have an unsent invite for ",
     "unsent_email_message_2": ". Would you like to send it?",
+    "upgrade_now": "Upgrade now",
     "upload_avatar": "UPLOAD AVATAR"
   },
   "profile": {
@@ -125,6 +126,7 @@
     "password_placeholder": "4 characters minimum",
     "save": "Save changes",
     "upload_avatar": "UPLOAD AVATAR",
+    "upgrade_now": "Upgrade now",
     "view_billing_history": "View billing history"
   },
   "reset_password": {
