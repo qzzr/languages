@@ -60,10 +60,11 @@
     "sidebar_ad_title": {
       "boombox": "Kick it up a notch"
     },
+    "sidebar_ad_heading": "Kick it up a notch",
     "sidebar_ad_label": {
       "pollcaster": "Create polls and quizzes in one place and collaborate with your team.",
       "qzzr": "Create quizzes and polls in one place and collaborate with your team.",
-      "boombox": "Upgrade to reduce Boombox branding, generate leads, use integrations, boost your content, export data, and more."
+      "boombox": "Upgrade to reduce Boombox branding, generate leads, use integrations, boost your content, export data & more"
     },
     "cancel": "Cancel",
     "clear_search": "Clear Search",
