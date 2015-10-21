@@ -59,6 +59,7 @@
     "admin_label": "Admin",
     "back": "Back",
     "cancel": "Cancel",
+    "change_roles_ad_label": "Lock down access & change roles in your organization",
     "close": "Close",
     "collaborator_description": "Collaborators can create and edit content.",
     "collaborator_label": "Collaborator",
@@ -105,6 +106,7 @@
   },
   "profile": {
     "cancel": "Cancel",
+    "change_roles_ad_label": "Lock down access & change roles in your organization",
     "changes_saved": "Changes saved",
     "confirm_label": "Confirm changes",
     "confirm_placeholder": "Enter current password",
