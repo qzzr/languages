@@ -60,7 +60,6 @@
     "sidebar_ad_title": {
       "boombox": "Kick it up a notch"
     },
-    "sidebar_ad_heading": "Kick it up a notch",
     "sidebar_ad_label": {
       "pollcaster": "Create polls and quizzes in one place and collaborate with your team.",
       "qzzr": "Create quizzes and polls in one place and collaborate with your team.",
@@ -97,7 +96,7 @@
     "resend_invite": "RESEND INVITE",
     "search": "SEARCH",
     "side_link_create_organization": "Create an organization",
-    "side_link_organizations_allow": "Organizations allow you to collaborate with multiple people on the same content.",
+    "side_link_organizations_allow": "Collaborate with multiple people on the same interactive content",
     "side_links_list": "List",
     "side_links_poll": "Poll",
     "side_links_quiz": "Quiz",
