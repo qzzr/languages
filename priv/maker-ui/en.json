@@ -318,10 +318,15 @@
     "form_conversions_tootip": "Number of times the form at the end of the quiz was filled in and submitted",
     "link_conversions_tooltip": "Number of times a person clicked through the custom link at the end of the quiz",
     "facebook_likes_tooltip": "Number of people who liked your Facebook page at the end of the quiz",
+    "completion_rates_tooltip": "The percentage of people who started and then completed the quiz",
+    "activity_over_time_tooltip": "The number of people taking your quiz over time",
+    "score_distribution_tooltip": "Percentage breakdown of how a question was answered. On graded quizzes, the percentage who answered correct is also shown.",
+    "completion_rate_tooltip": "The percentage of people who started and then completed the quiz.",
     "views_tooltip": "Number of times the quiz was loaded",
-    "starts_tooltip": "Number of times your quiz was first engaged with"
+    "shares_tooltip": "Number of times a share button on the widget was pressed.",
+    "starts_tooltip": "Number of times your quiz was first engaged with",
+    "completions_tooltip": "Number of unique times the final question in a quiz was answered."
   },
-
   "engagement_funnel": {
     "views": "Views",
     "starts": "Starts",
