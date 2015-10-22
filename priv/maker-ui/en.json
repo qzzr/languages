@@ -312,8 +312,16 @@
     "link_conversions": "Link conversions",
     "outcomes": "Outcomes",
     "times_taken": "Times taken",
-    "upgrade_export_responses": "Upgrade to export responses"
+    "upgrade_export_responses": "Upgrade to export responses",
+    "times_taken_tooltip": "Times taken is the number of people who have started the quiz",
+    "avg_time_spent_tooltip": "The average amount of time people who completed the quiz have spent, from start to completion. The nature of averages can be skewed by outliers.",
+    "form_conversions_tootip": "Number of times the form at the end of the quiz was filled in and submitted",
+    "link_conversions_tooltip": "Number of times a person clicked through the custom link at the end of the quiz",
+    "facebook_likes_tooltip": "Number of people who liked your Facebook page at the end of the quiz",
+    "views_tooltip": "Number of times the quiz was loaded",
+    "starts_tooltip": "Number of times your quiz was first engaged with"
   },
+
   "engagement_funnel": {
     "views": "Views",
     "starts": "Starts",
