@@ -327,10 +327,6 @@
     "starts_tooltip": "Number of times your quiz was first engaged with",
     "completions_tooltip": "Number of unique times the final question in a quiz was answered."
   },
-
-  
-
-
   "engagement_funnel": {
     "views": "Views",
     "starts": "Starts",
