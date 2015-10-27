@@ -147,6 +147,8 @@
   "signup": {
     "billing_info": "Your billing info",
     "boombox_signup": "Creating interactive content is easy.",
+    "boombox_signup_restricted": "You do not have permission to change your organization's plan.",
+    "boombox_signup_restricted_description": "Only organization owners can change plans.",
     "boombox_signup_description": "First, sign up for your Boombox account.",
     "callout": "First, sign up for a %{product} account.",
     "callout_paid": "Sign up for %{product}",
@@ -167,7 +169,8 @@
     "submit_upgrade": "UPGRADE",
     "terms_of_service_1": "By signing up, you agree to ",
     "terms_of_service_2": "%{product}'s terms of service",
-    "upgrade_plan": "Change plan to %{plan}"
+    "upgrade_plan": "Change plan to %{plan}",
+    "view_org_roles": "View organization roles"
   },
   "sister_products": {
     "heading": "Have another account?",
