@@ -34,6 +34,8 @@
     "create": "Add Outcome"
   },
   "create_dropdown": {
+    "bulleted_list_label": "Unranked list",
+    "bulleted_list_sublabel": "ex. Top vacation spots",
     "checkbox_quiz_label": "Checklist quiz",
     "checkbox_quiz_sublabel": "e.g. How New Yorker are you?",
     "graded_quiz_label": "Graded quiz",
@@ -43,6 +45,8 @@
     "list_sublabel": "e.g. Top 13 Wigs from The Americans",
     "multi_poll_label": "Multi option poll",
     "multi_poll_sublabel": "e.g. John, Paul, Ringo, or George?",
+    "numbered_list_label": "Ranked list",
+    "numbered_list_sublabel": "ex. Top 10 films of the decade",
     "outcome_quiz_label": "Outcome quiz",
     "outcome_quiz_sublabel": "e.g. Which color are you?",
     "this_that_poll_label": "This or that poll",
