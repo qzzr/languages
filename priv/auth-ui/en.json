@@ -107,6 +107,7 @@
     "upload_avatar": "UPLOAD AVATAR"
   },
   "profile": {
+    "billing_updated": "Billing information has been updated!",
     "cancel": "Cancel",
     "change_roles_ad_label": "Lock down access & change roles in your organization",
     "changes_saved": "Changes saved",
