@@ -58,6 +58,7 @@
   "organization": {
     "back": "Back",
     "cancel": "Cancel",
+    "change_roles_ad_label": "Lock down access & change roles in your organization",
     "close": "Close",
     "confirm_role_change": "Are you sure you want to change your role?",
     "done": "Done",
@@ -75,7 +76,8 @@
     "resend_invite": "Resend invite",
     "saved": "Saved",
     "saving": "Saving",
-    "sent_invite": "Sent invite"
+    "sent_invite": "Sent invite",
+    "upgrade_now": "Upgrade now",
   },
   "dashboard": {
     "all_content": "All content",
