@@ -2,6 +2,9 @@
   "browser_alert": {
     "message": "Your browser is not supported. please use a %{browser : supported browser}"
   },
+  "list": {
+    "made_with": "Made with"
+  },
   "select_text": {
     "keyboard": "Press %{key} to copy",
     "default": "Copy text"
