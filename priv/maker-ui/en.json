@@ -409,10 +409,10 @@
   "lists_items": {
     "delete_confirm": "Are you sure you want to delete this item?",
     "delete_tooltip": "Delete item",
-    "description_placeholder": "List item description",
+    "description_placeholder": "Body (optional)",
     "media_optional": "LIST MEDIA (OPTIONAL)",
     "move_tooltip": "Move item",
-    "title_placeholder": "List item title",
+    "title_placeholder": "Heading",
     "untitled": "Untitled"
   },
   "lists_media_uploader": {
