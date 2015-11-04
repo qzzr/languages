@@ -227,7 +227,8 @@
     "other": "Other option"
   },
   "next_step": {
-    "next_step": "Next Step"
+    "next_step": "Next Step",
+    "next_page": "Next: ${page}"
   },
   "option_actions": {
     "delete": "Delete"
