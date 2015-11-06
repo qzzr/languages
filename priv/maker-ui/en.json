@@ -409,6 +409,7 @@
   "lists_items": {
     "delete_confirm": "Are you sure you want to delete this item?",
     "delete_tooltip": "Delete item",
+    "duplicate_tooltip": "Duplicate item",
     "description_placeholder": "Body (optional)",
     "media_optional": "LIST MEDIA (OPTIONAL)",
     "move_tooltip": "Move item",
@@ -417,8 +418,11 @@
   },
   "lists_media_uploader": {
     "cancel": "CANCEL EMBED",
+    "different_url": "Try a different url.",
     "embed_media": "EMBED MEDIA",
     "media_attribution": "Media attribution (optional)",
+    "embed_more_info": "More info.",
+    "not_supported_media": "%{url} isn't a supported media source.",
     "paste_embed": "Paste your embed code",
     "press_enter": "PRESS ENTER TO ADD"
   },
@@ -430,6 +434,7 @@
     "meta_tags_label": "Use your site's sharing meta tags",
     "redirect_url_label": "Share redirect URL",
     "redirect_url_placeholder": "Use the full URL where your list is embeded",
+    "redirect_url_tooltip": "Shares are automatically redirected back to where we detect your content is embedded.",
     "share_image": "Share Image",
     "twitter_hashtags_label": "Twitter hashtags",
     "twitter_hashtags_placeholder": "ex. #list",
