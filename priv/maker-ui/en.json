@@ -402,7 +402,7 @@
     "reader_list_show": "Display readers list"
   },
   "lists_cover": {
-    "media_optional": "COVER MEDIA (OPTIONAL)",
+    "media_optional": "ADD MEDIA (OPTIONAL)",
     "description_placeholder": "List description",
     "title_placeholder": "List title"
   },
@@ -411,7 +411,7 @@
     "delete_tooltip": "Delete item",
     "duplicate_tooltip": "Duplicate item",
     "description_placeholder": "Body (optional)",
-    "media_optional": "LIST MEDIA (OPTIONAL)",
+    "media_optional": "ADD MEDIA (OPTIONAL)",
     "move_tooltip": "Move item",
     "title_placeholder": "Heading",
     "untitled": "Untitled"
