@@ -399,7 +399,7 @@
     "order": "List style",
     "order_ascending": "Count up",
     "order_descending": "Count down",
-    "reader_list_show": "View Readers' Choice"
+    "reader_list_show": "Readers' Choice"
   },
   "lists_cover": {
     "media_optional": "ADD MEDIA (OPTIONAL)",
@@ -445,7 +445,7 @@
     "item_text_invert": "Invert body text",
     "message": "Your browser is not supported. please use a %{browser : supported browser}",
     "order": "Order",
-    "reader_list_show": "View Readers' Choice"
+    "reader_list_show": "Readers' Choice"
   }
 }
 
