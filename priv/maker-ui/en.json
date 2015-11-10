@@ -394,7 +394,7 @@
     "font_family": "Font",
     "is_votable": "Allow voting",
     "item_header_color": "Heading color",
-    "item_number_shoW": "Number show",
+    "item_number_show": "Show rank",
     "item_text_invert": "Invert body text",
     "order": "List style",
     "order_ascending": "Count up",
