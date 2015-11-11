@@ -57,8 +57,7 @@
     "title": "Log in",
     "facebook_login":"Looking for Facebook login?",
     "existing_account": "Already have a %{sister} account?",
-    "login_to_existing": "Log in using your existing",
-    "login_to_existing_credentials": "credentials",
+    "login_to_existing": "Log in using your existing credentials.",
     "depricate_facebook_title": "Log in with Facebook has gone away.",
     "depricate_facebook_message": "To gain access to your account, email %{support}",
     "qzzr_support": "Qzzr support"
