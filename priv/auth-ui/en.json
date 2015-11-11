@@ -48,7 +48,7 @@
     "rebrand_info_polls": "quizzes",
     "rebrand_info_beginning": "Your interactive content toolbox just got amplified. Boombox contains a bevy of world-class engagement tools. In addition to",
     "rebrand_info_middle": ", you can now create",
-    "rebrand_info_end": ", and lists at no extra charge. Great for teams, Boombox allows you to share, re-purpose, and collaborate on the same pool of creations. Did we mention this comes at no extra cost to you?",
+    "rebrand_info_end": ", and lists at no extra charge. Great for teams, Boombox allows you to share, re-purpose, and collaborate on the same pool of creations.",
     "rebrand_info_salutation": "Thanks for supporting us,",
     "rebrand_info_team": "The Boombox Team",
     "signup_name": "SIGN UP",
@@ -57,7 +57,7 @@
     "title": "Log in",
     "facebook_login":"Looking for Facebook login?",
     "existing_account": "Already have a %{sister} account?",
-    "login_to_existing": "Log in using your existing credentials.",
+    "login_to_existing": "Log in using your existing %{product} information.",
     "depricate_facebook_title": "Log in with Facebook has gone away.",
     "depricate_facebook_message": "To gain access to your account, email %{support}",
     "qzzr_support": "Qzzr support"
