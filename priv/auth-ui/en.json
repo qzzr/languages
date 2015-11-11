@@ -45,7 +45,7 @@
     "password_placeholder": "password",
     "rebrand_title": "%{brand} is now %{boombox}",
     "rebrand_info_quizzes": "quizzes",
-    "rebrand_info_polls": "quizzes",
+    "rebrand_info_polls": "polls",
     "rebrand_info": "Your interactive content toolbox just got amplified. Boombox contains a bevy of world-class engagement tools. In addition to %{starting_type}, you can now create %{new_type}, and lists at no extra charge. Great for teams, Boombox allows you to share, re-purpose, and collaborate on the same pool of creations.",
     "rebrand_info_salutation": "Thanks for supporting us,",
     "rebrand_info_team": "The Boombox Team",
