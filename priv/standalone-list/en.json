@@ -1,0 +1,9 @@
+{
+  "sharing": {
+    "caption": "WWW.BOOMBOX.COM",
+    "description_default": "Check out this list.",
+    "hashtags": "list",
+    "title_default": "Check out %{title} on WWW.BOOMBOX.COM",
+    "twitter_title_default": "Check out %{title} on WWW.BOOMBOX.COM %{url}"
+  }
+}
