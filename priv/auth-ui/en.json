@@ -56,6 +56,7 @@
     "facebook_login":"Looking for Facebook login?",
     "existing_account": "Already have a %{sister} account?",
     "existing_sisters": "Already have a %{sister_one} or %{sister_two} account?",
+    "login_above": "Log in above using your existing information.",
     "login_to_existing": "Log in using your existing %{product} information.",
     "depricate_facebook_title": "Log in with Facebook has gone away.",
     "depricate_facebook_message": "To gain access to your account, email %{support}",
