@@ -1,10 +1,20 @@
 defmodule Movement.Languages.Compiler.Repos do
+  require Logger
+
   def exec(dir, _) do
-    Enum.map_reduce(list_dir(dir), [], fn(repo, acc) ->
+    out = dir
+    |> list_dir()
+    |> Enum.map_reduce([], fn(repo, acc) ->
       key = List.to_atom(repo)
-      {langs, paths} = langs(Path.join(dir, repo))
+      {langs, paths} = dir |> Path.join(repo) |> langs()
       {{key, langs}, paths ++ acc}
     end)
+
+    if Process.get(:languages_fail) do
+      throw :validation_error
+    end
+
+    out
   end
 
   def to_set(variants) do
@@ -16,10 +26,13 @@ defmodule Movement.Languages.Compiler.Repos do
   end
 
   defp langs(dir) do
-    Enum.map_reduce(list_dir(dir, &File.regular?/1), [], fn(lang, acc) ->
+    dir
+    |> list_dir(&File.regular?/1)
+    |> Enum.map_reduce([], fn(lang, acc) ->
       path = Path.join(dir, lang)
       key = lang |> Path.basename(".json") |> String.to_atom
-      pages = path |> parse |> Enum.map(&expand_page/1)
+      file = Path.basename(dir) <> "/#{key}.json"
+      pages = path |> parse |> Enum.map(&(expand_page(&1, to_string(key), file)))
       {{key, pages}, [path | acc]}
     end)
   end
@@ -43,18 +56,25 @@ defmodule Movement.Languages.Compiler.Repos do
       throw "Error in #{file}: #{e.message}"
   end
 
-  defp expand_page({page, items}) do
-    {String.to_atom(page), items |> Enum.map(&expand_item/1)}
+  defp expand_page({page, items}, lang, file) do
+    {String.to_atom(page), items |> Enum.map(&(expand_item(&1, lang, file)))}
   end
 
-  defp expand_item({key, entries = %{"default" => _}}) do
+  defp expand_item({key, entries = %{"default" => _}}, _, _) do
     {String.to_atom(key), entries |> Enum.map(&expand_entry/1)}
   end
-  defp expand_item({key, entry}) when is_binary(entry) do
+  defp expand_item({key, entry}, _, _) when is_binary(entry) do
     {String.to_atom(key), [{:default, entry}]}
   end
-  defp expand_item({key, entries}) when is_map(entries) do
+  defp expand_item({key, entries}, lang, file) when is_map(entries) do
     if is_plural?(entries) do
+      case Sprechen.Plural.missing_plural_keys(lang, entries) do
+        [] ->
+          nil
+        expected ->
+          Logger.error("#{file}#/#{key} missing #{inspect(expected -- Map.keys(entries))} of #{inspect(expected)}")
+          Process.put(:languages_fail, true)
+      end
       {String.to_atom(key), [{:default, entries}]}
     else
       entries = entries |> Enum.map(&expand_entry/1)
