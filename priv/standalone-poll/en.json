@@ -1,0 +1,14 @@
+{
+  "sharing": {
+    "caption": {
+      "pollcaster": "WWW.POLLCASTER.COM",
+      "boombox": "WWW.BOOMBOX.COM"
+    },
+    "description_default": "Vote to see how you compare to the rest of the world.",
+    "description_options": "%{option1} or %{option2}",
+    "hashtags": "poll",
+    "title": "Vote now: %{title}",
+    "twitter_title_default": "Vote now: %{title}. See how you compare to the rest of the world.",
+    "twitter_title_options": "Vote now: %{title} %{option1} or %{option2}"
+  }
+}
