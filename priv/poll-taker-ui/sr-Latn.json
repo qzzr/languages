@@ -39,7 +39,10 @@
         "num_votes": {
             "0": "Nema glasova",
             "one": "1 glas",
+<<<<<<< HEAD
             "few": "%{count} votes",
+=======
+>>>>>>> origin/add-22-poll-languages
             "other": "%{count} glasova"
         }
     },
