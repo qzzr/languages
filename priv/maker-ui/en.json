@@ -383,10 +383,10 @@
     "cover_description_show": "Description show",
     "cover_image_show": "Show cover image",
     "cover_share_show": "Show sharing options",
-    "cover_show": "Cover",
-    "cover_text_background_blur": "Background blur",
-    "cover_text_background_color": "Background Color",
-    "cover_text_color": "Text color",
+    "cover_show": "Cover page",
+    "cover_text_background_blur": "Cover blur",
+    "cover_text_background_color": "Background color",
+    "cover_text_color": "Cover text color",
     "cover_text_padding": "Whitespace around text",
     "cover_text_show": "Show title & description",
     "cover_title_color": "Title color",
@@ -394,7 +394,7 @@
     "font_family": "Font",
     "is_votable": "Allow voting",
     "item_header_color": "Heading color",
-    "item_number_shoW": "Number show",
+    "item_number_show": "Rank",
     "item_text_invert": "Invert body text",
     "order": "List style",
     "order_ascending": "Count up",
@@ -402,7 +402,7 @@
     "reader_list_show": "Readers' Choice"
   },
   "lists_cover": {
-    "media_optional": "ADD MEDIA (OPTIONAL)",
+    "media_optional": "ADD COVER MEDIA (OPTIONAL)",
     "description_placeholder": "List description",
     "title_placeholder": "List title"
   },
@@ -411,7 +411,7 @@
     "delete_tooltip": "Delete item",
     "duplicate_tooltip": "Duplicate item",
     "description_placeholder": "Body (optional)",
-    "media_optional": "ADD MEDIA (OPTIONAL)",
+    "media_optional": "ADD LIST MEDIA (OPTIONAL)",
     "move_tooltip": "Move item",
     "title_placeholder": "Heading",
     "untitled": "Untitled"
@@ -423,7 +423,7 @@
     "media_attribution": "Media attribution (optional)",
     "embed_more_info": "More info.",
     "not_supported_media": "%{url} isn't a supported media source.",
-    "paste_embed": "Paste your embed code",
+    "paste_embed": "Paste URL",
     "press_enter": "PRESS ENTER TO ADD"
   },
   "lists_sharing": {
