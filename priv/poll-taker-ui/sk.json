@@ -39,6 +39,8 @@
         "num_votes": {
             "0": "Bez hlasovania",
             "one": "1 hlas",
+            "few": "%{count} votes",
+            "many": "%{count} votes",
             "other": "%{count} hlasov"
         }
     },

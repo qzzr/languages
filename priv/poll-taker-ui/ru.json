@@ -39,6 +39,8 @@
         "num_votes": {
             "0": "\u041d\u0435\u0442 \u0433\u043e\u043b\u043e\u0441\u043e\u0432",
             "one": "1 \u0433\u043e\u043b\u043e\u0441",
+            "few": "%{count} votes",
+            "many": "%{count} votes",
             "other": "%{count} \u0433\u043e\u043b\u043e\u0441\u043e\u0432"
         }
     },

@@ -39,6 +39,8 @@
         "num_votes": {
             "0": "Brak g\u0142os\u00f3w",
             "one": "1 g\u0142os",
+            "few": "%{count} votes",
+            "many": "%{count} votes",
             "other": "G\u0142osy: %{count}"
         }
     },

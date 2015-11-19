@@ -39,6 +39,7 @@
         "num_votes": {
             "0": "Nema glasova",
             "one": "1 glas",
+            "few": "%{count} votes",
             "other": "%{count} glasa\/glasova"
         }
     },

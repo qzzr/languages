@@ -39,6 +39,8 @@
         "num_votes": {
             "0": "Brez glasov",
             "one": "\u0160t. glasov: 1",
+            "few": "%{count} votes",
+            "many": "%{count} votes",
             "other": "\u0160t. glasov: %{count}"
         }
     },
