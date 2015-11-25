@@ -1,0 +1,38 @@
+{
+    "analysis": {
+        "readers_choice": "Escolha dos leitores",
+        "our_list": "Nossa lista",
+        "sort_by": "Ordenar por"
+    },
+    "analysis_item": {
+        "hide": "Ocultar",
+        "view": "Visualizar"
+    },
+    "browser_alert": {
+        "message": "Your browser is not supported. please use a %{browser : supported browser}"
+    },
+    "list": {
+        "made_with": "Feito com",
+        "see_readers_choice": "Ver escolha dos leitores"
+    },
+    "select_text": {
+        "keyboard": "Pressione %{key} para copiar",
+        "default": "Copiar texto"
+    },
+    "sharing": {
+        "caption": "WWW.BOOMBOX.COM",
+        "description_default": "Confira esta lista.",
+        "hashtags": "lista",
+        "share": "Compartilhar",
+        "share_on": "Compartilhar no %{name}",
+        "title_default": "Confira %{title} no WWW.BOOMBOX.COM",
+        "twitter_title_default": "Confira %{title} no WWW.BOOMBOX.COM %{url}"
+    },
+    "vote": {
+        "dislike": "N\u00e3o curti",
+        "like": "Curti",
+        "readers_choice": "Escolha dos leitores",
+        "readers_opinion": "Readers' opinion",
+        "view": "Visualizar"
+    }
+}
