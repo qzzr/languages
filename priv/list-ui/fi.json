@@ -1,0 +1,39 @@
+{
+    "analysis": {
+        "readers_choice": "Lukijoiden suosikki",
+        "our_list": "Listamme",
+        "sort_by": "Lajittele:"
+    },
+    "analysis_item": {
+        "hide": "Piilota",
+        "view": "N\u00e4yt\u00e4"
+    },
+    "browser_alert": {
+        "message": "Your browser is not supported. please use a %{browser : supported browser}"
+    },
+    "list": {
+        "made_with": "Yhteisty\u00f6ss\u00e4:",
+        "see_readers_choice": "Katso lukijoiden suosikki"
+    },
+    "select_text": {
+        "keyboard": "Kopioi painamalla %{key}",
+        "default": "Kopioi teksti"
+    },
+    "sharing": {
+        "caption": "WWW.BOOMBOX.COM",
+        "description_default": "Katso t\u00e4m\u00e4 lista.",
+        "hashtags": "lista",
+        "share": "Jaa",
+        "share_on": "Jaa: %{name}",
+        "title_default": "K\u00e4y katsomassa %{title} sivustolla WWW.BOOMBOX.COM",
+        "twitter_title_default": "K\u00e4y katsomassa %{title} sivustolla WWW.BOOMBOX.COM %{url}"
+    },
+
+    "vote": {
+        "dislike": "\u00c4l\u00e4 tykk\u00e4\u00e4",
+        "like": "Tykk\u00e4\u00e4",
+        "readers_choice": "Lukijoiden suosikki",
+        "readers_opinion": "Readers' opinion",
+        "view": "N\u00e4yt\u00e4"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "analysis": {
+        "readers_choice": "\u0412\u0438\u0431\u0456\u0440 \u0447\u0438\u0442\u0430\u0447\u0456\u0432",
+        "our_list": "\u041d\u0430\u0448 \u0441\u043f\u0438\u0441\u043e\u043a",
+        "sort_by": "\u0421\u043e\u0440\u0442\u0443\u0432\u0430\u0442\u0438 \u0437\u0430"
+    },
+    "analysis_item": {
+        "hide": "\u0421\u0445\u043e\u0432\u0430\u0442\u0438",
+        "view": "\u041f\u043e\u0434\u0438\u0432\u0438\u0442\u0438\u0441\u044f"
+    },
+    "browser_alert": {
+        "message": "Your browser is not supported. please use a %{browser : supported browser}"
+    },
+    "list": {
+        "made_with": "\u0421\u0442\u0432\u043e\u0440\u0435\u043d\u043e \u0437",
+        "see_readers_choice": "\u041f\u043e\u0434\u0438\u0432\u0456\u0442\u044c\u0441\u044f \u0432\u0438\u0431\u0456\u0440 \u0447\u0438\u0442\u0430\u0447\u0456\u0432"
+    },
+    "select_text": {
+        "keyboard": "\u041d\u0430\u0442\u0438\u0441\u043d\u0456\u0442\u044c %{key}, \u0449\u043e\u0431 \u0441\u043a\u043e\u043f\u0456\u044e\u0432\u0430\u0442\u0438",
+        "default": "\u0421\u043a\u043e\u043f\u0456\u044e\u0432\u0430\u0442\u0438 \u0442\u0435\u043a\u0441\u0442"
+    },
+    "sharing": {
+        "caption": "WWW.BOOMBOX.COM",        
+        "description_default": "\u041f\u043e\u0434\u0438\u0432\u0456\u0442\u044c\u0441\u044f \u0446\u0435\u0439 \u0441\u043f\u0438\u0441\u043e\u043a.",
+        "hashtags": "\u0441\u043f\u0438\u0441\u043e\u043a",
+        "share": "\u041f\u043e\u043a\u0430\u0437\u0430\u0442\u0438",
+        "share_on": "\u041f\u043e\u043a\u0430\u0437\u0430\u0442\u0438 \u043d\u0430 %{name}",
+        "title_default": "\u0420\u0430\u0434\u0438\u043c\u043e %{title} \u043d\u0430 WWW.BOOMBOX.COM",
+        "twitter_title_default": "\u0420\u0430\u0434\u0438\u043c\u043e %{title} \u043d\u0430 WWW.BOOMBOX.COM %{url}"
+    },
+    "vote": {
+        "dislike": "\u041d\u0435 \u043f\u043e\u0434\u043e\u0431\u0430\u0454\u0442\u044c\u0441\u044f",
+        "like": "\u041f\u043e\u0434\u043e\u0431\u0430\u0454\u0442\u044c\u0441\u044f",
+        "readers_choice": "\u0412\u0438\u0431\u0456\u0440 \u0447\u0438\u0442\u0430\u0447\u0456\u0432",
+        "readers_opinion": "Readers' opinion",
+        "view": "\u041f\u043e\u0434\u0438\u0432\u0438\u0442\u0438\u0441\u044f"
+    }
+}
