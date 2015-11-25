@@ -402,7 +402,7 @@
     "reader_list_show": "Readers' Choice"
   },
   "lists_cover": {
-    "media_optional": "ADD COVER MEDIA (OPTIONAL)",
+    "media_optional": "Add cover media (optional)",
     "description_placeholder": "List description",
     "title_placeholder": "List title"
   },
@@ -411,20 +411,20 @@
     "delete_tooltip": "Delete item",
     "duplicate_tooltip": "Duplicate item",
     "description_placeholder": "Body (optional)",
-    "media_optional": "ADD LIST MEDIA (OPTIONAL)",
+    "media_optional": "Add list media (optional)",
     "move_tooltip": "Move item",
     "title_placeholder": "Heading",
     "untitled": "Untitled"
   },
   "lists_media_uploader": {
-    "cancel": "CANCEL EMBED",
+    "cancel": "Cancel",
     "different_url": "Try a different url.",
-    "embed_media": "EMBED MEDIA",
+    "embed_media": "Add from web",
     "media_attribution": "Media attribution (optional)",
     "embed_more_info": "More info.",
     "not_supported_media": "%{url} isn't a supported media source.",
-    "paste_embed": "Paste URL",
-    "press_enter": "PRESS ENTER TO ADD"
+    "paste_embed": "Paste web address",
+    "press_enter": "Press enter to add"
   },
   "lists_sharing": {
     "cover_image_default": "Your cover image is used by default",
