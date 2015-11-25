@@ -1,20 +1,37 @@
 {
+  "analysis": {
+    "readers_choice": "Readers' choice",
+    "our_list": "Our list",
+    "sort_by": "Sort by"
+  },
+  "analysis_item": {
+    "hide": "Hide",
+    "view": "View"
+  },
   "browser_alert": {
     "message": "Your browser is not supported. please use a %{browser : supported browser}"
   },
   "list": {
-    "made_with": "Made with"
+    "made_with": "Made with",
+    "see_readers_choice": "See readers' choice"
   },
   "select_text": {
     "keyboard": "Press %{key} to copy",
     "default": "Copy text"
   },
   "sharing": {
-    "title"       : "Read now: %{title}",
-    "description" : "%{option1} or %{option2}",
-    "twitter-title": "Read now: %{title}",
+    "caption": "WWW.BOOMBOX.COM",
+    "description_default": "Check out this list.",
     "hashtags": "list",
-    "share-list"  : "Share this list",
-    "link-list"   : "Link to this list"
+    "share": "Share",
+    "share_on": "Share on %{name}",
+    "title_default": "Check out %{title} on WWW.BOOMBOX.COM",
+    "twitter_title_default": "Check out %{title} on WWW.BOOMBOX.COM %{url}"
+  },
+  "vote": {
+    "dislike": "Dislike",
+    "like": "Like",
+    "readers_choice": "Readers' choice",
+    "readers_opinion": "Readers' opinion"
   }
 }
