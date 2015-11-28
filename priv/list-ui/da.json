@@ -1,0 +1,38 @@
+{
+    "analysis": {
+        "readers_choice": "L\u00e6sernes valg",
+        "our_list": "Vores liste",
+        "sort_by": "Sort\u00e9r efter"
+    },
+    "analysis_item": {
+        "hide": "Skjul",
+        "view": "Vis"
+    },
+    "browser_alert": {
+        "message": "Your browser is not supported. please use a %{browser : supported browser}"
+    },
+    "list": {
+        "made_with": "Skabt med",
+        "see_readers_choice": "Se v\u00e6lgernes valg"
+    },
+    "select_text": {
+        "keyboard": "Tryk p\u00e5 %{key} for at kopiere",
+        "default": "Kopi\u00e9r tekst"
+    },
+    "sharing": {
+        "caption": "WWW.BOOMBOX.COM",
+        "description_default": "Se min liste",
+        "hashtags": "liste",
+        "share": "Del",
+        "share_on": "Del p\u00e5 %{name}",
+        "title_default": "Se ind p\u00e5 %{title} p\u00e5 WWW.BOOMBOX.COM",
+        "twitter_title_default": "Se ind p\u00e5 %{title} p\u00e5 WWW.BOOMBOX.COM %{url}"
+    },
+    "vote": {
+        "dislike": "Synes ikke om",
+        "like": "Synes om",
+        "readers_choice": "L\u00e6sernes valg",
+        "readers_opinion": "Readers' opinion",
+        "view": "Vis"
+    }
+}

@@ -28,7 +28,6 @@
         "title_default": "K\u00e4y katsomassa %{title} sivustolla WWW.BOOMBOX.COM",
         "twitter_title_default": "K\u00e4y katsomassa %{title} sivustolla WWW.BOOMBOX.COM %{url}"
     },
-
     "vote": {
         "dislike": "\u00c4l\u00e4 tykk\u00e4\u00e4",
         "like": "Tykk\u00e4\u00e4",
