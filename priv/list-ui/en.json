@@ -10,10 +10,11 @@
     "default": "Copy text"
   },
   "sharing": {
-    "title"       : "Read now: %{title}",
-    "description" : "%{option1} or %{option2}",
-    "twitter-title": "Read now: %{title}",
-    "hashtags": "list",
+    "list_caption": "WWW.BOOMBOX.COM",
+    "list_description": "Make your own lists for free on BOOMBOX, the world's most engaging content platform.",
+    "list_hashtags": "list",
+    "list_title": "Check out %{title} on WWW.BOOMBOX.COM",
+    "list_twitter_title": "Check out %{title} on WWW.BOOMBOX.COM",
     "share-list"  : "Share this list",
     "link-list"   : "Link to this list"
   }
