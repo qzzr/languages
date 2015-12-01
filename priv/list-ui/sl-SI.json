@@ -1,0 +1,38 @@
+{
+    "analysis": {
+        "readers_choice": "Izbira bralcev",
+        "our_list": "Na\u0161 seznam",
+        "sort_by": "Razvrsti po"
+    },
+    "analysis_item": {
+        "hide": "Skrij",
+        "view": "Ogled"
+    },
+    "browser_alert": {
+        "message": "Your browser is not supported. please use a %{browser : supported browser}"
+    },
+    "list": {
+        "made_with": "Izdelano z",
+        "see_readers_choice": "Oglej si izbiro bralcev"
+    },
+    "select_text": {
+        "keyboard": "Kliknite %{key} za kopiranje",
+        "default": "Kopiraj besedilo"
+    },
+    "sharing": {
+        "caption": "WWW.BOOMBOX.COM",
+        "description_default": "Oglej si ta seznam.",
+        "hashtags": "seznam",
+        "share": "Deli",
+        "share_on": "Deli na: %{name}",
+        "title_default": "Oglej si %{title} na WWW.BOOMBOX.COM",
+        "twitter_title_default": "Oglej si %{title} na WWW.BOOMBOX.COM %{url}"
+    },
+    "vote": {
+        "dislike": "Ni mi v\u0161e\u010d",
+        "like": "V\u0161e\u010d mi je",
+        "readers_choice": "Izbira bralcev",
+        "readers_opinion": "Readers' opinion",
+        "view": "Ogled"
+    }
+}

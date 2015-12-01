@@ -1,0 +1,71 @@
+{
+    "breakdown": {
+        "by_region": "WG. REGIONU",
+        "by_age": "WG. WIEKU",
+        "by_gender": "WG. P\u0141CI",
+        "other": "Inna opcja",
+        "your_selection": "Tw\u00f3j wyb\u00f3r"
+    },
+    "by_region": {
+        "nearby": "blisko",
+        "country": "kraj",
+        "world": "\u015bwiat"
+    },
+    "collect_info": {
+        "female": "Kobieta",
+        "how_old_are_you": "Ile masz lat?",
+        "male": "M\u0119\u017cczyzna",
+        "see_the_breakdown": "Zobacz por\u00f3wnanie",
+        "skip": "Pomi\u0144",
+        "subtitle": "Twoje informacje s\u0105 anonimowe",
+        "title": "Zobacz jak wypadasz na tle reszty \u015bwiata.",
+        "whats_your_gender": "Wybierz p\u0142e\u0107",
+        "years": "lat"
+    },
+    "map": {
+        "your_selection": "Tw\u00f3j wyb\u00f3r",
+        "other": "Inna opcja"
+    },
+    "poll": {
+        "embed_poll": "Opublikuj to g\u0142osowanie",
+        "link_poll": "Odno\u015bnik do g\u0142osowania",
+        "made_with": "Stworzone w",
+        "share_poll": "Podziel si\u0119 g\u0142osowaniem"
+    },
+    "question": {
+        "by_categories": "wg. regionu, wieku i p\u0142ci",
+        "see_the_breakdown": "ZOBACZ POR\u00d3WNANIE",
+        "vote_now": "zag\u0142osuj",
+        "num_votes": {
+            "0": "Brak g\u0142os\u00f3w",
+            "one": "1 g\u0142os",
+            "few": "%{count} votes",
+            "many": "%{count} votes",
+            "other": "G\u0142osy: %{count}"
+        }
+    },
+    "select_text": {
+        "keyboard": "Naci\u015bnij %{key} by skopiowa\u0107",
+        "default": "Skopiuj tekst"
+    },
+    "sharing": {
+        "title": "Zag\u0142osuj teraz: %{title}",
+        "description": "%{option1} lub %{option2}",
+        "caption": "WWW.POLLCASTER.COM",
+        "boombox-caption": "WWW.BOOMBOX.COM",
+        "twitter-title": "Zag\u0142osuj: %{title} %{option1} lub %{option2}",
+        "hashtags": "g\u0142osowanie",
+        "share-poll": "Podziel si\u0119 g\u0142osowaniem",
+        "link-poll": "Odno\u015bnik do tego g\u0142osowania",
+        "embed-poll": "Udost\u0119pnij to g\u0142osowanie"
+    },
+    "human_readable_numbers": {
+        "billion": "%{value} mld",
+        "million": "%{value} mln",
+        "thousand": "%{value} tys.",
+        "trillion": "%{value} bln"
+    },
+    "browser_alert": {
+        "message": "Ta przegl\u0105darka nie jest obs\u0142ugiwana. Skorzystaj z %{browser : supported browser}"
+    }
+}

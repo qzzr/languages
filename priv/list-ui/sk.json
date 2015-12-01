@@ -1,0 +1,38 @@
+{
+    "analysis": {
+        "readers_choice": "V\u00fdber \u010ditate\u013eov",
+        "our_list": "N\u00e1\u0161 zoznam",
+        "sort_by": "Zoradi\u0165 pod\u013ea"
+    },
+    "analysis_item": {
+        "hide": "Skry\u0165",
+        "view": "Zobrazi\u0165"
+    },
+    "browser_alert": {
+        "message": "Your browser is not supported. please use a %{browser : supported browser}"
+    },
+    "list": {
+        "made_with": "Vytvoren\u00e9 pomocou",
+        "see_readers_choice": "Zobrazi\u0165 v\u00fdber \u010ditate\u013eov"
+    },
+    "select_text": {
+        "keyboard": "Skop\u00edrujete stla\u010den\u00edm %{key}",
+        "default": "Skop\u00edrova\u0165 text"
+    },
+    "sharing": {
+        "caption": "WWW.BOOMBOX.COM",
+        "description_default": "Pozrite si tento zoznam.",
+        "hashtags": "zoznam",
+        "share": "Zdie\u013ea\u0165",
+        "share_on": "Zdie\u013ea\u0165 cez %{name}",
+        "title_default": "Pozrite si %{title} na WWW.BOOMBOX.COM",
+        "twitter_title_default": "Pozrite si %{title} na WWW.BOOMBOX.COM %{url}"
+    },
+    "vote": {
+        "dislike": "Nep\u00e1\u010di sa mi to",
+        "like": "P\u00e1\u010di sa mi to",
+        "readers_choice": "V\u00fdber \u010ditate\u013eov",
+        "readers_opinion": "Readers' opinion",
+        "view": "Zobrazi\u0165"
+    }
+}
