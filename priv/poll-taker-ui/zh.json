@@ -47,15 +47,19 @@
         "default": "\u590d\u5236\u6587\u672c\u4fe1\u606f"
     },
     "sharing": {
+        "caption": {
+          "pollcaster": "WWW.POLLCASTER.COM",
+          "boombox": "WWW.BOOMBOX.COM"
+        },
         "title": "\u6765\u6295\u7968\u5427\uff1a%{title}",
         "description": "%{option1}\u8fd8\u662f%{option2}",
-        "caption": "WWW.POLLCASTER.COM",
         "boombox-caption": "WWW.BOOMBOX.COM",
         "twitter-title": "\u6765\u6295\u7968\u5427\uff1a%{title} %{option1}\u8fd8\u662f%{option2}",
         "hashtags": "\u6295\u7968",
-        "share-poll": "\u5206\u4eab\u8fd9\u4e2a\u6295\u7968",
-        "link-poll": "\u94fe\u63a5\u81f3\u8fd9\u4e2a\u6295\u7968",
-        "embed-poll": "\u5d4c\u5165\u8fd9\u4e2a\u6295\u7968"
+        "poll_description_options": "%{option1}\u8fd8\u662f%{option2}",
+        "poll_hashtags": "\u6295\u7968",
+        "poll_title": "\u6765\u6295\u7968\u5427\uff1a%{title}",
+        "poll_twitter_title_options": "\u6765\u6295\u7968\u5427\uff1a%{title} %{option1}\u8fd8\u662f%{option2}"
     },
     "human_readable_numbers": {
         "billion": "%{value}\u5341\u4ebf",

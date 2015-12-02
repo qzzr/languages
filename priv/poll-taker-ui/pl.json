@@ -49,15 +49,19 @@
         "default": "Skopiuj tekst"
     },
     "sharing": {
+        "caption": {
+          "pollcaster": "WWW.POLLCASTER.COM",
+          "boombox": "WWW.BOOMBOX.COM"
+        },
         "title": "Zag\u0142osuj teraz: %{title}",
         "description": "%{option1} lub %{option2}",
-        "caption": "WWW.POLLCASTER.COM",
         "boombox-caption": "WWW.BOOMBOX.COM",
         "twitter-title": "Zag\u0142osuj: %{title} %{option1} lub %{option2}",
         "hashtags": "g\u0142osowanie",
-        "share-poll": "Podziel si\u0119 g\u0142osowaniem",
-        "link-poll": "Odno\u015bnik do tego g\u0142osowania",
-        "embed-poll": "Udost\u0119pnij to g\u0142osowanie"
+        "poll_description_options": "%{option1} lub %{option2}",
+        "poll_hashtags": "g\u0142osowanie",
+        "poll_title": "Zag\u0142osuj teraz: %{title}",
+        "poll_twitter_title_options": "Zag\u0142osuj: %{title} %{option1} lub %{option2}"
     },
     "human_readable_numbers": {
         "billion": "%{value} mld",

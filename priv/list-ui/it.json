@@ -28,7 +28,7 @@
         "list_description": "Dai un'occhiata a questa lista.",
         "list_hashtags": "lista",
         "list_title": "Dai un'occhiata a %{title} su WWW.BOOMBOX.COM",
-        "list_twitter_title": "Dai un'occhiata a %{title} su WWW.BOOMBOX.COM %{url}",
+        "list_twitter_title": "Dai un'occhiata a %{title} su WWW.BOOMBOX.COM",
         "share": "Condividi",
         "share_on": "Condividi su %{name}"
     },

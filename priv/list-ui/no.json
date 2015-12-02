@@ -28,7 +28,7 @@
         "list_description": "Sjekk denne listen.",
         "list_hashtags": "liste",
         "list_title": "Sjekk %{title} p\u00e5 WWW.BOOMBOX.COM",
-        "list_twitter_title": "Sjekk %{title} p\u00e5 WWW.BOOMBOX.COM %{url}",
+        "list_twitter_title": "Sjekk %{title} p\u00e5 WWW.BOOMBOX.COM",
         "share": "Del",
         "share_on": "Del p\u00e5 %{name}"
     },

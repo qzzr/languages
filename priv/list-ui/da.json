@@ -28,7 +28,7 @@
         "list_description": "Se min liste",
         "list_hashtags": "liste",
         "list_title": "Se ind p\u00e5 %{title} p\u00e5 WWW.BOOMBOX.COM",
-        "list_twitter_title": "Se ind p\u00e5 %{title} p\u00e5 WWW.BOOMBOX.COM %{url}",
+        "list_twitter_title": "Se ind p\u00e5 %{title} p\u00e5 WWW.BOOMBOX.COM",
         "share": "Del",
         "share_on": "Del p\u00e5 %{name}"
     },

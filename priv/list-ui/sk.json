@@ -28,7 +28,7 @@
         "list_description": "Pozrite si tento zoznam.",
         "list_hashtags": "zoznam",
         "list_title": "Pozrite si %{title} na WWW.BOOMBOX.COM",
-        "list_twitter_title": "Pozrite si %{title} na WWW.BOOMBOX.COM %{url}",
+        "list_twitter_title": "Pozrite si %{title} na WWW.BOOMBOX.COM",
         "share": "Zdie\u013ea\u0165",
         "share_on": "Zdie\u013ea\u0165 cez %{name}"
     },

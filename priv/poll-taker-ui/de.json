@@ -47,15 +47,19 @@
         "default": "Text kopieren"
     },
     "sharing": {
+        "caption": {
+          "pollcaster": "WWW.POLLCASTER.COM",
+          "boombox": "WWW.BOOMBOX.COM"
+        },
         "title": "Jetzt abstimmen: %{title}",
         "description": "%{option1} oder %{option2}",
-        "caption": "WWW.POLLCASTER.COM",
         "boombox-caption": "WWW.BOOMBOX.COM",
         "twitter-title": "Jetzt abstimmen: %{title} %{option1} oder %{option2}",
         "hashtags": "Umfrage",
-        "share-poll": "Diese Umfrage teilen",
-        "link-poll": "Zu dieser Umfrage verlinken",
-        "embed-poll": "Diese Umfrage einbetten"
+        "poll_description_options": "%{option1} oder %{option2}",
+        "poll_hashtags": "Umfrage",
+        "poll_title": "Jetzt abstimmen: %{title}",
+        "poll_twitter_title_options": "Jetzt abstimmen: %{title} %{option1} oder %{option2}"
     },
     "human_readable_numbers": {
         "billion": "%{value} Mrd",

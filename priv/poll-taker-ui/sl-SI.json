@@ -49,15 +49,19 @@
         "default": "Kopiraj besedilo"
     },
     "sharing": {
+        "caption": {
+          "pollcaster": "WWW.POLLCASTER.COM",
+          "boombox": "WWW.BOOMBOX.COM"
+        },
         "title": "Glasuj zdaj: %{title}",
         "description": "%{option1} ali %{option2}",
-        "caption": "WWW.POLLCASTER.COM",
         "boombox-caption": "WWW.BOOMBOX.COM",
         "twitter-title": "Glasuj zdaj: %{title} %{option1} ali %{option2}",
         "hashtags": "anketa",
-        "share-poll": "Deli to anketo",
-        "link-poll": "Povezava do te ankete",
-        "embed-poll": "Vdelaj to anketo"
+        "poll_description_options": "%{option1} ali %{option2}",
+        "poll_hashtags": "anketa",
+        "poll_title": "Glasuj zdaj: %{title}",
+        "poll_twitter_title_options": "Glasuj zdaj: %{title} %{option1} ali %{option2}"
     },
     "human_readable_numbers": {
         "billion": "%{value}B",

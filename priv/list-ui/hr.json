@@ -28,7 +28,7 @@
         "list_description": "Provjeri ovaj popis",
         "list_hashtags": "popis",
         "list_title": "Provjeri %{title} na WWW.BOOMBOX.COM",
-        "list_twitter_title": "Provjeri %{title} na WWW.BOOMBOX.COM %{url}",
+        "list_twitter_title": "Provjeri %{title} na WWW.BOOMBOX.COM",
         "share": "Dijeli",
         "share_on": "Dijeli na %{name}"
     },

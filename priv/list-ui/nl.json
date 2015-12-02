@@ -28,7 +28,7 @@
         "list_description": "Check deze lijst.",
         "list_hashtags": "lijst",
         "list_title": "Check %{title} op WWW.BOOMBOX.COM",
-        "list_twitter_title": "Check %{title} op WWW.BOOMBOX.COM %{url}",
+        "list_twitter_title": "Check %{title} op WWW.BOOMBOX.COM",
         "share": "Delen",
         "share_on": "Deel op %{name}"
     },

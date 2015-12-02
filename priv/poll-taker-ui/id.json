@@ -47,15 +47,19 @@
         "default": "Salin teks"
     },
     "sharing": {
+        "caption": {
+          "pollcaster": "WWW.POLLCASTER.COM",
+          "boombox": "WWW.BOOMBOX.COM"
+        },
         "title": "Berikan suara sekarang: %{title}",
         "description": "%{option1} atau %{option2}",
-        "caption": "WWW.POLLCASTER.COM",
         "boombox-caption": "WWW.BOOMBOX.COM",
         "twitter-title": "Berikan suara sekarang: %{title} %{option1} atau %{option2}",
         "hashtags": "polling",
-        "share-poll": "Bagikan polling ini",
-        "link-poll": "Tautkan ke polling ini",
-        "embed-poll": "Pasang polling ini"
+        "poll_description_options": "%{option1} atau %{option2}",
+        "poll_hashtags": "polling",
+        "poll_title": "Berikan suara sekarang: %{title}",
+        "poll_twitter_title_options": "Berikan suara sekarang: %{title} %{option1} atau %{option2}"
     },
     "human_readable_numbers": {
         "billion": "%{value}M",

@@ -49,15 +49,19 @@
         "default": "\u0421\u043a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0442\u0435\u043a\u0441\u0442"
     },
     "sharing": {
+        "caption": {
+          "pollcaster": "WWW.POLLCASTER.COM",
+          "boombox": "WWW.BOOMBOX.COM"
+        },
         "title": "\u0413\u043e\u043b\u043e\u0441\u043e\u0432\u0430\u0442\u044c: %{title}",
         "description": "%{option1} \u0438\u043b\u0438 %{option2}",
-        "caption": "WWW.POLLCASTER.COM",
         "boombox-caption": "WWW.BOOMBOX.COM",
         "twitter-title": "\u0413\u043e\u043b\u043e\u0441\u043e\u0432\u0430\u0442\u044c: %{title} %{option1} \u0438\u043b\u0438 %{option2}",
         "hashtags": "\u043e\u043f\u0440\u043e\u0441",
-        "share-poll": "\u041f\u043e\u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f \u043e\u043f\u0440\u043e\u0441\u043e\u043c",
-        "link-poll": "\u0421\u0441\u044b\u043b\u043a\u0430 \u043d\u0430 \u043e\u043f\u0440\u043e\u0441",
-        "embed-poll": "\u0412\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u043e\u043f\u0440\u043e\u0441"
+        "poll_description_options": "%{option1} \u0438\u043b\u0438 %{option2}",
+        "poll_hashtags": "\u043e\u043f\u0440\u043e\u0441",
+        "poll_title": "\u0413\u043e\u043b\u043e\u0441\u043e\u0432\u0430\u0442\u044c: %{title}",
+        "poll_twitter_title_options": "\u0413\u043e\u043b\u043e\u0441\u043e\u0432\u0430\u0442\u044c: %{title} %{option1} \u0438\u043b\u0438 %{option2}"
     },
     "human_readable_numbers": {
         "billion": "%{value}\u043c\u043b\u0440\u0434",

@@ -47,15 +47,19 @@
         "default": "Tekst kopi\u00ebren"
     },
     "sharing": {
+        "caption": {
+          "pollcaster": "WWW.POLLCASTER.COM",
+          "boombox": "WWW.BOOMBOX.COM"
+        },
         "title": "Stem nu: %{title}",
         "description": "%{option1} of %{option2}",
-        "caption": "WWW.POLLCASTER.COM",
         "boombox-caption": "WWW.BOOMBOX.COM",
         "twitter-title": "Stem nu: %{title} %{option1} of %{option2}",
         "hashtags": "poll",
-        "share-poll": "Deze poll delen",
-        "link-poll": "Naar deze poll linken",
-        "embed-poll": "Deze poll invoegen"
+        "poll_description_options": "%{option1} of %{option2}",
+        "poll_hashtags": "poll",
+        "poll_title": "Stem nu: %{title}",
+        "poll_twitter_title_options": "Stem nu: %{title} %{option1} of %{option2}"
     },
     "human_readable_numbers": {
         "billion": "%{value} mjd",

@@ -47,15 +47,19 @@
         "default": "Kopi\u00e9r tekst"
     },
     "sharing": {
+        "caption": {
+          "pollcaster": "WWW.POLLCASTER.COM",
+          "boombox": "WWW.BOOMBOX.COM"
+        },
         "title": "Stem nu: %{title}",
         "description": "%{option1} eller %{option2}",
-        "caption": "WWW.POLLCASTER.COM",
         "boombox-caption": "WWW.BOOMBOX.COM",
         "twitter-title": "Stem nu: %{title} %{option1} eller %{option2}",
         "hashtags": "meningsm\u00e5ling",
-        "share-poll": "Del denne meningsm\u00e5ling",
-        "link-poll": "Link til denne meningsm\u00e5ling",
-        "embed-poll": "Indlejr denne meningsm\u00e5ling"
+        "poll_description_options": "%{option1} eller %{option2}",
+        "poll_hashtags": "meningsm\u00e5ling",
+        "poll_title": "Stem nu: %{title}",
+        "poll_twitter_title_options": "Stem nu: %{title} %{option1} eller %{option2}"
     },
     "human_readable_numbers": {
         "billion": "%{value}milliarder",

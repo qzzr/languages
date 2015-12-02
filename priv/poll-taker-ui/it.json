@@ -47,15 +47,19 @@
         "default": "Copia testo"
     },
     "sharing": {
+        "caption": {
+          "pollcaster": "WWW.POLLCASTER.COM",
+          "boombox": "WWW.BOOMBOX.COM"
+        },
         "title": "Vota subito: %{title}",
         "description": "%{option1} o %{option2}",
-        "caption": "WWW.POLLCASTER.COM",
         "boombox-caption": "WWW.BOOMBOX.COM",
         "twitter-title": "Vota subito: %{title} %{option1} o %{option2}",
         "hashtags": "sondaggio",
-        "share-poll": "Condividi questo sondaggio",
-        "link-poll": "Link a questo sondaggio",
-        "embed-poll": "Incorpora questo sondaggio"
+        "poll_description_options": "%{option1} o %{option2}",
+        "poll_hashtags": "sondaggio",
+        "poll_title": "Vota subito: %{title}",
+        "poll_twitter_title_options": "Vota subito: %{title} %{option1} o %{option2}"
     },
     "human_readable_numbers": {
         "billion": "%{value}B",

@@ -47,15 +47,19 @@
         "default": "Metni kopyala"
     },
     "sharing": {
+        "caption": {
+          "pollcaster": "WWW.POLLCASTER.COM",
+          "boombox": "WWW.BOOMBOX.COM"
+        },
         "title": "\u015eimdi oyla: %{title}",
         "description": "%{option1} ya da %{option2}",
-        "caption": "WWW.POLLCASTER.COM",
         "boombox-caption": "WWW.BOOMBOX.COM",
         "twitter-title": "\u015eimdi oyla: %{title} %{option1} ya da %{option2}",
         "hashtags": "anket",
-        "share-poll": "Bu anketi payla\u015f",
-        "link-poll": "Bu ankete ba\u011flant\u0131 ver",
-        "embed-poll": "Bu anketi sitene ekle"
+        "poll_description_options": "%{option1} ya da %{option2}",
+        "poll_hashtags": "anket",
+        "poll_title": "\u015eimdi oyla: %{title}",
+        "poll_twitter_title_options": "\u015eimdi oyla: %{title} %{option1} ya da %{option2}"
     },
     "human_readable_numbers": {
         "billion": "%{value}Milyar",

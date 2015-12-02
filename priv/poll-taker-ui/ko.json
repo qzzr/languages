@@ -47,15 +47,19 @@
         "default": "\ud14d\uc2a4\ud2b8 \ubcf5\uc0ac"
     },
     "sharing": {
+        "caption": {
+          "pollcaster": "WWW.POLLCASTER.COM",
+          "boombox": "WWW.BOOMBOX.COM"
+        },
         "title": "\ud22c\ud45c \ucc38\uc5ec: %{title}",
         "description": "%{option1} \ub610\ub294 %{option2}",
-        "caption": "WWW.POLLCASTER.COM",
         "boombox-caption": "WWW.BOOMBOX.COM",
         "twitter-title": "\ud22c\ud45c \ucc38\uc5ec: %{title} %{option1} \ub610\ub294 %{option2}",
         "hashtags": "\uc124\ubb38\uc870\uc0ac",
-        "share-poll": "\uc774 \uc124\ubb38\uc870\uc0ac \uacf5\uc720\ud558\uae30",
-        "link-poll": "\uc774 \uc124\ubb38\uc870\uc0ac \ub9c1\ud06c\ud558\uae30",
-        "embed-poll": "\uc774 \uc124\ubb38\uc870\uc0ac \uc784\ubca0\ub529\ud558\uae30"
+        "poll_description_options": "%{option1} \ub610\ub294 %{option2}",
+        "poll_hashtags": "\uc124\ubb38\uc870\uc0ac",
+        "poll_title": "\ud22c\ud45c \ucc38\uc5ec: %{title}",
+        "poll_twitter_title_options": "\ud22c\ud45c \ucc38\uc5ec: %{title} %{option1} \ub610\ub294 %{option2}"
     },
     "human_readable_numbers": {
         "billion": "%{value}0\uc5b5",

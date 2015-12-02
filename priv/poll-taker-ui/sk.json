@@ -49,15 +49,19 @@
         "default": "Kop\u00edrova\u0165 text"
     },
     "sharing": {
+        "caption": {
+          "pollcaster": "WWW.POLLCASTER.COM",
+          "boombox": "WWW.BOOMBOX.COM"
+        },
         "title": "Hlasova\u0165: %{title}",
         "description": "%{option1} alebo %{option2}",
-        "caption": "WWW.POLLCASTER.COM",
         "boombox-caption": "WWW.BOOMBOX.COM",
         "twitter-title": "Hlasova\u0165: %{title} %{option1} alebo %{option2}",
         "hashtags": "prieskum",
-        "share-poll": "Zdie\u013ea\u0165 prieskum",
-        "link-poll": "Odkaz na prieskum",
-        "embed-poll": "Vlo\u017ei\u0165 prieskum"
+        "poll_description_options": "%{option1} alebo %{option2}",
+        "poll_hashtags": "prieskum",
+        "poll_title": "Hlasova\u0165: %{title}",
+        "poll_twitter_title_options": "Hlasova\u0165: %{title} %{option1} alebo %{option2}"
     },
     "human_readable_numbers": {
         "billion": "%{value}B",

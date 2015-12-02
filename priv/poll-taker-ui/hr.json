@@ -48,15 +48,19 @@
         "default": "Kopirajte tekst"
     },
     "sharing": {
+        "caption": {
+          "pollcaster": "WWW.POLLCASTER.COM",
+          "boombox": "WWW.BOOMBOX.COM"
+        },
         "title": "Glasujte odmah: %{title}",
         "description": "%{option1} ili %{option2}",
-        "caption": "WWW.POLLCASTER.COM",
         "boombox-caption": "WWW.BOOMBOX.COM",
         "twitter-title": "Glasujte odmah: %{title} %{option1} ili %{option2}",
         "hashtags": "anketa",
-        "share-poll": "Podijelite ovu anketu",
-        "link-poll": "Veza na ovu anketu",
-        "embed-poll": "Umetnite ovu anketu"
+        "poll_description_options": "%{option1} ili %{option2}",
+        "poll_hashtags": "anketa",
+        "poll_title": "Glasujte odmah: %{title}",
+        "poll_twitter_title_options": "Glasujte odmah: %{title} %{option1} ili %{option2}"
     },
     "human_readable_numbers": {
         "billion": "%{value} mlrd.",

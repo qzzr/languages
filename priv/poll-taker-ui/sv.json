@@ -47,15 +47,19 @@
         "default": "Kopiera text"
     },
     "sharing": {
+        "caption": {
+          "pollcaster": "WWW.POLLCASTER.COM",
+          "boombox": "WWW.BOOMBOX.COM"
+        },
         "title": "R\u00f6sta nu: %{title}",
         "description": "%{option1} eller %{option2}",
-        "caption": "WWW.POLLCASTER.COM",
         "boombox-caption": "WWW.BOOMBOX.COM",
         "twitter-title": "R\u00f6sta nu: %{title} %{option1} eller %{option2}",
         "hashtags": "omr\u00f6stning",
-        "share-poll": "Dela denna omr\u00f6stning",
-        "link-poll": "L\u00e4nka till denna omr\u00f6stning",
-        "embed-poll": "B\u00e4dda in denna omr\u00f6stning"
+        "poll_description_options": "%{option1} eller %{option2}",
+        "poll_hashtags": "omr\u00f6stning",
+        "poll_title": "R\u00f6sta nu: %{title}",
+        "poll_twitter_title_options": "R\u00f6sta nu: %{title} %{option1} eller %{option2}"
     },
     "human_readable_numbers": {
         "billion": "%{value}Md",

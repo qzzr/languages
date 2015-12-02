@@ -28,7 +28,7 @@
         "list_description": "Oglej si ta seznam.",
         "list_hashtags": "seznam",
         "list_title": "Oglej si %{title} na WWW.BOOMBOX.COM",
-        "list_twitter_title": "Oglej si %{title} na WWW.BOOMBOX.COM %{url}",
+        "list_twitter_title": "Oglej si %{title} na WWW.BOOMBOX.COM",
         "share": "Deli",
         "share_on": "Deli na: %{name}"
     },
