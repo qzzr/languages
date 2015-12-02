@@ -47,15 +47,22 @@
     "default": "Copy text"
   },
   "sharing": {
-    "boombox-caption" : "WWW.BOOMBOX.COM",
     "caption"         : "WWW.POLLCASTER.COM",
     "description"     : "%{option1} or %{option2}",
-    "embed-poll"      : "Embed this poll",
     "hashtags"        : "poll",
-    "link-poll"       : "Link to this poll",
-    "share-poll"      : "Share this poll",
     "title"           : "Vote now: %{title}",
-    "twitter-title"   : "Vote now: %{title} %{option1} or %{option2}"
+    "twitter-title"   : "Vote now: %{title} %{option1} or %{option2}",
+    "boombox-caption" : "WWW.BOOMBOX.COM",
+    "embed-poll"      : "Embed this poll",
+    "link-poll"       : "Link to this poll",
+    "poll_caption": "WWW.POLLCASTER.COM",
+    "poll_description_default": "Vote to see how you compare to the rest of the world.",
+    "poll_description_options": "%{option1} or %{option2}",
+    "poll_hashtags": "poll",
+    "poll_title": "Vote now: %{title}",
+    "poll_twitter_title_default": "Vote now: %{title}. See how you compare to the rest of the world.",
+    "poll_twitter_title_options": "Vote now: %{title} %{option1} or %{option2}",
+    "share_poll"      : "Share this poll"
   },
   "human_readable_numbers": {
     "billion"  : "%{value}B",
