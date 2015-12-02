@@ -20,6 +20,11 @@
     "default": "Copy text"
   },
   "sharing": {
+    "caption": "WWW.BOOMBOX.COM",
+    "description_default": "Check out this list.",
+    "hashtags": "list",
+    "title_default": "Check out %{title} on WWW.BOOMBOX.COM",
+    "twitter_title_default": "Check out %{title} on WWW.BOOMBOX.COM %{url}",
     "link-list"   : "Link to this list",
     "list_caption": "WWW.BOOMBOX.COM",
     "list_description": "Make your own lists for free on BOOMBOX, the world's most engaging content platform.",
