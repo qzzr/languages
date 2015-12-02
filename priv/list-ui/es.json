@@ -23,10 +23,14 @@
         "caption": "WWW.BOOMBOX.COM",
         "description_default": "\u00c9chale un vistazo a esta lista",
         "hashtags": "lista",
-        "share": "Compartir",
-        "share_on": "Compartir en %{name}",
         "title_default": "\u00c9chale un vistazo a %{title} en WWW.BOOMBOX.COM",
-        "twitter_title_default": "\u00c9chale un vistazo a %{title} en WWW.BOOMBOX.COM %{url}"
+        "twitter_title_default": "\u00c9chale un vistazo a %{title} en WWW.BOOMBOX.COM %{url}",
+        "list_description": "\u00c9chale un vistazo a esta lista",
+        "list_hashtags": "lista",
+        "list_title": "\u00c9chale un vistazo a %{title} en WWW.BOOMBOX.COM",
+        "list_twitter_title": "\u00c9chale un vistazo a %{title} en WWW.BOOMBOX.COM %{url}",
+        "share": "Compartir",
+        "share_on": "Compartir en %{name}"
     },
     "vote": {
         "dislike": "No me gusta",

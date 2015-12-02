@@ -23,10 +23,14 @@
         "caption": "WWW.BOOMBOX.COM",
         "description_default": "Provjeri ovaj popis",
         "hashtags": "popis",
-        "share": "Dijeli",
-        "share_on": "Dijeli na %{name}",
         "title_default": "Provjeri %{title} na WWW.BOOMBOX.COM",
-        "twitter_title_default": "Provjeri %{title} na WWW.BOOMBOX.COM %{url}"
+        "twitter_title_default": "Provjeri %{title} na WWW.BOOMBOX.COM %{url}",
+        "list_description": "Provjeri ovaj popis",
+        "list_hashtags": "popis",
+        "list_title": "Provjeri %{title} na WWW.BOOMBOX.COM",
+        "list_twitter_title": "Provjeri %{title} na WWW.BOOMBOX.COM %{url}",
+        "share": "Dijeli",
+        "share_on": "Dijeli na %{name}"
     },
     "vote": {
         "dislike": "Ne svi\u0111ami se",

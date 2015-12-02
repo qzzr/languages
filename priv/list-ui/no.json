@@ -23,10 +23,14 @@
         "caption": "WWW.BOOMBOX.COM",
         "description_default": "Sjekk denne listen.",
         "hashtags": "liste",
-        "share": "Del",
-        "share_on": "Del p\u00e5 %{name}",
         "title_default": "Sjekk %{title} p\u00e5 WWW.BOOMBOX.COM",
-        "twitter_title_default": "Sjekk %{title} p\u00e5 WWW.BOOMBOX.COM %{url}"
+        "twitter_title_default": "Sjekk %{title} p\u00e5 WWW.BOOMBOX.COM %{url}",
+        "list_description": "Sjekk denne listen.",
+        "list_hashtags": "liste",
+        "list_title": "Sjekk %{title} p\u00e5 WWW.BOOMBOX.COM",
+        "list_twitter_title": "Sjekk %{title} p\u00e5 WWW.BOOMBOX.COM %{url}",
+        "share": "Del",
+        "share_on": "Del p\u00e5 %{name}"
     },
     "vote": {
         "dislike": "Slutt \u00e5 lik",

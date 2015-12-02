@@ -23,10 +23,14 @@
         "caption": "WWW.BOOMBOX.COM",
         "description_default": "Lihatlah daftar ini.",
         "hashtags": "daftar",
-        "share": "Bagikan",
-        "share_on": "Bagikan di %{name}",
         "title_default": "Lihatlah %{title} di WWW.BOOMBOX.COM",
-        "twitter_title_default": "Lihatlah %{title} di WWW.BOOMBOX.COM %{url}"
+        "twitter_title_default": "Lihatlah %{title} di WWW.BOOMBOX.COM %{url}",
+        "list_description": "Lihatlah daftar ini.",
+        "list_hashtags": "daftar",
+        "list_title": "Lihatlah %{title} di WWW.BOOMBOX.COM",
+        "list_twitter_title": "Lihatlah %{title} di WWW.BOOMBOX.COM %{url}",
+        "share": "Bagikan",
+        "share_on": "Bagikan di %{name}"
     },
     "vote": {
         "dislike": "Tidak Suka",

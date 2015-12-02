@@ -23,10 +23,14 @@
         "caption": "WWW.BOOMBOX.COM",
         "description_default": "Pozrite si tento zoznam.",
         "hashtags": "zoznam",
-        "share": "Zdie\u013ea\u0165",
-        "share_on": "Zdie\u013ea\u0165 cez %{name}",
         "title_default": "Pozrite si %{title} na WWW.BOOMBOX.COM",
-        "twitter_title_default": "Pozrite si %{title} na WWW.BOOMBOX.COM %{url}"
+        "twitter_title_default": "Pozrite si %{title} na WWW.BOOMBOX.COM %{url}",
+        "list_description": "Pozrite si tento zoznam.",
+        "list_hashtags": "zoznam",
+        "list_title": "Pozrite si %{title} na WWW.BOOMBOX.COM",
+        "list_twitter_title": "Pozrite si %{title} na WWW.BOOMBOX.COM %{url}",
+        "share": "Zdie\u013ea\u0165",
+        "share_on": "Zdie\u013ea\u0165 cez %{name}"
     },
     "vote": {
         "dislike": "Nep\u00e1\u010di sa mi to",

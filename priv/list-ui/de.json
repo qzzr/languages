@@ -23,10 +23,14 @@
         "caption": "WWW.BOOMBOX.COM",
         "description_default": "Sieh dir diese Liste an.",
         "hashtags": "Liste",
-        "share": "Teilen",
-        "share_on": "Auf %{name} teilen",
         "title_default": "Sieh dir %{title} auf WWW.BOOMBOX.COM an",
-        "twitter_title_default": "Sieh dir %{title} auf WWW.BOOMBOX.COM %{url} an"
+        "twitter_title_default": "Sieh dir %{title} auf WWW.BOOMBOX.COM %{url} an",
+        "list_description": "Sieh dir diese Liste an.",
+        "list_hashtags": "Liste",
+        "list_title": "Sieh dir %{title} auf WWW.BOOMBOX.COM an",
+        "list_twitter_title": "Sieh dir %{title} auf WWW.BOOMBOX.COM %{url} an",
+        "share": "Teilen",
+        "share_on": "Auf %{name} teilen"
     },
     "vote": {
         "dislike": "Gef\u00e4llt mir nicht",

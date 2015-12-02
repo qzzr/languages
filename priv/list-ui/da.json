@@ -23,10 +23,14 @@
         "caption": "WWW.BOOMBOX.COM",
         "description_default": "Se min liste",
         "hashtags": "liste",
-        "share": "Del",
-        "share_on": "Del p\u00e5 %{name}",
         "title_default": "Se ind p\u00e5 %{title} p\u00e5 WWW.BOOMBOX.COM",
-        "twitter_title_default": "Se ind p\u00e5 %{title} p\u00e5 WWW.BOOMBOX.COM %{url}"
+        "twitter_title_default": "Se ind p\u00e5 %{title} p\u00e5 WWW.BOOMBOX.COM %{url}",
+        "list_description": "Se min liste",
+        "list_hashtags": "liste",
+        "list_title": "Se ind p\u00e5 %{title} p\u00e5 WWW.BOOMBOX.COM",
+        "list_twitter_title": "Se ind p\u00e5 %{title} p\u00e5 WWW.BOOMBOX.COM %{url}",
+        "share": "Del",
+        "share_on": "Del p\u00e5 %{name}"
     },
     "vote": {
         "dislike": "Synes ikke om",

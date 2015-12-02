@@ -26,7 +26,13 @@
         "share": "Udost\u0119pnij",
         "share_on": "Udost\u0119pnij w: %{name}",
         "title_default": "Sprawd\u017a %{title} na WWW.BOOMBOX.COM",
-        "twitter_title_default": "Sprawd\u017a %{title} na WWW.BOOMBOX.COM %{url}"
+        "twitter_title_default": "Sprawd\u017a %{title} na WWW.BOOMBOX.COM %{url}",
+        "list_description": "Sprawd\u017a t\u0119 list\u0119",
+        "list_hashtags": "lista",
+        "list_title": "Sprawd\u017a %{title} na WWW.BOOMBOX.COM",
+        "list_twitter_title": "Sprawd\u017a %{title} na WWW.BOOMBOX.COM %{url}",
+        "share": "Udost\u0119pnij",
+        "share_on": "Udost\u0119pnij w: %{name}"
     },
     "vote": {
         "dislike": "Nie lubi\u0119",

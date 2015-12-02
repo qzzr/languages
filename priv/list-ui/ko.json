@@ -23,10 +23,14 @@
         "caption": "WWW.BOOMBOX.COM",
         "description_default": "\uc774 \ubaa9\ub85d\uc744 \ud655\uc778\ud574\ubcf4\uc138\uc694.",
         "hashtags": "\ubaa9\ub85d",
-        "share": "\uacf5\uc720",
-        "share_on": "%{name}\uc5d0\uc11c \uacf5\uc720",
         "title_default": "WWW.BOOMBOX.COM\uc5d0\uc11c %{title}\uc744(\ub97c) \ud655\uc778\ud574\ubcf4\uc138\uc694.",
-        "twitter_title_default": "WWW.BOOMBOX.COM %{url}\uc5d0\uc11c %{title}\uc744(\ub97c) \ud655\uc778\ud574\ubcf4\uc138\uc694."
+        "twitter_title_default": "WWW.BOOMBOX.COM %{url}\uc5d0\uc11c %{title}\uc744(\ub97c) \ud655\uc778\ud574\ubcf4\uc138\uc694.",
+        "list_description": "\uc774 \ubaa9\ub85d\uc744 \ud655\uc778\ud574\ubcf4\uc138\uc694.",
+        "list_hashtags": "\ubaa9\ub85d",
+        "list_title": "WWW.BOOMBOX.COM\uc5d0\uc11c %{title}\uc744(\ub97c) \ud655\uc778\ud574\ubcf4\uc138\uc694.",
+        "list_twitter_title": "WWW.BOOMBOX.COM %{url}\uc5d0\uc11c %{title}\uc744(\ub97c) \ud655\uc778\ud574\ubcf4\uc138\uc694.",
+        "share": "\uacf5\uc720",
+        "share_on": "%{name}\uc5d0\uc11c \uacf5\uc720"
     },
     "vote": {
         "dislike": "\uc88b\uc544\uc694 \ucde8\uc18c",

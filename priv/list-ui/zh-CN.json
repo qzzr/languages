@@ -23,10 +23,14 @@
         "caption": "WWW.BOOMBOX.COM",
         "description_default": "\u770b\u770b\u8fd9\u4efd\u699c\u5355\u3002",
         "hashtags": "\u699c\u5355",
-        "share": "\u5206\u4eab",
-        "share_on": "\u5206\u4eab\u5230%{name}",
         "title_default": "\u4e0aWWW.BOOMBOX.COM\u67e5\u770b%{title}",
-        "twitter_title_default": "\u4e0aWWW.BOOMBOX.COM\u67e5\u770b%{title} %{url}"
+        "twitter_title_default": "\u4e0aWWW.BOOMBOX.COM\u67e5\u770b%{title} %{url}",
+        "list_description": "\u770b\u770b\u8fd9\u4efd\u699c\u5355\u3002",
+        "list_hashtags": "\u699c\u5355",
+        "list_title": "\u4e0aWWW.BOOMBOX.COM\u67e5\u770b%{title}",
+        "list_twitter_title": "\u4e0aWWW.BOOMBOX.COM\u67e5\u770b%{title} %{url}",
+        "share": "\u5206\u4eab",
+        "share_on": "\u5206\u4eab\u5230%{name}"
     },
     "vote": {
         "dislike": "\u8e29",

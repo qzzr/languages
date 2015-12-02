@@ -23,10 +23,14 @@
         "caption": "WWW.BOOMBOX.COM",
         "description_default": "Confira esta lista.",
         "hashtags": "lista",
-        "share": "Compartilhar",
-        "share_on": "Compartilhar no %{name}",
         "title_default": "Confira %{title} no WWW.BOOMBOX.COM",
-        "twitter_title_default": "Confira %{title} no WWW.BOOMBOX.COM %{url}"
+        "twitter_title_default": "Confira %{title} no WWW.BOOMBOX.COM %{url}",
+        "list_description": "Confira esta lista.",
+        "list_hashtags": "lista",
+        "list_title": "Confira %{title} no WWW.BOOMBOX.COM",
+        "list_twitter_title": "Confira %{title} no WWW.BOOMBOX.COM %{url}",
+        "share": "Compartilhar",
+        "share_on": "Compartilhar no %{name}"
     },
     "vote": {
         "dislike": "N\u00e3o curti",

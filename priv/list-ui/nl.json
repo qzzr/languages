@@ -23,10 +23,14 @@
         "caption": "WWW.BOOMBOX.COM",
         "description_default": "Check deze lijst.",
         "hashtags": "lijst",
-        "share": "Delen",
-        "share_on": "Deel op %{name}",
         "title_default": "Check %{title} op WWW.BOOMBOX.COM",
-        "twitter_title_default": "Check %{title} op WWW.BOOMBOX.COM %{url}"
+        "twitter_title_default": "Check %{title} op WWW.BOOMBOX.COM %{url}",
+        "list_description": "Check deze lijst.",
+        "list_hashtags": "lijst",
+        "list_title": "Check %{title} op WWW.BOOMBOX.COM",
+        "list_twitter_title": "Check %{title} op WWW.BOOMBOX.COM %{url}",
+        "share": "Delen",
+        "share_on": "Deel op %{name}"
     },
     "vote": {
         "dislike": "Niet leuk",
