@@ -1,70 +1,74 @@
 {
-    "breakdown": {
-        "by_region": "PO REGIJI",
-        "by_age": "PO DOBI",
-        "by_gender": "PO SPOLU",
-        "other": "Drugo",
-        "your_selection": "Va\u0161 odabir"
-    },
-    "by_region": {
-        "nearby": "u blizini",
-        "country": "dr\u017eava",
-        "world": "svijet"
-    },
-    "collect_info": {
-        "female": "\u017denski",
-        "how_old_are_you": "Koliko imate godina?",
-        "male": "Mu\u0161ki",
-        "see_the_breakdown": "Pogledajte analizu",
-        "skip": "Presko\u010di",
-        "subtitle": "Va\u0161i su podaci anonimni.",
-        "title": "Provjerite usporedbu s ostatkom svijeta.",
-        "whats_your_gender": "Kojeg ste spola?",
-        "years": "god."
-    },
-    "map": {
-        "your_selection": "Va\u0161 odabir",
-        "other": "Drugo"
-    },
-    "poll": {
-        "embed_poll": "Umetnite ovu anketu",
-        "link_poll": "Veza na ovu anketu",
-        "made_with": "Sastavljeno putem",
-        "share_poll": "Podijelite ovu anketu"
-    },
-    "question": {
-        "by_categories": "po regiji, dobi i spolu",
-        "see_the_breakdown": "POGLEDAJTE ANALIZU",
-        "vote_now": "glasujte odmah",
-        "num_votes": {
-            "0": "Nema glasova",
-            "one": "1 glas",
-            "few": "%{count} votes",
-            "other": "%{count} glasa\/glasova"
-        }
-    },
-    "select_text": {
-        "keyboard": "Za kopiranje pritisnite %{key}",
-        "default": "Kopirajte tekst"
-    },
-    "sharing": {
-        "title": "Glasujte odmah: %{title}",
-        "description": "%{option1} ili %{option2}",
-        "caption": "WWW.POLLCASTER.COM",
-        "boombox-caption": "WWW.BOOMBOX.COM",
-        "twitter-title": "Glasujte odmah: %{title} %{option1} ili %{option2}",
-        "hashtags": "anketa",
-        "share-poll": "Podijelite ovu anketu",
-        "link-poll": "Veza na ovu anketu",
-        "embed-poll": "Umetnite ovu anketu"
-    },
-    "human_readable_numbers": {
-        "billion": "%{value} mlrd.",
-        "million": "%{value} mil.",
-        "thousand": "%{value} tis.",
-        "trillion": "%{value} tril."
-    },
-    "browser_alert": {
-        "message": "Va\u0161 preglednik nije podr\u017ean. Odaberite %{browser : supported browser}"
+  "breakdown": {
+    "by_region": "PO REGIJI",
+    "by_age": "PO DOBI",
+    "by_gender": "PO SPOLU",
+    "other": "Drugo",
+    "your_selection": "Va\u0161 odabir"
+  },
+  "by_region": {
+    "nearby": "u blizini",
+    "country": "dr\u017eava",
+    "world": "svijet"
+  },
+  "collect_info": {
+    "female": "\u017denski",
+    "how_old_are_you": "Koliko imate godina?",
+    "male": "Mu\u0161ki",
+    "see_the_breakdown": "Pogledajte analizu",
+    "skip": "Presko\u010di",
+    "subtitle": "Va\u0161i su podaci anonimni.",
+    "title": "Provjerite usporedbu s ostatkom svijeta.",
+    "whats_your_gender": "Kojeg ste spola?",
+    "years": "god."
+  },
+  "map": {
+    "your_selection": "Va\u0161 odabir",
+    "other": "Drugo"
+  },
+  "poll": {
+    "embed_poll": "Umetnite ovu anketu",
+    "link_poll": "Veza na ovu anketu",
+    "made_with": "Sastavljeno putem",
+    "share_poll": "Podijelite ovu anketu"
+  },
+  "question": {
+    "by_categories": "po regiji, dobi i spolu",
+    "see_the_breakdown": "POGLEDAJTE ANALIZU",
+    "vote_now": "glasujte odmah",
+    "num_votes": {
+      "0": "Nema glasova",
+      "one": "1 glas",
+      "few": "%{count} votes",
+      "other": "%{count} glasa\/glasova"
     }
+  },
+  "select_text": {
+    "keyboard": "Za kopiranje pritisnite %{key}",
+    "default": "Kopirajte tekst"
+  },
+  "sharing": {
+    "caption": {
+      "pollcaster": "WWW.POLLCASTER.COM",
+      "boombox": "WWW.BOOMBOX.COM"
+    },
+    "boombox-caption": "WWW.BOOMBOX.COM",
+    "description": "%{option1} ili %{option2}",
+    "hashtags": "anketa",
+    "title": "Glasujte odmah: %{title}",
+    "twitter-title": "Glasujte odmah: %{title} %{option1} ili %{option2}",
+    "poll_description_options": "%{option1} ili %{option2}",
+    "poll_hashtags": "anketa",
+    "poll_title": "Glasujte odmah: %{title}",
+    "poll_twitter_title_options": "Glasujte odmah: %{title} %{option1} ili %{option2}"
+  },
+  "human_readable_numbers": {
+    "billion": "%{value} mlrd.",
+    "million": "%{value} mil.",
+    "thousand": "%{value} tis.",
+    "trillion": "%{value} tril."
+  },
+  "browser_alert": {
+    "message": "Va\u0161 preglednik nije podr\u017ean. Odaberite %{browser : supported browser}"
+  }
 }

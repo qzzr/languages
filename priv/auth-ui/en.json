@@ -53,7 +53,7 @@
     "sister": "Log into %{product}",
     "submit": "Log in",
     "title": "Log in",
-    "facebook_login":"Looking for Facebook login?",
+    "facebook_login": "Looking for Facebook login?",
     "existing_account": "Already have a %{sister} account?",
     "existing_sisters": "Already have a %{sister_one} or %{sister_two} account?",
     "login_above": "Log in above using your existing information.",

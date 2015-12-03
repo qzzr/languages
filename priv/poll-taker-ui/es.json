@@ -1,69 +1,73 @@
 {
-    "breakdown": {
-        "by_region": "POR REGI\u00d3N",
-        "by_age": "POR EDAD",
-        "by_gender": "POR G\u00c9NERO",
-        "other": "Otra opci\u00f3n",
-        "your_selection": "Tu selecci\u00f3n"
-    },
-    "by_region": {
-        "nearby": "pr\u00f3xima",
-        "country": "pa\u00eds",
-        "world": "mundo"
-    },
-    "collect_info": {
-        "female": "Mujer",
-        "how_old_are_you": "\u00bfCu\u00e1ntos a\u00f1os tienes?",
-        "male": "Hombre",
-        "see_the_breakdown": "Ver el an\u00e1lisis",
-        "skip": "Saltar",
-        "subtitle": "Tu informaci\u00f3n es an\u00f3nima.",
-        "title": "Ve tu comparaci\u00f3n con el resto del mundo.",
-        "whats_your_gender": "\u00bfCu\u00e1l es tu g\u00e9nero?",
-        "years": "a\u00f1os"
-    },
-    "map": {
-        "your_selection": "Tu selecci\u00f3n",
-        "other": "Otra opci\u00f3n"
-    },
-    "poll": {
-        "embed_poll": "Incrustar esta encuesta",
-        "link_poll": "Enlace a esta encuesta",
-        "made_with": "Hecho con",
-        "share_poll": "Compartir esta encuesta"
-    },
-    "question": {
-        "by_categories": "por regi\u00f3n, edad y g\u00e9nero",
-        "see_the_breakdown": "VER EL AN\u00c1LISIS",
-        "vote_now": "votar ahora",
-        "num_votes": {
-            "0": "Sin votos",
-            "one": "1 voto",
-            "other": "%{count} votos"
-        }
-    },
-    "select_text": {
-        "keyboard": "Pulsa %{key} para copiar",
-        "default": "Copiar texto"
-    },
-    "sharing": {
-        "title": "Votar ahora: %{title}",
-        "description": "%{option1} o %{option2}",
-        "caption": "WWW.POLLCASTER.COM",
-        "boombox-caption": "WWW.BOOMBOX.COM",
-        "twitter-title": "Votar ahora: %{title} %{option1} o %{option2}",
-        "hashtags": "encuesta",
-        "share-poll": "Compartir esta encuesta",
-        "link-poll": "Enlace a esta encuesta",
-        "embed-poll": "Incrustar esta encuesta"
-    },
-    "human_readable_numbers": {
-        "billion": "%{value}B",
-        "million": "%{value}M",
-        "thousand": "%{value}k",
-        "trillion": "%{value}T"
-    },
-    "browser_alert": {
-        "message": "Tu navegador no es compatible. Utiliza un %{browser : supported browser}"
+  "breakdown": {
+    "by_region": "POR REGI\u00d3N",
+    "by_age": "POR EDAD",
+    "by_gender": "POR G\u00c9NERO",
+    "other": "Otra opci\u00f3n",
+    "your_selection": "Tu selecci\u00f3n"
+  },
+  "by_region": {
+    "nearby": "pr\u00f3xima",
+    "country": "pa\u00eds",
+    "world": "mundo"
+  },
+  "collect_info": {
+    "female": "Mujer",
+    "how_old_are_you": "\u00bfCu\u00e1ntos a\u00f1os tienes?",
+    "male": "Hombre",
+    "see_the_breakdown": "Ver el an\u00e1lisis",
+    "skip": "Saltar",
+    "subtitle": "Tu informaci\u00f3n es an\u00f3nima.",
+    "title": "Ve tu comparaci\u00f3n con el resto del mundo.",
+    "whats_your_gender": "\u00bfCu\u00e1l es tu g\u00e9nero?",
+    "years": "a\u00f1os"
+  },
+  "map": {
+    "your_selection": "Tu selecci\u00f3n",
+    "other": "Otra opci\u00f3n"
+  },
+  "poll": {
+    "embed_poll": "Incrustar esta encuesta",
+    "link_poll": "Enlace a esta encuesta",
+    "made_with": "Hecho con",
+    "share_poll": "Compartir esta encuesta"
+  },
+  "question": {
+    "by_categories": "por regi\u00f3n, edad y g\u00e9nero",
+    "see_the_breakdown": "VER EL AN\u00c1LISIS",
+    "vote_now": "votar ahora",
+    "num_votes": {
+      "0": "Sin votos",
+      "one": "1 voto",
+      "other": "%{count} votos"
     }
+  },
+  "select_text": {
+    "keyboard": "Pulsa %{key} para copiar",
+    "default": "Copiar texto"
+  },
+  "sharing": {
+    "caption": {
+      "pollcaster": "WWW.POLLCASTER.COM",
+      "boombox": "WWW.BOOMBOX.COM"
+    },
+    "boombox-caption": "WWW.BOOMBOX.COM",
+    "description": "%{option1} o %{option2}",
+    "hashtags": "encuesta",
+    "title": "Votar ahora: %{title}",
+    "twitter-title": "Votar ahora: %{title} %{option1} o %{option2}",
+    "poll_title": "Votar ahora: %{title}",
+    "poll_description_options": "%{option1} o %{option2}",
+    "poll_hashtags": "encuesta",
+    "poll_twitter_title_options": "Votar ahora: %{title} %{option1} o %{option2}"
+  },
+  "human_readable_numbers": {
+    "billion": "%{value}B",
+    "million": "%{value}M",
+    "thousand": "%{value}k",
+    "trillion": "%{value}T"
+  },
+  "browser_alert": {
+    "message": "Tu navegador no es compatible. Utiliza un %{browser : supported browser}"
+  }
 }

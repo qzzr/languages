@@ -1,38 +1,42 @@
 {
-    "analysis": {
-        "readers_choice": "\ub3c5\uc790\uc758 \uc120\ud0dd",
-        "our_list": "\ucd94\ucc9c \ubaa9\ub85d",
-        "sort_by": "\uc815\ub82c"
-    },
-    "analysis_item": {
-        "hide": "\uc228\uae30\uae30",
-        "view": "\ubcf4\uae30"
-    },
-    "browser_alert": {
-        "message": "Your browser is not supported. please use a %{browser : supported browser}"
-    },
-    "list": {
-        "made_with": "\uc81c\uc791",
-        "see_readers_choice": "\ub3c5\uc790\uc758 \uc120\ud0dd \ubcf4\uae30"
-    },
-    "select_text": {
-        "keyboard": "%{key} \ud0a4\ub97c \ub20c\ub7ec \ubcf5\uc0ac",
-        "default": "\ud14d\uc2a4\ud2b8 \ubcf5\uc0ac"
-    },
-    "sharing": {
-        "caption": "WWW.BOOMBOX.COM",
-        "description_default": "\uc774 \ubaa9\ub85d\uc744 \ud655\uc778\ud574\ubcf4\uc138\uc694.",
-        "hashtags": "\ubaa9\ub85d",
-        "share": "\uacf5\uc720",
-        "share_on": "%{name}\uc5d0\uc11c \uacf5\uc720",
-        "title_default": "WWW.BOOMBOX.COM\uc5d0\uc11c %{title}\uc744(\ub97c) \ud655\uc778\ud574\ubcf4\uc138\uc694.",
-        "twitter_title_default": "WWW.BOOMBOX.COM %{url}\uc5d0\uc11c %{title}\uc744(\ub97c) \ud655\uc778\ud574\ubcf4\uc138\uc694."
-    },
-    "vote": {
-        "dislike": "\uc88b\uc544\uc694 \ucde8\uc18c",
-        "like": "\uc88b\uc544\uc694",
-        "readers_choice": "\ub3c5\uc790\uc758 \uc120\ud0dd",
-        "readers_opinion": "Readers' opinion",
-        "view": "\ubcf4\uae30"
-    }
+  "analysis": {
+    "readers_choice": "\ub3c5\uc790\uc758 \uc120\ud0dd",
+    "our_list": "\ucd94\ucc9c \ubaa9\ub85d",
+    "sort_by": "\uc815\ub82c"
+  },
+  "analysis_item": {
+    "hide": "\uc228\uae30\uae30",
+    "view": "\ubcf4\uae30"
+  },
+  "browser_alert": {
+    "message": "Your browser is not supported. please use a %{browser : supported browser}"
+  },
+  "list": {
+    "made_with": "\uc81c\uc791",
+    "see_readers_choice": "\ub3c5\uc790\uc758 \uc120\ud0dd \ubcf4\uae30"
+  },
+  "select_text": {
+    "keyboard": "%{key} \ud0a4\ub97c \ub20c\ub7ec \ubcf5\uc0ac",
+    "default": "\ud14d\uc2a4\ud2b8 \ubcf5\uc0ac"
+  },
+  "sharing": {
+    "caption": "WWW.BOOMBOX.COM",
+    "description_default": "\uc774 \ubaa9\ub85d\uc744 \ud655\uc778\ud574\ubcf4\uc138\uc694.",
+    "hashtags": "\ubaa9\ub85d",
+    "title_default": "WWW.BOOMBOX.COM\uc5d0\uc11c %{title}\uc744(\ub97c) \ud655\uc778\ud574\ubcf4\uc138\uc694.",
+    "twitter_title_default": "WWW.BOOMBOX.COM %{url}\uc5d0\uc11c %{title}\uc744(\ub97c) \ud655\uc778\ud574\ubcf4\uc138\uc694.",
+    "list_description": "\uc774 \ubaa9\ub85d\uc744 \ud655\uc778\ud574\ubcf4\uc138\uc694.",
+    "list_hashtags": "\ubaa9\ub85d",
+    "list_title": "WWW.BOOMBOX.COM\uc5d0\uc11c %{title}\uc744(\ub97c) \ud655\uc778\ud574\ubcf4\uc138\uc694.",
+    "list_twitter_title": "WWW.BOOMBOX.COM\uc5d0\uc11c %{title}\uc744(\ub97c) \ud655\uc778\ud574\ubcf4\uc138\uc694.",
+    "share": "\uacf5\uc720",
+    "share_on": "%{name}\uc5d0\uc11c \uacf5\uc720"
+  },
+  "vote": {
+    "dislike": "\uc88b\uc544\uc694 \ucde8\uc18c",
+    "like": "\uc88b\uc544\uc694",
+    "readers_choice": "\ub3c5\uc790\uc758 \uc120\ud0dd",
+    "readers_opinion": "Readers' opinion",
+    "view": "\ubcf4\uae30"
+  }
 }

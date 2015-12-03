@@ -1,38 +1,42 @@
 {
-    "analysis": {
-        "readers_choice": "Okuyucular\u0131n se\u00e7imi",
-        "our_list": "Bizim listemiz",
-        "sort_by": "S\u0131ralama \u00f6l\u00e7\u00fct\u00fc"
-    },
-    "analysis_item": {
-        "hide": "Gizle",
-        "view": "G\u00f6ster"
-    },
-    "browser_alert": {
-        "message": "Your browser is not supported. please use a %{browser : supported browser}"
-    },
-    "list": {
-        "made_with": "\u015eununla haz\u0131rland\u0131: ",
-        "see_readers_choice": "Okuyucular\u0131n se\u00e7imini g\u00f6r"
-    },
-    "select_text": {
-        "keyboard": "Kopyalamak i\u00e7in %{key} tu\u015funa bas\u0131n",
-        "default": "Metni kopyala"
-    },
-    "sharing": {
-        "caption": "WWW.BOOMBOX.COM",
-        "description_default": "\u015eu listeye bir g\u00f6z at.",
-        "hashtags": "liste",
-        "share": "Payla\u015f",
-        "share_on": "\u015eurada payla\u015f: %{name}",
-        "title_default": "WWW.BOOMBOX.COM'da %{title}'a bir g\u00f6z at",
-        "twitter_title_default": "WWW.BOOMBOX.COM %{url}adresinde %{title}'a bir g\u00f6z at"
-    },
-    "vote": {
-        "dislike": "Be\u011fenme",
-        "like": "Be\u011fen",
-        "readers_choice": "Okuyucular\u0131n se\u00e7imi",
-        "readers_opinion": "Readers' opinion",
-        "view": "G\u00f6ster"
-    }
+  "analysis": {
+    "readers_choice": "Okuyucular\u0131n se\u00e7imi",
+    "our_list": "Bizim listemiz",
+    "sort_by": "S\u0131ralama \u00f6l\u00e7\u00fct\u00fc"
+  },
+  "analysis_item": {
+    "hide": "Gizle",
+    "view": "G\u00f6ster"
+  },
+  "browser_alert": {
+    "message": "Your browser is not supported. please use a %{browser : supported browser}"
+  },
+  "list": {
+    "made_with": "\u015eununla haz\u0131rland\u0131: ",
+    "see_readers_choice": "Okuyucular\u0131n se\u00e7imini g\u00f6r"
+  },
+  "select_text": {
+    "keyboard": "Kopyalamak i\u00e7in %{key} tu\u015funa bas\u0131n",
+    "default": "Metni kopyala"
+  },
+  "sharing": {
+    "caption": "WWW.BOOMBOX.COM",
+    "description_default": "\u015eu listeye bir g\u00f6z at.",
+    "hashtags": "liste",
+    "title_default": "WWW.BOOMBOX.COM'da %{title}'a bir g\u00f6z at",
+    "twitter_title_default": "WWW.BOOMBOX.COM %{url}adresinde %{title}'a bir g\u00f6z at",
+    "list_description": "\u015eu listeye bir g\u00f6z at.",
+    "list_hashtags": "liste",
+    "list_title": "WWW.BOOMBOX.COM'da %{title}'a bir g\u00f6z at",
+    "list_twitter_title": "WWW.BOOMBOX.COM'da %{title}'a bir g\u00f6z at",
+    "share": "Payla\u015f",
+    "share_on": "\u015eurada payla\u015f: %{name}"
+  },
+  "vote": {
+    "dislike": "Be\u011fenme",
+    "like": "Be\u011fen",
+    "readers_choice": "Okuyucular\u0131n se\u00e7imi",
+    "readers_opinion": "Readers' opinion",
+    "view": "G\u00f6ster"
+  }
 }

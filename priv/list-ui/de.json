@@ -1,38 +1,42 @@
 {
-    "analysis": {
-        "readers_choice": "Leserempfehlung",
-        "our_list": "Unsere Liste",
-        "sort_by": "Sortieren nach"
-    },
-    "analysis_item": {
-        "hide": "Verbergen",
-        "view": "Ansehen"
-    },
-    "browser_alert": {
-        "message": "Your browser is not supported. please use a %{browser : supported browser}"
-    },
-    "list": {
-        "made_with": "Hergestellt mit",
-        "see_readers_choice": "Leserempfehlung ansehen"
-    },
-    "select_text": {
-        "keyboard": "%{key} zum Kopieren dr\u00fccken",
-        "default": "Text kopieren"
-    },
-    "sharing": {
-        "caption": "WWW.BOOMBOX.COM",
-        "description_default": "Sieh dir diese Liste an.",
-        "hashtags": "Liste",
-        "share": "Teilen",
-        "share_on": "Auf %{name} teilen",
-        "title_default": "Sieh dir %{title} auf WWW.BOOMBOX.COM an",
-        "twitter_title_default": "Sieh dir %{title} auf WWW.BOOMBOX.COM %{url} an"
-    },
-    "vote": {
-        "dislike": "Gef\u00e4llt mir nicht",
-        "like": "Gef\u00e4llt mir",
-        "readers_choice": "Leserempfehlung",
-        "readers_opinion": "Readers' opinion",
-        "view": "Ansehen"
-    }
+  "analysis": {
+    "readers_choice": "Leserempfehlung",
+    "our_list": "Unsere Liste",
+    "sort_by": "Sortieren nach"
+  },
+  "analysis_item": {
+    "hide": "Verbergen",
+    "view": "Ansehen"
+  },
+  "browser_alert": {
+    "message": "Your browser is not supported. please use a %{browser : supported browser}"
+  },
+  "list": {
+    "made_with": "Hergestellt mit",
+    "see_readers_choice": "Leserempfehlung ansehen"
+  },
+  "select_text": {
+    "keyboard": "%{key} zum Kopieren dr\u00fccken",
+    "default": "Text kopieren"
+  },
+  "sharing": {
+    "caption": "WWW.BOOMBOX.COM",
+    "description_default": "Sieh dir diese Liste an.",
+    "hashtags": "Liste",
+    "title_default": "Sieh dir %{title} auf WWW.BOOMBOX.COM an",
+    "twitter_title_default": "Sieh dir %{title} auf WWW.BOOMBOX.COM %{url} an",
+    "list_description": "Sieh dir diese Liste an.",
+    "list_hashtags": "Liste",
+    "list_title": "Sieh dir %{title} auf WWW.BOOMBOX.COM an",
+    "list_twitter_title": "Sieh dir %{title} auf WWW.BOOMBOX.COM an",
+    "share": "Teilen",
+    "share_on": "Auf %{name} teilen"
+  },
+  "vote": {
+    "dislike": "Gef\u00e4llt mir nicht",
+    "like": "Gef\u00e4llt mir",
+    "readers_choice": "Leserempfehlung",
+    "readers_opinion": "Readers' opinion",
+    "view": "Ansehen"
+  }
 }

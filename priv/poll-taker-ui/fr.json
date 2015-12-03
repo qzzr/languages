@@ -1,69 +1,73 @@
 {
-    "breakdown": {
-        "by_region": "PAR R\u00c9GION",
-        "by_age": "PAR \u00c2GE",
-        "by_gender": "PAR SEXE",
-        "other": "Autre option",
-        "your_selection": "Votre s\u00e9lection"
-    },
-    "by_region": {
-        "nearby": "\u00e0 proximit\u00e9",
-        "country": "pays",
-        "world": "monde"
-    },
-    "collect_info": {
-        "female": "Femme",
-        "how_old_are_you": "Veuillez indiquer votre \u00e2ge",
-        "male": "Homme",
-        "see_the_breakdown": "Voir la r\u00e9partition",
-        "skip": "Passer",
-        "subtitle": "Vos informations sont anonymes.",
-        "title": "Comparez vos informations avec le reste du monde.",
-        "whats_your_gender": "Veuillez indiquer votre sexe",
-        "years": "ans"
-    },
-    "map": {
-        "your_selection": "Votre s\u00e9lection",
-        "other": "Autre option"
-    },
-    "poll": {
-        "embed_poll": "Int\u00e9grer ce sondage",
-        "link_poll": "Lien vers ce sondage",
-        "made_with": "R\u00e9alis\u00e9 avec",
-        "share_poll": "Partager ce sondage"
-    },
-    "question": {
-        "by_categories": "par r\u00e9gion, \u00e2ge et sexe",
-        "see_the_breakdown": "VOIR LA R\u00c9PARTITION",
-        "vote_now": "voter maintenant",
-        "num_votes": {
-            "0": "Aucun vote",
-            "one": "1 vote",
-            "other": "%{count} votes"
-        }
-    },
-    "select_text": {
-        "keyboard": "Appuyer sur %{key} pour copier",
-        "default": "Copier le texte"
-    },
-    "sharing": {
-        "title": "Votez maintenant : %{title}",
-        "description": "%{option1} ou %{option2}",
-        "caption": "WWW.POLLCASTER.COM",
-        "boombox-caption": "WWW.BOOMBOX.COM",
-        "twitter-title": "Votez maintenant : %{title} %{option1} ou %{option2}",
-        "hashtags": "sondage",
-        "share-poll": "Partager ce sondage",
-        "link-poll": "Lien vers ce sondage",
-        "embed-poll": "Int\u00e9grer ce sondage"
-    },
-    "human_readable_numbers": {
-        "billion": "%{value}milliards",
-        "million": "%{value}millions",
-        "thousand": "%{value}milliers",
-        "trillion": "%{value}trillions"
-    },
-    "browser_alert": {
-        "message": "Votre navigateur n'est pas pris en charge. Veuillez utiliser %{browser : supported browser}"
+  "breakdown": {
+    "by_region": "PAR R\u00c9GION",
+    "by_age": "PAR \u00c2GE",
+    "by_gender": "PAR SEXE",
+    "other": "Autre option",
+    "your_selection": "Votre s\u00e9lection"
+  },
+  "by_region": {
+    "nearby": "\u00e0 proximit\u00e9",
+    "country": "pays",
+    "world": "monde"
+  },
+  "collect_info": {
+    "female": "Femme",
+    "how_old_are_you": "Veuillez indiquer votre \u00e2ge",
+    "male": "Homme",
+    "see_the_breakdown": "Voir la r\u00e9partition",
+    "skip": "Passer",
+    "subtitle": "Vos informations sont anonymes.",
+    "title": "Comparez vos informations avec le reste du monde.",
+    "whats_your_gender": "Veuillez indiquer votre sexe",
+    "years": "ans"
+  },
+  "map": {
+    "your_selection": "Votre s\u00e9lection",
+    "other": "Autre option"
+  },
+  "poll": {
+    "embed_poll": "Int\u00e9grer ce sondage",
+    "link_poll": "Lien vers ce sondage",
+    "made_with": "R\u00e9alis\u00e9 avec",
+    "share_poll": "Partager ce sondage"
+  },
+  "question": {
+    "by_categories": "par r\u00e9gion, \u00e2ge et sexe",
+    "see_the_breakdown": "VOIR LA R\u00c9PARTITION",
+    "vote_now": "voter maintenant",
+    "num_votes": {
+      "0": "Aucun vote",
+      "one": "1 vote",
+      "other": "%{count} votes"
     }
+  },
+  "select_text": {
+    "keyboard": "Appuyer sur %{key} pour copier",
+    "default": "Copier le texte"
+  },
+  "sharing": {
+    "caption": {
+      "pollcaster": "WWW.POLLCASTER.COM",
+      "boombox": "WWW.BOOMBOX.COM"
+    },
+    "boombox-caption": "WWW.BOOMBOX.COM",
+    "description": "%{option1} ou %{option2}",
+    "hashtags": "sondage",
+    "title": "Votez maintenant : %{title}",
+    "twitter-title": "Votez maintenant : %{title} %{option1} ou %{option2}",
+    "poll_description_options": "%{option1} ou %{option2}",
+    "poll_hashtags": "sondage",
+    "poll_title": "Votez maintenant : %{title}",
+    "poll_twitter_title_options": "Votez maintenant : %{title} %{option1} ou %{option2}"
+  },
+  "human_readable_numbers": {
+    "billion": "%{value}milliards",
+    "million": "%{value}millions",
+    "thousand": "%{value}milliers",
+    "trillion": "%{value}trillions"
+  },
+  "browser_alert": {
+    "message": "Votre navigateur n'est pas pris en charge. Veuillez utiliser %{browser : supported browser}"
+  }
 }

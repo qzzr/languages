@@ -1,69 +1,73 @@
 {
-    "breakdown": {
-        "by_region": "OP REGIO",
-        "by_age": "OP LEEFTIJD",
-        "by_gender": "OP GESLACHT",
-        "other": "Andere optie",
-        "your_selection": "Jouw selectie"
-    },
-    "by_region": {
-        "nearby": "nabij",
-        "country": "land",
-        "world": "wereld"
-    },
-    "collect_info": {
-        "female": "Vrouw",
-        "how_old_are_you": "Wat is je leeftijd?",
-        "male": "Man",
-        "see_the_breakdown": "Bekijk de uitsplitsing",
-        "skip": "Overslaan",
-        "subtitle": "Je info is anoniem.",
-        "title": "Vergelijk jezelf met de rest van de wereld.",
-        "whats_your_gender": "Wat is je geslacht?",
-        "years": "jaar"
-    },
-    "map": {
-        "your_selection": "Jouw selectie",
-        "other": "Andere optie"
-    },
-    "poll": {
-        "embed_poll": "Deze poll invoegen",
-        "link_poll": "Naar deze poll linken",
-        "made_with": "Gemaakt met",
-        "share_poll": "Deze poll delen"
-    },
-    "question": {
-        "by_categories": "op regio, leeftijd & geslacht",
-        "see_the_breakdown": "BEKIJK DE UITSPLITSING",
-        "vote_now": "stem nu",
-        "num_votes": {
-            "0": "Geen stemmen",
-            "one": "1 stem",
-            "other": "%{count} stemmen"
-        }
-    },
-    "select_text": {
-        "keyboard": "Druk op %{key} om te kopi\u00ebren",
-        "default": "Tekst kopi\u00ebren"
-    },
-    "sharing": {
-        "title": "Stem nu: %{title}",
-        "description": "%{option1} of %{option2}",
-        "caption": "WWW.POLLCASTER.COM",
-        "boombox-caption": "WWW.BOOMBOX.COM",
-        "twitter-title": "Stem nu: %{title} %{option1} of %{option2}",
-        "hashtags": "poll",
-        "share-poll": "Deze poll delen",
-        "link-poll": "Naar deze poll linken",
-        "embed-poll": "Deze poll invoegen"
-    },
-    "human_readable_numbers": {
-        "billion": "%{value} mjd",
-        "million": "%{value} mjn",
-        "thousand": "%{value}000",
-        "trillion": "%{value} bjn"
-    },
-    "browser_alert": {
-        "message": "Je browser wordt niet ondersteund, gebruik een %{browser : supported browser}"
+  "breakdown": {
+    "by_region": "OP REGIO",
+    "by_age": "OP LEEFTIJD",
+    "by_gender": "OP GESLACHT",
+    "other": "Andere optie",
+    "your_selection": "Jouw selectie"
+  },
+  "by_region": {
+    "nearby": "nabij",
+    "country": "land",
+    "world": "wereld"
+  },
+  "collect_info": {
+    "female": "Vrouw",
+    "how_old_are_you": "Wat is je leeftijd?",
+    "male": "Man",
+    "see_the_breakdown": "Bekijk de uitsplitsing",
+    "skip": "Overslaan",
+    "subtitle": "Je info is anoniem.",
+    "title": "Vergelijk jezelf met de rest van de wereld.",
+    "whats_your_gender": "Wat is je geslacht?",
+    "years": "jaar"
+  },
+  "map": {
+    "your_selection": "Jouw selectie",
+    "other": "Andere optie"
+  },
+  "poll": {
+    "embed_poll": "Deze poll invoegen",
+    "link_poll": "Naar deze poll linken",
+    "made_with": "Gemaakt met",
+    "share_poll": "Deze poll delen"
+  },
+  "question": {
+    "by_categories": "op regio, leeftijd & geslacht",
+    "see_the_breakdown": "BEKIJK DE UITSPLITSING",
+    "vote_now": "stem nu",
+    "num_votes": {
+      "0": "Geen stemmen",
+      "one": "1 stem",
+      "other": "%{count} stemmen"
     }
+  },
+  "select_text": {
+    "keyboard": "Druk op %{key} om te kopi\u00ebren",
+    "default": "Tekst kopi\u00ebren"
+  },
+  "sharing": {
+    "caption": {
+      "pollcaster": "WWW.POLLCASTER.COM",
+      "boombox": "WWW.BOOMBOX.COM"
+    },
+    "boombox-caption": "WWW.BOOMBOX.COM",
+    "description": "%{option1} of %{option2}",
+    "hashtags": "poll",
+    "title": "Stem nu: %{title}",
+    "twitter-title": "Stem nu: %{title} %{option1} of %{option2}",
+    "poll_description_options": "%{option1} of %{option2}",
+    "poll_hashtags": "poll",
+    "poll_title": "Stem nu: %{title}",
+    "poll_twitter_title_options": "Stem nu: %{title} %{option1} of %{option2}"
+  },
+  "human_readable_numbers": {
+    "billion": "%{value} mjd",
+    "million": "%{value} mjn",
+    "thousand": "%{value}000",
+    "trillion": "%{value} bjn"
+  },
+  "browser_alert": {
+    "message": "Je browser wordt niet ondersteund, gebruik een %{browser : supported browser}"
+  }
 }

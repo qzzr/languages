@@ -1,69 +1,73 @@
 {
-    "breakdown": {
-        "by_region": "EFTER OMR\u00c5DE",
-        "by_age": "EFTER ALDER",
-        "by_gender": "EFTER K\u00d8N",
-        "other": "Andre muligheder",
-        "your_selection": "Din markering"
-    },
-    "by_region": {
-        "nearby": "i n\u00e6rheden",
-        "country": "land",
-        "world": "verden"
-    },
-    "collect_info": {
-        "female": "Kvinde",
-        "how_old_are_you": "Hvor gammel er du?",
-        "male": "Mand",
-        "see_the_breakdown": "Se analysen",
-        "skip": "Spring over",
-        "subtitle": "Din information er anonym.",
-        "title": "Se, hvordan du m\u00e5ler dig med resten af verden.",
-        "whats_your_gender": "Hvad er dit k\u00f8n?",
-        "years": "\u00e5r"
-    },
-    "map": {
-        "your_selection": "Din markering",
-        "other": "Andre muligheder"
-    },
-    "poll": {
-        "embed_poll": "Indlejr denne meningsm\u00e5ling",
-        "link_poll": "Link til denne meningsm\u00e5ling",
-        "made_with": "Lavet med",
-        "share_poll": "Del denne meningsm\u00e5ling"
-    },
-    "question": {
-        "by_categories": "efter omr\u00e5de, alder og k\u00f8n",
-        "see_the_breakdown": "SE ANALYSEN",
-        "vote_now": "stem nu",
-        "num_votes": {
-            "0": "Ingen stemmer",
-            "one": "1 stemme",
-            "other": "%{count} stemmer"
-        }
-    },
-    "select_text": {
-        "keyboard": "Tryk %{key} for at kopiere",
-        "default": "Kopi\u00e9r tekst"
-    },
-    "sharing": {
-        "title": "Stem nu: %{title}",
-        "description": "%{option1} eller %{option2}",
-        "caption": "WWW.POLLCASTER.COM",
-        "boombox-caption": "WWW.BOOMBOX.COM",
-        "twitter-title": "Stem nu: %{title} %{option1} eller %{option2}",
-        "hashtags": "meningsm\u00e5ling",
-        "share-poll": "Del denne meningsm\u00e5ling",
-        "link-poll": "Link til denne meningsm\u00e5ling",
-        "embed-poll": "Indlejr denne meningsm\u00e5ling"
-    },
-    "human_readable_numbers": {
-        "billion": "%{value}milliarder",
-        "million": "%{value}millioner",
-        "thousand": "%{value}tusind",
-        "trillion": "%{value}billioner"
-    },
-    "browser_alert": {
-        "message": "Din browser underst\u00f8ttes ikke. Brug venligst en %{browser : supported browser}"
+  "breakdown": {
+    "by_region": "EFTER OMR\u00c5DE",
+    "by_age": "EFTER ALDER",
+    "by_gender": "EFTER K\u00d8N",
+    "other": "Andre muligheder",
+    "your_selection": "Din markering"
+  },
+  "by_region": {
+    "nearby": "i n\u00e6rheden",
+    "country": "land",
+    "world": "verden"
+  },
+  "collect_info": {
+    "female": "Kvinde",
+    "how_old_are_you": "Hvor gammel er du?",
+    "male": "Mand",
+    "see_the_breakdown": "Se analysen",
+    "skip": "Spring over",
+    "subtitle": "Din information er anonym.",
+    "title": "Se, hvordan du m\u00e5ler dig med resten af verden.",
+    "whats_your_gender": "Hvad er dit k\u00f8n?",
+    "years": "\u00e5r"
+  },
+  "map": {
+    "your_selection": "Din markering",
+    "other": "Andre muligheder"
+  },
+  "poll": {
+    "embed_poll": "Indlejr denne meningsm\u00e5ling",
+    "link_poll": "Link til denne meningsm\u00e5ling",
+    "made_with": "Lavet med",
+    "share_poll": "Del denne meningsm\u00e5ling"
+  },
+  "question": {
+    "by_categories": "efter omr\u00e5de, alder og k\u00f8n",
+    "see_the_breakdown": "SE ANALYSEN",
+    "vote_now": "stem nu",
+    "num_votes": {
+      "0": "Ingen stemmer",
+      "one": "1 stemme",
+      "other": "%{count} stemmer"
     }
+  },
+  "select_text": {
+    "keyboard": "Tryk %{key} for at kopiere",
+    "default": "Kopi\u00e9r tekst"
+  },
+  "sharing": {
+    "caption": {
+      "pollcaster": "WWW.POLLCASTER.COM",
+      "boombox": "WWW.BOOMBOX.COM"
+    },
+    "boombox-caption": "WWW.BOOMBOX.COM",
+    "description": "%{option1} eller %{option2}",
+    "hashtags": "meningsm\u00e5ling",
+    "title": "Stem nu: %{title}",
+    "twitter-title": "Stem nu: %{title} %{option1} eller %{option2}",
+    "poll_description_options": "%{option1} eller %{option2}",
+    "poll_hashtags": "meningsm\u00e5ling",
+    "poll_title": "Stem nu: %{title}",
+    "poll_twitter_title_options": "Stem nu: %{title} %{option1} eller %{option2}"
+  },
+  "human_readable_numbers": {
+    "billion": "%{value}milliarder",
+    "million": "%{value}millioner",
+    "thousand": "%{value}tusind",
+    "trillion": "%{value}billioner"
+  },
+  "browser_alert": {
+    "message": "Din browser underst\u00f8ttes ikke. Brug venligst en %{browser : supported browser}"
+  }
 }

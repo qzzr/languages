@@ -1,69 +1,73 @@
 {
-    "breakdown": {
-        "by_region": "B\u00d6LGEYE G\u00d6RE",
-        "by_age": "YA\u015eA G\u00d6RE",
-        "by_gender": "C\u0130NS\u0130YETE G\u00d6RE",
-        "other": "Di\u011fer se\u00e7enek",
-        "your_selection": "Se\u00e7imin"
-    },
-    "by_region": {
-        "nearby": "yak\u0131n\u0131nda",
-        "country": "\u00fclke",
-        "world": "d\u00fcnya"
-    },
-    "collect_info": {
-        "female": "Kad\u0131n",
-        "how_old_are_you": "Ka\u00e7 ya\u015f\u0131ndas\u0131n?",
-        "male": "Erkek",
-        "see_the_breakdown": "D\u00f6k\u00fcm\u00fc g\u00f6r",
-        "skip": "Atla",
-        "subtitle": "Bilgin anonim.",
-        "title": "D\u00fcnyan\u0131n geri kalan\u0131 ile k\u0131yaslaman\u0131 g\u00f6r.",
-        "whats_your_gender": "Cinsiyetin ne?",
-        "years": "ya\u015f\u0131nday\u0131m"
-    },
-    "map": {
-        "your_selection": "Se\u00e7imin",
-        "other": "Di\u011fer se\u00e7enek"
-    },
-    "poll": {
-        "embed_poll": "Bu anketi sitene ekle",
-        "link_poll": "Bu ankete ba\u011flant\u0131 ver",
-        "made_with": "\u015eununla yap\u0131ld\u0131:",
-        "share_poll": "Bu anketi payla\u015f"
-    },
-    "question": {
-        "by_categories": "b\u00f6lgeye, ya\u015fa ve cinsiyete g\u00f6re",
-        "see_the_breakdown": "D\u00d6K\u00dcM\u00dc G\u00d6R",
-        "vote_now": "\u015fimdi oyla",
-        "num_votes": {
-            "0": "Oy yok",
-            "one": "1 oy",
-            "other": "%{count} oy"
-        }
-    },
-    "select_text": {
-        "keyboard": "Kopyalamak i\u00e7in %{key} tu\u015funa bas",
-        "default": "Metni kopyala"
-    },
-    "sharing": {
-        "title": "\u015eimdi oyla: %{title}",
-        "description": "%{option1} ya da %{option2}",
-        "caption": "WWW.POLLCASTER.COM",
-        "boombox-caption": "WWW.BOOMBOX.COM",
-        "twitter-title": "\u015eimdi oyla: %{title} %{option1} ya da %{option2}",
-        "hashtags": "anket",
-        "share-poll": "Bu anketi payla\u015f",
-        "link-poll": "Bu ankete ba\u011flant\u0131 ver",
-        "embed-poll": "Bu anketi sitene ekle"
-    },
-    "human_readable_numbers": {
-        "billion": "%{value}Milyar",
-        "million": "%{value}Milyon",
-        "thousand": "%{value}Bin",
-        "trillion": "%{value}Trilyon"
-    },
-    "browser_alert": {
-        "message": "Taray\u0131c\u0131n\u0131z desteklenmiyor. L\u00fctfen desteklenen bir %{browser : supported browser} kullan\u0131n."
+  "breakdown": {
+    "by_region": "B\u00d6LGEYE G\u00d6RE",
+    "by_age": "YA\u015eA G\u00d6RE",
+    "by_gender": "C\u0130NS\u0130YETE G\u00d6RE",
+    "other": "Di\u011fer se\u00e7enek",
+    "your_selection": "Se\u00e7imin"
+  },
+  "by_region": {
+    "nearby": "yak\u0131n\u0131nda",
+    "country": "\u00fclke",
+    "world": "d\u00fcnya"
+  },
+  "collect_info": {
+    "female": "Kad\u0131n",
+    "how_old_are_you": "Ka\u00e7 ya\u015f\u0131ndas\u0131n?",
+    "male": "Erkek",
+    "see_the_breakdown": "D\u00f6k\u00fcm\u00fc g\u00f6r",
+    "skip": "Atla",
+    "subtitle": "Bilgin anonim.",
+    "title": "D\u00fcnyan\u0131n geri kalan\u0131 ile k\u0131yaslaman\u0131 g\u00f6r.",
+    "whats_your_gender": "Cinsiyetin ne?",
+    "years": "ya\u015f\u0131nday\u0131m"
+  },
+  "map": {
+    "your_selection": "Se\u00e7imin",
+    "other": "Di\u011fer se\u00e7enek"
+  },
+  "poll": {
+    "embed_poll": "Bu anketi sitene ekle",
+    "link_poll": "Bu ankete ba\u011flant\u0131 ver",
+    "made_with": "\u015eununla yap\u0131ld\u0131:",
+    "share_poll": "Bu anketi payla\u015f"
+  },
+  "question": {
+    "by_categories": "b\u00f6lgeye, ya\u015fa ve cinsiyete g\u00f6re",
+    "see_the_breakdown": "D\u00d6K\u00dcM\u00dc G\u00d6R",
+    "vote_now": "\u015fimdi oyla",
+    "num_votes": {
+      "0": "Oy yok",
+      "one": "1 oy",
+      "other": "%{count} oy"
     }
+  },
+  "select_text": {
+    "keyboard": "Kopyalamak i\u00e7in %{key} tu\u015funa bas",
+    "default": "Metni kopyala"
+  },
+  "sharing": {
+    "caption": {
+      "pollcaster": "WWW.POLLCASTER.COM",
+      "boombox": "WWW.BOOMBOX.COM"
+    },
+    "boombox-caption": "WWW.BOOMBOX.COM",
+    "description": "%{option1} ya da %{option2}",
+    "hashtags": "anket",
+    "title": "\u015eimdi oyla: %{title}",
+    "twitter-title": "\u015eimdi oyla: %{title} %{option1} ya da %{option2}",
+    "poll_description_options": "%{option1} ya da %{option2}",
+    "poll_hashtags": "anket",
+    "poll_title": "\u015eimdi oyla: %{title}",
+    "poll_twitter_title_options": "\u015eimdi oyla: %{title} %{option1} ya da %{option2}"
+  },
+  "human_readable_numbers": {
+    "billion": "%{value}Milyar",
+    "million": "%{value}Milyon",
+    "thousand": "%{value}Bin",
+    "trillion": "%{value}Trilyon"
+  },
+  "browser_alert": {
+    "message": "Taray\u0131c\u0131n\u0131z desteklenmiyor. L\u00fctfen desteklenen bir %{browser : supported browser} kullan\u0131n."
+  }
 }

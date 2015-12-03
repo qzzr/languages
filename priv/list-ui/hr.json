@@ -1,38 +1,42 @@
 {
-    "analysis": {
-        "readers_choice": "Odabir \u010ditatelja",
-        "our_list": "Na\u0161 popis",
-        "sort_by": "Sortiraj po"
-    },
-    "analysis_item": {
-        "hide": "Sakrij",
-        "view": "Pregled"
-    },
-    "browser_alert": {
-        "message": "Your browser is not supported. please use a %{browser : supported browser}"
-    },
-    "list": {
-        "made_with": "Na\u010dinjeno sa",
-        "see_readers_choice": "Pgledaj odabir \u010ditatelja"
-    },
-    "select_text": {
-        "keyboard": "Pritisni %{key} za kopiranje",
-        "default": "Kopiraj tekst"
-    },
-    "sharing": {
-        "caption": "WWW.BOOMBOX.COM",
-        "description_default": "Provjeri ovaj popis",
-        "hashtags": "popis",
-        "share": "Dijeli",
-        "share_on": "Dijeli na %{name}",
-        "title_default": "Provjeri %{title} na WWW.BOOMBOX.COM",
-        "twitter_title_default": "Provjeri %{title} na WWW.BOOMBOX.COM %{url}"
-    },
-    "vote": {
-        "dislike": "Ne svi\u0111ami se",
-        "like": "Svi\u0111a mi se",
-        "readers_choice": "Odabir \u010ditatelja",
-        "readers_opinion": "Readers' opinion",
-        "view": "Pregled"
-    }
+  "analysis": {
+    "readers_choice": "Odabir \u010ditatelja",
+    "our_list": "Na\u0161 popis",
+    "sort_by": "Sortiraj po"
+  },
+  "analysis_item": {
+    "hide": "Sakrij",
+    "view": "Pregled"
+  },
+  "browser_alert": {
+    "message": "Your browser is not supported. please use a %{browser : supported browser}"
+  },
+  "list": {
+    "made_with": "Na\u010dinjeno sa",
+    "see_readers_choice": "Pgledaj odabir \u010ditatelja"
+  },
+  "select_text": {
+    "keyboard": "Pritisni %{key} za kopiranje",
+    "default": "Kopiraj tekst"
+  },
+  "sharing": {
+    "caption": "WWW.BOOMBOX.COM",
+    "description_default": "Provjeri ovaj popis",
+    "hashtags": "popis",
+    "title_default": "Provjeri %{title} na WWW.BOOMBOX.COM",
+    "twitter_title_default": "Provjeri %{title} na WWW.BOOMBOX.COM %{url}",
+    "list_description": "Provjeri ovaj popis",
+    "list_hashtags": "popis",
+    "list_title": "Provjeri %{title} na WWW.BOOMBOX.COM",
+    "list_twitter_title": "Provjeri %{title} na WWW.BOOMBOX.COM",
+    "share": "Dijeli",
+    "share_on": "Dijeli na %{name}"
+  },
+  "vote": {
+    "dislike": "Ne svi\u0111ami se",
+    "like": "Svi\u0111a mi se",
+    "readers_choice": "Odabir \u010ditatelja",
+    "readers_opinion": "Readers' opinion",
+    "view": "Pregled"
+  }
 }
