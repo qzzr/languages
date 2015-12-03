@@ -1,73 +1,73 @@
 {
-    "breakdown": {
-        "by_region": "PER ZONA",
-        "by_age": "PER ET\u00c0",
-        "by_gender": "PER SESSO",
-        "other": "Altra opzione",
-        "your_selection": "La tua selezione"
-    },
-    "by_region": {
-        "nearby": "nelle vicinanze",
-        "country": "nazione",
-        "world": "mondo"
-    },
-    "collect_info": {
-        "female": "Femmina",
-        "how_old_are_you": "Quanti anni hai?",
-        "male": "Maschio",
-        "see_the_breakdown": "Visualizza il dettaglio",
-        "skip": "Salta",
-        "subtitle": "I tuoi dati sono anonimi.",
-        "title": "Scopri il confronto con il resto del mondo.",
-        "whats_your_gender": "Di che sesso sei?",
-        "years": "anni"
-    },
-    "map": {
-        "your_selection": "La tua selezione",
-        "other": "Altra opzione"
-    },
-    "poll": {
-        "embed_poll": "Incorpora questo sondaggio",
-        "link_poll": "Link a questo sondaggio",
-        "made_with": "Realizzato con",
-        "share_poll": "Condividi questo sondaggio"
-    },
-    "question": {
-        "by_categories": "per zona, et\u00e0 e sesso",
-        "see_the_breakdown": "VISUALIZZA IL DETTAGLIO",
-        "vote_now": "vota subito",
-        "num_votes": {
-            "0": "Nessun voto",
-            "one": "1 voto",
-            "other": "%{count} voti"
-        }
-    },
-    "select_text": {
-        "keyboard": "Premi %{key} per copiare",
-        "default": "Copia testo"
-    },
-    "sharing": {
-        "caption": {
-          "pollcaster": "WWW.POLLCASTER.COM",
-          "boombox": "WWW.BOOMBOX.COM"
-        },
-        "title": "Vota subito: %{title}",
-        "description": "%{option1} o %{option2}",
-        "boombox-caption": "WWW.BOOMBOX.COM",
-        "twitter-title": "Vota subito: %{title} %{option1} o %{option2}",
-        "hashtags": "sondaggio",
-        "poll_description_options": "%{option1} o %{option2}",
-        "poll_hashtags": "sondaggio",
-        "poll_title": "Vota subito: %{title}",
-        "poll_twitter_title_options": "Vota subito: %{title} %{option1} o %{option2}"
-    },
-    "human_readable_numbers": {
-        "billion": "%{value}B",
-        "million": "%{value}M",
-        "thousand": "%{value}k",
-        "trillion": "%{value}T"
-    },
-    "browser_alert": {
-        "message": "Il tuo browser non \u00e8 supportato, ti invitiamo ad utilizzare un %{browser : supported browser}"
+  "breakdown": {
+    "by_region": "PER ZONA",
+    "by_age": "PER ET\u00c0",
+    "by_gender": "PER SESSO",
+    "other": "Altra opzione",
+    "your_selection": "La tua selezione"
+  },
+  "by_region": {
+    "nearby": "nelle vicinanze",
+    "country": "nazione",
+    "world": "mondo"
+  },
+  "collect_info": {
+    "female": "Femmina",
+    "how_old_are_you": "Quanti anni hai?",
+    "male": "Maschio",
+    "see_the_breakdown": "Visualizza il dettaglio",
+    "skip": "Salta",
+    "subtitle": "I tuoi dati sono anonimi.",
+    "title": "Scopri il confronto con il resto del mondo.",
+    "whats_your_gender": "Di che sesso sei?",
+    "years": "anni"
+  },
+  "map": {
+    "your_selection": "La tua selezione",
+    "other": "Altra opzione"
+  },
+  "poll": {
+    "embed_poll": "Incorpora questo sondaggio",
+    "link_poll": "Link a questo sondaggio",
+    "made_with": "Realizzato con",
+    "share_poll": "Condividi questo sondaggio"
+  },
+  "question": {
+    "by_categories": "per zona, et\u00e0 e sesso",
+    "see_the_breakdown": "VISUALIZZA IL DETTAGLIO",
+    "vote_now": "vota subito",
+    "num_votes": {
+      "0": "Nessun voto",
+      "one": "1 voto",
+      "other": "%{count} voti"
     }
+  },
+  "select_text": {
+    "keyboard": "Premi %{key} per copiare",
+    "default": "Copia testo"
+  },
+  "sharing": {
+    "caption": {
+      "pollcaster": "WWW.POLLCASTER.COM",
+      "boombox": "WWW.BOOMBOX.COM"
+    },
+    "boombox-caption": "WWW.BOOMBOX.COM",
+    "description": "%{option1} o %{option2}",
+    "hashtags": "sondaggio",
+    "title": "Vota subito: %{title}",
+    "twitter-title": "Vota subito: %{title} %{option1} o %{option2}",
+    "poll_description_options": "%{option1} o %{option2}",
+    "poll_hashtags": "sondaggio",
+    "poll_title": "Vota subito: %{title}",
+    "poll_twitter_title_options": "Vota subito: %{title} %{option1} o %{option2}"
+  },
+  "human_readable_numbers": {
+    "billion": "%{value}B",
+    "million": "%{value}M",
+    "thousand": "%{value}k",
+    "trillion": "%{value}T"
+  },
+  "browser_alert": {
+    "message": "Il tuo browser non \u00e8 supportato, ti invitiamo ad utilizzare un %{browser : supported browser}"
+  }
 }

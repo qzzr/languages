@@ -1,73 +1,73 @@
 {
-    "breakdown": {
-        "by_region": "ALUEEN MUKAAN",
-        "by_age": "I\u00c4N MUKAAN",
-        "by_gender": "SUKUPUOLEN MUKAAN",
-        "other": "Muu vaihtoehto",
-        "your_selection": "Oma valintasi"
-    },
-    "by_region": {
-        "nearby": "l\u00e4hettyvill\u00e4",
-        "country": "maa",
-        "world": "maailma"
-    },
-    "collect_info": {
-        "female": "Nainen",
-        "how_old_are_you": "Kuinka vanha olet?",
-        "male": "Mies",
-        "see_the_breakdown": "N\u00e4yt\u00e4 jakauma",
-        "skip": "Ohita",
-        "subtitle": "Tietojasi k\u00e4sitell\u00e4\u00e4n nimett\u00f6m\u00e4sti.",
-        "title": "Katso antamasi tiedot verrattuna muuhun maailmaan.",
-        "whats_your_gender": "Mik\u00e4 sukupuolesi on?",
-        "years": "vuotta"
-    },
-    "map": {
-        "your_selection": "Valintasi",
-        "other": "Muu vaihtoehto"
-    },
-    "poll": {
-        "embed_poll": "Upota t\u00e4m\u00e4 \u00e4\u00e4nestys",
-        "link_poll": "Linkki t\u00e4h\u00e4n \u00e4\u00e4nestykseen",
-        "made_with": "\u00c4\u00e4nestyksen tarjoaa",
-        "share_poll": "Jaa t\u00e4m\u00e4 \u00e4\u00e4nestys"
-    },
-    "question": {
-        "by_categories": "uskonnon, i\u00e4n ja sukupuolen mukaan",
-        "see_the_breakdown": "N\u00c4YT\u00c4 JAKAUMA",
-        "vote_now": "\u00e4\u00e4nest\u00e4 nyt",
-        "num_votes": {
-            "0": "Ei \u00e4\u00e4ni\u00e4",
-            "one": "Oma \u00e4\u00e4neni",
-            "other": "%{count} \u00e4\u00e4nt\u00e4"
-        }
-    },
-    "select_text": {
-        "keyboard": "Kopioi painamalla %{key}",
-        "default": "Kopioi teksti"
-    },
-    "sharing": {
-        "caption": {
-          "pollcaster": "WWW.POLLCASTER.COM",
-          "boombox": "WWW.BOOMBOX.COM"
-        },
-        "title": "\u00c4\u00e4nest\u00e4 nyt: %{title}",
-        "description": "%{option1} vai %{option2}",
-        "boombox-caption": "WWW.BOOMBOX.COM",
-        "twitter-title": "\u00c4\u00e4nest\u00e4 nyt: %{title} %{option1} vai %{option2}",
-        "hashtags": "\u00e4\u00e4nestys",
-        "poll_description_options": "%{option1} vai %{option2}",
-        "poll_hashtags": "\u00e4\u00e4nestys",
-        "poll_title": "\u00c4\u00e4nest\u00e4 nyt: %{title}",
-        "poll_twitter_title_options": "\u00c4\u00e4nest\u00e4 nyt: %{title} %{option1} vai %{option2}"
-    },
-    "human_readable_numbers": {
-        "billion": "%{value} bilj.",
-        "million": "%{value} milj.",
-        "thousand": "%{value} t.",
-        "trillion": "%{value} trilj."
-    },
-    "browser_alert": {
-        "message": "Selaintasi ei tueta. K\u00e4yt\u00e4 %{browser : supported browser}"
+  "breakdown": {
+    "by_region": "ALUEEN MUKAAN",
+    "by_age": "I\u00c4N MUKAAN",
+    "by_gender": "SUKUPUOLEN MUKAAN",
+    "other": "Muu vaihtoehto",
+    "your_selection": "Oma valintasi"
+  },
+  "by_region": {
+    "nearby": "l\u00e4hettyvill\u00e4",
+    "country": "maa",
+    "world": "maailma"
+  },
+  "collect_info": {
+    "female": "Nainen",
+    "how_old_are_you": "Kuinka vanha olet?",
+    "male": "Mies",
+    "see_the_breakdown": "N\u00e4yt\u00e4 jakauma",
+    "skip": "Ohita",
+    "subtitle": "Tietojasi k\u00e4sitell\u00e4\u00e4n nimett\u00f6m\u00e4sti.",
+    "title": "Katso antamasi tiedot verrattuna muuhun maailmaan.",
+    "whats_your_gender": "Mik\u00e4 sukupuolesi on?",
+    "years": "vuotta"
+  },
+  "map": {
+    "your_selection": "Valintasi",
+    "other": "Muu vaihtoehto"
+  },
+  "poll": {
+    "embed_poll": "Upota t\u00e4m\u00e4 \u00e4\u00e4nestys",
+    "link_poll": "Linkki t\u00e4h\u00e4n \u00e4\u00e4nestykseen",
+    "made_with": "\u00c4\u00e4nestyksen tarjoaa",
+    "share_poll": "Jaa t\u00e4m\u00e4 \u00e4\u00e4nestys"
+  },
+  "question": {
+    "by_categories": "uskonnon, i\u00e4n ja sukupuolen mukaan",
+    "see_the_breakdown": "N\u00c4YT\u00c4 JAKAUMA",
+    "vote_now": "\u00e4\u00e4nest\u00e4 nyt",
+    "num_votes": {
+      "0": "Ei \u00e4\u00e4ni\u00e4",
+      "one": "Oma \u00e4\u00e4neni",
+      "other": "%{count} \u00e4\u00e4nt\u00e4"
     }
+  },
+  "select_text": {
+    "keyboard": "Kopioi painamalla %{key}",
+    "default": "Kopioi teksti"
+  },
+  "sharing": {
+    "caption": {
+      "pollcaster": "WWW.POLLCASTER.COM",
+      "boombox": "WWW.BOOMBOX.COM"
+    },
+    "boombox-caption": "WWW.BOOMBOX.COM",
+    "description": "%{option1} vai %{option2}",
+    "hashtags": "\u00e4\u00e4nestys",
+    "title": "\u00c4\u00e4nest\u00e4 nyt: %{title}",
+    "twitter-title": "\u00c4\u00e4nest\u00e4 nyt: %{title} %{option1} vai %{option2}",
+    "poll_description_options": "%{option1} vai %{option2}",
+    "poll_hashtags": "\u00e4\u00e4nestys",
+    "poll_title": "\u00c4\u00e4nest\u00e4 nyt: %{title}",
+    "poll_twitter_title_options": "\u00c4\u00e4nest\u00e4 nyt: %{title} %{option1} vai %{option2}"
+  },
+  "human_readable_numbers": {
+    "billion": "%{value} bilj.",
+    "million": "%{value} milj.",
+    "thousand": "%{value} t.",
+    "trillion": "%{value} trilj."
+  },
+  "browser_alert": {
+    "message": "Selaintasi ei tueta. K\u00e4yt\u00e4 %{browser : supported browser}"
+  }
 }

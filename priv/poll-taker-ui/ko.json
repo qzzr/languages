@@ -1,73 +1,73 @@
 {
-    "breakdown": {
-        "by_region": "\uc9c0\uc5ed\ubcc4",
-        "by_age": "\uc5f0\ub839\ubcc4",
-        "by_gender": "\uc131\ubcc4",
-        "other": "\uae30\ud0c0 \uc635\uc158",
-        "your_selection": "\ub0b4 \uc120\ud0dd \ud56d\ubaa9"
-    },
-    "by_region": {
-        "nearby": "\uadfc\ucc98",
-        "country": "\uad6d\uac00",
-        "world": "\uc138\uacc4"
-    },
-    "collect_info": {
-        "female": "\uc5ec\uc131",
-        "how_old_are_you": "\ub098\uc774\uac00 \uc5b4\ub5bb\uac8c \ub418\uc2ed\ub2c8\uae4c?",
-        "male": "\ub0a8\uc131",
-        "see_the_breakdown": "\uc138\ubd80 \ub0b4\uc5ed \ubcf4\uae30",
-        "skip": "\uac74\ub108\ub6f0\uae30",
-        "subtitle": "\uadc0\ud558\uc758 \uc815\ubcf4\ub294 \uc775\uba85\uc73c\ub85c \ucc98\ub9ac\ub429\ub2c8\ub2e4.",
-        "title": "\uadc0\ud558\uc640 \uc804 \uc138\uacc4 \uc0ac\ub78c\ub4e4\uc758 \uc120\ud0dd\uc744 \ube44\uad50\ud574\ubcf4\uc138\uc694.",
-        "whats_your_gender": "\uc131\ubcc4\uc740 \uc5b4\ub5bb\uac8c \ub418\uc2ed\ub2c8\uae4c?",
-        "years": "\uc138"
-    },
-    "map": {
-        "your_selection": "\ub0b4 \uc120\ud0dd \ud56d\ubaa9",
-        "other": "\uae30\ud0c0 \uc635\uc158"
-    },
-    "poll": {
-        "embed_poll": "\uc774 \uc124\ubb38\uc870\uc0ac \uc784\ubca0\ub529\ud558\uae30",
-        "link_poll": "\uc774 \uc124\ubb38\uc870\uc0ac \ub9c1\ud06c\ud558\uae30",
-        "made_with": "\uc0dd\uc131 \ubc29\ubc95:",
-        "share_poll": "\uc774 \uc124\ubb38\uc870\uc0ac \uacf5\uc720\ud558\uae30"
-    },
-    "question": {
-        "by_categories": "\uc9c0\uc5ed\ubcc4, \uc5f0\ub839\ubcc4 \ubc0f \uc131\ubcc4",
-        "see_the_breakdown": "\uc138\ubd80 \ub0b4\uc5ed \ubcf4\uae30",
-        "vote_now": "\ud22c\ud45c\ud558\uae30",
-        "num_votes": {
-            "0": "\ud22c\ud45c \uc5c6\uc74c",
-            "one": "\ud22c\ud45c 1\uac1c",
-            "other": "\ud22c\ud45c %{count}\uac1c"
-        }
-    },
-    "select_text": {
-        "keyboard": "%{key} \ud0a4\ub97c \ub20c\ub7ec \ubcf5\uc0ac\ud558\uc138\uc694",
-        "default": "\ud14d\uc2a4\ud2b8 \ubcf5\uc0ac"
-    },
-    "sharing": {
-        "caption": {
-          "pollcaster": "WWW.POLLCASTER.COM",
-          "boombox": "WWW.BOOMBOX.COM"
-        },
-        "title": "\ud22c\ud45c \ucc38\uc5ec: %{title}",
-        "description": "%{option1} \ub610\ub294 %{option2}",
-        "boombox-caption": "WWW.BOOMBOX.COM",
-        "twitter-title": "\ud22c\ud45c \ucc38\uc5ec: %{title} %{option1} \ub610\ub294 %{option2}",
-        "hashtags": "\uc124\ubb38\uc870\uc0ac",
-        "poll_description_options": "%{option1} \ub610\ub294 %{option2}",
-        "poll_hashtags": "\uc124\ubb38\uc870\uc0ac",
-        "poll_title": "\ud22c\ud45c \ucc38\uc5ec: %{title}",
-        "poll_twitter_title_options": "\ud22c\ud45c \ucc38\uc5ec: %{title} %{option1} \ub610\ub294 %{option2}"
-    },
-    "human_readable_numbers": {
-        "billion": "%{value}0\uc5b5",
-        "million": "%{value}\ubc31\ub9cc",
-        "thousand": "%{value}\ucc9c",
-        "trillion": "%{value}\uc870"
-    },
-    "browser_alert": {
-        "message": "\ud604\uc7ac \ube0c\ub77c\uc6b0\uc800\ub294 \uc9c0\uc6d0\ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. %{browser : supported browser}(\uc744)\ub97c \uc0ac\uc6a9\ud574\uc8fc\uc2ed\uc2dc\uc624."
+  "breakdown": {
+    "by_region": "\uc9c0\uc5ed\ubcc4",
+    "by_age": "\uc5f0\ub839\ubcc4",
+    "by_gender": "\uc131\ubcc4",
+    "other": "\uae30\ud0c0 \uc635\uc158",
+    "your_selection": "\ub0b4 \uc120\ud0dd \ud56d\ubaa9"
+  },
+  "by_region": {
+    "nearby": "\uadfc\ucc98",
+    "country": "\uad6d\uac00",
+    "world": "\uc138\uacc4"
+  },
+  "collect_info": {
+    "female": "\uc5ec\uc131",
+    "how_old_are_you": "\ub098\uc774\uac00 \uc5b4\ub5bb\uac8c \ub418\uc2ed\ub2c8\uae4c?",
+    "male": "\ub0a8\uc131",
+    "see_the_breakdown": "\uc138\ubd80 \ub0b4\uc5ed \ubcf4\uae30",
+    "skip": "\uac74\ub108\ub6f0\uae30",
+    "subtitle": "\uadc0\ud558\uc758 \uc815\ubcf4\ub294 \uc775\uba85\uc73c\ub85c \ucc98\ub9ac\ub429\ub2c8\ub2e4.",
+    "title": "\uadc0\ud558\uc640 \uc804 \uc138\uacc4 \uc0ac\ub78c\ub4e4\uc758 \uc120\ud0dd\uc744 \ube44\uad50\ud574\ubcf4\uc138\uc694.",
+    "whats_your_gender": "\uc131\ubcc4\uc740 \uc5b4\ub5bb\uac8c \ub418\uc2ed\ub2c8\uae4c?",
+    "years": "\uc138"
+  },
+  "map": {
+    "your_selection": "\ub0b4 \uc120\ud0dd \ud56d\ubaa9",
+    "other": "\uae30\ud0c0 \uc635\uc158"
+  },
+  "poll": {
+    "embed_poll": "\uc774 \uc124\ubb38\uc870\uc0ac \uc784\ubca0\ub529\ud558\uae30",
+    "link_poll": "\uc774 \uc124\ubb38\uc870\uc0ac \ub9c1\ud06c\ud558\uae30",
+    "made_with": "\uc0dd\uc131 \ubc29\ubc95:",
+    "share_poll": "\uc774 \uc124\ubb38\uc870\uc0ac \uacf5\uc720\ud558\uae30"
+  },
+  "question": {
+    "by_categories": "\uc9c0\uc5ed\ubcc4, \uc5f0\ub839\ubcc4 \ubc0f \uc131\ubcc4",
+    "see_the_breakdown": "\uc138\ubd80 \ub0b4\uc5ed \ubcf4\uae30",
+    "vote_now": "\ud22c\ud45c\ud558\uae30",
+    "num_votes": {
+      "0": "\ud22c\ud45c \uc5c6\uc74c",
+      "one": "\ud22c\ud45c 1\uac1c",
+      "other": "\ud22c\ud45c %{count}\uac1c"
     }
+  },
+  "select_text": {
+    "keyboard": "%{key} \ud0a4\ub97c \ub20c\ub7ec \ubcf5\uc0ac\ud558\uc138\uc694",
+    "default": "\ud14d\uc2a4\ud2b8 \ubcf5\uc0ac"
+  },
+  "sharing": {
+    "caption": {
+      "pollcaster": "WWW.POLLCASTER.COM",
+      "boombox": "WWW.BOOMBOX.COM"
+    },
+    "boombox-caption": "WWW.BOOMBOX.COM",
+    "description": "%{option1} \ub610\ub294 %{option2}",
+    "hashtags": "\uc124\ubb38\uc870\uc0ac",
+    "title": "\ud22c\ud45c \ucc38\uc5ec: %{title}",
+    "twitter-title": "\ud22c\ud45c \ucc38\uc5ec: %{title} %{option1} \ub610\ub294 %{option2}",
+    "poll_description_options": "%{option1} \ub610\ub294 %{option2}",
+    "poll_hashtags": "\uc124\ubb38\uc870\uc0ac",
+    "poll_title": "\ud22c\ud45c \ucc38\uc5ec: %{title}",
+    "poll_twitter_title_options": "\ud22c\ud45c \ucc38\uc5ec: %{title} %{option1} \ub610\ub294 %{option2}"
+  },
+  "human_readable_numbers": {
+    "billion": "%{value}0\uc5b5",
+    "million": "%{value}\ubc31\ub9cc",
+    "thousand": "%{value}\ucc9c",
+    "trillion": "%{value}\uc870"
+  },
+  "browser_alert": {
+    "message": "\ud604\uc7ac \ube0c\ub77c\uc6b0\uc800\ub294 \uc9c0\uc6d0\ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. %{browser : supported browser}(\uc744)\ub97c \uc0ac\uc6a9\ud574\uc8fc\uc2ed\uc2dc\uc624."
+  }
 }

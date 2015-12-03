@@ -1,42 +1,42 @@
 {
-    "analysis": {
-        "readers_choice": "Choix des lecteurs",
-        "our_list": "Notre liste",
-        "sort_by": "Trier par"
-    },
-    "analysis_item": {
-        "hide": "Masquer",
-        "view": "Afficher"
-    },
-    "browser_alert": {
-        "message": "Your browser is not supported. please use a %{browser : supported browser}"
-    },
-    "list": {
-        "made_with": "Cr\u00e9\u00e9 avec",
-        "see_readers_choice": "Voir le choix des lecteurs"
-    },
-    "select_text": {
-        "keyboard": "Appuyez sur %{key} pour copier",
-        "default": "Copier le texte"
-    },
-    "sharing": {
-        "caption": "WWW.BOOMBOX.COM",
-        "description_default": "D\u00e9couvrir cette liste.",
-        "hashtags": "liste",
-        "title_default": "D\u00e9couvrez %{title} sur WWW.BOOMBOX.COM",
-        "twitter_title_default": "D\u00e9couvrez %{title} sur WWW.BOOMBOX.COM %{url}",
-        "list_description": "D\u00e9couvrir cette liste.",
-        "list_hashtags": "liste",
-        "list_title": "D\u00e9couvrez %{title} sur WWW.BOOMBOX.COM",
-        "list_twitter_title": "D\u00e9couvrez %{title} sur WWW.BOOMBOX.COM",
-        "share": "Partager",
-        "share_on": "Partager sur %{name}"
-    },
-    "vote": {
-        "dislike": "Je n'aime pas",
-        "like": "J'aime",
-        "readers_choice": "Choix des lecteurs",
-        "readers_opinion": "Readers' opinion",
-        "view": "Afficher"
-    }
+  "analysis": {
+    "readers_choice": "Choix des lecteurs",
+    "our_list": "Notre liste",
+    "sort_by": "Trier par"
+  },
+  "analysis_item": {
+    "hide": "Masquer",
+    "view": "Afficher"
+  },
+  "browser_alert": {
+    "message": "Your browser is not supported. please use a %{browser : supported browser}"
+  },
+  "list": {
+    "made_with": "Cr\u00e9\u00e9 avec",
+    "see_readers_choice": "Voir le choix des lecteurs"
+  },
+  "select_text": {
+    "keyboard": "Appuyez sur %{key} pour copier",
+    "default": "Copier le texte"
+  },
+  "sharing": {
+    "caption": "WWW.BOOMBOX.COM",
+    "description_default": "D\u00e9couvrir cette liste.",
+    "hashtags": "liste",
+    "title_default": "D\u00e9couvrez %{title} sur WWW.BOOMBOX.COM",
+    "twitter_title_default": "D\u00e9couvrez %{title} sur WWW.BOOMBOX.COM %{url}",
+    "list_description": "D\u00e9couvrir cette liste.",
+    "list_hashtags": "liste",
+    "list_title": "D\u00e9couvrez %{title} sur WWW.BOOMBOX.COM",
+    "list_twitter_title": "D\u00e9couvrez %{title} sur WWW.BOOMBOX.COM",
+    "share": "Partager",
+    "share_on": "Partager sur %{name}"
+  },
+  "vote": {
+    "dislike": "Je n'aime pas",
+    "like": "J'aime",
+    "readers_choice": "Choix des lecteurs",
+    "readers_opinion": "Readers' opinion",
+    "view": "Afficher"
+  }
 }

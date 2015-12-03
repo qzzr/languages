@@ -1,73 +1,73 @@
 {
-    "breakdown": {
-        "by_region": "ETTER REGION",
-        "by_age": "ETTER ALDER",
-        "by_gender": "ETTER KJ\u00d8NN",
-        "other": "Andre alternativ",
-        "your_selection": "Ditt valg"
-    },
-    "by_region": {
-        "nearby": "i n\u00e6rheten",
-        "country": "land",
-        "world": "verden"
-    },
-    "collect_info": {
-        "female": "Kvinne",
-        "how_old_are_you": "Hvor gammel er du?",
-        "male": "Mann",
-        "see_the_breakdown": "Se fordelingen",
-        "skip": "Hopp over",
-        "subtitle": "Informasjonen din er anonym.",
-        "title": "Se sammenligningen med resten av verden.",
-        "whats_your_gender": "Oppgi kj\u00f8nn",
-        "years": "\u00e5r"
-    },
-    "map": {
-        "your_selection": "Ditt valg",
-        "other": "Annet valg"
-    },
-    "poll": {
-        "embed_poll": "Integrert i denne avstemningen",
-        "link_poll": "Kobling til denne avstemningen  ",
-        "made_with": "Laget med",
-        "share_poll": "Del denne avstemningen"
-    },
-    "question": {
-        "by_categories": "etter region, alder og kj\u00f8nn",
-        "see_the_breakdown": "SE FORDELINGEN",
-        "vote_now": "stem n\u00e5",
-        "num_votes": {
-            "0": "Ingen stemmer",
-            "one": "1 stemme",
-            "other": "%{count} stemmer"
-        }
-    },
-    "select_text": {
-        "keyboard": "Trykk p\u00e5 %{key} for \u00e5 kopiere",
-        "default": "Kopier tekst"
-    },
-    "sharing": {
-        "caption": {
-          "pollcaster": "WWW.POLLCASTER.COM",
-          "boombox": "WWW.BOOMBOX.COM"
-        },
-        "title": "Stem n\u00e5: %{title}",
-        "description": "%{option1} eller %{option2}",
-        "boombox-caption": "WWW.BOOMBOX.COM",
-        "twitter-title": "Stem n\u00e5: %{title} %{option1} eller %{option2}",
-        "hashtags": "avstemning ",
-        "poll_description_options": "%{option1} eller %{option2}",
-        "poll_hashtags": "avstemning ",
-        "poll_title": "Stem n\u00e5: %{title}",
-        "poll_twitter_title_options": "Stem n\u00e5: %{title} %{option1} eller %{option2}"
-    },
-    "human_readable_numbers": {
-        "billion": "%{value}B",
-        "million": "%{value}M",
-        "thousand": "%{value}k",
-        "trillion": "%{value}T"
-    },
-    "browser_alert": {
-        "message": "Nettleseren din er ikke st\u00f8ttet. Bruk %{browser : supported browser}"
+  "breakdown": {
+    "by_region": "ETTER REGION",
+    "by_age": "ETTER ALDER",
+    "by_gender": "ETTER KJ\u00d8NN",
+    "other": "Andre alternativ",
+    "your_selection": "Ditt valg"
+  },
+  "by_region": {
+    "nearby": "i n\u00e6rheten",
+    "country": "land",
+    "world": "verden"
+  },
+  "collect_info": {
+    "female": "Kvinne",
+    "how_old_are_you": "Hvor gammel er du?",
+    "male": "Mann",
+    "see_the_breakdown": "Se fordelingen",
+    "skip": "Hopp over",
+    "subtitle": "Informasjonen din er anonym.",
+    "title": "Se sammenligningen med resten av verden.",
+    "whats_your_gender": "Oppgi kj\u00f8nn",
+    "years": "\u00e5r"
+  },
+  "map": {
+    "your_selection": "Ditt valg",
+    "other": "Annet valg"
+  },
+  "poll": {
+    "embed_poll": "Integrert i denne avstemningen",
+    "link_poll": "Kobling til denne avstemningen  ",
+    "made_with": "Laget med",
+    "share_poll": "Del denne avstemningen"
+  },
+  "question": {
+    "by_categories": "etter region, alder og kj\u00f8nn",
+    "see_the_breakdown": "SE FORDELINGEN",
+    "vote_now": "stem n\u00e5",
+    "num_votes": {
+      "0": "Ingen stemmer",
+      "one": "1 stemme",
+      "other": "%{count} stemmer"
     }
+  },
+  "select_text": {
+    "keyboard": "Trykk p\u00e5 %{key} for \u00e5 kopiere",
+    "default": "Kopier tekst"
+  },
+  "sharing": {
+    "caption": {
+      "pollcaster": "WWW.POLLCASTER.COM",
+      "boombox": "WWW.BOOMBOX.COM"
+    },
+    "boombox-caption": "WWW.BOOMBOX.COM",
+    "description": "%{option1} eller %{option2}",
+    "hashtags": "avstemning ",
+    "title": "Stem n\u00e5: %{title}",
+    "twitter-title": "Stem n\u00e5: %{title} %{option1} eller %{option2}",
+    "poll_description_options": "%{option1} eller %{option2}",
+    "poll_hashtags": "avstemning ",
+    "poll_title": "Stem n\u00e5: %{title}",
+    "poll_twitter_title_options": "Stem n\u00e5: %{title} %{option1} eller %{option2}"
+  },
+  "human_readable_numbers": {
+    "billion": "%{value}B",
+    "million": "%{value}M",
+    "thousand": "%{value}k",
+    "trillion": "%{value}T"
+  },
+  "browser_alert": {
+    "message": "Nettleseren din er ikke st\u00f8ttet. Bruk %{browser : supported browser}"
+  }
 }

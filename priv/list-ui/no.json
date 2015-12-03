@@ -1,42 +1,42 @@
 {
-    "analysis": {
-        "readers_choice": "Lesernes utvalgte",
-        "our_list": "V\u00e5r liste",
-        "sort_by": "Sorter etter"
-    },
-    "analysis_item": {
-        "hide": "Skjul",
-        "view": "Vis"
-    },
-    "browser_alert": {
-        "message": "Your browser is not supported. please use a %{browser : supported browser}"
-    },
-    "list": {
-        "made_with": "Laget med",
-        "see_readers_choice": "Se lesernes utvalgte"
-    },
-    "select_text": {
-        "keyboard": "Trykk p\u00e5 %{key} for \u00e5 kopiere",
-        "default": "Kopier teksten"
-    },
-    "sharing": {
-        "caption": "WWW.BOOMBOX.COM",
-        "description_default": "Sjekk denne listen.",
-        "hashtags": "liste",
-        "title_default": "Sjekk %{title} p\u00e5 WWW.BOOMBOX.COM",
-        "twitter_title_default": "Sjekk %{title} p\u00e5 WWW.BOOMBOX.COM %{url}",
-        "list_description": "Sjekk denne listen.",
-        "list_hashtags": "liste",
-        "list_title": "Sjekk %{title} p\u00e5 WWW.BOOMBOX.COM",
-        "list_twitter_title": "Sjekk %{title} p\u00e5 WWW.BOOMBOX.COM",
-        "share": "Del",
-        "share_on": "Del p\u00e5 %{name}"
-    },
-    "vote": {
-        "dislike": "Slutt \u00e5 lik",
-        "like": "Lik",
-        "readers_choice": "Lesernes utvalgte",
-        "readers_opinion": "Readers' opinion",
-        "view": "Vis"
-    }
+  "analysis": {
+    "readers_choice": "Lesernes utvalgte",
+    "our_list": "V\u00e5r liste",
+    "sort_by": "Sorter etter"
+  },
+  "analysis_item": {
+    "hide": "Skjul",
+    "view": "Vis"
+  },
+  "browser_alert": {
+    "message": "Your browser is not supported. please use a %{browser : supported browser}"
+  },
+  "list": {
+    "made_with": "Laget med",
+    "see_readers_choice": "Se lesernes utvalgte"
+  },
+  "select_text": {
+    "keyboard": "Trykk p\u00e5 %{key} for \u00e5 kopiere",
+    "default": "Kopier teksten"
+  },
+  "sharing": {
+    "caption": "WWW.BOOMBOX.COM",
+    "description_default": "Sjekk denne listen.",
+    "hashtags": "liste",
+    "title_default": "Sjekk %{title} p\u00e5 WWW.BOOMBOX.COM",
+    "twitter_title_default": "Sjekk %{title} p\u00e5 WWW.BOOMBOX.COM %{url}",
+    "list_description": "Sjekk denne listen.",
+    "list_hashtags": "liste",
+    "list_title": "Sjekk %{title} p\u00e5 WWW.BOOMBOX.COM",
+    "list_twitter_title": "Sjekk %{title} p\u00e5 WWW.BOOMBOX.COM",
+    "share": "Del",
+    "share_on": "Del p\u00e5 %{name}"
+  },
+  "vote": {
+    "dislike": "Slutt \u00e5 lik",
+    "like": "Lik",
+    "readers_choice": "Lesernes utvalgte",
+    "readers_opinion": "Readers' opinion",
+    "view": "Vis"
+  }
 }
