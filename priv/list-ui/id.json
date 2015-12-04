@@ -30,7 +30,8 @@
     "list_title": "Lihatlah %{title} di WWW.BOOMBOX.COM",
     "list_twitter_title": "Lihatlah %{title} di WWW.BOOMBOX.COM",
     "share": "Bagikan",
-    "share_on": "Bagikan di %{name}"
+    "share_on": "Bagikan di %{name}",
+    "twitter_via": "BoomboxTeam"
   },
   "vote": {
     "dislike": "Tidak Suka",

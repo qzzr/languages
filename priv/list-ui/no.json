@@ -30,7 +30,8 @@
     "list_title": "Sjekk %{title} p\u00e5 WWW.BOOMBOX.COM",
     "list_twitter_title": "Sjekk %{title} p\u00e5 WWW.BOOMBOX.COM",
     "share": "Del",
-    "share_on": "Del p\u00e5 %{name}"
+    "share_on": "Del p\u00e5 %{name}",
+    "twitter_via": "BoomboxTeam"
   },
   "vote": {
     "dislike": "Slutt \u00e5 lik",

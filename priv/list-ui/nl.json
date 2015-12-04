@@ -30,7 +30,8 @@
     "list_title": "Check %{title} op WWW.BOOMBOX.COM",
     "list_twitter_title": "Check %{title} op WWW.BOOMBOX.COM",
     "share": "Delen",
-    "share_on": "Deel op %{name}"
+    "share_on": "Deel op %{name}",
+    "twitter_via": "BoomboxTeam"
   },
   "vote": {
     "dislike": "Niet leuk",

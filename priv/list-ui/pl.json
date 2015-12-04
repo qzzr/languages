@@ -30,7 +30,8 @@
     "list_title": "Sprawd\u017a %{title} na WWW.BOOMBOX.COM",
     "list_twitter_title": "Sprawd\u017a %{title} na WWW.BOOMBOX.COM",
     "share": "Udost\u0119pnij",
-    "share_on": "Udost\u0119pnij w: %{name}"
+    "share_on": "Udost\u0119pnij w: %{name}",
+    "twitter_via": "BoomboxTeam"
   },
   "vote": {
     "dislike": "Nie lubi\u0119",
