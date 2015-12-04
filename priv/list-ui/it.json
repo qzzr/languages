@@ -30,7 +30,8 @@
     "list_title": "Dai un'occhiata a %{title} su WWW.BOOMBOX.COM",
     "list_twitter_title": "Dai un'occhiata a %{title} su WWW.BOOMBOX.COM",
     "share": "Condividi",
-    "share_on": "Condividi su %{name}"
+    "share_on": "Condividi su %{name}",
+    "twitter_via": "BoomboxTeam"
   },
   "vote": {
     "dislike": "Non mi piace",

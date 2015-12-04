@@ -30,7 +30,8 @@
     "list_title": "Pozrite si %{title} na WWW.BOOMBOX.COM",
     "list_twitter_title": "Pozrite si %{title} na WWW.BOOMBOX.COM",
     "share": "Zdie\u013ea\u0165",
-    "share_on": "Zdie\u013ea\u0165 cez %{name}"
+    "share_on": "Zdie\u013ea\u0165 cez %{name}",
+    "twitter_via": "BoomboxTeam"
   },
   "vote": {
     "dislike": "Nep\u00e1\u010di sa mi to",

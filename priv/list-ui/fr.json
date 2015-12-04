@@ -30,7 +30,8 @@
     "list_title": "D\u00e9couvrez %{title} sur WWW.BOOMBOX.COM",
     "list_twitter_title": "D\u00e9couvrez %{title} sur WWW.BOOMBOX.COM",
     "share": "Partager",
-    "share_on": "Partager sur %{name}"
+    "share_on": "Partager sur %{name}",
+    "twitter_via": "BoomboxTeam"
   },
   "vote": {
     "dislike": "Je n'aime pas",

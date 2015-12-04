@@ -30,7 +30,8 @@
     "list_title": "Provjeri %{title} na WWW.BOOMBOX.COM",
     "list_twitter_title": "Provjeri %{title} na WWW.BOOMBOX.COM",
     "share": "Dijeli",
-    "share_on": "Dijeli na %{name}"
+    "share_on": "Dijeli na %{name}",
+    "twitter_via": "BoomboxTeam"
   },
   "vote": {
     "dislike": "Ne svi\u0111ami se",

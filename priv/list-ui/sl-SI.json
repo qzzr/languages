@@ -30,7 +30,8 @@
     "list_title": "Oglej si %{title} na WWW.BOOMBOX.COM",
     "list_twitter_title": "Oglej si %{title} na WWW.BOOMBOX.COM",
     "share": "Deli",
-    "share_on": "Deli na: %{name}"
+    "share_on": "Deli na: %{name}",
+    "twitter_via": "BoomboxTeam"
   },
   "vote": {
     "dislike": "Ni mi v\u0161e\u010d",

@@ -31,7 +31,8 @@
     "list_title": "Check out %{title} on WWW.BOOMBOX.COM",
     "list_twitter_title": "Check out %{title} on WWW.BOOMBOX.COM",
     "share": "Share",
-    "share_on": "Share on %{name}"
+    "share_on": "Share on %{name}",
+    "twitter_via": "BoomboxTeam"
   },
   "vote": {
     "dislike": "Dislike",
