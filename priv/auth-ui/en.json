@@ -135,7 +135,9 @@
     "password_label": "Change password",
     "password_placeholder": "4 characters minimum",
     "save": "Save changes",
-    "upload_avatar": "UPLOAD AVATAR",
+    "upload_avatar": "Upload avatar",
+    "uploading_image": "Uploading: %{progress}%",
+    "processing_image": "Processing",
     "upgrade_now": "Upgrade now",
     "view_billing_history": "View billing history"
   },
