@@ -1,8 +1,8 @@
 {
   "breakdown": {
-    "by_region": "BY REGION",
-    "by_age": "BY AGE",
-    "by_gender": "BY GENDER",
+    "by_region": "By region",
+    "by_age": "By age",
+    "by_gender": "By gender",
     "other": "Other option",
     "your_selection": "Your selection"
   },
@@ -34,8 +34,9 @@
   },
   "question": {
     "by_categories": "by region, age & gender",
-    "see_the_breakdown": "SEE THE BREAKDOWN",
-    "vote_now": "vote now",
+    "see_the_breakdown": "See the breakdown",
+    "vote_now": "Vote now",
+    "vote": "Vote",
     "num_votes": {
       "0": "No votes",
       "one": "1 vote",
