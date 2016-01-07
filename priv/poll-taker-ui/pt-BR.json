@@ -1,0 +1,73 @@
+{
+  "breakdown": {
+    "by_region": "POR REGI\u00c3O",
+    "by_age": "POR IDADE",
+    "by_gender": "POR SEXO",
+    "other": "Outra op\u00e7\u00e3o",
+    "your_selection": "Sua sele\u00e7\u00e3o"
+  },
+  "by_region": {
+    "nearby": "lugares pr\u00f3ximos",
+    "country": "pa\u00eds",
+    "world": "mundo"
+  },
+  "collect_info": {
+    "female": "Feminino",
+    "how_old_are_you": "Quantos anos voc\u00ea tem?",
+    "male": "Masculino",
+    "see_the_breakdown": "Veja a lista expandida",
+    "skip": "Pular",
+    "subtitle": "Suas informa\u00e7\u00f5es s\u00e3o an\u00f4nimas.",
+    "title": "Veja a sua compara\u00e7\u00e3o com o resto do mundo.",
+    "whats_your_gender": "Qual \u00e9 o seu sexo?",
+    "years": "anos"
+  },
+  "map": {
+    "your_selection": "Sua sele\u00e7\u00e3o",
+    "other": "Outra op\u00e7\u00e3o"
+  },
+  "poll": {
+    "embed_poll": "Incorporar esta pesquisa",
+    "link_poll": "Link para esta pesquisa",
+    "made_with": "Criado com",
+    "share_poll": "Compartilhar esta pesquisa"
+  },
+  "question": {
+    "by_categories": "por regi\u00e3o, idade e g\u00eanero",
+    "see_the_breakdown": "VEJA A LISTA EXPANDIDA",
+    "vote_now": "vote agora",
+    "num_votes": {
+      "0": "Nenhum voto",
+      "one": "1 voto",
+      "other": "%{count}\u00a0votos"
+    }
+  },
+  "select_text": {
+    "keyboard": "Pressione\u00a0%{key}\u00a0para copiar",
+    "default": "Copiar texto"
+  },
+  "sharing": {
+    "caption": {
+      "pollcaster": "WWW.POLLCASTER.COM",
+      "boombox": "WWW.BOOMBOX.COM"
+    },
+    "boombox-caption": "WWW.BOOMBOX.COM",
+    "description": "%{option1}\u00a0ou\u00a0%{option2}",
+    "hashtags": "pesquisa",
+    "title": "Vote agora: %{title}",
+    "twitter-title": "Vote agora: %{title}%{option1} ou %{option2}",
+    "poll_description_options": "%{option1}\u00a0ou\u00a0%{option2}",
+    "poll_hashtags": "pesquisa",
+    "poll_title": "Vote agora: %{title}",
+    "poll_twitter_title_options": "Vote agora: %{title}%{option1} ou %{option2}"
+  },
+  "human_readable_numbers": {
+    "billion": "%{value}B",
+    "million": "%{value}M",
+    "thousand": "%{value}mil",
+    "trillion": "%{value}T"
+  },
+  "browser_alert": {
+    "message": "N\u00e3o h\u00e1 suporte para o seu navegador. Por favor, use o\u00a0%{browser : supported browser}"
+  }
+}
