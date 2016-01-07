@@ -1,0 +1,73 @@
+{
+  "breakdown": {
+    "by_region": "NACH REGION",
+    "by_age": "NACH ALTER",
+    "by_gender": "NACH GESCHLECHT",
+    "other": "Andere Option",
+    "your_selection": "Deine Auswahl"
+  },
+  "by_region": {
+    "nearby": "In der N\u00e4he",
+    "country": "Land",
+    "world": "Welt"
+  },
+  "collect_info": {
+    "female": "Weiblich",
+    "how_old_are_you": "Wie alt bist du?",
+    "male": "M\u00e4nnlich",
+    "see_the_breakdown": "Sieh dir die Analyse an",
+    "skip": "\u00dcbergehen",
+    "subtitle": "Deine Infos sind anonym.",
+    "title": "Sehe einen Vergleich von dir mit dem Rest der Welt.",
+    "whats_your_gender": "Welches Geschlecht hast du?",
+    "years": "Jahre"
+  },
+  "map": {
+    "your_selection": "Deine Auswahl",
+    "other": "Andere Option"
+  },
+  "poll": {
+    "embed_poll": "Diese Umfrage einbetten",
+    "link_poll": "Zu dieser Umfrage verlinken",
+    "made_with": "Gemacht mit",
+    "share_poll": "Diese Umfrage teilen"
+  },
+  "question": {
+    "by_categories": "nach Region, Alter und Geschlecht",
+    "see_the_breakdown": "SIEH DIE ANALYSE",
+    "vote_now": "Jetzt abstimmen",
+    "num_votes": {
+      "0": "Keine Stimmen",
+      "one": "1 Stimme",
+      "other": "%{count} Stimmen"
+    }
+  },
+  "select_text": {
+    "keyboard": "%{key} dr\u00fccken zum Kopieren",
+    "default": "Text kopieren"
+  },
+  "sharing": {
+    "caption": {
+      "pollcaster": "WWW.POLLCASTER.COM",
+      "boombox": "WWW.BOOMBOX.COM"
+    },
+    "boombox-caption": "WWW.BOOMBOX.COM",
+    "description": "%{option1} oder %{option2}",
+    "hashtags": "Umfrage",
+    "title": "Jetzt abstimmen: %{title}",
+    "twitter-title": "Jetzt abstimmen: %{title} %{option1} oder %{option2}",
+    "poll_description_options": "%{option1} oder %{option2}",
+    "poll_hashtags": "Umfrage",
+    "poll_title": "Jetzt abstimmen: %{title}",
+    "poll_twitter_title_options": "Jetzt abstimmen: %{title} %{option1} oder %{option2}"
+  },
+  "human_readable_numbers": {
+    "billion": "%{value} Mrd",
+    "million": "%{value} Mil",
+    "thousand": "%{value} Tsd",
+    "trillion": "%{value} Bil"
+  },
+  "browser_alert": {
+    "message": "Dein Browser wird nicht unterst\u00fctzt. Bitte benutze %{browser : supported browser}"
+  }
+}

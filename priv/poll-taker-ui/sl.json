@@ -1,0 +1,75 @@
+{
+  "breakdown": {
+    "by_region": "PO REGIJI",
+    "by_age": "PO STAROSTI",
+    "by_gender": "PO SPOLU",
+    "other": "Druga mo\u017enost",
+    "your_selection": "Va\u0161a izbira"
+  },
+  "by_region": {
+    "nearby": "v bli\u017eini",
+    "country": "dr\u017eava",
+    "world": "svet"
+  },
+  "collect_info": {
+    "female": "\u017denski",
+    "how_old_are_you": "Koliko ste stari?",
+    "male": "Mo\u0161ki",
+    "see_the_breakdown": "Oglejte si podroben opis",
+    "skip": "Presko\u010di",
+    "subtitle": "Va\u0161i podatki so anonimni.",
+    "title": "Primerjajte se s preostalim svetom.",
+    "whats_your_gender": "Va\u0161 spol?",
+    "years": "let"
+  },
+  "map": {
+    "your_selection": "Va\u0161a izbira",
+    "other": "Druga mo\u017enost"
+  },
+  "poll": {
+    "embed_poll": "Vdelaj to anketo",
+    "link_poll": "Povezava do te ankete",
+    "made_with": "Izdelano z",
+    "share_poll": "Deli to anketo"
+  },
+  "question": {
+    "by_categories": "po regiji, starosti in spolu",
+    "see_the_breakdown": "OGLEJ SI PODROBEN OPIS",
+    "vote_now": "glasuj zdaj",
+    "num_votes": {
+      "0": "Brez glasov",
+      "one": "\u0160t. glasov: 1",
+      "two": "%{count} votes",
+      "few": "%{count} votes",
+      "other": "\u0160t. glasov: %{count}"
+    }
+  },
+  "select_text": {
+    "keyboard": "Pritisni %{key}, \u010de \u017eeli\u0161 kopirati",
+    "default": "Kopiraj besedilo"
+  },
+  "sharing": {
+    "caption": {
+      "pollcaster": "WWW.POLLCASTER.COM",
+      "boombox": "WWW.BOOMBOX.COM"
+    },
+    "boombox-caption": "WWW.BOOMBOX.COM",
+    "description": "%{option1} ali %{option2}",
+    "hashtags": "anketa",
+    "title": "Glasuj zdaj: %{title}",
+    "twitter-title": "Glasuj zdaj: %{title} %{option1} ali %{option2}",
+    "poll_description_options": "%{option1} ali %{option2}",
+    "poll_hashtags": "anketa",
+    "poll_title": "Glasuj zdaj: %{title}",
+    "poll_twitter_title_options": "Glasuj zdaj: %{title} %{option1} ali %{option2}"
+  },
+  "human_readable_numbers": {
+    "billion": "%{value}B",
+    "million": "%{value}M",
+    "thousand": "%{value}k",
+    "trillion": "%{value}T"
+  },
+  "browser_alert": {
+    "message": "Va\u0161 brskalnik ni podprt. Prosimo, uporabite %{browser : supported browser}"
+  }
+}
