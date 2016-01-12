@@ -1,43 +1,44 @@
 {
-  "analysis": {
-    "readers_choice": "Lezerskeuze",
-    "our_list": "Onze lijst",
-    "sort_by": "Sorteer op"
-  },
-  "analysis_item": {
-    "hide": "Verbergen",
-    "view": "Bekijken"
-  },
-  "browser_alert": {
-    "message": "Your browser is not supported. please use a %{browser : supported browser}"
-  },
-  "list": {
-    "made_with": "Gemaakt met",
-    "see_readers_choice": "Bekijk lezerskeuze"
-  },
-  "select_text": {
-    "keyboard": "Druk op %{key} om te kopi\u00ebren",
-    "default": "Kopieer tekst"
-  },
-  "sharing": {
-    "caption": "WWW.BOOMBOX.COM",
-    "description_default": "Check deze lijst.",
-    "hashtags": "lijst",
-    "title_default": "Check %{title} op WWW.BOOMBOX.COM",
-    "twitter_title_default": "Check %{title} op WWW.BOOMBOX.COM %{url}",
-    "list_description": "Check deze lijst.",
-    "list_hashtags": "lijst",
-    "list_title": "Check %{title} op WWW.BOOMBOX.COM",
-    "list_twitter_title": "Check %{title} op WWW.BOOMBOX.COM",
-    "share": "Delen",
-    "share_on": "Deel op %{name}",
-    "twitter_via": "BoomboxTeam"
-  },
-  "vote": {
-    "dislike": "Niet leuk",
-    "like": "Leuk",
-    "readers_choice": "Lezerskeuze",
-    "readers_opinion": "Readers' opinion",
-    "view": "Bekijken"
-  }
+    "analysis": {
+        "readers_choice": "Lezerskeuze",
+        "our_list": "Onze lijst",
+        "sort_by": "Sorteer op"
+    },
+    "analysis_item": {
+        "hide": "Verbergen",
+        "view": "Bekijken"
+    },
+    "browser_alert": {
+        "message": "Je browser wordt niet ondersteund. Gebruik een %{browser : supported browser}"
+    },
+    "list": {
+        "made_with": "Gemaakt met",
+        "see_readers_choice": "Bekijk lezerskeuze"
+    },
+    "select_text": {
+        "keyboard": "Druk op %{key} om te kopi\u00ebren",
+        "default": "Kopieer tekst"
+    },
+    "sharing": {
+        "caption": "WWW.BOOMBOX.COM",
+        "description_default": "Check deze lijst.",
+        "hashtags": "lijst",
+        "title_default": "Check %{title} op WWW.BOOMBOX.COM",
+        "twitter_title_default": "Check %{title} op WWW.BOOMBOX.COM %{url}",
+        "link-list": "Link naar deze lijst",
+        "list_description": "Maak gratis je eigen lijsten op BOOMBOX, het boeiendste contentplatform ter wereld.",
+        "list_hashtags": "lijst",
+        "list_title": "Check %{title} op WWW.BOOMBOX.COM",
+        "list_twitter_title": "Check %{title} op WWW.BOOMBOX.COM",
+        "share": "Delen",
+        "share_on": "Deel op %{name}",
+        "twitter_via": "BoomboxTeam"
+    },
+    "vote": {
+        "dislike": "Niet leuk",
+        "like": "Leuk",
+        "readers_choice": "Lezerskeuze",
+        "readers_opinion": "Readers' opinion",
+        "view": "Bekijken"
+    }
 }

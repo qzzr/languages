@@ -1,43 +1,44 @@
 {
-  "analysis": {
-    "readers_choice": "Preferiti dai lettori",
-    "our_list": "La nostra lista",
-    "sort_by": "Ordina per"
-  },
-  "analysis_item": {
-    "hide": "Nascondi",
-    "view": "Visualizza"
-  },
-  "browser_alert": {
-    "message": "Your browser is not supported. please use a %{browser : supported browser}"
-  },
-  "list": {
-    "made_with": "Fatto con",
-    "see_readers_choice": "Vedi i preferiti dai lettori"
-  },
-  "select_text": {
-    "keyboard": "Premi %{key} per copiare",
-    "default": "Copia il testo"
-  },
-  "sharing": {
-    "caption": "WWW.BOOMBOX.COM",
-    "description_default": "Dai un'occhiata a questa lista.",
-    "hashtags": "lista",
-    "title_default": "Dai un'occhiata a %{title} su WWW.BOOMBOX.COM",
-    "twitter_title_default": "Dai un'occhiata a %{title} su WWW.BOOMBOX.COM %{url}",
-    "list_description": "Dai un'occhiata a questa lista.",
-    "list_hashtags": "lista",
-    "list_title": "Dai un'occhiata a %{title} su WWW.BOOMBOX.COM",
-    "list_twitter_title": "Dai un'occhiata a %{title} su WWW.BOOMBOX.COM",
-    "share": "Condividi",
-    "share_on": "Condividi su %{name}",
-    "twitter_via": "BoomboxTeam"
-  },
-  "vote": {
-    "dislike": "Non mi piace",
-    "like": "Mi piace",
-    "readers_choice": "Preferiti dai lettori",
-    "readers_opinion": "Readers' opinion",
-    "view": "Visualizza"
-  }
+    "analysis": {
+        "readers_choice": "Preferiti dai lettori",
+        "our_list": "La nostra lista",
+        "sort_by": "Ordina per"
+    },
+    "analysis_item": {
+        "hide": "Nascondi",
+        "view": "Visualizza"
+    },
+    "browser_alert": {
+        "message": "Il tuo browser non \u00e8 supportato. Utilizzare un %{browser : supported browser}"
+    },
+    "list": {
+        "made_with": "Fatto con",
+        "see_readers_choice": "Vedi i preferiti dai lettori"
+    },
+    "select_text": {
+        "keyboard": "Premi %{key} per copiare",
+        "default": "Copia il testo"
+    },
+    "sharing": {
+        "caption": "WWW.BOOMBOX.COM",
+        "description_default": "Dai un'occhiata a questa lista.",
+        "hashtags": "lista",
+        "title_default": "Dai un'occhiata a %{title} su WWW.BOOMBOX.COM",
+        "twitter_title_default": "Dai un'occhiata a %{title} su WWW.BOOMBOX.COM %{url}",
+        "link-list": "Collega a questa lista",
+        "list_description": "Crea gratuitamente la tua lista su BOOMBOX, la piattaforma di contenuti pi\u00f9 coinvolgente al mondo.",
+        "list_hashtags": "lista",
+        "list_title": "Dai un'occhiata a %{title} su WWW.BOOMBOX.COM",
+        "list_twitter_title": "Dai un'occhiata a %{title} su WWW.BOOMBOX.COM",
+        "share": "Condividi",
+        "share_on": "Condividi su %{name}",
+        "twitter_via": "BoomboxTeam"
+    },
+    "vote": {
+        "dislike": "Non mi piace",
+        "like": "Mi piace",
+        "readers_choice": "Preferiti dai lettori",
+        "readers_opinion": "Readers' opinion",
+        "view": "Visualizza"
+    }
 }

@@ -1,0 +1,44 @@
+{
+    "analysis": {
+        "readers_choice": "Izbor \u010ditalaca",
+        "our_list": "Na\u0161a lista",
+        "sort_by": "Sortiraj prema"
+    },
+    "analysis_item": {
+        "hide": "Sakrij",
+        "view": "Pregledaj"
+    },
+    "browser_alert": {
+        "message": "Tvoj pretra\u017eiva\u010d nije podr\u017ean. Molimo koristi %{browser : supported browser}"
+    },
+    "list": {
+        "made_with": "Sastavljena sa",
+        "see_readers_choice": "Pogledaj izbor \u010ditalaca"
+    },
+    "select_text": {
+        "keyboard": "Pritisni %{key} da kopira\u0161",
+        "default": "Kopiraj tekst"
+    },
+    "sharing": {
+        "caption": "WWW.BOOMBOX.COM",
+        "description_default": "Pregledaj ovu listu.",
+        "hashtags": "lista",
+        "title_default": "Pregledaj %{title} na WWW.BOOMBOX.COM",
+        "twitter_title_default": "Pregledaj %{title} na WWW.BOOMBOX.COM %{url}",
+        "link-list": "Pove\u017ei se na ovu listu",
+        "list_description": "Napravi besplatno svoje sopstvene liste na BOOMBOX, najatraktivnijoj podlozi za sadr\u017eaj.",
+        "list_hashtags": "lista",
+        "list_title": "Pregledaj %{title} na WWW.BOOMBOX.COM",
+        "list_twitter_title": "Pregledaj %{title} na BOOMBOX.COM",
+        "share": "Podeli",
+        "share_on": "Podeli na %{name}",
+        "twitter_via": "BoomboxTeam"
+    },
+    "vote": {
+        "dislike": "Ne svi\u0111a mi se",
+        "like": "Svi\u0111a mi se",
+        "readers_choice": "Izbor \u010ditalaca",
+        "readers_opinion": "Readers' opinion",
+        "view": "Pregledaj"
+    }
+}

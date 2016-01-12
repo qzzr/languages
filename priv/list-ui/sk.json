@@ -1,43 +1,44 @@
 {
-  "analysis": {
-    "readers_choice": "V\u00fdber \u010ditate\u013eov",
-    "our_list": "N\u00e1\u0161 zoznam",
-    "sort_by": "Zoradi\u0165 pod\u013ea"
-  },
-  "analysis_item": {
-    "hide": "Skry\u0165",
-    "view": "Zobrazi\u0165"
-  },
-  "browser_alert": {
-    "message": "Your browser is not supported. please use a %{browser : supported browser}"
-  },
-  "list": {
-    "made_with": "Vytvoren\u00e9 pomocou",
-    "see_readers_choice": "Zobrazi\u0165 v\u00fdber \u010ditate\u013eov"
-  },
-  "select_text": {
-    "keyboard": "Skop\u00edrujete stla\u010den\u00edm %{key}",
-    "default": "Skop\u00edrova\u0165 text"
-  },
-  "sharing": {
-    "caption": "WWW.BOOMBOX.COM",
-    "description_default": "Pozrite si tento zoznam.",
-    "hashtags": "zoznam",
-    "title_default": "Pozrite si %{title} na WWW.BOOMBOX.COM",
-    "twitter_title_default": "Pozrite si %{title} na WWW.BOOMBOX.COM %{url}",
-    "list_description": "Pozrite si tento zoznam.",
-    "list_hashtags": "zoznam",
-    "list_title": "Pozrite si %{title} na WWW.BOOMBOX.COM",
-    "list_twitter_title": "Pozrite si %{title} na WWW.BOOMBOX.COM",
-    "share": "Zdie\u013ea\u0165",
-    "share_on": "Zdie\u013ea\u0165 cez %{name}",
-    "twitter_via": "BoomboxTeam"
-  },
-  "vote": {
-    "dislike": "Nep\u00e1\u010di sa mi to",
-    "like": "P\u00e1\u010di sa mi to",
-    "readers_choice": "V\u00fdber \u010ditate\u013eov",
-    "readers_opinion": "Readers' opinion",
-    "view": "Zobrazi\u0165"
-  }
+    "analysis": {
+        "readers_choice": "V\u00fdber \u010ditate\u013eov",
+        "our_list": "N\u00e1\u0161 zoznam",
+        "sort_by": "Zoradi\u0165 pod\u013ea"
+    },
+    "analysis_item": {
+        "hide": "Skry\u0165",
+        "view": "Zobrazi\u0165"
+    },
+    "browser_alert": {
+        "message": "Syst\u00e9m nepodporuje v\u00e1\u0161 preh\u013ead\u00e1va\u010d, pou\u017eite %{browser : supported browser}"
+    },
+    "list": {
+        "made_with": "Vytvoren\u00e9 pomocou",
+        "see_readers_choice": "Zobrazi\u0165 v\u00fdber \u010ditate\u013eov"
+    },
+    "select_text": {
+        "keyboard": "Skop\u00edrujete stla\u010den\u00edm %{key}",
+        "default": "Skop\u00edrova\u0165 text"
+    },
+    "sharing": {
+        "caption": "WWW.BOOMBOX.COM",
+        "description_default": "Pozrite si tento zoznam.",
+        "hashtags": "zoznam",
+        "title_default": "Pozrite si %{title} na WWW.BOOMBOX.COM",
+        "twitter_title_default": "Pozrite si %{title} na WWW.BOOMBOX.COM %{url}",
+        "link-list": "Odkaz na tento zoznam",
+        "list_description": "Vytvorte si zadarmo vlastn\u00e9 zoznamy na BOOMBOXe, najzauj\u00edmavej\u0161ej platforme pre obsah.",
+        "list_hashtags": "zoznam",
+        "list_title": "Pozrite si %{title} na WWW.BOOMBOX.COM",
+        "list_twitter_title": "Pozrite si %{title} na WWW.BOOMBOX.COM",
+        "share": "Zdie\u013ea\u0165",
+        "share_on": "Zdie\u013ea\u0165 cez %{name}",
+        "twitter_via": "BoomboxTeam"
+    },
+    "vote": {
+        "dislike": "Nep\u00e1\u010di sa mi to",
+        "like": "P\u00e1\u010di sa mi to",
+        "readers_choice": "V\u00fdber \u010ditate\u013eov",
+        "readers_opinion": "Readers' opinion",
+        "view": "Zobrazi\u0165"
+    }
 }
