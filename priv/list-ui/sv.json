@@ -1,44 +1,44 @@
 {
-    "analysis": {
-        "readers_choice": "L\u00e4sarnas val",
-        "our_list": "V\u00e5r lista",
-        "sort_by": "Sortera efter"
-    },
-    "analysis_item": {
-        "hide": "D\u00f6lj",
-        "view": "Visa"
-    },
-    "browser_alert": {
-        "message": "Din webbl\u00e4sare st\u00f6ds inte, v\u00e4nligen anv\u00e4nd %{browser : supported browser}"
-    },
-    "list": {
-        "made_with": "Skapad med",
-        "see_readers_choice": "Visa l\u00e4sarnas val"
-    },
-    "select_text": {
-        "keyboard": "Tryck p\u00e5 %{key} f\u00f6r att kopiera",
-        "default": "Kopiera text"
-    },
-    "sharing": {
-        "caption": "WWW.BOOMBOX.COM",
-        "description_default": "Kolla in den h\u00e4r listan.",
-        "hashtags": "lista",
-        "title_default": "Kolla in %{title} p\u00e5 WWW.BOOMBOX.COM",
-        "twitter_title_default": "Kolla in %{title} p\u00e5 WWW.BOOMBOX.COM %{url}",
-        "link-list": "L\u00e4nka till den h\u00e4r listan",
-        "list_description": "G\u00f6r egna listor gratis p\u00e5 BOOMBOX, v\u00e4rldens mest engagerande inneh\u00e5llsplattform.",
-        "list_hashtags": "lista",
-        "list_title": "Kolla in %{title} p\u00e5 WWW.BOOMBOX.COM",
-        "list_twitter_title": "Kolla in %{title} p\u00e5 WWW.BOOMBOX.COM",
-        "share": "Dela",
-        "share_on": "Dela p\u00e5 %{name}",
-        "twitter_via": "BoomboxTeam"
-    },
-    "vote": {
-        "dislike": "Ogilla",
-        "like": "Gilla",
-        "readers_choice": "L\u00e4sarnas val",
-        "readers_opinion": "Readers' opinion",
-        "view": "Visa"
-    }
+  "analysis": {
+    "readers_choice": "L\u00e4sarnas val",
+    "our_list": "V\u00e5r lista",
+    "sort_by": "Sortera efter"
+  },
+  "analysis_item": {
+    "hide": "D\u00f6lj",
+    "view": "Visa"
+  },
+  "browser_alert": {
+    "message": "Din webbl\u00e4sare st\u00f6ds inte, v\u00e4nligen anv\u00e4nd %{browser : supported browser}"
+  },
+  "list": {
+    "made_with": "Skapad med",
+    "see_readers_choice": "Visa l\u00e4sarnas val"
+  },
+  "select_text": {
+    "keyboard": "Tryck p\u00e5 %{key} f\u00f6r att kopiera",
+    "default": "Kopiera text"
+  },
+  "sharing": {
+    "caption": "WWW.BOOMBOX.COM",
+    "description_default": "Kolla in den h\u00e4r listan.",
+    "hashtags": "lista",
+    "title_default": "Kolla in %{title} p\u00e5 WWW.BOOMBOX.COM",
+    "twitter_title_default": "Kolla in %{title} p\u00e5 WWW.BOOMBOX.COM %{url}",
+    "link-list": "L\u00e4nka till den h\u00e4r listan",
+    "list_description": "G\u00f6r egna listor gratis p\u00e5 BOOMBOX, v\u00e4rldens mest engagerande inneh\u00e5llsplattform.",
+    "list_hashtags": "lista",
+    "list_title": "Kolla in %{title} p\u00e5 WWW.BOOMBOX.COM",
+    "list_twitter_title": "Kolla in %{title} p\u00e5 WWW.BOOMBOX.COM",
+    "share": "Dela",
+    "share_on": "Dela p\u00e5 %{name}",
+    "twitter_via": "BoomboxTeam"
+  },
+  "vote": {
+    "dislike": "Ogilla",
+    "like": "Gilla",
+    "readers_choice": "L\u00e4sarnas val",
+    "readers_opinion": "Readers' opinion",
+    "view": "Visa"
+  }
 }

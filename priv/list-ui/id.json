@@ -1,44 +1,44 @@
 {
-    "analysis": {
-        "readers_choice": "Pilihan pembaca",
-        "our_list": "Daftar kami",
-        "sort_by": "Urutkan menurut"
-    },
-    "analysis_item": {
-        "hide": "Sembunyikan",
-        "view": "Lihat"
-    },
-    "browser_alert": {
-        "message": "Peramban Anda tidak didukung, silakan gunakan %{browser : supported browser}"
-    },
-    "list": {
-        "made_with": "Dibuat dengan",
-        "see_readers_choice": "Lihat pilihan pembaca"
-    },
-    "select_text": {
-        "keyboard": "Tekan %{key} untuk menyalin",
-        "default": "Salin teks"
-    },
-    "sharing": {
-        "caption": "WWW.BOOMBOX.COM",
-        "description_default": "Lihatlah daftar ini.",
-        "hashtags": "daftar",
-        "title_default": "Lihatlah %{title} di WWW.BOOMBOX.COM",
-        "twitter_title_default": "Lihatlah %{title} di WWW.BOOMBOX.COM %{url}",
-        "link-list": "Tautkan ke daftar ini",
-        "list_description": "Buat daftar Anda sendiri dengan gratis di BOOMBOX, platform konten paling menarik di dunia.",
-        "list_hashtags": "daftar",
-        "list_title": "Lihatlah %{title} di WWW.BOOMBOX.COM",
-        "list_twitter_title": "Lihatlah %{title} di WWW.BOOMBOX.COM",
-        "share": "Bagikan",
-        "share_on": "Bagikan di %{name}",
-        "twitter_via": "BoomboxTeam"
-    },
-    "vote": {
-        "dislike": "Tidak Suka",
-        "like": "Suka",
-        "readers_choice": "Pilihan pembaca",
-        "readers_opinion": "Readers' opinion",
-        "view": "Lihat"
-    }
+  "analysis": {
+    "readers_choice": "Pilihan pembaca",
+    "our_list": "Daftar kami",
+    "sort_by": "Urutkan menurut"
+  },
+  "analysis_item": {
+    "hide": "Sembunyikan",
+    "view": "Lihat"
+  },
+  "browser_alert": {
+    "message": "Peramban Anda tidak didukung, silakan gunakan %{browser : supported browser}"
+  },
+  "list": {
+    "made_with": "Dibuat dengan",
+    "see_readers_choice": "Lihat pilihan pembaca"
+  },
+  "select_text": {
+    "keyboard": "Tekan %{key} untuk menyalin",
+    "default": "Salin teks"
+  },
+  "sharing": {
+    "caption": "WWW.BOOMBOX.COM",
+    "description_default": "Lihatlah daftar ini.",
+    "hashtags": "daftar",
+    "title_default": "Lihatlah %{title} di WWW.BOOMBOX.COM",
+    "twitter_title_default": "Lihatlah %{title} di WWW.BOOMBOX.COM %{url}",
+    "link-list": "Tautkan ke daftar ini",
+    "list_description": "Buat daftar Anda sendiri dengan gratis di BOOMBOX, platform konten paling menarik di dunia.",
+    "list_hashtags": "daftar",
+    "list_title": "Lihatlah %{title} di WWW.BOOMBOX.COM",
+    "list_twitter_title": "Lihatlah %{title} di WWW.BOOMBOX.COM",
+    "share": "Bagikan",
+    "share_on": "Bagikan di %{name}",
+    "twitter_via": "BoomboxTeam"
+  },
+  "vote": {
+    "dislike": "Tidak Suka",
+    "like": "Suka",
+    "readers_choice": "Pilihan pembaca",
+    "readers_opinion": "Readers' opinion",
+    "view": "Lihat"
+  }
 }

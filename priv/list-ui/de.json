@@ -1,44 +1,44 @@
 {
-    "analysis": {
-        "readers_choice": "Leserempfehlung",
-        "our_list": "Unsere Liste",
-        "sort_by": "Sortieren nach"
-    },
-    "analysis_item": {
-        "hide": "Verbergen",
-        "view": "Ansehen"
-    },
-    "browser_alert": {
-        "message": "Dein Browser wird nicht unterst\u00fctzt. Verwende bitte einen %{browser : supported browser}"
-    },
-    "list": {
-        "made_with": "Hergestellt mit",
-        "see_readers_choice": "Leserempfehlung ansehen"
-    },
-    "select_text": {
-        "keyboard": "%{key} zum Kopieren dr\u00fccken",
-        "default": "Text kopieren"
-    },
-    "sharing": {
-        "caption": "WWW.BOOMBOX.COM",
-        "description_default": "Sieh dir diese Liste an.",
-        "hashtags": "Liste",
-        "title_default": "Sieh dir %{title} auf WWW.BOOMBOX.COM an",
-        "twitter_title_default": "Sieh dir %{title} auf WWW.BOOMBOX.COM %{url} an",
-        "link-list": "Link zu dieser Liste",
-        "list_description": "Erstelle kostenlos deine eigenen Listen auf BOOMBOX, der mitrei\u00dfendsten Content-Plattform der Welt.",
-        "list_hashtags": "liste",
-        "list_title": "Sieh dir %{title} auf WWW.BOOMBOX.COM an",
-        "list_twitter_title": "Sieh dir %{title} auf WWW.BOOMBOX.COM an",
-        "share": "Teilen",
-        "share_on": "Auf %{name} teilen",
-        "twitter_via": "BoomboxTeam"
-    },
-    "vote": {
-        "dislike": "Gef\u00e4llt mir nicht",
-        "like": "Gef\u00e4llt mir",
-        "readers_choice": "Leserempfehlung",
-        "readers_opinion": "Readers' opinion",
-        "view": "Ansehen"
-    }
+  "analysis": {
+    "readers_choice": "Leserempfehlung",
+    "our_list": "Unsere Liste",
+    "sort_by": "Sortieren nach"
+  },
+  "analysis_item": {
+    "hide": "Verbergen",
+    "view": "Ansehen"
+  },
+  "browser_alert": {
+    "message": "Dein Browser wird nicht unterst\u00fctzt. Verwende bitte einen %{browser : supported browser}"
+  },
+  "list": {
+    "made_with": "Hergestellt mit",
+    "see_readers_choice": "Leserempfehlung ansehen"
+  },
+  "select_text": {
+    "keyboard": "%{key} zum Kopieren dr\u00fccken",
+    "default": "Text kopieren"
+  },
+  "sharing": {
+    "caption": "WWW.BOOMBOX.COM",
+    "description_default": "Sieh dir diese Liste an.",
+    "hashtags": "Liste",
+    "title_default": "Sieh dir %{title} auf WWW.BOOMBOX.COM an",
+    "twitter_title_default": "Sieh dir %{title} auf WWW.BOOMBOX.COM %{url} an",
+    "link-list": "Link zu dieser Liste",
+    "list_description": "Erstelle kostenlos deine eigenen Listen auf BOOMBOX, der mitrei\u00dfendsten Content-Plattform der Welt.",
+    "list_hashtags": "liste",
+    "list_title": "Sieh dir %{title} auf WWW.BOOMBOX.COM an",
+    "list_twitter_title": "Sieh dir %{title} auf WWW.BOOMBOX.COM an",
+    "share": "Teilen",
+    "share_on": "Auf %{name} teilen",
+    "twitter_via": "BoomboxTeam"
+  },
+  "vote": {
+    "dislike": "Gef\u00e4llt mir nicht",
+    "like": "Gef\u00e4llt mir",
+    "readers_choice": "Leserempfehlung",
+    "readers_opinion": "Readers' opinion",
+    "view": "Ansehen"
+  }
 }
