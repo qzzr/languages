@@ -11,5 +11,16 @@
     "contributor_label": "Collaborator",
     "owner_description": "Owners can access billing information, add and remove users from the organization, and create and edit content.",
     "owner_label": "Owner"
-  }
+  },
+  "social_labels": {
+    "email": "Email",
+    "facebook": "Share",
+    "gplus": "Share",
+    "hashtag": "polls",
+    "linkedin": "Share",
+    "pinterest": "Pin it",
+    "reddit": "Share",
+    "tumblr": "Share",
+    "twitter": "Tweet"
+  }  
 }
