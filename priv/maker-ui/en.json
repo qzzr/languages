@@ -165,21 +165,6 @@
       "qzzr": "Create your first quiz. It's fast and easy."
     }
   },
-  "dashboard_content_library": {
-    "alpha": "Alpha",
-    "description": "Tell us about the quiz, poll, or list you are looking for.  We'll do a quick search and send you some options.",
-    "find": "What type of content should we find for you?",
-    "heading": "The library is under construction, but you can still use it.",
-    "link_description": "Save time and select from over 100,000 titles",
-    "link_label": "Content Library",
-    "list_label": "List",
-    "looking": "What type of content are you looking for?",
-    "notification": "Request sent. We’ll get back to you with something great soon.",
-    "placeholder": "ex. a college basketball quiz",
-    "poll_label": "Poll",
-    "quiz_label": "Quiz",
-    "send_request": "Send request"
-  },
   "edit_button": {
     "edit": "Edit"
   },
