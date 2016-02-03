@@ -135,6 +135,12 @@
     "side_ads_bullet_white_label": "Complete white label",
     "side_ads_heading_full_platform": "The full interactive platform",
     "side_ads_heading_upgrade_qzzr_pro": "Upgrade to Pro",
+    "side_ads_heading_kick_it": "Kick it up a notch",
+    "side_ads_subheading": {
+      "pollcaster": "Create polls and quizzes in one place and collaborate with your team.",
+      "qzzr": "Create quizzes and polls in one place and collaborate with your team.",
+      "boombox": "Upgrade to reduce Boombox branding, generate leads, use integrations, boost your content, export data & more"
+    },
     "side_link_create_organization": "Create an organization",
     "side_link_organizations_allow": "Collaborate with multiple people on the same interactive content",
     "side_links_list": "List",
