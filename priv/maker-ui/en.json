@@ -123,6 +123,24 @@
     "remove_person_confirm": "Are you sure you want to remove this person? They will lose access to all organizational content.",
     "resend_invite": "RESEND INVITE",
     "search": "SEARCH",
+    "side_ads_btn_check_boombox": "Check out boombox",
+    "side_ads_btn_learn_more": "Learn more",
+    "side_ads_bullet_advanced_customization": "Advanced customization",
+    "side_ads_bullet_email_leads": "Collect email leads",
+    "side_ads_bullet_facebook_likes": "Get Facebook page likes",
+    "side_ads_bullet_content_types": "Quizzes, lists, polls",
+    "side_ads_bullet_reduce_qzzr_branding": "Reduce Qzzr branding",
+    "side_ads_bullet_targeted_offers": "Present targeted offers",
+    "side_ads_bullet_team_collaboration": "Team collaboration",
+    "side_ads_bullet_white_label": "Complete white label",
+    "side_ads_heading_full_platform": "The full interactive platform",
+    "side_ads_heading_upgrade_qzzr_pro": "Upgrade to Pro",
+    "side_ads_heading_kick_it": "Kick it up a notch",
+    "side_ads_subheading": {
+      "pollcaster": "Create polls and quizzes in one place and collaborate with your team.",
+      "qzzr": "Create quizzes and polls in one place and collaborate with your team.",
+      "boombox": "Upgrade to reduce Boombox branding, generate leads, use integrations, boost your content, export data & more"
+    },
     "side_link_create_organization": "Create an organization",
     "side_link_organizations_allow": "Collaborate with multiple people on the same interactive content",
     "side_links_list": "List",
@@ -164,21 +182,6 @@
       "pollcaster": "Create your first poll. It's fast and easy.",
       "qzzr": "Create your first quiz. It's fast and easy."
     }
-  },
-  "dashboard_content_library": {
-    "alpha": "Alpha",
-    "description": "Tell us about the quiz, poll, or list you are looking for.  We'll do a quick search and send you some options.",
-    "find": "What type of content should we find for you?",
-    "heading": "The library is under construction, but you can still use it.",
-    "link_description": "Save time and select from over 100,000 titles",
-    "link_label": "Content Library",
-    "list_label": "List",
-    "looking": "What type of content are you looking for?",
-    "notification": "Request sent. We’ll get back to you with something great soon.",
-    "placeholder": "ex. a college basketball quiz",
-    "poll_label": "Poll",
-    "quiz_label": "Quiz",
-    "send_request": "Send request"
   },
   "edit_button": {
     "edit": "Edit"
