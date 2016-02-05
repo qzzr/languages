@@ -11,6 +11,24 @@
   "add_option": {
     "add": "Add Option"
   },
+  "add_media": {
+    "field_placeholder_paste_link": "Paste your link",
+    "field_press_enter": "Press enter to add",
+    "preview": "Preview",
+    "search_input_placeholder": "Type in what you're looking for",
+    "search_input_press_enter": "Press enter to search",
+    "search_media_results_less_specific": "Try being less specific, or ",
+    "search_media_results_none": "There are no results for \"%{search}\".",
+    "search_media_results_period": ".",
+    "search_media_results_reset_search": "resetting your search",
+    "search_size": "Size",
+    "search_source": "Source",
+    "search_use_image": "Use this image",
+    "select_image": "Select an image to preview what it’ll look like",
+    "select_media_device": "From device",
+    "select_media_link": "From link",
+    "select_media_search": "Search"
+  },
   "boombox_redirect": {
     "go": "Take me to boombox",
     "info": "Boombox is a creative toolbox for serious publishers brought to you by the same team who brought you Qzzr.  It contains a bevy of world-class engagement tools (including Qzzr).  Great for teams, Boombox allows you to share, re-purpose, and collaborate on the same pool of creations.",
