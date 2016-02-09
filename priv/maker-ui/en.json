@@ -327,6 +327,15 @@
     "refresh": "Refresh",
     "embed_preview": "Embed preview"
   },
+  "social": {
+    "__comment__": "this block mirrors qzzr-api translations for overview page",
+    "boombox-caption": "Made with Boombox",
+    "boombox-description": "Make your own quizzes and other interactive content for free on Boombox.",
+    "caption": "Made with Qzzr",
+    "description": "Make your own quizzes for free on Qzzr, the world's simplest quiz tool.",
+    "hashtag": "quizzes",
+    "quiz": "Check out \"%{quiz_title}\""
+  },
   "sharing": {
     "caption": {
       "pollcaster": "WWW.POLLCASTER.COM",
