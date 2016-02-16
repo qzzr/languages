@@ -9,7 +9,7 @@
     "view": "Poka\u017c"
   },
   "browser_alert": {
-    "message": "Your browser is not supported. please use a %{browser : supported browser}"
+    "message": "Ta przegl\u0105darka nie jest obs\u0142ugiwana. U\u017cyj %{browser : supported browser}"
   },
   "list": {
     "made_with": "Stworzono przy pomocy",
@@ -25,10 +25,11 @@
     "hashtags": "lista",
     "title_default": "Sprawd\u017a %{title} na WWW.BOOMBOX.COM",
     "twitter_title_default": "Sprawd\u017a %{title} na WWW.BOOMBOX.COM %{url}",
-    "list_description": "Sprawd\u017a t\u0119 list\u0119",
+    "link-list": "Linkuj do tej listy",
+    "list_description": "Utw\u00f3rz bezp\u0142atnie w\u0142asn\u0105 list\u0119 na BOOMBOX, najatrakcyjniejszej platformie na \u015bwiecie.",
     "list_hashtags": "lista",
-    "list_title": "Sprawd\u017a %{title} na WWW.BOOMBOX.COM",
-    "list_twitter_title": "Sprawd\u017a %{title} na WWW.BOOMBOX.COM",
+    "list_title": "Zobacz %{title} na WWW.BOOMBOX.COM",
+    "list_twitter_title": "Zobacz %{title} na WWW.BOOMBOX.COM",
     "share": "Udost\u0119pnij",
     "share_on": "Udost\u0119pnij w: %{name}",
     "twitter_via": "BoomboxTeam"

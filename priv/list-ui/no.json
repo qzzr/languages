@@ -9,7 +9,7 @@
     "view": "Vis"
   },
   "browser_alert": {
-    "message": "Your browser is not supported. please use a %{browser : supported browser}"
+    "message": "Nettleseren din er ikke st\u00f8ttet. Bruk en %{browser : supported browser}"
   },
   "list": {
     "made_with": "Laget med",
@@ -25,10 +25,11 @@
     "hashtags": "liste",
     "title_default": "Sjekk %{title} p\u00e5 WWW.BOOMBOX.COM",
     "twitter_title_default": "Sjekk %{title} p\u00e5 WWW.BOOMBOX.COM %{url}",
-    "list_description": "Sjekk denne listen.",
+    "link-list": "Lenke til listen",
+    "list_description": "Lag din egen liste gratis p\u00e5 BOOMBOX, verdens mest engasjerende innholdsplattform.",
     "list_hashtags": "liste",
-    "list_title": "Sjekk %{title} p\u00e5 WWW.BOOMBOX.COM",
-    "list_twitter_title": "Sjekk %{title} p\u00e5 WWW.BOOMBOX.COM",
+    "list_title": "Sjekk ut %{title} on WWW.BOOMBOX.COM",
+    "list_twitter_title": "Sjekk ut %{title} p\u00e5 WWW.BOOMBOX.COM",
     "share": "Del",
     "share_on": "Del p\u00e5 %{name}",
     "twitter_via": "BoomboxTeam"

@@ -9,7 +9,7 @@
     "view": "Ansehen"
   },
   "browser_alert": {
-    "message": "Your browser is not supported. please use a %{browser : supported browser}"
+    "message": "Dein Browser wird nicht unterst\u00fctzt. Verwende bitte einen %{browser : supported browser}"
   },
   "list": {
     "made_with": "Hergestellt mit",
@@ -25,8 +25,9 @@
     "hashtags": "Liste",
     "title_default": "Sieh dir %{title} auf WWW.BOOMBOX.COM an",
     "twitter_title_default": "Sieh dir %{title} auf WWW.BOOMBOX.COM %{url} an",
-    "list_description": "Sieh dir diese Liste an.",
-    "list_hashtags": "Liste",
+    "link-list": "Link zu dieser Liste",
+    "list_description": "Erstelle kostenlos deine eigenen Listen auf BOOMBOX, der mitrei\u00dfendsten Content-Plattform der Welt.",
+    "list_hashtags": "liste",
     "list_title": "Sieh dir %{title} auf WWW.BOOMBOX.COM an",
     "list_twitter_title": "Sieh dir %{title} auf WWW.BOOMBOX.COM an",
     "share": "Teilen",

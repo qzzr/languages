@@ -9,7 +9,7 @@
     "view": "Lihat"
   },
   "browser_alert": {
-    "message": "Your browser is not supported. please use a %{browser : supported browser}"
+    "message": "Peramban Anda tidak didukung, silakan gunakan %{browser : supported browser}"
   },
   "list": {
     "made_with": "Dibuat dengan",
@@ -25,7 +25,8 @@
     "hashtags": "daftar",
     "title_default": "Lihatlah %{title} di WWW.BOOMBOX.COM",
     "twitter_title_default": "Lihatlah %{title} di WWW.BOOMBOX.COM %{url}",
-    "list_description": "Lihatlah daftar ini.",
+    "link-list": "Tautkan ke daftar ini",
+    "list_description": "Buat daftar Anda sendiri dengan gratis di BOOMBOX, platform konten paling menarik di dunia.",
     "list_hashtags": "daftar",
     "list_title": "Lihatlah %{title} di WWW.BOOMBOX.COM",
     "list_twitter_title": "Lihatlah %{title} di WWW.BOOMBOX.COM",

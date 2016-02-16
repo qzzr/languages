@@ -9,7 +9,7 @@
     "view": "G\u00f6ster"
   },
   "browser_alert": {
-    "message": "Your browser is not supported. please use a %{browser : supported browser}"
+    "message": "Taray\u0131c\u0131n\u0131z desteklenmemektedir. L\u00fctfen %{browser : supported browser} kullan\u0131n"
   },
   "list": {
     "made_with": "\u015eununla haz\u0131rland\u0131: ",
@@ -25,10 +25,11 @@
     "hashtags": "liste",
     "title_default": "WWW.BOOMBOX.COM'da %{title}'a bir g\u00f6z at",
     "twitter_title_default": "WWW.BOOMBOX.COM %{url}adresinde %{title}'a bir g\u00f6z at",
-    "list_description": "\u015eu listeye bir g\u00f6z at.",
+    "link-list": "Bu listenin ba\u011flant\u0131s\u0131",
+    "list_description": "D\u00fcnyan\u0131n en etkili i\u00e7erik platformu BOOMBOX ile kendi listelerinizi \u00fccretsiz olarak olu\u015fturun.",
     "list_hashtags": "liste",
-    "list_title": "WWW.BOOMBOX.COM'da %{title}'a bir g\u00f6z at",
-    "list_twitter_title": "WWW.BOOMBOX.COM'da %{title}'a bir g\u00f6z at",
+    "list_title": "WWW.BOOMBOX.COM'da %{title} listesine g\u00f6z at\u0131n",
+    "list_twitter_title": "WWW.BOOMBOX.COM'da %{title} listesine g\u00f6z at\u0131n",
     "share": "Payla\u015f",
     "share_on": "\u015eurada payla\u015f: %{name}",
     "twitter_via": "BoomboxTeam"

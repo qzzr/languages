@@ -9,7 +9,7 @@
     "view": "Ogled"
   },
   "browser_alert": {
-    "message": "Your browser is not supported. please use a %{browser : supported browser}"
+    "message": "Va\u0161 brskalnik ni podprt. Prosimo, uporabite %{browser : supported browser}"
   },
   "list": {
     "made_with": "Izdelano z",
@@ -25,7 +25,8 @@
     "hashtags": "seznam",
     "title_default": "Oglej si %{title} na WWW.BOOMBOX.COM",
     "twitter_title_default": "Oglej si %{title} na WWW.BOOMBOX.COM %{url}",
-    "list_description": "Oglej si ta seznam.",
+    "link-list": "Povezava do tega seznama",
+    "list_description": "Ustvarite si svoje sezname brezpla\u010dno na BOOMBOX \u2013 najbolj navdu\u0161ujo\u010di platformi z vsebino.",
     "list_hashtags": "seznam",
     "list_title": "Oglej si %{title} na WWW.BOOMBOX.COM",
     "list_twitter_title": "Oglej si %{title} na WWW.BOOMBOX.COM",

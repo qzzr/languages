@@ -9,7 +9,7 @@
     "view": "Bekijken"
   },
   "browser_alert": {
-    "message": "Your browser is not supported. please use a %{browser : supported browser}"
+    "message": "Je browser wordt niet ondersteund. Gebruik een %{browser : supported browser}"
   },
   "list": {
     "made_with": "Gemaakt met",
@@ -25,7 +25,8 @@
     "hashtags": "lijst",
     "title_default": "Check %{title} op WWW.BOOMBOX.COM",
     "twitter_title_default": "Check %{title} op WWW.BOOMBOX.COM %{url}",
-    "list_description": "Check deze lijst.",
+    "link-list": "Link naar deze lijst",
+    "list_description": "Maak gratis je eigen lijsten op BOOMBOX, het boeiendste contentplatform ter wereld.",
     "list_hashtags": "lijst",
     "list_title": "Check %{title} op WWW.BOOMBOX.COM",
     "list_twitter_title": "Check %{title} op WWW.BOOMBOX.COM",

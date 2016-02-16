@@ -9,7 +9,7 @@
     "view": "Visualizar"
   },
   "browser_alert": {
-    "message": "Your browser is not supported. please use a %{browser : supported browser}"
+    "message": "Seu navegador n\u00e3o \u00e9 suportado. Por favor, use um\n%{browser : supported browser}"
   },
   "list": {
     "made_with": "Feito com",
@@ -25,7 +25,8 @@
     "hashtags": "lista",
     "title_default": "Confira %{title} no WWW.BOOMBOX.COM",
     "twitter_title_default": "Confira %{title} no WWW.BOOMBOX.COM %{url}",
-    "list_description": "Confira esta lista.",
+    "link-list": "Linkar para esta lista",
+    "list_description": "Fa\u00e7a suas pr\u00f3prias listas gratuitamente no BOOMBOX, a plataforma de conte\u00fado mais envolvente do mundo.",
     "list_hashtags": "lista",
     "list_title": "Confira %{title} no WWW.BOOMBOX.COM",
     "list_twitter_title": "Confira %{title} no WWW.BOOMBOX.COM",

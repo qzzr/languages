@@ -9,7 +9,7 @@
     "view": "\ubcf4\uae30"
   },
   "browser_alert": {
-    "message": "Your browser is not supported. please use a %{browser : supported browser}"
+    "message": "\uc774 \ube0c\ub77c\uc6b0\uc800\ub294 \uc9c0\uc6d0\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. %{browser : supported browser}\uc744(\ub97c) \uc0ac\uc6a9\ud558\uc138\uc694."
   },
   "list": {
     "made_with": "\uc81c\uc791",
@@ -25,7 +25,8 @@
     "hashtags": "\ubaa9\ub85d",
     "title_default": "WWW.BOOMBOX.COM\uc5d0\uc11c %{title}\uc744(\ub97c) \ud655\uc778\ud574\ubcf4\uc138\uc694.",
     "twitter_title_default": "WWW.BOOMBOX.COM %{url}\uc5d0\uc11c %{title}\uc744(\ub97c) \ud655\uc778\ud574\ubcf4\uc138\uc694.",
-    "list_description": "\uc774 \ubaa9\ub85d\uc744 \ud655\uc778\ud574\ubcf4\uc138\uc694.",
+    "link-list": "\uc774 \ubaa9\ub85d \ub9c1\ud06c",
+    "list_description": "\uc138\uacc4\uc5d0\uc11c \uac00\uc7a5 \ub9e4\ub825\uc801\uc778 \ucf58\ud150\uce20 \ud50c\ub7ab\ud3fc\uc778 BOOMBOX\uc5d0\uc11c \ubb34\ub8cc\ub85c \uc790\uc2e0\ub9cc\uc758 \ubaa9\ub85d\uc744 \ub9cc\ub4dc\uc138\uc694.",
     "list_hashtags": "\ubaa9\ub85d",
     "list_title": "WWW.BOOMBOX.COM\uc5d0\uc11c %{title}\uc744(\ub97c) \ud655\uc778\ud574\ubcf4\uc138\uc694.",
     "list_twitter_title": "WWW.BOOMBOX.COM\uc5d0\uc11c %{title}\uc744(\ub97c) \ud655\uc778\ud574\ubcf4\uc138\uc694.",

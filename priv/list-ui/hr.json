@@ -9,7 +9,7 @@
     "view": "Pregled"
   },
   "browser_alert": {
-    "message": "Your browser is not supported. please use a %{browser : supported browser}"
+    "message": "Va\u0161 preglednik nije podr\u017ean. Koristite %{browser : supported browser}"
   },
   "list": {
     "made_with": "Na\u010dinjeno sa",
@@ -25,10 +25,11 @@
     "hashtags": "popis",
     "title_default": "Provjeri %{title} na WWW.BOOMBOX.COM",
     "twitter_title_default": "Provjeri %{title} na WWW.BOOMBOX.COM %{url}",
-    "list_description": "Provjeri ovaj popis",
+    "link-list": "Poveznica na ovaj popis",
+    "list_description": "Besplatno na\u010dinite vlastite popise na BOOMBOX, najboljoj platformi za sadr\u017eaje na svijetu.",
     "list_hashtags": "popis",
-    "list_title": "Provjeri %{title} na WWW.BOOMBOX.COM",
-    "list_twitter_title": "Provjeri %{title} na WWW.BOOMBOX.COM",
+    "list_title": "Provjerite %{title} na WWW.BOOMBOX.COM",
+    "list_twitter_title": "Provjerite %{title} na WWW.BOOMBOX.COM",
     "share": "Dijeli",
     "share_on": "Dijeli na %{name}",
     "twitter_via": "BoomboxTeam"

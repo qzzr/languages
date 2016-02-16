@@ -9,7 +9,7 @@
     "view": "\u67e5\u770b"
   },
   "browser_alert": {
-    "message": "Your browser is not supported. please use a %{browser : supported browser}"
+    "message": "\u4f60\u7684\u6d4f\u89c8\u5668\u4e0d\u652f\u6301\u672c\u5e73\u53f0\uff0c\u8bf7\u4f7f\u7528%{browser : supported browser}"
   },
   "list": {
     "made_with": "\u5236\u4f5c\u5de5\u5177",
@@ -25,7 +25,8 @@
     "hashtags": "\u699c\u5355",
     "title_default": "\u4e0aWWW.BOOMBOX.COM\u67e5\u770b%{title}",
     "twitter_title_default": "\u4e0aWWW.BOOMBOX.COM\u67e5\u770b%{title} %{url}",
-    "list_description": "\u770b\u770b\u8fd9\u4efd\u699c\u5355\u3002",
+    "link-list": "\u94fe\u63a5\u5230\u672c\u699c\u5355",
+    "list_description": "\u5feb\u4e0aBOOMBOX\uff0c\u514d\u8d39\u5236\u4f5c\u5c5e\u4e8e\u4f60\u81ea\u5df1\u7684\u699c\u5355\u5427\uff1bBOOMBOX\uff0c\u5168\u7403\u5185\u5bb9\u6700\u52b2\u7206\u7684\u5e73\u53f0\u3002",
     "list_hashtags": "\u699c\u5355",
     "list_title": "\u4e0aWWW.BOOMBOX.COM\u67e5\u770b%{title}",
     "list_twitter_title": "\u4e0aWWW.BOOMBOX.COM\u67e5\u770b%{title}",

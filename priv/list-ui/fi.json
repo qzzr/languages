@@ -9,7 +9,7 @@
     "view": "N\u00e4yt\u00e4"
   },
   "browser_alert": {
-    "message": "Your browser is not supported. please use a %{browser : supported browser}"
+    "message": "K\u00e4ytt\u00e4m\u00e4\u00e4si selainta ei tueta. Ole hyv\u00e4 ja k\u00e4yt\u00e4 %{browser : supported browser}-selainta"
   },
   "list": {
     "made_with": "Yhteisty\u00f6ss\u00e4:",
@@ -25,7 +25,8 @@
     "hashtags": "lista",
     "title_default": "K\u00e4y katsomassa %{title} sivustolla WWW.BOOMBOX.COM",
     "twitter_title_default": "K\u00e4y katsomassa %{title} sivustolla WWW.BOOMBOX.COM %{url}",
-    "list_description": "Katso t\u00e4m\u00e4 lista.",
+    "link-list": "Linkit\u00e4 t\u00e4h\u00e4n listaan",
+    "list_description": "Luo omia listoja ilmaiseksi BOOMBOXilla, maailman mukaansatempaavimmalla sis\u00e4lt\u00f6alustalla",
     "list_hashtags": "lista",
     "list_title": "K\u00e4y katsomassa %{title} sivustolla WWW.BOOMBOX.COM",
     "list_twitter_title": "K\u00e4y katsomassa %{title} sivustolla WWW.BOOMBOX.COM",

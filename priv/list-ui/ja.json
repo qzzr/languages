@@ -9,7 +9,7 @@
     "view": "\u8868\u793a\u3059\u308b"
   },
   "browser_alert": {
-    "message": "Your browser is not supported. please use a %{browser : supported browser}"
+    "message": "\u304a\u4f7f\u3044\u306e\u30d6\u30e9\u30a6\u30b6\u306b\u306f\u5bfe\u5fdc\u3057\u3066\u3044\u307e\u305b\u3093\u3002%{browser : supported browser}\u3092\u304a\u4f7f\u3044\u304f\u3060\u3055\u3044"
   },
   "list": {
     "made_with": "\u4f5c\u6210\u306b\u4f7f\u7528:",
@@ -25,10 +25,11 @@
     "hashtags": "\u30ea\u30b9\u30c8",
     "title_default": "WWW.BOOMBOX.COM\u3067%{title}\u3092\u30c1\u30a7\u30c3\u30af\u3057\u3088\u3046",
     "twitter_title_default": "WWW.BOOMBOX.COM\u3067%{title}\u3092\u30c1\u30a7\u30c3\u30af\u3057\u3088\u3046: %{url}",
-    "list_description": "\u3053\u306e\u30ea\u30b9\u30c8\u3092\u30c1\u30a7\u30c3\u30af\u3057\u3088\u3046\u3002",
+    "link-list": "\u3053\u306e\u30ea\u30b9\u30c8\u306b\u30ea\u30f3\u30af\u3059\u308b",
+    "list_description": "\u4e16\u754c\u3067\u4e00\u756a\u9b45\u529b\u7684\u306a\u30b3\u30f3\u30c6\u30f3\u30c4\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0BOOMBOX\u3067\u3001\u81ea\u5206\u3060\u3051\u306e\u30ea\u30b9\u30c8\u3092\u4f5c\u6210\u3057\u307e\u3057\u3087\u3046\u3002\u4f5c\u6210\u306f\u7121\u6599\u3067\u3059\u3002",
     "list_hashtags": "\u30ea\u30b9\u30c8",
-    "list_title": "WWW.BOOMBOX.COM\u3067%{title}\u3092\u30c1\u30a7\u30c3\u30af\u3057\u3088\u3046",
-    "list_twitter_title": "WWW.BOOMBOX.COM\u3067%{title}\u3092\u30c1\u30a7\u30c3\u30af\u3057\u3088\u3046",
+    "list_title": "WWW.BOOMBOX.COM\u3067%{title}\u306b\u6ce8\u76ee",
+    "list_twitter_title": "WWW.BOOMBOX.COM\u3067%{title}\u306b\u6ce8\u76ee",
     "share": "\u30b7\u30a7\u30a2",
     "share_on": "%{name}\u3067\u30b7\u30a7\u30a2",
     "twitter_via": "BoomboxTeam"
