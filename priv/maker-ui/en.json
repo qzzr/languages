@@ -601,7 +601,7 @@
     "twitter_username_label": "Twitter username",
     "twitter_username_placeholder": "ex. @YourCompany" 
   },
-  "poll_sharing_add_media": {
+  "polls_sharing_add_media": {
     "drop_media": "Drop media to upload",
     "field_placeholder_paste_link": "Paste your link",
     "field_press_enter": "Press enter to add",
