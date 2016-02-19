@@ -487,6 +487,7 @@
     "reader_list_show": "Readers' Choice"
   },
   "lists_cover": {
+    "media_optional": "Add list media (optional)",
     "description_placeholder": "List description",
     "title_placeholder": "List title"
   },
@@ -516,6 +517,7 @@
     "delete_tooltip": "Delete item",
     "duplicate_tooltip": "Duplicate item",
     "description_placeholder": "Body (optional)",
+    "media_optional": "Add list media (optional)",
     "move_tooltip": "Move item",
     "title_placeholder": "Heading",
     "untitled": "Untitled"
