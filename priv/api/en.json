@@ -22,5 +22,33 @@
     "reddit": "Share",
     "tumblr": "Share",
     "twitter": "Tweet"
-  }  
+  },
+  "media_search_pixabay_filters": {
+    "orientation": "Orientation",
+    "orientation_all": "All",
+    "orientation_horizontal": "Horizontal",
+    "orientation_vertical": "Vertical",
+    "category": "Category",
+    "category___nil__": "All",
+    "category_animals": "Animals",
+    "category_backgrounds": "Backgrounds",
+    "category_buildings": "Buildings",
+    "category_business": "Business",
+    "category_computer": "Computer",
+    "category_education": "Education",
+    "category_fashion": "Fashion",
+    "category_feelings": "Feelings",
+    "category_food": "Food",
+    "category_health": "Health",
+    "category_industry": "Industry",
+    "category_music": "Music",
+    "category_nature": "Nature",
+    "category_people": "People",
+    "category_places": "Places",
+    "category_religion": "Religion",
+    "category_science": "Science",
+    "category_sports": "Sports",
+    "category_transportation": "Transportation",
+    "category_travel": "Travel"
+  }
 }

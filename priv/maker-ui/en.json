@@ -250,40 +250,6 @@
     "your_selection": "Your selection",
     "other": "Other option"
   },
-  "media_search": {
-    "pixabay": {
-      "filters": {
-        "orientation": {
-          "all": "All",
-          "horizontal": "Horizontal",
-          "vertical": "Vertical"
-        },
-        "category": {
-          "__nil__": "All",
-          "animals": "Animals",
-          "backgrounds": "Backgrounds",
-          "buildings": "Buildings",
-          "business": "Business",
-          "computer": "Computer",
-          "education": "Education",
-          "fashion": "Fashion",
-          "feelings": "Feelings",
-          "food": "Food",
-          "health": "Health",
-          "industry": "Industry",
-          "music": "Music",
-          "nature": "Nature",
-          "people": "People",
-          "places": "Places",
-          "religion": "Religion",
-          "science": "Science",
-          "sports": "Sports",
-          "transportation": "Transportation",
-          "travel": "Travel"
-        }
-      }
-    }
-  },
   "next_step": {
     "next_step": "Next Step",
     "next_page": "Next: %{page}"
