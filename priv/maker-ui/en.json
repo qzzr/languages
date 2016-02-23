@@ -277,6 +277,7 @@
     "updated": "Poll updated"
   },
   "poll_question_options_add_media": {
+    "attribution_warning": "Usable without attribution",
     "drop_media": "Drop media to upload",
     "field_placeholder_paste_link": "Paste your link",
     "field_press_enter": "Press enter to add",
@@ -298,6 +299,7 @@
     "select_media_search": "Search"
   },
   "poll_settings_add_media": {
+    "attribution_warning": "Usable without attribution",
     "drop_media": "Drop media to upload",
     "field_placeholder_paste_link": "Paste your link",
     "field_press_enter": "Press enter to add",
@@ -492,6 +494,7 @@
     "title_placeholder": "List title"
   },
   "lists_cover_add_media": {
+    "attribution_warning": "Usable without attribution",
     "drop_media": "Drop media to upload",
     "field_placeholder_paste_link": "Paste your link",
     "field_press_enter": "Press enter to add",
@@ -523,6 +526,7 @@
     "untitled": "Untitled"
   },
   "list_items_add_media": {
+    "attribution_warning": "Usable without attribution",
     "drop_media": "Drop media to upload",
     "field_placeholder_paste_link": "Paste your link",
     "field_press_enter": "Press enter to add",
@@ -569,6 +573,7 @@
     "twitter_username_placeholder": "ex. @YourCompany"
   },
   "lists_sharing_add_media": {
+    "attribution_warning": "Usable without attribution",
     "drop_media": "Drop media to upload",
     "field_placeholder_paste_link": "Paste your link",
     "field_press_enter": "Press enter to add",
@@ -604,6 +609,7 @@
     "twitter_username_placeholder": "ex. @YourCompany"
   },
   "polls_sharing_add_media": {
+    "attribution_warning": "Usable without attribution",
     "drop_media": "Drop media to upload",
     "field_placeholder_paste_link": "Paste your link",
     "field_press_enter": "Press enter to add",
