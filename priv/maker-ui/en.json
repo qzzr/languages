@@ -277,7 +277,6 @@
     "updated": "Poll updated"
   },
   "poll_question_options_add_media": {
-    "attribution_warning": "Usable without attribution",
     "drop_media": "Drop media to upload",
     "field_placeholder_paste_link": "Paste your link",
     "field_press_enter": "Press enter to add",
@@ -289,6 +288,7 @@
     "search_media_results_none_help": "Try being less specific, or %{action}.",
     "search_media_results_none_help_action": "resetting your search",
     "search_media_results_searching": "Searching...",
+    "search_meta_attribution_warning": "Usable without attribution",
     "search_meta_size": "Size: %{size}",
     "search_meta_source": "Source: %{source}",
     "search_preview_label": "Preview",
@@ -299,7 +299,6 @@
     "select_media_search": "Search"
   },
   "poll_settings_add_media": {
-    "attribution_warning": "Usable without attribution",
     "drop_media": "Drop media to upload",
     "field_placeholder_paste_link": "Paste your link",
     "field_press_enter": "Press enter to add",
@@ -311,6 +310,7 @@
     "search_media_results_none_help": "Try being less specific, or %{action}.",
     "search_media_results_none_help_action": "resetting your search",
     "search_media_results_searching": "Searching...",
+    "search_meta_attribution_warning": "Usable without attribution",
     "search_meta_size": "Size: %{size}",
     "search_meta_source": "Source: %{source}",
     "search_preview_label": "Preview",
@@ -494,7 +494,6 @@
     "title_placeholder": "List title"
   },
   "lists_cover_add_media": {
-    "attribution_warning": "Usable without attribution",
     "drop_media": "Drop media to upload",
     "field_placeholder_paste_link": "Paste your link",
     "field_press_enter": "Press enter to add",
@@ -506,6 +505,7 @@
     "search_media_results_none_help": "Try being less specific, or %{action}.",
     "search_media_results_none_help_action": "resetting your search",
     "search_media_results_searching": "Searching...",
+    "search_meta_attribution_warning": "Usable without attribution",
     "search_meta_size": "Size: %{size}",
     "search_meta_source": "Source: %{source}",
     "search_preview_label": "Preview",
@@ -526,7 +526,6 @@
     "untitled": "Untitled"
   },
   "list_items_add_media": {
-    "attribution_warning": "Usable without attribution",
     "drop_media": "Drop media to upload",
     "field_placeholder_paste_link": "Paste your link",
     "field_press_enter": "Press enter to add",
@@ -538,6 +537,7 @@
     "search_media_results_none_help": "Try being less specific, or %{action}.",
     "search_media_results_none_help_action": "resetting your search",
     "search_media_results_searching": "Searching...",
+    "search_meta_attribution_warning": "Usable without attribution",
     "search_meta_size": "Size: %{size}",
     "search_meta_source": "Source: %{source}",
     "search_preview_label": "Preview",
@@ -573,7 +573,6 @@
     "twitter_username_placeholder": "ex. @YourCompany"
   },
   "lists_sharing_add_media": {
-    "attribution_warning": "Usable without attribution",
     "drop_media": "Drop media to upload",
     "field_placeholder_paste_link": "Paste your link",
     "field_press_enter": "Press enter to add",
@@ -585,6 +584,7 @@
     "search_media_results_none_help": "Try being less specific, or %{action}.",
     "search_media_results_none_help_action": "resetting your search",
     "search_media_results_searching": "Searching...",
+    "search_meta_attribution_warning": "Usable without attribution",
     "search_meta_size": "Size: %{size}",
     "search_meta_source": "Source: %{source}",
     "search_preview_label": "Preview",
@@ -609,7 +609,6 @@
     "twitter_username_placeholder": "ex. @YourCompany"
   },
   "polls_sharing_add_media": {
-    "attribution_warning": "Usable without attribution",
     "drop_media": "Drop media to upload",
     "field_placeholder_paste_link": "Paste your link",
     "field_press_enter": "Press enter to add",
@@ -621,6 +620,7 @@
     "search_media_results_none_help": "Try being less specific, or %{action}.",
     "search_media_results_none_help_action": "resetting your search",
     "search_media_results_searching": "Searching...",
+    "search_meta_attribution_warning": "Usable without attribution",
     "search_meta_size": "Size: %{size}",
     "search_meta_source": "Source: %{source}",
     "search_preview_label": "Preview",
