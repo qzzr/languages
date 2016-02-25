@@ -277,10 +277,10 @@
     "updated": "Poll updated"
   },
   "poll_question_options_add_media": {
+    "add_media_label": "Add media",
     "drop_media": "Drop media to upload",
     "field_placeholder_paste_link": "Paste your link",
     "field_press_enter": "Press enter to add",
-    "media_optional": "Add media",
     "search_input_placeholder": "Type in what you're looking for",
     "search_input_press_enter": "Press enter to search",
     "search_media_results_end": "There are no more results for \"%{search}\".",
@@ -299,10 +299,10 @@
     "select_media_search": "Search"
   },
   "poll_settings_add_media": {
+    "add_media_label": "Add media",
     "drop_media": "Drop media to upload",
     "field_placeholder_paste_link": "Paste your link",
     "field_press_enter": "Press enter to add",
-    "media_optional": "Add media",
     "search_input_placeholder": "Type in what you're looking for",
     "search_input_press_enter": "Press enter to search",
     "search_media_results_end": "There are no more results for \"%{search}\".",
@@ -494,10 +494,10 @@
     "title_placeholder": "List title"
   },
   "lists_cover_add_media": {
+    "add_media_label": "Add cover media",
     "drop_media": "Drop media to upload",
     "field_placeholder_paste_link": "Paste your link",
     "field_press_enter": "Press enter to add",
-    "media_optional": "Add cover media",
     "search_input_placeholder": "Type in what you're looking for",
     "search_input_press_enter": "Press enter to search",
     "search_media_results_end": "There are no more results for \"%{search}\".",
@@ -526,10 +526,10 @@
     "untitled": "Untitled"
   },
   "list_items_add_media": {
+    "add_media_label": "Add list media",
     "drop_media": "Drop media to upload",
     "field_placeholder_paste_link": "Paste your link",
     "field_press_enter": "Press enter to add",
-    "media_optional": "Add list media",
     "search_input_placeholder": "Type in what you're looking for",
     "search_input_press_enter": "Press enter to search",
     "search_media_results_end": "There are no more results for \"%{search}\".",
@@ -573,10 +573,10 @@
     "twitter_username_placeholder": "ex. @YourCompany"
   },
   "lists_sharing_add_media": {
+    "add_media_label": "Add media",
     "drop_media": "Drop media to upload",
     "field_placeholder_paste_link": "Paste your link",
     "field_press_enter": "Press enter to add",
-    "media_optional": "Add media",
     "search_input_placeholder": "Type in what you're looking for",
     "search_input_press_enter": "Press enter to search",
     "search_media_results_end": "There are no more results for \"%{search}\".",
@@ -609,10 +609,10 @@
     "twitter_username_placeholder": "ex. @YourCompany"
   },
   "polls_sharing_add_media": {
+    "add_media_label": "Add media",
     "drop_media": "Drop media to upload",
     "field_placeholder_paste_link": "Paste your link",
     "field_press_enter": "Press enter to add",
-    "media_optional": "Add media",
     "search_input_placeholder": "Type in what you're looking for",
     "search_input_press_enter": "Press enter to search",
     "search_media_results_end": "There are no more results for \"%{search}\".",
