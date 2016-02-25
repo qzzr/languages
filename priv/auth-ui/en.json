@@ -162,7 +162,7 @@
     "boombox_signup_restricted": "You do not have permission to change your organization's plan.",
     "boombox_signup_restricted_description": "Only organization owners can change plans.",
     "boombox_signup_description": "First, sign up for your Boombox account.",
-    "callout": "First, sign up for a %{product} account.",
+    "callout": "First, sign up for your %{product} account.",
     "callout_paid": "Sign up for %{product}",
     "downgrade_info": "If you wish to downgrade/cancel your plan, talk with us at %{email}",
     "downgrade_pricing_link_label": "our pricing page",
