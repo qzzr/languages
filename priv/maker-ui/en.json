@@ -281,6 +281,7 @@
     "drop_media": "Drop media to upload",
     "field_placeholder_paste_link": "Paste your link",
     "field_press_enter": "Press enter to add",
+    "processing_image": "Processing",
     "search_input_placeholder": "Type in what you're looking for",
     "search_input_press_enter": "Press enter to search",
     "search_media_results_end": "There are no more results for \"%{search}\".",
@@ -296,13 +297,15 @@
     "search_use_image": "Use this image",
     "select_media_device": "From device",
     "select_media_link": "From link",
-    "select_media_search": "Search"
+    "select_media_search": "Search",
+    "uploading_image": "Uploading: %{progress}%"
   },
   "poll_settings_add_media": {
     "add_media_label": "Add media",
     "drop_media": "Drop media to upload",
     "field_placeholder_paste_link": "Paste your link",
     "field_press_enter": "Press enter to add",
+    "processing_image": "Processing",
     "search_input_placeholder": "Type in what you're looking for",
     "search_input_press_enter": "Press enter to search",
     "search_media_results_end": "There are no more results for \"%{search}\".",
@@ -318,7 +321,8 @@
     "search_use_image": "Use this image",
     "select_media_device": "From device",
     "select_media_link": "From link",
-    "select_media_search": "Search"
+    "select_media_search": "Search",
+    "uploading_image": "Uploading: %{progress}%"
   },
   "type_selector": {
     "aspect_ratio": "aspect ratio",
@@ -498,6 +502,7 @@
     "drop_media": "Drop media to upload",
     "field_placeholder_paste_link": "Paste your link",
     "field_press_enter": "Press enter to add",
+    "processing_image": "Processing",
     "search_input_placeholder": "Type in what you're looking for",
     "search_input_press_enter": "Press enter to search",
     "search_media_results_end": "There are no more results for \"%{search}\".",
@@ -513,7 +518,8 @@
     "search_use_image": "Use this image",
     "select_media_device": "From device",
     "select_media_link": "From link",
-    "select_media_search": "Search"
+    "select_media_search": "Search",
+    "uploading_image": "Uploading: %{progress}%"
   },
   "lists_items": {
     "delete_confirm": "Are you sure you want to delete this item?",
@@ -530,6 +536,7 @@
     "drop_media": "Drop media to upload",
     "field_placeholder_paste_link": "Paste your link",
     "field_press_enter": "Press enter to add",
+    "processing_image": "Processing",
     "search_input_placeholder": "Type in what you're looking for",
     "search_input_press_enter": "Press enter to search",
     "search_media_results_end": "There are no more results for \"%{search}\".",
@@ -545,7 +552,8 @@
     "search_use_image": "Use this image",
     "select_media_device": "From device",
     "select_media_link": "From link",
-    "select_media_search": "Search"
+    "select_media_search": "Search",
+    "uploading_image": "Uploading: %{progress}%"
   },
   "lists_media_uploader": {
     "cancel": "Cancel",
@@ -577,6 +585,7 @@
     "drop_media": "Drop media to upload",
     "field_placeholder_paste_link": "Paste your link",
     "field_press_enter": "Press enter to add",
+    "processing_image": "Processing",
     "search_input_placeholder": "Type in what you're looking for",
     "search_input_press_enter": "Press enter to search",
     "search_media_results_end": "There are no more results for \"%{search}\".",
@@ -592,7 +601,8 @@
     "search_use_image": "Use this image",
     "select_media_device": "From device",
     "select_media_link": "From link",
-    "select_media_search": "Search"
+    "select_media_search": "Search",
+    "uploading_image": "Uploading: %{progress}%"
   },
   "polls_sharing": {
     "danger": "Danger. ",
@@ -613,6 +623,7 @@
     "drop_media": "Drop media to upload",
     "field_placeholder_paste_link": "Paste your link",
     "field_press_enter": "Press enter to add",
+    "processing_image": "Processing",
     "search_input_placeholder": "Type in what you're looking for",
     "search_input_press_enter": "Press enter to search",
     "search_media_results_end": "There are no more results for \"%{search}\".",
@@ -628,7 +639,8 @@
     "search_use_image": "Use this image",
     "select_media_device": "From device",
     "select_media_link": "From link",
-    "select_media_search": "Search"
+    "select_media_search": "Search",
+    "uploading_image": "Uploading: %{progress}%"
   },
   "browser_alert": {
     "item_text_invert": "Invert body text",
