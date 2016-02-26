@@ -295,7 +295,7 @@
     "search_preview_label": "Preview",
     "search_select_image": "Select an image to preview what it’ll look like",
     "search_use_image": "Use this image",
-    "select_media_device": "From device",
+    "select_media_device": "Upload",
     "select_media_link": "From link",
     "select_media_search": "Search",
     "uploading_image": "Uploading: %{progress}%"
@@ -319,7 +319,7 @@
     "search_preview_label": "Preview",
     "search_select_image": "Select an image to preview what it’ll look like",
     "search_use_image": "Use this image",
-    "select_media_device": "From device",
+    "select_media_device": "Upload",
     "select_media_link": "From link",
     "select_media_search": "Search",
     "uploading_image": "Uploading: %{progress}%"
@@ -516,7 +516,7 @@
     "search_preview_label": "Preview",
     "search_select_image": "Select an image to preview what it’ll look like",
     "search_use_image": "Use this image",
-    "select_media_device": "From device",
+    "select_media_device": "Upload",
     "select_media_link": "From link",
     "select_media_search": "Search",
     "uploading_image": "Uploading: %{progress}%"
@@ -550,7 +550,7 @@
     "search_preview_label": "Preview",
     "search_select_image": "Select an image to preview what it’ll look like",
     "search_use_image": "Use this image",
-    "select_media_device": "From device",
+    "select_media_device": "Upload",
     "select_media_link": "From link",
     "select_media_search": "Search",
     "uploading_image": "Uploading: %{progress}%"
@@ -599,7 +599,7 @@
     "search_preview_label": "Preview",
     "search_select_image": "Select an image to preview what it’ll look like",
     "search_use_image": "Use this image",
-    "select_media_device": "From device",
+    "select_media_device": "Upload",
     "select_media_link": "From link",
     "select_media_search": "Search",
     "uploading_image": "Uploading: %{progress}%"
@@ -637,7 +637,7 @@
     "search_preview_label": "Preview",
     "search_select_image": "Select an image to preview what it’ll look like",
     "search_use_image": "Use this image",
-    "select_media_device": "From device",
+    "select_media_device": "Upload",
     "select_media_link": "From link",
     "select_media_search": "Search",
     "uploading_image": "Uploading: %{progress}%"
