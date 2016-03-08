@@ -134,6 +134,8 @@
     "heading": "Account settings",
     "name_label": "Full name",
     "page_title": "%{brand}",
+    "password_confirm_label": "Confirm new password",
+    "password_confirm_placeholder": "New password",
     "password_label": "Change password",
     "password_placeholder": "8 characters minimum",
     "save": "Save changes",
