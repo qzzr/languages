@@ -26,6 +26,8 @@
     "full_name_placeholder": "Let's put a name to that face",
     "join_now": "Join now by signing in with your Qzzr account.",
     "login_name": "LOG IN",
+    "password_confirm_label": "Confirm new password",
+    "password_confirm_placeholder": "New password",
     "password_label": "Password",
     "password_placeholder": "4 characters minimum",
     "signup_name": "SIGN UP",
