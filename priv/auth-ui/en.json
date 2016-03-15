@@ -197,6 +197,7 @@
     "submit": "SIGN UP & CONTINUE",
     "submit_upgrade": "UPGRADE",
     "terms_of_service": "By signing up, you agree to %{terms}.",
+    "terms_of_service_terms": "%{product}'s terms of service",
     "terms_of_service_1": "By signing up, you agree to ",
     "terms_of_service_2": "%{product}'s terms of service",
     "upgrade_plan": "Change plan to %{plan}",
