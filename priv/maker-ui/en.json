@@ -184,6 +184,42 @@
       "enterprise": "Create a quiz or a poll. It's fast and easy.",
       "pollcaster": "Create your first poll. It's fast and easy.",
       "qzzr": "Create your first quiz. It's fast and easy."
+    },
+    "zero_state_welcome_header": {
+      "boombox": "Welcome to Boombox.",
+      "pollcaster": "Welcome to Pollcaster.",
+      "qzzr": "Welcome to Qzzr."
+    },
+    "zero_state_welcome_description": {
+      "boombox": "Take a tour in this six-minute video to discover everything you can do with your new account, or start your first list, poll, or quiz with the %{icon} in the lower right corner.",
+      "pollcaster": "Take a tour in this six-minute video to discover everything you can do with your new account, or start your first poll with the %{icon} in the lower right corner.",
+      "qzzr": "Take a tour in this six-minute video to discover everything you can do with your new account, or start your first quiz with the %{icon} in the lower right corner."
+    },
+    "zero_state_drafts_title": "Drafts",
+    "zero_state_drafts_example_1": {
+      "default": "ex. How well do you ACTUALLY know ___?",
+      "pollcaster": "ex. Vote for your FAVORITE ___"
+    },
+    "zero_state_drafts_example_2": {
+      "default": "ex. Which ___ are you?",
+      "pollcaster": "ex. Which team is going to win the ___?"
+    },
+    "zero_state_published_title": "Published",
+    "zero_state_published_example_1": {
+      "default": "ex. Which character from ___ are you?",
+      "pollcaster": "ex. Pick your favorite ___"
+    },
+    "zero_state_published_example_2": {
+      "default": "ex. The Ultimate ___ Quiz",
+      "pollcaster": "ex. The Ultimate ___ Poll"
+    },
+    "zero_state_published_example_3": {
+      "default": "ex. The Hardest ___ Quiz",
+      "pollcaster": "ex. Who wins the rematch -- ___ or ___?"
+    },
+    "zero_state_published_example_4": {
+      "default": "ex. How well do you ACTUALLY know ___?",
+      "pollcaster": "ex Who is the better ___?"
     }
   },
   "edit_button": {
