@@ -34,6 +34,10 @@
     "create": "Add Outcome"
   },
   "create_dropdown": {
+    "button_tooltip": {
+      "default": "Create something great",
+      "qzzr": "Create your first quiz"
+    },
     "bulleted_list_label": "Unranked list",
     "bulleted_list_sublabel": "ex. Top vacation spots",
     "checkbox_quiz_label": "Checklist quiz",
@@ -47,13 +51,22 @@
     "multi_poll_sublabel": "e.g. John, Paul, Ringo, or George?",
     "numbered_list_label": "Ranked list",
     "numbered_list_sublabel": "ex. Top 10 films of the decade",
+    "onboarding_outcome_quiz_label": "Create an outcome quiz",
+    "onboarding_outcome_quiz_sublabel": "ex. Which character from Full House Are you?",
+    "onboarding_outcome_quiz_sublabel_header": "Assess personality",
+    "onboarding_graded_quiz_label": "Create a graded quiz",
+    "onboarding_graded_quiz_sublabel": "ex. The World’s Hardest Harry Potter Quiz",
+    "onboarding_graded_quiz_sublabel_header": "Test knowledge",
     "outcome_quiz_label": "Outcome quiz",
     "outcome_quiz_sublabel": "e.g. Which color are you?",
     "this_that_poll_label": "This or that poll",
     "this_that_poll_sublabel": "e.g. Superman or Batman",
     "toolbar_create": "Create",
     "toolbar_create_poll": "Poll",
-    "toolbar_create_quiz": "Quiz"
+    "toolbar_create_quiz": "Quiz",
+    "unlock_polls_label": "Unlock polls",
+    "unlock_quizzes_label": "Unlock quizzes",
+    "upgrade_boombox_label": "Upgrade to Boombox"
   },
   "organization": {
     "back": "Back",
@@ -184,6 +197,42 @@
       "enterprise": "Create a quiz or a poll. It's fast and easy.",
       "pollcaster": "Create your first poll. It's fast and easy.",
       "qzzr": "Create your first quiz. It's fast and easy."
+    },
+    "zero_state_welcome_header": {
+      "boombox": "Welcome to Boombox.",
+      "pollcaster": "Welcome to Pollcaster.",
+      "qzzr": "Welcome to Qzzr."
+    },
+    "zero_state_welcome_description": {
+      "boombox": "Take a tour in this six-minute video to discover everything you can do with your new account, or start your first list, poll, or quiz with the %{icon} in the lower right corner.",
+      "pollcaster": "Take a tour in this six-minute video to discover everything you can do with your new account, or start your first poll with the %{icon} in the lower right corner.",
+      "qzzr": "Take a tour in this six-minute video to discover everything you can do with your new account, or start your first quiz with the %{icon} in the lower right corner."
+    },
+    "zero_state_drafts_title": "Drafts",
+    "zero_state_drafts_example_1": {
+      "default": "ex. How well do you ACTUALLY know ___?",
+      "pollcaster": "ex. Vote for your FAVORITE ___"
+    },
+    "zero_state_drafts_example_2": {
+      "default": "ex. Which ___ are you?",
+      "pollcaster": "ex. Which team is going to win the ___?"
+    },
+    "zero_state_published_title": "Published",
+    "zero_state_published_example_1": {
+      "default": "ex. Which character from ___ are you?",
+      "pollcaster": "ex. Pick your favorite ___"
+    },
+    "zero_state_published_example_2": {
+      "default": "ex. The Ultimate ___ Quiz",
+      "pollcaster": "ex. The Ultimate ___ Poll"
+    },
+    "zero_state_published_example_3": {
+      "default": "ex. The Hardest ___ Quiz",
+      "pollcaster": "ex. Who wins the rematch -- ___ or ___?"
+    },
+    "zero_state_published_example_4": {
+      "default": "ex. How well do you ACTUALLY know ___?",
+      "pollcaster": "ex Who is the better ___?"
     }
   },
   "edit_button": {
