@@ -193,46 +193,72 @@
       "qzzr": "Welcome to Qzzr."
     },
     "zero_state_sub_header": {
-      "boombox": "Create a quiz or a poll. It's fast and easy.",
+      "boombox": "Create a quiz, poll, or list. It's fast and easy.",
       "enterprise": "Create a quiz or a poll. It's fast and easy.",
       "pollcaster": "Create your first poll. It's fast and easy.",
       "qzzr": "Create your first quiz. It's fast and easy."
     },
     "zero_state_welcome_header": {
-      "boombox": "Welcome to Boombox.",
-      "pollcaster": "Welcome to Pollcaster.",
-      "qzzr": "Welcome to Qzzr."
+      "boombox": "Welcome to Boombox",
+      "pollcaster": "Welcome to Pollcaster",
+      "qzzr": "Welcome to Qzzr"
     },
     "zero_state_welcome_description": {
-      "boombox": "Take a tour in this six-minute video to discover everything you can do with your new account, or start your first list, poll, or quiz with the %{icon} in the lower right corner.",
-      "pollcaster": "Take a tour in this six-minute video to discover everything you can do with your new account, or start your first poll with the %{icon} in the lower right corner.",
-      "qzzr": "Take a tour in this six-minute video to discover everything you can do with your new account, or start your first quiz with the %{icon} in the lower right corner."
+      "boombox": "Take a tour in this six-minute video to discover everything you can do with your new account, or start your first quiz, poll, or list with the %{icon} in the lower right corner.",
+      "qzzr": "Take a tour in this six-minute video to discover everything you can do with your new account, or start your first quiz with the %{icon} in the lower right corner.",
+      "pollcaster": "Take a tour in this six-minute video to discover everything you can do with your new account, or start your first poll with the %{icon} in the lower right corner."
     },
     "zero_state_drafts_title": "Drafts",
     "zero_state_drafts_example_1": {
-      "default": "ex. How well do you ACTUALLY know ___?",
-      "pollcaster": "ex. Vote for your FAVORITE ___"
+      "boombox": "ex. How well do you ACTUALLY know ___?",
+      "qzzr": "ex. How well do you ACTUALLY know ___?",
+      "pollcaster": "ex. Twizzlers or Red Vines?"
     },
     "zero_state_drafts_example_2": {
-      "default": "ex. Which ___ are you?",
-      "pollcaster": "ex. Which team is going to win the ___?"
+      "boombox": "ex. The top 10 ___",
+      "qzzr": "ex. Which ___ are you?",
+      "pollcaster": "ex. Which team is going to win the championship?"
     },
     "zero_state_published_title": "Published",
     "zero_state_published_example_1": {
-      "default": "ex. Which character from ___ are you?",
-      "pollcaster": "ex. Pick your favorite ___"
+      "boombox": "ex. Which character from ___ are you?",
+      "qzzr": "ex. Which character from ___ are you?",
+      "pollcaster": "ex. Paul, John, George, or Ringo?"
     },
     "zero_state_published_example_2": {
-      "default": "ex. The Ultimate ___ Quiz",
-      "pollcaster": "ex. The Ultimate ___ Poll"
+      "boombox": "ex. Taylor or Kanye?",
+      "qzzr": "ex. The Ultimate ___ Quiz",
+      "pollcaster": "ex. Taylor or Kanye"
     },
     "zero_state_published_example_3": {
-      "default": "ex. The Hardest ___ Quiz",
-      "pollcaster": "ex. Who wins the rematch -- ___ or ___?"
+      "boombox": "ex. The worst movies of the decade",
+      "qzzr": "ex. The Hardest ___ Quiz",
+      "pollcaster": "ex. What's you favoite season?"
     },
     "zero_state_published_example_4": {
-      "default": "ex. How well do you ACTUALLY know ___?",
-      "pollcaster": "ex Who is the better ___?"
+      "boombox": "ex. Where should you go on vacation?",
+      "qzzr": "ex. Where should you go on vacation?",
+      "pollcaster": "ex. What's your favorite ___?"
+    },
+    "zero_state_published_example_5": {
+      "boombox": "ex. Who should win the Emmy?",
+      "qzzr": "ex. Which character from ___ are you?",
+      "pollcaster": "ex. Who should win the Emmy?"
+    },
+    "zero_state_published_example_6": {
+      "boombox": "ex. Can you name this ___?",
+      "qzzr": "ex. Can you name this ___?",
+      "pollcaster": "ex. What's the best vacation spot?"
+    },
+    "zero_state_published_example_7": {
+      "boombox": "ex. Who was the best dressed?",
+      "qzzr": "ex. Which TV show should you watch?",
+      "pollcaster": "ex. Who was the best dressed?"
+    },
+    "zero_state_published_example_8": {
+      "boombox": "ex. Batman or Superman?",
+      "qzzr": "ex. 11 questions everyone should be able to answer",
+      "pollcaster": "ex. What's the most overrated?"
     }
   },
   "edit_button": {
