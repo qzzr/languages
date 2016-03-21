@@ -49,6 +49,9 @@
     "category_science": "Science",
     "category_sports": "Sports",
     "category_transportation": "Transportation",
-    "category_travel": "Travel"
+    "category_travel": "Travel",
+    "safesearch": "Safe Search",
+    "safesearch_true": "Enabled",
+    "safesearch_false": "Disabled"
   }
 }
