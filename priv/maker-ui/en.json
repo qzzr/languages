@@ -259,7 +259,9 @@
       "boombox": "ex. Batman or Superman?",
       "qzzr": "ex. 11 questions everyone should be able to answer",
       "pollcaster": "ex. What's the most overrated?"
-    }
+    },
+    "zero_state_quiz_tour": "Quiz Tour",
+    "zero_state_poll_tour": "Poll Tour"
   },
   "edit_button": {
     "edit": "Edit"
