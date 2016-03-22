@@ -67,6 +67,8 @@
     "qzzr_support": "Qzzr support"
   },
   "organization": {
+    "billing_updated": "Billing information has been updated!",
+    "billing_failed": "An error occured while updating your billing information",
     "admin_description": "Admins can add, and remove users from the organization, and create and edit content.",
     "admin_label": "Admin",
     "back": "Back",
@@ -120,6 +122,7 @@
   },
   "profile": {
     "billing_updated": "Billing information has been updated!",
+    "billing_failed": "An error occured while updating your billing information",
     "cancel": "Cancel",
     "change_roles_ad_label": "Lock down access & change roles in your organization",
     "changes_saved": "Changes saved",
