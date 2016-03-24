@@ -517,6 +517,7 @@
     "upgrade_export_responses": "Upgrade to export responses",
     "times_taken_tooltip": "Number of people who have started the quiz.",
     "avg_time_spent_tooltip": "Average amount of time people who completed the quiz have spent, from start to completion. The nature of averages can be skewed by outliers.",
+    "!form_conversions_tootip": "__ lead_conversions_tooltip __",
     "form_conversions_tootip": "Number of times the form at the end of the quiz was filled in and submitted.",
     "!link_conversions_tooltip": "__ offer_conversions_tooltip __",
     "link_conversions_tooltip": "Number of times a person clicked through the custom link at the end of the quiz.",
