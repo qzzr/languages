@@ -30,6 +30,7 @@
     "embed_poll": "Embed this poll",
     "link_poll": "Link to this poll",
     "made_with": "Made with",
+    "not_found": "This poll is no longer available.",
     "share_poll": "Share this poll"
   },
   "question": {
