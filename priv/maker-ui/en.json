@@ -41,14 +41,14 @@
     "bulleted_list_label": "Unranked list",
     "bulleted_list_sublabel": "ex. Top vacation spots",
     "checkbox_quiz_label": "Checklist quiz",
-    "checkbox_quiz_sublabel": "e.g. How New Yorker are you?",
+    "checkbox_quiz_sublabel": "ex. How New Yorker are you?",
     "graded_quiz_label": "Graded quiz",
-    "graded_quiz_sublabel": "e.g. Where is this place?",
+    "graded_quiz_sublabel": "ex. Where is this place?",
     "list_label": "List",
     "list_label_coming_soon": "List (coming soon)",
-    "list_sublabel": "e.g. Top 13 Wigs from The Americans",
+    "list_sublabel": "ex. Top 13 Wigs from The Americans",
     "multi_poll_label": "Multi option poll",
-    "multi_poll_sublabel": "e.g. John, Paul, Ringo, or George?",
+    "multi_poll_sublabel": "ex. John, Paul, Ringo, or George?",
     "numbered_list_label": "Ranked list",
     "numbered_list_sublabel": "ex. Top 10 films of the decade",
     "onboarding_outcome_quiz_label": "Create an outcome quiz",
@@ -58,9 +58,9 @@
     "onboarding_graded_quiz_sublabel": "ex. The World’s Hardest Harry Potter Quiz",
     "onboarding_graded_quiz_sublabel_header": "Test knowledge",
     "outcome_quiz_label": "Outcome quiz",
-    "outcome_quiz_sublabel": "e.g. Which color are you?",
+    "outcome_quiz_sublabel": "ex. Which color are you?",
     "this_that_poll_label": "This or that poll",
-    "this_that_poll_sublabel": "e.g. Superman or Batman",
+    "this_that_poll_sublabel": "ex. Superman or Batman",
     "toolbar_create": "Create",
     "toolbar_create_poll": "Poll",
     "toolbar_create_quiz": "Quiz",
@@ -473,7 +473,7 @@
     "title_placeholder": "Quiz title",
     "description_placeholder": "Description (optional)",
     "define_outcomes": "Define outcomes (optional)",
-    "outcomes_example": "e.g. You're a genius (95-100)"
+    "outcomes_example": "ex. You're a genius (95-100)"
   },
   "quizzes_question": {
     "select_many_label": "Select many",
@@ -482,9 +482,9 @@
   },
   "quizzes_outcome": {
     "title": "Outcome title",
-    "title_placeholder": "e.g. Indiana Jones",
+    "title_placeholder": "ex. Indiana Jones",
     "description": "Description (optional)",
-    "description_placeholder": "e.g. You enjoy being awesome..."
+    "description_placeholder": "ex. You enjoy being awesome..."
   },
   "human_readable_numbers": {
     "trillion" : "T",
