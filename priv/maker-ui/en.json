@@ -312,6 +312,7 @@
     "settings_tweet_via_label": "Tweet via",
     "settings_tweet_via_placeholder": "@yourtwitterhandle",
     "side_nav_appearance": "Appearance",
+    "side_nav_mix": "Mix",
     "side_nav_offers": "Offers (coming soon)",
     "side_nav_settings": "Settings",
     "side_nav_sharing": "Sharing",
@@ -651,6 +652,13 @@
     "paste_embed": "Paste web address",
     "press_enter": "Press enter to add"
   },
+  "lists_mix": {
+    "coming_soon": "Coming soon",
+    "displays_mix_label": "Include your content mix at end of list",
+    "displays_mix_tooltip": "Have other lists you'd like to show off? Your mix lets you to handpick your best content, and recommend it at the end of your list.",
+    "is_featured_label": "Include this list in your mix",
+    "is_mixed_label": "Boost this list in others' mixes",
+  },
   "lists_sharing": {
     "cover_image_default": "Your cover image is used by default",
     "danger": "Danger. ",
@@ -689,6 +697,13 @@
     "select_media_link": "From link",
     "select_media_search": "Search",
     "uploading_image": "Uploading: %{progress}%"
+  },
+  "polls_mix": {
+    "coming_soon": "Coming soon",
+    "displays_mix_label": "Include your content mix after voting",
+    "displays_mix_tooltip": "Have other polls you'd like to show off? Your mix lets you to handpick your best content, and recommend it at the end of your poll.",
+    "is_featured_label": "Include this poll in your mix",
+    "is_mixed_label": "Boost this poll in others' mixes",
   },
   "polls_sharing": {
     "danger": "Danger. ",
