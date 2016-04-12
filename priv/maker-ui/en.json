@@ -703,7 +703,7 @@
     "displays_mix_label": "Include your content mix after voting",
     "displays_mix_tooltip": "Have other polls you'd like to show off? Your mix lets you to handpick your best content, and recommend it at the end of your poll.",
     "is_featured_label": "Include this poll in your mix",
-    "is_mixed_label": "Boost this poll in others' mixes",
+    "is_mixed_label": "Boost this poll in others' mixes"
   },
   "polls_sharing": {
     "danger": "Danger. ",
