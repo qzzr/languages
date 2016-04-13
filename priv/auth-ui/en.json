@@ -95,6 +95,7 @@
     "changing_role_admin_to_contributor": "Changing your role to a Collaborator will make it so you can't change others' roles.",
     "edit": "Edit your organization",
     "edit_email": "Edit email",
+    "organization_heading": "Organization details",
     "invalid_email": "Invalid email",
     "invite_collaborators": "Invite collaborators",
     "invite_label": "Invite people",
