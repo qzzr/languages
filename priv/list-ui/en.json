@@ -14,7 +14,8 @@
   "list": {
     "made_with": "Made with",
     "not_found": "This list is no longer available.",
-    "see_readers_choice": "See readers' choice"
+    "see_readers_choice": "See readers' choice",
+    "mix_label": "Recommended for you"
   },
   "select_text": {
     "keyboard": "Press %{key} to copy",
