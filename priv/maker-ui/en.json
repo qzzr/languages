@@ -326,7 +326,8 @@
   },
   "map": {
     "your_selection": "Your selection",
-    "other": "Other option"
+    "other": "Other",
+    "other_option": "Other option"
   },
   "next_step": {
     "next_step": "Next Step",
