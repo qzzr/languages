@@ -325,9 +325,10 @@
     "visible_by": "Visible by %{name}"
   },
   "map": {
-    "your_selection": "Your selection",
+    "all_others": "All others",
     "other": "Other",
-    "other_option": "Other option"
+    "unlabeled_option": "Unlabeled option",
+    "your_selection": "Your selection"
   },
   "next_step": {
     "next_step": "Next Step",
