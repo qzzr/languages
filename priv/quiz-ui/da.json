@@ -1,4 +1,9 @@
 {
+  "embed_text": {
+    "having_trouble": "Har du problemer med at indlejre?",
+    "try_alternate": "Prøv denne kode",
+    "try_preferred": "Gå tilbage til den anbefalede indlejringskode"
+  },
   "logo": {
     "made-with": "Lavet med"
   },
@@ -26,11 +31,7 @@
     "your-result-outcome": "Resultat: %{outcome}",
     "a-quick-message": "En hurtig besked",
     "from": "fra",
-    "lead-see-result": "Udfyld formen herunder for at se dit resultat",
-    "title-your-result": "Dit resultat",
-    "title-for-quiz": "for %{title}",
-    "title-percentage": "%{percentage}%",
-    "title-fraction": "(%{score}/%{count})"
+    "lead-see-result": "Udfyld formen herunder for at se dit resultat"
   },
   "social": {
     "back": "Gå tilbage til den anbefalede indlejringskode",

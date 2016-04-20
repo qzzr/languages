@@ -1,4 +1,9 @@
 {
+  "embed_text": {
+    "having_trouble": "Having trouble?",
+    "try_alternate": "Try this code instead",
+    "try_preferred": "Go back to recommended code"
+  },
   "logo": {
     "made-with": "Made with"
   },
@@ -26,11 +31,7 @@
     "your-result-outcome": "Result: %{outcome}",
     "a-quick-message": "A quick message",
     "from": "from",
-    "lead-see-result": "Fill out the form below to see your result",
-    "title-your-result": "Your result",
-    "title-for-quiz": "for %{title}",
-    "title-percentage": "%{percentage}%",
-    "title-fraction": "(%{score}/%{count})"
+    "lead-see-result": "Fill out the form below to see your result"
   },
   "social": {
     "back": "Go back to recommended embed code",
