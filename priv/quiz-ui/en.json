@@ -1,5 +1,7 @@
 {
-  "made-with": "Made with",
+  "logo": {
+    "made-with": "Made with"
+  },
   "offer": {
     "email-placeholder": "example@email.com",
     "enter-your-email": "Enter your email",
