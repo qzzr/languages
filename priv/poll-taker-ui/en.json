@@ -23,8 +23,10 @@
     "years": "years"
   },
   "map": {
-    "your_selection": "Your selection",
-    "other": "Other option"
+    "all_others": "All others",
+    "other": "Other option",
+    "unlabeled_option": "Unlabeled option",
+    "your_selection": "Your selection"
   },
   "poll": {
     "embed_poll": "Embed this poll",
