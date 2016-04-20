@@ -4,13 +4,13 @@
     "email-placeholder": "example@email.com",
     "enter-your-email": "Enter your email",
     "skip": "Skip",
-    "submit": "Submit",
+    "submit": "Submit"
   },
   "results": {
     "bracket": {
       "count": "%{smart_count} person |||| %{smart_count} people",
       "range": "%{lower}-%{upper}%",
-      "title": "How you compare to others",
+      "title": "How you compare to others"
     },
     "grade-count": "%{score}/%{count}",
     "more-about-your-result": "More about your result",
