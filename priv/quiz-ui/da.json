@@ -3,38 +3,34 @@
     "made-with": "Lavet med"
   },
   "offer": {
-      "email-placeholder": "eksempel@e-mail.dk",
-      "enter-your-email": "Indtast din e-mailadresse",
-      "skip": "Spring over",
-      "submit": "Indsend"
+    "email-placeholder": "eksempel@e-mail.dk",
+    "enter-your-email": "Indtast din e-mailadresse",
+    "skip": "Spring over",
+    "submit": "Indsend"
   },
   "results": {
-      "bracket": {
-        "count": "%{smart_count} person |||| %{smart_count} personer",
-        "range": "%{lower}-%{upper}%",
-        "title": "Trin"
-      },
-      "grade-count": "%{score}/%{count}",
-      "more-about-your-result": "More about your result",
-      "more-details": "More details",
-      "range": "%{lower}-%{upper}%",
-      "recommended": "Andre fantastiske quizer",
-      "retake": "Tag igen",
-      "scored-percentage": "Har scoret %{percentage}%",
-      "scroll-down": "Rul ned for at se dit resultat",
-      "share-your-result": "Del dit resultat",
-      "suggestions": "What's next",
-      "your-result-graded": "Resultat: Har scoret %{percentage}%",
-      "your-result-outcome": "Resultat: %{outcome}",
-      "a-quick-message": "En hurtig besked",
-      "from": "fra",
-      "lead-see-result": "Udfyld formen herunder for at se dit resultat",
-      "title": {
-        "your-result": "Dit resultat",
-        "for-quiz": "for %{title}",
-        "percentage": "%{percentage}%",
-        "fraction": "(%{score}/%{count})"
-      }
+    "bracket-count": "%{smart_count} person |||| %{smart_count} personer",
+    "bracket-range": "%{lower}-%{upper}%",
+    "bracket-title": "Trin",
+    "grade-count": "%{score}/%{count}",
+    "more-about-your-result": "More about your result",
+    "more-details": "More details",
+    "range": "%{lower}-%{upper}%",
+    "recommended": "Andre fantastiske quizer",
+    "retake": "Tag igen",
+    "scored-percentage": "Har scoret %{percentage}%",
+    "scroll-down": "Rul ned for at se dit resultat",
+    "share-your-result": "Del dit resultat",
+    "suggestions": "What's next",
+    "your-result-graded": "Resultat: Har scoret %{percentage}%",
+    "your-result-outcome": "Resultat: %{outcome}",
+    "a-quick-message": "En hurtig besked",
+    "from": "fra",
+    "lead-see-result": "Udfyld formen herunder for at se dit resultat",
+    "title-your-result": "Dit resultat",
+    "title-for-quiz": "for %{title}",
+    "title-percentage": "%{percentage}%",
+    "title-fraction": "(%{score}/%{count})"
   },
   "social": {
     "back": "Gå tilbage til den anbefalede indlejringskode",
