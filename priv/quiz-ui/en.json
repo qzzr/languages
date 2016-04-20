@@ -1,38 +1,38 @@
 {
   "made-with": "Made with",
   "offer": {
-      "email-placeholder": "example@email.com",
-      "enter-your-email": "Enter your email",
-      "skip": "Skip",
-      "submit": "Submit",
+    "email-placeholder": "example@email.com",
+    "enter-your-email": "Enter your email",
+    "skip": "Skip",
+    "submit": "Submit",
   },
   "results": {
-      "bracket": {
-        "count": "%{smart_count} person |||| %{smart_count} people",
-        "range": "%{lower}-%{upper}%",
-        "title": "How you compare to others",
-      },
-      "grade-count": "%{score}/%{count}",
-      "more-about-your-result": "More about your result",
-      "more-details": "More details",
+    "bracket": {
+      "count": "%{smart_count} person |||| %{smart_count} people",
       "range": "%{lower}-%{upper}%",
-      "recommended": "Recommended for you",
-      "retake": "Retake",
-      "scored-percentage": "Scored %{percentage}%",
-      "scroll-down": "Scroll down for your result",
-      "share-your-result": "Share your result",
-      "suggestions": "What's next",
-      "your-result-graded": "Result: %{percentage}%",
-      "your-result-outcome": "Result: %{outcome}",
-      "a-quick-message": "A quick message",
-      "from": "from",
-      "lead-see-result": "Fill out the form below to see your result",
-      "title": {
-        "your-result": "Your result",
-        "for-quiz": "for %{title}",
-        "percentage": "%{percentage}%",
-        "fraction": "(%{score}/%{count})"
-      }
+      "title": "How you compare to others",
+    },
+    "grade-count": "%{score}/%{count}",
+    "more-about-your-result": "More about your result",
+    "more-details": "More details",
+    "range": "%{lower}-%{upper}%",
+    "recommended": "Recommended for you",
+    "retake": "Retake",
+    "scored-percentage": "Scored %{percentage}%",
+    "scroll-down": "Scroll down for your result",
+    "share-your-result": "Share your result",
+    "suggestions": "What's next",
+    "your-result-graded": "Result: %{percentage}%",
+    "your-result-outcome": "Result: %{outcome}",
+    "a-quick-message": "A quick message",
+    "from": "from",
+    "lead-see-result": "Fill out the form below to see your result",
+    "title": {
+      "your-result": "Your result",
+      "for-quiz": "for %{title}",
+      "percentage": "%{percentage}%",
+      "fraction": "(%{score}/%{count})"
+    }
   },
   "social": {
     "back": "Go back to recommended embed code",
