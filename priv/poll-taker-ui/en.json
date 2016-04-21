@@ -4,6 +4,7 @@
     "by_age": "By age",
     "by_gender": "By gender",
     "other": "Other option",
+    "unlabeled_option": "Unlabeled option",
     "your_selection": "Your selection"
   },
   "by_region": {
@@ -23,8 +24,10 @@
     "years": "years"
   },
   "map": {
-    "your_selection": "Your selection",
-    "other": "Other option"
+    "all_others": "All others",
+    "other": "Other option",
+    "unlabeled_option": "Unlabeled option",
+    "your_selection": "Your selection"
   },
   "poll": {
     "embed_poll": "Embed this poll",
