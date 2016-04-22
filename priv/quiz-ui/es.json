@@ -1,0 +1,72 @@
+{
+  "embed_text": {
+    "having_trouble": "¿No puedes insertar el código?",
+    "try_alternate": "Prueba este",
+    "try_preferred": "Vuelve al código de inserción recomendado"
+  },
+  "logo": {
+    "made_with": "Hecho con"
+  },
+  "offer": {
+    "skip": "Saltar",
+    "submit": "Enviar"
+  },
+  "results": {
+    "bracket_count": "%{smart_count} persona |||| %{smart_count} personas",
+    "bracket_range": "%{lower}-%{upper}%",
+    "bracket_title": "Categorías",
+    "grade_count": "%{score}/%{count}",
+    "recommended": "Otros juegos de preguntas magníficos",
+    "retake": "Repetir",
+    "scored_percentage": "Puntuación %{percentage}%",
+    "scroll_down": "Desplázate hacia abajo para ver tu resultado",
+    "share_your_result": "Comparte tu resultado",
+    "your_result_graded": "Resultado: Puntuación %{percentage}%",
+    "your_result_outcome": "Resultado: %{outcome}",
+    "lead_see_result": "Rellena el siguiente formulario para ver tu resultado "
+  },
+  "social": {
+    "branded_caption": "Hecho con Qzzr: juegos de preguntas para ti hechos por ti",
+    "branded_graded_result_match": "¡He obtenido %{score}% puntos en \"%{quiz_title}\" de Qzzr! ¿Puedes igualarlo?",
+    "branded_outcome_result": "¡He obtenido \"%{outcome_title}\" en \"%{quiz_title}\" de Qzzr! ¿Y tú?",
+    "caption": "Hecho con Qzzr",
+    "description": "Crea tus propios juegos de preguntas con Qzzr, la herramienta más sencilla del mundo para hacerlo.",
+    "email": "Email",
+    "embed": "Insertar en la página",
+    "embed-default": "Predeterminado",
+    "facebook": "Compartir",
+    "gplus": "Compartir",
+    "graded_result_match": "He obtenido un %{score}% en \"%{quiz_title}\", ¿puedes igualarlo?",
+    "hashtag": "juegos de preguntas",
+    "link": "Enlace",
+    "linkedin": "Compartir",
+    "outcome_result": "He obtenido \"%{outcome_title}\" en \"%{quiz_title}\". ¿Y tú?",
+    "pinterest": "Pin it",
+    "quiz": "Echa un vistazo a \"%{quiz_title}\"",
+    "reddit": "Compartir",
+    "share_quiz": "Comparte este juego de preguntas",
+    "tumblr": "Compartir",
+    "twitter": "Tuitear",
+    "wordpress": "WordPress",
+    "wordpress_link": "WordPress (para utilizar con nuestro %{link})",
+    "wordpress_link_label": "plugin"
+  },
+  "take": {
+    "click_to_advance": "Haz clic en cualquier sitio para avanzar",
+    "correct": "Correcto",
+    "correct-feedback": "Correcto: %{feedback}",
+    "done": "Enviar",
+    "incorrect": "Incorrecto",
+    "incorrect-feedback": "Incorrecto: %{feedback}",
+    "make_quiz": "¿Quieres hacer tu propio juego de preguntas de forma gratuita?",
+    "make_quiz_label": "Echa un vistazo a Qzzr",
+    "make_quiz_label_boombox": "Echa un vistazo a Boombox",
+    "multiple_select": "Selecciona todas las que correspondan: ",
+    "next_question": "Siguiente pregunta",
+    "view_results": "Ver resultados",
+    "question_count": "%{smart_count} pregunta |||| %{smart_count} preguntas",
+    "start": "Inicio",
+    "tap_to_advance": "Toca en cualquier sitio para avanzar",
+    "times_taken": "Hecha %{smart_count} vez |||| Hechas %{smart_count} veces"
+  }
+}
