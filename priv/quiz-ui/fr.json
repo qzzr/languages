@@ -1,0 +1,71 @@
+{
+  "embed_text": {
+    "having_trouble": "Des problèmes d'intégration ?",
+    "try_alternate": "Essayez ce code",
+    "try_preferred": "Revenir au code intégré recommandé"
+  },
+  "logo": {
+    "made_with": "Créé avec"
+  },
+  "offer": {
+    "skip": "Passer",
+    "submit": "Envoyer"
+  },
+  "results": {
+    "bracket_count": "%{smart_count} personnes |||| %{smart_count} personnes",
+    "bracket_range": "%{lower}-%{upper}%",
+    "bracket_title": "Classement",
+    "grade_count": "%{score}/%{count}",
+    "recommended": "D'autres tests sympa",
+    "retake": "Refaire",
+    "scored_percentage": "Score %{percentage}%",
+    "scroll_down": "Faites défiler vers le bas pour connaître votre résultat",
+    "share_your_result": "Partager votre résultat",
+    "your_result_graded": "Résultat : Score de %{percentage}%",
+    "your_result_outcome": "Résultat : %{outcome}",
+    "lead_see_result": "Remplissez le formulaire ci-dessous pour voir votre résultat"
+  },
+  "social": {
+    "branded_caption": "Réalisé avec Qzzr – Des test pour vous créés par vous",
+    "branded_graded_result_match": "J'ai obtenu un score de %{score}% au test \"%{quiz_title}\" sur Qzzr ! Peux-tu faire mieux ?",
+    "branded_outcome_result": "J'ai obtenu \"%{outcome_title}\" au test \"%{quiz_title}\" sur Qzzr ! Et toi ?",
+    "caption": "Créé avec Qzzr",
+    "description": "Créez vos propres tests gratuitement sur Qzzr, l'outil de création de tests le plus simple au monde.",
+    "email": "E-mail",
+    "embed": "Intégrer dans la page",
+    "embed-default": "Par défaut",
+    "facebook": "Partager",
+    "gplus": "Partager",
+    "graded_result_match": "J'ai obtenu un score de %{score}% au test \"%{quiz_title}\" Peux-tu faire mieux ?",
+    "hashtag": "tests",
+    "link": "Lien",
+    "linkedin": "Partager",
+    "outcome_result": "J'ai obtenu \"%{outcome_title}\" au test \"%{quiz_title}\" Et toi ?",
+    "pinterest": "Épingler",
+    "quiz": "Viens découvrir \"%{quiz_title}\"",
+    "reddit": "Partager",
+    "share_quiz": "Partager ce test",
+    "tumblr": "Partager",
+    "twitter": "Tweeter",
+    "wordpress": "WordPress",
+    "wordpress_link": "WordPress (à utiliser avec notre %{link})",
+    "wordpress_link_label": "plugin"
+  },
+  "take": {
+    "click_to_advance": "Cliquez n'importe où pour continuer",
+    "correct": "Correct",
+    "correct-feedback": "Correct : %{feedback}",
+    "done": "Envoyer",
+    "incorrect": "Incorrect",
+    "incorrect-feedback": "Incorrect : %{feedback}",
+    "make_quiz": "Envie de créer gratuitement votre propre test ?",
+    "make_quiz_label": "Découvrez Qzzr",
+    "make_quiz_label_boombox": "Découvrez Boombox",
+    "multiple_select": "Sélectionner toutes les réponses pertinentes",
+    "next_question": "Question suivante",
+    "question_count": "%{smart_count} question |||| %{smart_count} questions",
+    "start": "Commencer",
+    "tap_to_advance": "Tapez n'importe où pour continuer",
+    "times_taken": "Fait %{smart_count} fois |||| Fait %{smart_count} fois"
+  }
+}
