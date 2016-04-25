@@ -1,0 +1,71 @@
+{
+  "embed_text": {
+    "having_trouble": "Problemen met embedden?",
+    "try_alternate": "Probeer deze code",
+    "try_preferred": "Ga terug naar aanbevolen embedcode"
+  },
+  "logo": {
+    "made_with": "Gemaakt met"
+  },
+  "offer": {
+    "skip": "Overslaan",
+    "submit": "Versturen"
+  },
+  "results": {
+    "bracket_count": "%{smart_count} persoon |||| %{smart_count} mensen",
+    "bracket_range": "%{lower}-%{upper}%",
+    "bracket_title": "Niveaus",
+    "grade_count": "%{score}/%{count}",
+    "recommended": "Andere geweldige quizzen",
+    "retake": "Overdoen",
+    "scored_percentage": "Gescoord %{percentage}%",
+    "scroll_down": "Blader naar beneden om je resultaat te zien",
+    "share_your_result": "Deel je resultaat",
+    "your_result_graded": "Resultaat: %{percentage}% gescoord",
+    "your_result_outcome": "Resultaat: %{outcome}",
+    "lead_see_result": "Vul onderstaand formulier in om je resultaten te zien"
+  },
+  "social": {
+    "branded_caption": "Gemaakt met Qzzr - Quizzen voor jou door jou",
+    "branded_graded_result_match": "Ik heb %{score}% gescoord in \"%{quiz_title}\" op Qzzr! Kun jij het beter?",
+    "branded_outcome_result": "Ik heb \"%{outcome_title}\" gehaald in \"%{quiz_title}\" op Qzzr! En jij?",
+    "caption": "Gemaakt met Qzzr",
+    "description": "Maak gratis je eigen quizzen op Qzzr, de gemakkelijkste quiztool ter wereld.",
+    "email": "E-mail",
+    "embed": "Embedden in pagina",
+    "embed-default": "Standaard",
+    "facebook": "Delen",
+    "gplus": "Delen",
+    "graded_result_match": "Ik heb %{score}% gescoord in \"%{quiz_title}\" Kun jij het beter?",
+    "hashtag": "quizzen",
+    "link": "Link",
+    "linkedin": "Delen",
+    "outcome_result": "Ik heb \"%{outcome_title}\" gehaald in \"%{quiz_title}\" En jij?",
+    "pinterest": "Pin it",
+    "quiz": "Check \"%{quiz_title}\"",
+    "reddit": "Delen",
+    "share_quiz": "Deel deze quiz",
+    "tumblr": "Delen",
+    "twitter": "Tweeten",
+    "wordpress": "WordPress",
+    "wordpress_link": "WordPress (voor gebruik met onze %{link})",
+    "wordpress_link_label": "plug-in"
+  },
+  "take": {
+    "click_to_advance": "Klik ergens om verder te gaan",
+    "correct": "Goed",
+    "correct-feedback": "Goed: %{feedback}",
+    "done": "Versturen",
+    "incorrect": "Fout",
+    "incorrect-feedback": "Fout: %{feedback}",
+    "make_quiz": "Wil je gratis je eigen quiz maken?",
+    "make_quiz_label": "Check qzzr",
+    "make_quiz_label_boombox": "Check Boombox",
+    "multiple_select": "Selecteer alles wat van toepassing is",
+    "next_question": "Volgende vraag",
+    "question_count": "%{smart_count} vraag |||| %{smart_count} vragen",
+    "start": "Beginnen",
+    "tap_to_advance": "Tik ergens om door te gaan",
+    "times_taken": "%{smart_count} keer nodig gehad |||| %{smart_count} keer nodig gehad"
+  }
+}
