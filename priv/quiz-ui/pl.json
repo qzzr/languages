@@ -1,0 +1,71 @@
+{
+  "embed_text": {
+    "having_trouble": "Masz problem z opublikowaniem?",
+    "try_alternate": "Wypróbuj ten kod",
+    "try_preferred": "Wróć do zalecanego kodu do zamieszczenia"
+  },
+  "logo": {
+    "made_with": "Stworzone"
+  },
+  "offer": {
+    "skip": "Pomiń",
+    "submit": "Wyślij"
+  },
+  "results": {
+    "bracket_count": "%{smart_count} osoba |||| %{smart_count} osób",
+    "bracket_range": "%{lower}-%{upper}%",
+    "bracket_title": "Grupy",
+    "grade_count": "%{score}/%{count}",
+    "recommended": "Inne polecane quizy",
+    "retake": "Powtórz",
+    "scored_percentage": "%{percentage}%",
+    "scroll_down": "Przewiń w dół by zobaczyć wynik",
+    "share_your_result": "Opublikuj wynik",
+    "your_result_graded": "Wynik: %{percentage}%",
+    "your_result_outcome": "Wynik: %{outcome}",
+    "lead_see_result": "Wypełnij formularz by zobaczyć swój wynik"
+  },
+  "social": {
+    "branded_caption": "Stworzone w Qzzr - Quizy dla Ciebie od Ciebie",
+    "branded_graded_result_match": "Udało mi się zdobyć %{score}% w quizie \"%{quiz_title}\"! Uda Ci się mnie pobić?",
+    "branded_outcome_result": "Mam wynik \"%{outcome_title}\" w quizie \"%{quiz_title}\". A Ty?",
+    "caption": "Stworzone w Qzzr",
+    "description": "Twórz swoje quizy za darmo w Qzzr, najłatwiejszym narzędziu do quizów na świecie.",
+    "email": "Email",
+    "embed": "Umieść na stronie",
+    "embed-default": "Domyślny",
+    "facebook": "Opublikuj",
+    "gplus": "Opublikuj",
+    "graded_result_match": "Mam wynik %{score}% w quizie \"%{quiz_title}\". Uda Ci się mnie pobić?",
+    "hashtag": "quizy",
+    "link": "Link",
+    "linkedin": "Opublikuj",
+    "outcome_result": "Wyszło mi \"%{outcome_title}\" w quizie \"%{quiz_title}\". A Tobie?",
+    "pinterest": "Przypnij to",
+    "quiz": "Zobacz \"%{quiz_title}\"",
+    "reddit": "Opublikuj",
+    "share_quiz": "Opbulikuj quiz",
+    "tumblr": "Opublikuj",
+    "twitter": "Tweetnij",
+    "wordpress": "WordPress",
+    "wordpress_link": "WordPress (zainstaluj nasz %{link})",
+    "wordpress_link_label": "plugin"
+  },
+  "take": {
+    "click_to_advance": "Kliknij gdziekolwiek by przejść dalej",
+    "correct": "Dobrze",
+    "correct-feedback": "Dobrze: %{feedback}",
+    "done": "Wyślij",
+    "incorrect": "Źle",
+    "incorrect-feedback": "Źle: %{feedback}",
+    "make_quiz": "Chcesz za darmo stworzyć własny quiz?",
+    "make_quiz_label": "Zobacz qzzr",
+    "make_quiz_label_boombox": "Zobacz Boombox",
+    "multiple_select": "Zaznacz wszystkie pasujące odpowiedzi",
+    "next_question": "Następne pytanie",
+    "question_count": "%{smart_count} pytanie |||| %{smart_count} pytań",
+    "start": "Start",
+    "tap_to_advance": "Dotknij gdziekolwiek by przejść dalej",
+    "times_taken": "Rozwiązny %{smart_count} raz |||| Rozwiązny %{smart_count} razy"
+  }
+}
