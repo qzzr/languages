@@ -61,7 +61,7 @@
     "make_quiz": "Chcesz za darmo stworzyć własny quiz?",
     "make_quiz_label": "Zobacz qzzr",
     "make_quiz_label_boombox": "Zobacz Boombox",
-    "multiple_select": "Zaznacz wszystkie pasujące odpowiedzi",
+    "multiple_select": "Wybierz wszystkie pasujące odpowiedzi: ",
     "next_question": "Następne pytanie",
     "question_count": "%{smart_count} pytanie |||| %{smart_count} pytań",
     "start": "Start",

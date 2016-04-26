@@ -61,7 +61,7 @@
     "make_quiz": "Quer criar seu próprio teste gratuitamente?",
     "make_quiz_label": "Confira o Qzzr",
     "make_quiz_label_boombox": "Confira o Boombox",
-    "multiple_select": "Selecione todas as respostas aplicáveis",
+    "multiple_select": "Selecione todas as respostas aplicáveis: ",
     "next_question": "Próxima pergunta",
     "question_count": "%{smart_count} pergunta |||| %{smart_count} perguntas",
     "start": "Iniciar",

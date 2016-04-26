@@ -1,0 +1,71 @@
+{
+  "embed_text": {
+    "having_trouble": "Проблемы со встраиванием?",
+    "try_alternate": "Попробуйте воспользоваться этим кодом",
+    "try_preferred": "Вернуться к рекомендованному коду встраивания"
+  },
+  "logo": {
+    "made_with": "Создано с помощью"
+  },
+  "offer": {
+    "skip": "Пропустить",
+    "submit": "Отправить"
+  },
+  "results": {
+    "bracket_count": "%{smart_count} человек |||| %{smart_count} человек",
+    "bracket_range": "%{lower}-%{upper}%",
+    "bracket_title": "Статистика результатов",
+    "grade_count": "%{score}/%{count}",
+    "recommended": "Другие замечательные тесты",
+    "retake": "Повторить",
+    "scored_percentage": "Результат %{percentage}%",
+    "scroll_down": "Прокрутите вниз, чтобы увидеть результат",
+    "share_your_result": "Поделиться результатом",
+    "your_result_graded": "Ваш результат: %{percentage}%",
+    "your_result_outcome": "Результат: %{outcome}",
+    "lead_see_result": "Заполните форму ниже, чтобы увидеть свой результат"
+  },
+  "social": {
+    "branded_caption": "Создано с помощью Qzzr — тесты для вас, придуманные вами",
+    "branded_graded_result_match": "У меня получилось набрать %{score}% в тесте «%{quiz_title}» на Qzzr! Можете так же?",
+    "branded_outcome_result": "У меня звание «%{outcome_title}» за тест «%{quiz_title}» на Qzzr! А у вас?",
+    "caption": "Создано с помощью Qzzr",
+    "description": "Создавайте собственные тесты бесплатно на Qzzr, самом простом в мире сервисе для создания тестов.",
+    "email": "Эл. почта",
+    "embed": "Встроить на страницу",
+    "embed-default": "По умолчанию",
+    "facebook": "Поделиться",
+    "gplus": "Поделиться",
+    "graded_result_match": "У меня получилось набрать %{score}% в тесте «%{quiz_title}» Можете так же?",
+    "hashtag": "тесты",
+    "link": "Ссылка",
+    "linkedin": "Поделиться",
+    "outcome_result": "У меня звание «%{outcome_title}» за тест «%{quiz_title}» А у вас?",
+    "pinterest": "Pin it",
+    "quiz": "Попробуйте «%{quiz_title}»",
+    "reddit": "Поделиться",
+    "share_quiz": "Рассказать об этом тесте",
+    "tumblr": "Поделиться",
+    "twitter": "Твитнуть",
+    "wordpress": "WordPress",
+    "wordpress_link": "WordPress (для использования с нашим %{link})",
+    "wordpress_link_label": "плагин"
+  },
+  "take": {
+    "click_to_advance": "Щелкните в любом месте, чтобы продолжить",
+    "correct": "Верно",
+    "correct-feedback": "Верно: %{feedback}",
+    "done": "Отправить",
+    "incorrect": "Неверно",
+    "incorrect-feedback": "Неверно: %{feedback}",
+    "make_quiz": "Хотите создать свой тест бесплатно?",
+    "make_quiz_label": "Воспользуйтесь Qzzr",
+    "make_quiz_label_boombox": "Воспользуйтесь Boombox",
+    "multiple_select": "Выберите все подходящие варианты:",
+    "next_question": "Следующий вопрос",
+    "question_count": "%{smart_count} вопрос |||| %{smart_count} вопросов",
+    "start": "Начать",
+    "tap_to_advance": "Щелкните в любом месте, чтобы продолжить",
+    "times_taken": "Пройдено %{smart_count} раз |||| Пройдено %{smart_count} раз"
+  }
+}
