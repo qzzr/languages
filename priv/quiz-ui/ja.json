@@ -59,7 +59,7 @@
     "make_quiz": "自分だけのクイズを無料で作成しますか？",
     "make_quiz_label": "qzzrをチェック",
     "make_quiz_label_boombox": "Boomboxをチェック",
-    "multiple_select": "当てはまるものを全て選んでください",
+    "multiple_select": "当てはまるものを全て選んでください：",
     "next_question": "次の質問",
     "question_count": "%{smart_count}問 |||| %{smart_count}問",
     "start": "スタート",

@@ -1,0 +1,71 @@
+{
+  "embed_text": {
+    "having_trouble": "Har du problem att bädda in?",
+    "try_alternate": "Prova denna kod",
+    "try_preferred": "Gå tillbaka för att rekommendera inbäddad kod"
+  },
+  "logo": {
+    "made_with": "Skapa med"
+  },
+  "offer": {
+    "skip": "Hoppa över",
+    "submit": "Skicka in"
+  },
+  "results": {
+    "bracket_count": "%{smart_count} person |||| %{smart_count} personer",
+    "bracket_range": "%{lower}-%{upper}%",
+    "bracket_title": "Intervall",
+    "grade_count": "%{score}/%{count}",
+    "recommended": "Andra suveräna frågesporter",
+    "retake": "Gör om",
+    "scored_percentage": "%{percentage} % rätt",
+    "scroll_down": "Bläddra neråt för att se ditt resultat",
+    "share_your_result": "Dela ditt resultat",
+    "your_result_graded": "Resultat: %{percentage} % rätt",
+    "your_result_outcome": "Resultat: %{outcome}",
+    "lead_see_result": "Fyll i formuläret nedan för att se ditt resultat"
+  },
+  "social": {
+    "branded_caption": "Skapad med Qzzr - Frågesport till dig, av dig",
+    "branded_graded_result_match": "Jag fick %{score} % rätt på \"%{quiz_title}\" på Qzzr! Kan du matcha det?",
+    "branded_outcome_result": "Jag fick \"%{outcome_title}\" på \"%{quiz_title}\" på Qzzr! Vad fick du?",
+    "caption": "Skapad med Qzzr",
+    "description": "Skapa dina egen frågesport gratis på Qzzr, världens enklaste frågesportverktyg.",
+    "email": "E-post",
+    "embed": "Bädda in på sida",
+    "embed-default": "Standardval",
+    "facebook": "Dela",
+    "gplus": "Dela",
+    "graded_result_match": "Jag fick %{score} % rätt på \"%{quiz_title}\". Kan du matcha det?",
+    "hashtag": "frågesport",
+    "link": "Länk",
+    "linkedin": "Dela",
+    "outcome_result": "Jag fick \"%{outcome_title}\" på \"%{quiz_title}\". Vad fick du?",
+    "pinterest": "Fäst den",
+    "quiz": "Kolla in \"%{quiz_title}\"",
+    "reddit": "Dela",
+    "share_quiz": "Dela denna frågesport",
+    "tumblr": "Dela",
+    "twitter": "Tweeta",
+    "wordpress": "WordPress",
+    "wordpress_link": "WordPress (används med vår %{link})",
+    "wordpress_link_label": "insticksprogram"
+  },
+  "take": {
+    "click_to_advance": "Klicka var som helst för att fortsätta",
+    "correct": "Rätt",
+    "correct-feedback": "Rätt: %{feedback}",
+    "done": "Skicka in",
+    "incorrect": "Fel",
+    "incorrect-feedback": "Fel: %{feedback}",
+    "make_quiz": "Vill du göra din egen frågesport gratis?",
+    "make_quiz_label": "Kolla in qzzr",
+    "make_quiz_label_boombox": "Kolla in Boombox",
+    "multiple_select": "Välj alla rätta svar: ",
+    "next_question": "Nästa fråga",
+    "question_count": "%{smart_count} fråga |||| %{smart_count} frågor",
+    "start": "Börja",
+    "tap_to_advance": "Klicka var som helst för att fortsätta",
+    "times_taken": "Gjort %{smart_count} gång |||| Taken %{smart_count} gånger"
+  }
+}

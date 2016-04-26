@@ -42,7 +42,7 @@
     "correct": "Oikein",
     "done": "Valmis",
     "incorrect": "Väärin",
-    "multiple_select": "Valitse kaikki soveltuvat",
+    "multiple_select": "Valitse kaikki soveltuvat: ",
     "next_question": "Seuraava kysymys",
     "question_count": "%{smart_count} kysymys |||| %{smart_count} kysymystä",
     "start": "Aloita",
