@@ -1,0 +1,71 @@
+{
+  "embed_text": {
+    "having_trouble": "Problemi nell'incorporare il quiz?",
+    "try_alternate": "Prova questo codice",
+    "try_preferred": "Torna al codice di incorporamento consigliato"
+  },
+  "logo": {
+    "made_with": "Realizzato con"
+  },
+  "offer": {
+    "skip": "Salta",
+    "submit": "Invia"
+  },
+  "results": {
+    "bracket_count": "%{smart_count} persona |||| %{smart_count} persone",
+    "bracket_range": "%{lower}-%{upper}%",
+    "bracket_title": "Fasce",
+    "grade_count": "%{score}/%{count}",
+    "recommended": "Altri fantastici quiz",
+    "retake": "Riprova",
+    "scored_percentage": "Hai totalizzato il %{percentage}%",
+    "scroll_down": "Scorri verso il basso per vedere il risultato",
+    "share_your_result": "Condividi il tuo risultato",
+    "your_result_graded": "Risultato: hai totalizzato il %{percentage}%",
+    "your_result_outcome": "Risultato: %{outcome}",
+    "lead_see_result": "Compila il modulo sottostante per visualizzare il tuo risultato"
+  },
+  "social": {
+    "branded_caption": "Creato con Qzzr - Quiz realizzati per te, da te",
+    "branded_graded_result_match": "Ho totalizzato il %{score}% nel quiz \"%{quiz_title}\" di Qzzr! Ce la farai a raggiungermi?",
+    "branded_outcome_result": "Secondo il quiz \"%{quiz_title}\" il mio profilo è \"%{outcome_title}\". E il tuo?",
+    "caption": "Creato con Qzzr",
+    "description": "Crea gratuitamente i tuoi quiz su Qzzr, lo strumento più semplice al mondo per realizzare quiz.",
+    "email": "E-mail",
+    "embed": "Incorpora nella pagina",
+    "embed-default": "Default",
+    "facebook": "Condividi",
+    "gplus": "Condividi",
+    "graded_result_match": "Ho totalizzato il %{score}% nel quiz \"%{quiz_title}\" Ce la farai a raggiungermi?",
+    "hashtag": "quiz",
+    "link": "Link",
+    "linkedin": "Condividi",
+    "outcome_result": "Secondo il quiz \"%{quiz_title}\" il mio profilo è \"%{outcome_title}\". E il tuo?",
+    "pinterest": "Pin it",
+    "quiz": "Da un'occhiata al quiz \"%{quiz_title}\"",
+    "reddit": "Condividi",
+    "share_quiz": "Condividi questo quiz",
+    "tumblr": "Condividi",
+    "twitter": "Tweet",
+    "wordpress": "WordPress",
+    "wordpress_link": "WordPress (da utilizzare con il nostro %{link})",
+    "wordpress_link_label": "plugin"
+  },
+  "take": {
+    "click_to_advance": "Sfida gli amici",
+    "correct": "Giusto",
+    "correct-feedback": "Giusto: %{feedback}",
+    "done": "Invia",
+    "incorrect": "Sbagliato",
+    "incorrect-feedback": "Sbagliato: %{feedback}",
+    "make_quiz": "Vuoi creare il tuo quiz in modo gratuito?",
+    "make_quiz_label": "Dai un'occhiata a qzzr",
+    "make_quiz_label_boombox": "Dai un'occhiata a Boombox",
+    "multiple_select": "Seleziona tutte le risposte adatte",
+    "next_question": "Prossima domanda",
+    "question_count": "%{smart_count} domanda |||| %{smart_count} domande",
+    "start": "Avvio",
+    "tap_to_advance": "Per procedere clicca un punto qualsiasi",
+    "times_taken": "Svolto %{smart_count} volta |||| Svolto %{smart_count} volte"
+  }
+}
