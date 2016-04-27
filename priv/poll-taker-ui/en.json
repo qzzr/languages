@@ -35,7 +35,10 @@
     "made_with": "Made with",
     "not_found": "This poll is no longer available.",
     "share_poll": "Share this poll",
-    "mix_label": "Recommended for you"
+    "mix_label": "Recommended for you",
+    "mix_item_type_quiz": "quiz",
+    "mix_item_type_poll": "poll",
+    "mix_item_type_list": "list"
   },
   "question": {
     "by_categories": "by region, age & gender",
