@@ -12,7 +12,10 @@
     "submit": "Send inn"
   },
   "results": {
-    "bracket_count": "%{smart_count} person |||| %{smart_count} folk",
+    "bracket_count": {
+      "one": "%{smart_count} person",
+      "other": "%{smart_count} folk"
+    },
     "bracket_range": "%{lower}-%{upper}%",
     "bracket_title": "Grupper",
     "grade_count": "%{score}/%{count}",
@@ -63,9 +66,15 @@
     "make_quiz_label_boombox": "Prøv Boombox",
     "multiple_select": "Velg alle som gjelder: ",
     "next_question": "Neste spørsmål",
-    "question_count": "%{smart_count} spørsmål |||| %{smart_count} spørsmål",
+    "question_count": {
+      "one": "%{smart_count} spørsmål",
+      "other": "%{smart_count} spørsmål"
+    },
     "start": "Start",
     "tap_to_advance": "Trykk hvor som helst for å gå videre",
-    "times_taken": "Tatt %{smart_count} gang |||| Tatt %{smart_count} ganger"
+    "times_taken": {
+      "one": "Tatt %{smart_count} gang",
+      "other": "Tatt %{smart_count} ganger"
+    }
   }
 }

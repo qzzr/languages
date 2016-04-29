@@ -12,7 +12,10 @@
     "submit": "Отправить"
   },
   "results": {
-    "bracket_count": "%{smart_count} человек |||| %{smart_count} человек",
+    "bracket_count": {
+      "one": "%{smart_count} человек",
+      "other": "%{smart_count} человек"
+    },
     "bracket_range": "%{lower}-%{upper}%",
     "bracket_title": "Статистика результатов",
     "grade_count": "%{score}/%{count}",
@@ -63,9 +66,15 @@
     "make_quiz_label_boombox": "Воспользуйтесь Boombox",
     "multiple_select": "Выберите все подходящие варианты:",
     "next_question": "Следующий вопрос",
-    "question_count": "%{smart_count} вопрос |||| %{smart_count} вопросов",
+    "question_count": {
+      "one": "%{smart_count} вопрос",
+      "other": "%{smart_count} вопросов"
+    },
     "start": "Начать",
     "tap_to_advance": "Щелкните в любом месте, чтобы продолжить",
-    "times_taken": "Пройдено %{smart_count} раз |||| Пройдено %{smart_count} раз"
+    "times_taken": {
+      "one": "Пройдено %{smart_count} раз",
+      "other": "Пройдено %{smart_count} раз"
+    }
   }
 }

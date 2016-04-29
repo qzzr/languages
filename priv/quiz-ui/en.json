@@ -12,7 +12,10 @@
     "submit": "Submit"
   },
   "results": {
-    "bracket_count": "%{smart_count} person |||| %{smart_count} people",
+    "bracket_count": {
+      "one": "%{smart_count} person",
+      "other": "%{smart_count} people"
+    },
     "bracket_range": "%{lower}-%{upper}%",
     "bracket_title": "How you compare to others",
     "grade_count": "%{score}/%{count}",
@@ -71,9 +74,15 @@
     "not_found": "This quiz is no longer available.",
     "not_found_mix_title": "Why not give one of these a go?",
     "view_results": "View results",
-    "question_count": "%{smart_count} question |||| %{smart_count} questions",
+    "question_count": {
+      "one": "%{smart_count} question",
+      "other": "%{smart_count} questions"
+    },
     "start": "Start",
     "tap_to_advance": "Tap anywhere to advance",
-    "times_taken": "Taken %{smart_count} time |||| Taken %{smart_count} times"
+    "times_taken": {
+      "one": "Taken %{smart_count} time",
+      "other": "Taken %{smart_count} times"
+    }
   }
 }

@@ -12,7 +12,10 @@
     "submit": "Skicka in"
   },
   "results": {
-    "bracket_count": "%{smart_count} person |||| %{smart_count} personer",
+    "bracket_count": {
+      "one": "%{smart_count} person",
+      "other": "%{smart_count} personer"
+    },
     "bracket_range": "%{lower}-%{upper}%",
     "bracket_title": "Intervall",
     "grade_count": "%{score}/%{count}",
@@ -63,9 +66,15 @@
     "make_quiz_label_boombox": "Kolla in Boombox",
     "multiple_select": "Välj alla rätta svar: ",
     "next_question": "Nästa fråga",
-    "question_count": "%{smart_count} fråga |||| %{smart_count} frågor",
+    "question_count": {
+      "one": "%{smart_count} fråga",
+      "other": "%{smart_count} frågor"
+    },
     "start": "Börja",
     "tap_to_advance": "Klicka var som helst för att fortsätta",
-    "times_taken": "Gjort %{smart_count} gång |||| Taken %{smart_count} gånger"
+    "times_taken": {
+      "one": "Gjort %{smart_count} gång",
+      "other": "Taken %{smart_count} gånger"
+    }
   }
 }

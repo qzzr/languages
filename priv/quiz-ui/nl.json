@@ -12,7 +12,10 @@
     "submit": "Versturen"
   },
   "results": {
-    "bracket_count": "%{smart_count} persoon |||| %{smart_count} mensen",
+    "bracket_count": {
+      "one": "%{smart_count} persoon",
+      "other": "%{smart_count} mensen"
+    },
     "bracket_range": "%{lower}-%{upper}%",
     "bracket_title": "Niveaus",
     "grade_count": "%{score}/%{count}",
@@ -63,9 +66,15 @@
     "make_quiz_label_boombox": "Check Boombox",
     "multiple_select": "Selecteer alles wat van toepassing is: ",
     "next_question": "Volgende vraag",
-    "question_count": "%{smart_count} vraag |||| %{smart_count} vragen",
+    "question_count": {
+      "one": "%{smart_count} vraag",
+      "other": "%{smart_count} vragen"
+    },
     "start": "Beginnen",
     "tap_to_advance": "Tik ergens om door te gaan",
-    "times_taken": "%{smart_count} keer nodig gehad |||| %{smart_count} keer nodig gehad"
+    "times_taken": {
+      "one": "%{smart_count} keer nodig gehad",
+      "other": "%{smart_count} keer nodig gehad"
+    }
   }
 }

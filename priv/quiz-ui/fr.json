@@ -12,7 +12,10 @@
     "submit": "Envoyer"
   },
   "results": {
-    "bracket_count": "%{smart_count} personnes |||| %{smart_count} personnes",
+    "bracket_count": {
+      "one": "%{smart_count} personnes",
+      "other": "%{smart_count} personnes"
+    },
     "bracket_range": "%{lower}-%{upper}%",
     "bracket_title": "Classement",
     "grade_count": "%{score}/%{count}",
@@ -63,9 +66,15 @@
     "make_quiz_label_boombox": "Découvrez Boombox",
     "multiple_select": "Sélectionner toutes les réponses pertinentes :",
     "next_question": "Question suivante",
-    "question_count": "%{smart_count} question |||| %{smart_count} questions",
+    "question_count": {
+      "one": "%{smart_count} question",
+      "other": "%{smart_count} questions"
+    },
     "start": "Commencer",
     "tap_to_advance": "Tapez n'importe où pour continuer",
-    "times_taken": "Fait %{smart_count} fois |||| Fait %{smart_count} fois"
+    "times_taken": {
+      "one": "Fait %{smart_count} fois",
+      "other": "Fait %{smart_count} fois"
+    }
   }
 }

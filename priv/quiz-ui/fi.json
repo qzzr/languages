@@ -9,7 +9,10 @@
     "submit": "Valmis"
   },
   "results": {
-    "bracket_count": "%{smart_count} ihminen ||||%{smart_count} ihmistä",
+    "bracket_count": {
+      "one": "%{smart_count} ihminen",
+      "other": "%{smart_count} ihmistä"
+    },
     "bracket_range": "%{lower}-%{upper}%",
     "bracket_title": "Ryhmittely",
     "grade_count": "%{score}/%{count}",
@@ -44,9 +47,15 @@
     "incorrect": "Väärin",
     "multiple_select": "Valitse kaikki soveltuvat: ",
     "next_question": "Seuraava kysymys",
-    "question_count": "%{smart_count} kysymys |||| %{smart_count} kysymystä",
+    "question_count": {
+      "one": "%{smart_count} kysymys",
+      "other": "%{smart_count} kysymystä"
+    },
     "start": "Aloita",
     "tap_to_advance": "Klikkaa missä tahansa jatkaaksesi",
-    "times_taken": "Tehty %{smart_count} kerran |||| Tehty %{smart_count} kertaa"
+    "times_taken": {
+      "one": "Tehty %{smart_count} kerran",
+      "other": "Tehty %{smart_count} kertaa"
+    }
   }
 }
