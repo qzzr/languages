@@ -12,7 +12,10 @@
     "submit": "Enviar"
   },
   "results": {
-    "bracket_count": "%{smart_count} persona |||| %{smart_count} personas",
+    "bracket_count": {
+      "one": "%{smart_count} persona",
+      "other": "%{smart_count} personas"
+    },
     "bracket_range": "%{lower}-%{upper}%",
     "bracket_title": "Categorías",
     "grade_count": "%{score}/%{count}",
@@ -64,9 +67,15 @@
     "multiple_select": "Selecciona todas las que correspondan: ",
     "next_question": "Siguiente pregunta",
     "view_results": "Ver resultados",
-    "question_count": "%{smart_count} pregunta |||| %{smart_count} preguntas",
+    "question_count": {
+      "one": "%{smart_count} pregunta",
+      "other": "%{smart_count} preguntas"
+    },
     "start": "Inicio",
     "tap_to_advance": "Toca en cualquier sitio para avanzar",
-    "times_taken": "Hecha %{smart_count} vez |||| Hechas %{smart_count} veces"
+    "times_taken": {
+      "one": "Hecha %{smart_count} vez",
+      "other": "Hechas %{smart_count} veces"
+    }
   }
 }

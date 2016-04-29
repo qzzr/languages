@@ -12,7 +12,10 @@
     "submit": "Indsend"
   },
   "results": {
-    "bracket_count": "%{smart_count} person |||| %{smart_count} personer",
+    "bracket_count": {
+      "one": "%{smart_count} person",
+      "other": "%{smart_count} personer"
+    },
     "bracket_range": "%{lower}-%{upper}%",
     "bracket_title": "Trin",
     "grade_count": "%{score}/%{count}",
@@ -63,9 +66,15 @@
     "make_quiz_label_boombox": "Prøv Boombox",
     "multiple_select": "Vælg alle, der gælder: ",
     "next_question": "Næste spørgsmål",
-    "question_count": "%{smart_count} spørgsmål |||| %{smart_count} spørgsmål",
+    "question_count": {
+      "one": "%{smart_count} spørgsmål",
+      "other": "%{smart_count} spørgsmål"
+    },
     "start": "Start",
     "tap_to_advance": "Tryk hvorsomhelst for at fortsætte",
-    "times_taken": "Taget %{smart_count} gang |||| Taget %{smart_count} gange"
+    "times_taken": {
+      "one": "Taget %{smart_count} gang",
+      "other": "Taget %{smart_count} gange"
+    }
   }
 }

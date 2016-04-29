@@ -12,7 +12,10 @@
     "submit": "Prosledi"
   },
   "results": {
-    "bracket_count": "%{smart_count} osoba |||| %{smart_count} ljudi",
+    "bracket_count": {
+      "one": "%{smart_count} osoba",
+      "other": "%{smart_count} ljudi"
+    },
     "bracket_range": "%{lower}-%{upper}%",
     "bracket_title": "Zagrade",
     "grade_count": "%{score}/%{count}",
@@ -63,9 +66,15 @@
     "make_quiz_label_boombox": "Pogledajte Boombox",
     "multiple_select": "Izaberite sve što odgovara: ",
     "next_question": "Sledece pitanje",
-    "question_count": "%{smart_count} pitanje |||| %{smart_count} pitanja",
+    "question_count": {
+      "one": "%{smart_count} pitanje",
+      "other": "%{smart_count} pitanja"
+    },
     "start": "Početak",
     "tap_to_advance": "Dodirnite bilo gde za nastavak",
-    "times_taken": "Rađen %{smart_count} puta |||| Rađen %{smart_count} puta"
+    "times_taken": {
+      "one": "Rađen %{smart_count} puta",
+      "other": "Rađen %{smart_count} puta"
+    }
   }
 }
