@@ -14,6 +14,7 @@
   "results": {
     "bracket_count": {
       "one": "%{smart_count} osoba",
+      "few": "%{smart_count} ljudi",
       "other": "%{smart_count} ljudi"
     },
     "bracket_range": "%{lower}-%{upper}%",
@@ -68,12 +69,14 @@
     "next_question": "Sledece pitanje",
     "question_count": {
       "one": "%{smart_count} pitanje",
+      "few": "%{smart_count} pitanja",
       "other": "%{smart_count} pitanja"
     },
     "start": "Početak",
     "tap_to_advance": "Dodirnite bilo gde za nastavak",
     "times_taken": {
       "one": "Rađen %{smart_count} puta",
+      "few": "Rađen %{smart_count} puta",
       "other": "Rađen %{smart_count} puta"
     }
   }
