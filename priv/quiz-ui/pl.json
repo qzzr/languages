@@ -14,6 +14,8 @@
   "results": {
     "bracket_count": {
       "one": "%{smart_count} osoba",
+      "few": "%{smart_count} osób",
+      "many": "%{smart_count} osób",
       "other": "%{smart_count} osób"
     },
     "bracket_range": "%{lower}-%{upper}%",
@@ -68,12 +70,16 @@
     "next_question": "Następne pytanie",
     "question_count": {
       "one": "%{smart_count} pytanie",
+      "few": "%{smart_count} pytań",
+      "many": "%{smart_count} pytań",
       "other": "%{smart_count} pytań"
     },
     "start": "Start",
     "tap_to_advance": "Dotknij gdziekolwiek by przejść dalej",
     "times_taken": {
       "one": "Rozwiązny %{smart_count} raz",
+      "few": "Rozwiązny %{smart_count} razy",
+      "many": "Rozwiązny %{smart_count} razy",
       "other": "Rozwiązny %{smart_count} razy"
     }
   }

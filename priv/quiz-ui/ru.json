@@ -14,6 +14,8 @@
   "results": {
     "bracket_count": {
       "one": "%{smart_count} человек",
+      "few": "%{smart_count} человек",
+      "many": "%{smart_count} человек",
       "other": "%{smart_count} человек"
     },
     "bracket_range": "%{lower}-%{upper}%",
@@ -68,12 +70,16 @@
     "next_question": "Следующий вопрос",
     "question_count": {
       "one": "%{smart_count} вопрос",
+      "few": "%{smart_count} вопросов",
+      "many": "%{smart_count} вопросов",
       "other": "%{smart_count} вопросов"
     },
     "start": "Начать",
     "tap_to_advance": "Щелкните в любом месте, чтобы продолжить",
     "times_taken": {
       "one": "Пройдено %{smart_count} раз",
+      "few": "Пройдено %{smart_count} раз",
+      "many": "Пройдено %{smart_count} раз",
       "other": "Пройдено %{smart_count} раз"
     }
   }
