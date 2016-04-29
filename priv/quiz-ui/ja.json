@@ -10,7 +10,7 @@
     "submit": "提出"
   },
   "results": {
-    "bracket_count": "%{smart_count}人 |||| %{smart_count}人",
+    "bracket_count": "%{smart_count}人",
     "bracket_range": "%{lower}-%{upper}%",
     "bracket_title": "割合区分",
     "grade_count": "%{score}/%{count}",
@@ -61,9 +61,9 @@
     "make_quiz_label_boombox": "Boomboxをチェック",
     "multiple_select": "当てはまるものを全て選んでください：",
     "next_question": "次の質問",
-    "question_count": "%{smart_count}問 |||| %{smart_count}問",
+    "question_count": "%{smart_count}問",
     "start": "スタート",
     "tap_to_advance": "どこでもタップして先に進む",
-    "times_taken": "回答数：%{smart_count}回 |||| 回答数：%{smart_count}回"
+    "times_taken": "回答数：%{smart_count}回"
   }
 }
