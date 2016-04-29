@@ -12,7 +12,7 @@
     "submit": "提交"
   },
   "results": {
-    "bracket_count": "%{smart_count} 人 |||| %{smart_count} 人",
+    "bracket_count": "%{smart_count} 人",
     "bracket_range": "%{lower}-%{upper}%",
     "bracket_title": "段位",
     "grade_count": "%{score}/%{count}",
@@ -63,9 +63,9 @@
     "make_quiz_label_boombox": "来 Boombox 看看吧",
     "multiple_select": "请选择所有匹配项： ",
     "next_question": "接下来的问题",
-    "question_count": "%{smart_count} 道题 |||| %{smart_count} 道题",
+    "question_count": "%{smart_count} 道题",
     "start": "开始",
     "tap_to_advance": "点击任意地方继续",
-    "times_taken": "已被完成 %{smart_count} 次 |||| 已被完成 %{smart_count} 次"
+    "times_taken": "已被完成 %{smart_count} 次"
   }
 }
