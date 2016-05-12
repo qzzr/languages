@@ -164,7 +164,12 @@
     "title": "Enter your email, and we’ll send you an email on how to reset your password."
   },
   "settings": {
+    "create_org_billing_modal_heading": "Creating your organization will move all your billing information to your organization.",
+    "create_org_billing_modal_description": "Owners on your organization will be able to view, and edit this information. %{first_owner : You will be made the first owner of the organization.}",
     "side_account_label": "Your account",
+    "side_organization_label": "Your organization",
+    "side_link_create_organization": "Create an organization",
+    "side_link_organizations_allow": "Organizations allow you to collaborate with multiple people on the same content.",
     "side_hubs_label": "Your hubs",
     "side_hubs_sublabel": "Collaborate with a group of people on specific content"
   },
