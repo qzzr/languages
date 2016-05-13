@@ -174,7 +174,7 @@
     "account_password_placeholder": "8 characters minimum",
     "account_picture": "Profile picture",
     "account_remove_image": "Remove image",
-    "account_save": "Save changes",
+    "account_save": "Save",
     "billing_failed": "An error occured while updating your billing information",
     "billing_updated": "Billing information has been updated!",
     "create_org_billing_modal_description": "Owners on your organization will be able to view, and edit this information. %{first_owner : You will be made the first owner of the organization.}",
@@ -192,6 +192,7 @@
     "side_link_create_organization": "Create an organization",
     "side_link_organizations_allow": "Collaborate with multiple people on the same content.",
     "side_organization_label": "Your organization",
+    "topbar_heading": "Settings",
     "upgrade_now": "Upgrade now",
     "view_billing_history": "View billing history"
   },
