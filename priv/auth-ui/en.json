@@ -173,6 +173,7 @@
     "account_password_label": "Change password",
     "account_password_placeholder": "8 characters minimum",
     "account_picture": "Profile picture",
+    "account_remove_image": "Remove image",
     "account_save": "Save changes",
     "billing_failed": "An error occured while updating your billing information",
     "billing_updated": "Billing information has been updated!",
