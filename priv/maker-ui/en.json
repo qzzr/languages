@@ -139,6 +139,7 @@
     "invite_role_feature_add_remove": "Add/remove owners, admins, & collaborators",
     "invite_role_feature_collaborate": "Collaborate on content",
     "invite_role_feature_edit_billing": "Edit plan & billing info",
+    "invite_role_feature_edit_org_details": "Edit this Organization's details",
     "invite_role_feature_edit_hub_details": "Edit this Hub's details",
     "invite_role_feature_edit_hubs_within": "Edit any Hubs within this Hub",
     "invite_role_feature_everything_admins": "Do everything admins can do",
