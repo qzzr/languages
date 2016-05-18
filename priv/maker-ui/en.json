@@ -161,11 +161,16 @@
       "boombox": "Upgrade to reduce Boombox branding, generate leads, use integrations, boost your content, export data & more"
     },
     "side_filter_by_account": "Created by you",
+    "side_invite_members": "Invite",
     "side_link_create_organization": "Create an organization",
     "side_link_organizations_allow": "Collaborate with multiple people on the same interactive content",
     "side_links_list": "List",
     "side_links_poll": "Poll",
     "side_links_quiz": "Quiz",
+    "side_members_count": {
+      "one": "%{member_count} person",
+      "other": "%{member_count} people"
+    },
     "tips_description": "Get tips and strategies to help you make quizzes like the experts at BuzzFeed.",
     "tips_for_creating_poll": "Tips for creating polls",
     "tips_for_creating_quiz": "Tips for creating quizzes",
