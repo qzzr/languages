@@ -311,9 +311,12 @@
     "delete_item": "Delete",
     "duplicate": "Duplicate",
     "edit": "Edit",
+    "move": "Move",
+    "options": "Options",
     "stats": "Stats",
     "unpublished_changes": "Unpublished changes",
-    "untitled": "Untitled"
+    "untitled": "Untitled",
+    "view_stats": "View stats"
   },
   "maker": {
     "appearance_accent_color": "Accent color",
