@@ -131,6 +131,7 @@
     "empty_search_suggestions_words": "Try different words.",
     "invalid_email": "Invalid email",
     "invite_collaborators": "Invite collaborators",
+    "invite_heading": "Invite people to %{place}",
     "invite_via_email": "Invite via email",
     "invite_email_placeholder": "name@email.com",
     "invite_email_press_enter": "Press enter to invite",
