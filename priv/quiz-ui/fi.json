@@ -1,0 +1,61 @@
+{
+  "embed_text": {
+    "having_trouble": "Upotus ei toimi?",
+    "try_alternate": "Kokeile tätä.",
+    "try_preferred": "Takaisin"
+  },
+  "offer": {
+    "skip": "Seuraava",
+    "submit": "Valmis"
+  },
+  "results": {
+    "bracket_count": {
+      "one": "%{smart_count} ihminen",
+      "other": "%{smart_count} ihmistä"
+    },
+    "bracket_range": "%{lower}-%{upper}%",
+    "bracket_title": "Ryhmittely",
+    "grade_count": "%{score}/%{count}",
+    "retake": "Aloita",
+    "scored_percentage": "Tulos %{percentage}",
+    "scroll_down": "Selaa alaspäin",
+    "share_your_result": "Jaa tulos"
+  },
+  "social": {
+    "branded_graded_result_match": "Sain tulokseksi %{score}% \"%{quiz_title}\" Qzzr testissä! Yllätkö samaan?",
+    "branded_outcome_result": "Sain tulokseksi \"%{outcome_title}\" \"%{quiz_title}\" Qzzr testissä! Entä sinä?",
+    "email": "Email",
+    "embed": "Upota",
+    "facebook": "Jaa",
+    "gplus": "Jaa",
+    "graded_result_match": "Sain tulokseksi %{score}% \"%{quiz_title}\" Yllätkö samaan?",
+    "link": "URL",
+    "linkedin": "Jaa",
+    "outcome_result": "Sain tulokseksi \"%{outcome_title}\" \"%{quiz_title}\", Entä sinä?",
+    "pinterest": "Pin it",
+    "quiz": "Katso tämä \"%{quiz_title}\"",
+    "reddit": "Jaa",
+    "share_quiz": "Jaa",
+    "tumblr": "Jaa",
+    "twitter": "Twiittaa",
+    "wordpress": "WordPress"
+  },
+  "take": {
+    "click_to_advance": "Klikkaa missä tahansa jatkaaksesi",
+    "correct": "Oikein",
+    "done": "Valmis",
+    "incorrect": "Väärin",
+    "multiple_select": "Valitse kaikki soveltuvat: ",
+    "next_question": "Seuraava kysymys",
+    "question_count": {
+      "one": "%{smart_count} kysymys",
+      "other": "%{smart_count} kysymystä"
+    },
+    "start": "Aloita",
+    "tap_to_advance": "Klikkaa missä tahansa jatkaaksesi",
+    "times_taken": {
+      "one": "Tehty %{smart_count} kerran",
+      "other": "Tehty %{smart_count} kertaa"
+    }
+  }
+}

@@ -4,6 +4,7 @@
     "by_age": "By age",
     "by_gender": "By gender",
     "other": "Other option",
+    "unlabeled_option": "Unlabeled option",
     "your_selection": "Your selection"
   },
   "by_region": {
@@ -23,14 +24,22 @@
     "years": "years"
   },
   "map": {
-    "your_selection": "Your selection",
-    "other": "Other option"
+    "all_others": "All others",
+    "other": "Other option",
+    "unlabeled_option": "Unlabeled option",
+    "your_selection": "Your selection"
   },
   "poll": {
     "embed_poll": "Embed this poll",
     "link_poll": "Link to this poll",
     "made_with": "Made with",
-    "share_poll": "Share this poll"
+    "not_found": "This poll is no longer available.",
+    "not_found_mix_title": "Why not give one of these a go?",
+    "share_poll": "Share this poll",
+    "mix_label": "Recommended for you",
+    "mix_item_type_quiz": "quiz",
+    "mix_item_type_poll": "poll",
+    "mix_item_type_list": "list"
   },
   "question": {
     "by_categories": "by region, age & gender",

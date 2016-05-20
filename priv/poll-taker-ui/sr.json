@@ -1,0 +1,74 @@
+{
+  "breakdown": {
+    "by_region": "PREMA REGIONU",
+    "by_age": "PREMA UZRASTU",
+    "by_gender": "PREMA POLU",
+    "other": "Druga mogu\u0107nost",
+    "your_selection": "Va\u0161 izbor"
+  },
+  "by_region": {
+    "nearby": "u blizini",
+    "country": "zemlja",
+    "world": "svet"
+  },
+  "collect_info": {
+    "female": "\u017denski",
+    "how_old_are_you": "Koliko godina imate?",
+    "male": "Mu\u0161ki",
+    "see_the_breakdown": "Pogledajte klasifikaciju",
+    "skip": "Presko\u010dite",
+    "subtitle": "Va\u0161i podaci su anonimni.",
+    "title": "Uporedite sebe u odnosu na ostatak sveta.",
+    "whats_your_gender": "Koji je Va\u0161 pol?",
+    "years": "godine"
+  },
+  "map": {
+    "your_selection": "Va\u0161 izbor",
+    "other": "Druga opcija"
+  },
+  "poll": {
+    "embed_poll": "Uklju\u010dite ovu anketu",
+    "link_poll": "Pove\u017eite se na ovu anketu",
+    "made_with": "Napravljeno sa",
+    "share_poll": "Podelite ovu anketu"
+  },
+  "question": {
+    "by_categories": "prema regionu, uzrastu & polu",
+    "see_the_breakdown": "POGLEDAJTE KLASIFIKACIJU",
+    "vote_now": "glasajte sada",
+    "num_votes": {
+      "0": "Nema glasova",
+      "one": "1 glas",
+      "few": "%{count} votes",
+      "other": "%{count} glasova"
+    }
+  },
+  "select_text": {
+    "keyboard": "Pritisnite %{key} da kopirate",
+    "default": "Kopirajte tekst"
+  },
+  "sharing": {
+    "caption": {
+      "pollcaster": "WWW.POLLCASTER.COM",
+      "boombox": "WWW.BOOMBOX.COM"
+    },
+    "boombox-caption": "WWW.BOOMBOX.COM",
+    "description": "%{option1} ili %{option2}",
+    "hashtags": "anketa",
+    "title": "Glasajte sada: %{title}",
+    "twitter-title": "Glasajte sada: %{title} %{option1} ili %{option2}",
+    "poll_description_options": "%{option1} ili %{option2}",
+    "poll_hashtags": "anketa",
+    "poll_title": "Glasajte sada: %{title}",
+    "poll_twitter_title_options": "Glasajte sada: %{title} %{option1} ili %{option2}"
+  },
+  "human_readable_numbers": {
+    "billion": "%{value}B",
+    "million": "%{value}M",
+    "thousand": "%{value}k",
+    "trillion": "%{value}T"
+  },
+  "browser_alert": {
+    "message": "Va\u0161 pretra\u017eiva\u010d nije podr\u017ean. Molimo koristite %{browser : supported browser}"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "embed_text": {
+    "having_trouble": "嵌入有问题？",
+    "try_alternate": "试试这个代码",
+    "try_preferred": "回到“推荐嵌入代码”页面"
+  },
+  "logo": {
+    "made_with": "由该程序制作:"
+  },
+  "offer": {
+    "skip": "跳过",
+    "submit": "提交"
+  },
+  "results": {
+    "bracket_count": {
+      "other": "%{smart_count} 人"
+    },
+    "bracket_range": "%{lower}-%{upper}%",
+    "bracket_title": "段位",
+    "grade_count": "%{score}/%{count}",
+    "recommended": "其他超棒的测试",
+    "retake": "重新答题",
+    "scored_percentage": "得分 %{percentage}%",
+    "scroll_down": "下拉查看你的测试结果",
+    "share_your_result": "分享你的测试结果",
+    "your_result_graded": "测试结果：得分 %{percentage}%",
+    "your_result_outcome": "测试结果：%{outcome}",
+    "lead_see_result": "请填写以下表格，以查看你的测试结果"
+  },
+  "social": {
+    "branded_caption": "使用 Qzzr 制作 —— 亲手打造专属于你的小测试",
+    "branded_graded_result_match": "我在 Qzzr \"%{quiz_title}\" 中的得分是 %{score}%！你能超越我吗？",
+    "branded_outcome_result": "我在 Qzzr \"%{quiz_title}\" 的得分是 \"%{outcome_title}\"！你会是多少呢？",
+    "caption": "使用 Qzzr 制作",
+    "description": "用 Qzzr 免费打造自己专属的小测试吧！全世界最简单的测试制作工具！",
+    "email": "邮件",
+    "embed": "嵌入页面",
+    "embed-default": "默认",
+    "facebook": "分享",
+    "gplus": "分享",
+    "graded_result_match": "我在 \"%{quiz_title}\" 中的得分是 %{score}% 呢，你能超越我吗？",
+    "hashtag": "小测试",
+    "link": "链接",
+    "linkedin": "分享",
+    "outcome_result": "我在 \"%{quiz_title}\" 中的测试结果是 \"%{outcome_title}\" 哦， 你会是什么呢？",
+    "pinterest": "Pin it",
+    "quiz": "来测试一下 \"%{quiz_title}\" 吧",
+    "reddit": "分享",
+    "share_quiz": "分享本测试",
+    "tumblr": "分享",
+    "twitter": "推特",
+    "wordpress": "博客系统",
+    "wordpress_link": "博客系统 （与我们的 %{link} 一同使用）",
+    "wordpress_link_label": "插件"
+  },
+  "take": {
+    "click_to_advance": "点击任意地方继续",
+    "correct": "正确",
+    "correct-feedback": "正确：%{feedback}",
+    "done": "提交",
+    "incorrect": "不正确",
+    "incorrect-feedback": "不正确：%{feedback}",
+    "make_quiz": "想要免费制作属于你自己的测试？",
+    "make_quiz_label": "来 qzzr 看看吧",
+    "make_quiz_label_boombox": "来 Boombox 看看吧",
+    "multiple_select": "请选择所有匹配项： ",
+    "next_question": "接下来的问题",
+    "question_count": {
+      "other": "%{smart_count} 道题"
+    },
+    "start": "开始",
+    "tap_to_advance": "点击任意地方继续",
+    "times_taken": {
+      "other": "已被完成 %{smart_count} 次"
+    }
+  }
+}

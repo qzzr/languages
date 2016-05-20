@@ -1,0 +1,80 @@
+{
+  "embed_text": {
+    "having_trouble": "Probleme beim Einbetten?",
+    "try_alternate": "Probier diesen Code",
+    "try_preferred": "Zurück zum empfohlenen eingebetteten Code"
+  },
+  "logo": {
+    "made_with": "Gemacht mit"
+  },
+  "offer": {
+    "skip": "Übergehen",
+    "submit": "Absenden"
+  },
+  "results": {
+    "bracket_count": {
+      "one": "%{smart_count} Person",
+      "other": "%{smart_count} Personen"
+    },
+    "bracket_range": "%{lower}-%{upper}%",
+    "bracket_title": "Bereiche",
+    "grade_count": "%{score}/%{count}",
+    "recommended": "Andere tolle Quizze",
+    "retake": "Wiederholen",
+    "scored_percentage": "%{percentage}% erreicht",
+    "scroll_down": "Runterscrollen für dein Ergebnis",
+    "share_your_result": "Teile dein Ergebnis",
+    "your_result_graded": "Ergebnis: %{percentage}% erreicht",
+    "your_result_outcome": "Resultat: %{outcome}",
+    "lead_see_result": "Füll das Formular unten aus, um dein Ergebnis zu sehen."
+  },
+  "social": {
+    "branded_caption": "Mit Qzzr gemacht - Quizze für dich von dir",
+    "branded_graded_result_match": "Ich habe %{score}% bei \"%{quiz_title}\" auf Qzzr erreicht! Schaffst du das auch?",
+    "branded_outcome_result": "Ich wurde \"%{outcome_title}\" bei \"%{quiz_title}\" auf Qzzr! Wie steht's mit dir?",
+    "caption": "Mit Qzzr gemacht",
+    "description": "Erstelle kostenlos deine eigenen Quizze auf Qzzr, dem einfachsten Quiz-Tool der Welt.",
+    "email": "E-Mail",
+    "embed": "Auf Seite einbetten",
+    "embed-default": "Voreingestellt",
+    "facebook": "Teilen",
+    "gplus": "Teilen",
+    "graded_result_match": "Ich habe %{score}% bei \"%{quiz_title}\" erreicht. Schaffst du das auch?",
+    "hashtag": "Quizze",
+    "link": "Link",
+    "linkedin": "Teilen",
+    "outcome_result": "Ich wurde \"%{outcome_title}\" bei \"%{quiz_title}\". Wie steht's mit dir?",
+    "pinterest": "Pin it",
+    "quiz": "Sieh dir \"%{quiz_title}\" an",
+    "reddit": "Teilen",
+    "share_quiz": "Teile dieses Quiz",
+    "tumblr": "Teilen",
+    "twitter": "Twittern",
+    "wordpress": "WordPress",
+    "wordpress_link": "WordPress (zur Nutzung mit unserem %{link})",
+    "wordpress_link_label": "Plugin"
+  },
+  "take": {
+    "click_to_advance": "Klicke irgendwo, um fortzusetzen.",
+    "correct": "Richtig",
+    "correct-feedback": "Richtig: %{feedback}",
+    "done": "Absenden",
+    "incorrect": "Falsch",
+    "incorrect-feedback": "Falsch: %{feedback}",
+    "make_quiz": "Möchtest du kostenlos dein eigenes Quiz erstellen?",
+    "make_quiz_label": "Sieh dir Qzzr an",
+    "make_quiz_label_boombox": "Sieh dir Boombox an",
+    "multiple_select": "Wähle alle, die zutreffen: ",
+    "next_question": "Nächste Frage",
+    "question_count": {
+      "one": "%{smart_count} Frage",
+      "other": "%{smart_count} Fragen"
+    },
+    "start": "Start",
+    "tap_to_advance": "Tippe irgendwo, um fortzusetzen",
+    "times_taken": {
+      "one": "%{smart_count} Mal beantwortet",
+      "other": "%{smart_count} Mal beantwortet"
+    }
+  }
+}

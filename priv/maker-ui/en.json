@@ -34,41 +34,78 @@
     "create": "Add Outcome"
   },
   "create_dropdown": {
+    "button_tooltip": {
+      "default": "Create something great",
+      "qzzr": "Create your first quiz"
+    },
     "bulleted_list_label": "Unranked list",
     "bulleted_list_sublabel": "ex. Top vacation spots",
     "checkbox_quiz_label": "Checklist quiz",
-    "checkbox_quiz_sublabel": "e.g. How New Yorker are you?",
+    "checkbox_quiz_sublabel": "ex. How New Yorker are you?",
     "graded_quiz_label": "Graded quiz",
-    "graded_quiz_sublabel": "e.g. Where is this place?",
+    "graded_quiz_sublabel": "ex. Where is this place?",
     "list_label": "List",
     "list_label_coming_soon": "List (coming soon)",
-    "list_sublabel": "e.g. Top 13 Wigs from The Americans",
+    "list_sublabel": "ex. Top 13 Wigs from The Americans",
     "multi_poll_label": "Multi option poll",
-    "multi_poll_sublabel": "e.g. John, Paul, Ringo, or George?",
+    "multi_poll_sublabel": "ex. John, Paul, Ringo, or George?",
     "numbered_list_label": "Ranked list",
     "numbered_list_sublabel": "ex. Top 10 films of the decade",
+    "onboarding_outcome_quiz_label": "Create an outcome quiz",
+    "onboarding_outcome_quiz_sublabel": "ex. Which character from Full House Are you?",
+    "onboarding_outcome_quiz_sublabel_header": "Assess personality",
+    "onboarding_graded_quiz_label": "Create a graded quiz",
+    "onboarding_graded_quiz_sublabel": "ex. The World’s Hardest Harry Potter Quiz",
+    "onboarding_graded_quiz_sublabel_header": "Test knowledge",
     "outcome_quiz_label": "Outcome quiz",
-    "outcome_quiz_sublabel": "e.g. Which color are you?",
+    "outcome_quiz_sublabel": "ex. Which color are you?",
     "this_that_poll_label": "This or that poll",
-    "this_that_poll_sublabel": "e.g. Superman or Batman",
+    "this_that_poll_sublabel": "ex. Superman or Batman",
     "toolbar_create": "Create",
     "toolbar_create_poll": "Poll",
-    "toolbar_create_quiz": "Quiz"
+    "toolbar_create_quiz": "Quiz",
+    "unlock_polls_label": "Unlock polls",
+    "unlock_quizzes_label": "Unlock quizzes",
+    "upgrade_boombox_label": "Upgrade to Boombox"
   },
   "organization": {
     "back": "Back",
     "cancel": "Cancel",
+    "change_role": "Change Role",
     "change_roles_ad_label": "Lock down access & change roles in your organization",
+    "changing_role_admin_to_contributor": "Changing your role to a Collaborator will make it so you can't change others' roles.",
+    "changing_role_owner_to_admin": "Changing your role to an Admin will make it so you can’t see billing info.",
+    "changing_role_owner_to_contributor": "Changing your role to a Collaborator will make it so you can’t see billing info, or change others' roles.",
     "close": "Close",
     "confirm_role_change": "Are you sure you want to change your role?",
     "done": "Done",
-    "change_role": "Change Role",
-    "changing_role_owner_to_admin": "Changing your role to an Admin will make it so you can’t see billing info.",
-    "changing_role_owner_to_contributor": "Changing your role to a Collaborator will make it so you can’t see billing info, invite others, or change their roles.",
-    "changing_role_admin_to_contributor": "Changing your role to a Collaborator will make it so you can't invite others, or change their roles.",
     "invalid_email": "Invalid email",
+    "invite_as_label": "Invite as %{role}",
+    "invite_changes_saved": "Changes saved",
     "invite_collaborators": "Invite collaborators",
+    "invite_email_placeholder": "name@email.com",
+    "invite_email_press_enter": "Press enter to invite",
+    "invite_error_invalid_email": "Invalid email",
+    "invite_heading": "Invite people to %{place}",
+    "invite_members_heading": "Shared with",
     "invite_placeholder": "name@example.com",
+    "invite_role_admin": "Admin",
+    "invite_role_contributor": "Collaborator",
+    "invite_role_feature_add_collaborators": "Add collaborators",
+    "invite_role_feature_add_remove": "Add/remove owners, admins, & collaborators",
+    "invite_role_feature_collaborate": "Collaborate on content",
+    "invite_role_feature_edit_billing": "Edit plan & billing info",
+    "invite_role_feature_edit_hub_details": "Edit this Hub's details",
+    "invite_role_feature_edit_hubs_within": "Edit any Hubs within this Hub",
+    "invite_role_feature_edit_org_details": "Edit this Organization's details",
+    "invite_role_feature_everything_admins": "Do everything admins can do",
+    "invite_role_feature_everything_collaborators": "Do everything collaborators can do",
+    "invite_role_feature_remove": "Remove admins & collaborators",
+    "invite_role_heading_admins": "Admins can",
+    "invite_role_heading_collaborators": "Collaborators can",
+    "invite_role_heading_owners": "Owners can",
+    "invite_role_owner": "Owner",
+    "invite_via_email": "Invite via email",
     "lose_access": "You will lose access to all organization content.",
     "press_enter": "Press enter to send",
     "remove": "Remove",
@@ -95,10 +132,13 @@
       "qzzr": "Create quizzes and polls in one place and collaborate with your team.",
       "boombox": "Upgrade to reduce Boombox branding, generate leads, use integrations, boost your content, export data & more"
     },
+    "side_organization_label": "Your organization",
     "cancel": "Cancel",
     "clear_search": "Clear Search",
     "create": "Create",
     "create_first": "Create your first poll. It's fast and easy.",
+    "create_org_billing_modal_heading": "Creating your organization will move all your billing information to your organization.",
+    "create_org_billing_modal_description": "Owners on your organization will be able to view, and edit this information. %{first_owner : You will be made the first owner of the organization.}",
     "create_org_text_1": "Creating your organization will move all your billing information to your organization.",
     "create_org_text_2": "Owners on your organization will be able to view, and edit this information.",
     "create_org_text_3": "You will be made the first owner of the organization.",
@@ -112,10 +152,11 @@
     "empty_search_suggestions_title": "Suggestions",
     "empty_search_suggestions_words": "Try different words.",
     "invalid_email": "Invalid email",
-    "invite_collaborators": "Invite collaborators",
-    "invite_email_placeholder": "name@email.com",
-    "invite_sent": "INVITE SENT",
     "leads_description": "Learn about some of the premium features that are available for Pro and Enterprise accounts.",
+    "link_dashboard": "Dashboard",
+    "link_learning_center": "Learning center",
+    "link_upgrade": "Upgrade",
+    "link_upgrade_qzzr_pro": "Upgrade to Qzzr Pro",
     "no_results": "Your search returned no results",
     "press_enter": "Press enter to send",
     "published": "Published",
@@ -125,11 +166,34 @@
     "remove_person_confirm": "Are you sure you want to remove this person? They will lose access to all organizational content.",
     "resend_invite": "RESEND INVITE",
     "search": "SEARCH",
+    "side_ads_btn_learn_more": "Learn more",
+    "side_ads_bullet_advanced_customization": "Advanced customization",
+    "side_ads_bullet_email_leads": "Collect email leads",
+    "side_ads_bullet_facebook_likes": "Get Facebook page likes",
+    "side_ads_bullet_content_types": "Quizzes, lists, polls",
+    "side_ads_bullet_reduce_qzzr_branding": "Reduce Qzzr branding",
+    "side_ads_bullet_targeted_offers": "Present targeted offers",
+    "side_ads_bullet_team_collaboration": "Team collaboration",
+    "side_ads_bullet_white_label": "Complete white label",
+    "side_ads_heading_full_platform": "The full interactive platform",
+    "side_ads_heading_upgrade_qzzr_pro": "Upgrade to Pro",
+    "side_ads_heading_kick_it": "Kick it up a notch",
+    "side_ads_subheading": {
+      "pollcaster": "Create polls and quizzes in one place and collaborate with your team.",
+      "qzzr": "Create quizzes and polls in one place and collaborate with your team.",
+      "boombox": "Upgrade to reduce Boombox branding, generate leads, use integrations, boost your content, export data & more"
+    },
+    "side_filter_by_account": "Created by you",
+    "side_invite_members": "Invite",
     "side_link_create_organization": "Create an organization",
     "side_link_organizations_allow": "Collaborate with multiple people on the same interactive content",
     "side_links_list": "List",
     "side_links_poll": "Poll",
     "side_links_quiz": "Quiz",
+    "side_members_count": {
+      "one": "%{member_count} person",
+      "other": "%{member_count} people"
+    },
     "tips_description": "Get tips and strategies to help you make quizzes like the experts at BuzzFeed.",
     "tips_for_creating_poll": "Tips for creating polls",
     "tips_for_creating_quiz": "Tips for creating quizzes",
@@ -161,11 +225,75 @@
       "qzzr": "Welcome to Qzzr."
     },
     "zero_state_sub_header": {
-      "boombox": "Create a quiz or a poll. It's fast and easy.",
+      "boombox": "Create a quiz, poll, or list. It's fast and easy.",
       "enterprise": "Create a quiz or a poll. It's fast and easy.",
       "pollcaster": "Create your first poll. It's fast and easy.",
       "qzzr": "Create your first quiz. It's fast and easy."
-    }
+    },
+    "zero_state_welcome_header": {
+      "boombox": "Welcome to Boombox",
+      "pollcaster": "Welcome to Pollcaster",
+      "qzzr": "Welcome to Qzzr"
+    },
+    "zero_state_welcome_description": {
+      "boombox": "Take a tour in this six-minute video to discover everything you can do with your new account, or start your first quiz, poll, or list with the %{icon} in the lower right corner.",
+      "qzzr": "Take a tour in this six-minute video to discover everything you can do with your new account, or start your first quiz with the %{icon} in the lower right corner.",
+      "pollcaster": "Take a tour in this six-minute video to discover everything you can do with your new account, or start your first poll with the %{icon} in the lower right corner."
+    },
+    "zero_state_drafts_title": "Drafts",
+    "zero_state_drafts_example_1": {
+      "boombox": "ex. How well do you ACTUALLY know ___?",
+      "qzzr": "ex. How well do you ACTUALLY know ___?",
+      "pollcaster": "ex. Twizzlers or Red Vines?"
+    },
+    "zero_state_drafts_example_2": {
+      "boombox": "ex. The top 10 ___",
+      "qzzr": "ex. Which ___ are you?",
+      "pollcaster": "ex. Which team is going to win the championship?"
+    },
+    "zero_state_published_title": "Published",
+    "zero_state_published_example_1": {
+      "boombox": "ex. Which character from ___ are you?",
+      "qzzr": "ex. Which character from ___ are you?",
+      "pollcaster": "ex. Paul, John, George, or Ringo?"
+    },
+    "zero_state_published_example_2": {
+      "boombox": "ex. Taylor or Kanye?",
+      "qzzr": "ex. The Ultimate ___ Quiz",
+      "pollcaster": "ex. Taylor or Kanye?"
+    },
+    "zero_state_published_example_3": {
+      "boombox": "ex. The worst movies of the decade",
+      "qzzr": "ex. The Hardest ___ Quiz",
+      "pollcaster": "ex. Which is better: beats or bears?"
+    },
+    "zero_state_published_example_4": {
+      "boombox": "ex. Where should you go on vacation?",
+      "qzzr": "ex. Where should you go on vacation?",
+      "pollcaster": "ex. What's your favorite ___?"
+    },
+    "zero_state_published_example_5": {
+      "boombox": "ex. The world's hardest ___ quiz",
+      "qzzr": "ex. Which character from ___ are you?",
+      "pollcaster": "ex. Who should win the Emmy?"
+    },
+    "zero_state_published_example_6": {
+      "boombox": "ex. Can you name this ___?",
+      "qzzr": "ex. Can you name this ___?",
+      "pollcaster": "ex. What's the best vacation spot?"
+    },
+    "zero_state_published_example_7": {
+      "boombox": "ex. Who was the best dressed?",
+      "qzzr": "ex. Which TV show should you watch?",
+      "pollcaster": "ex. Who was the best dressed?"
+    },
+    "zero_state_published_example_8": {
+      "boombox": "ex. Batman or Superman?",
+      "qzzr": "ex. 11 questions everyone should be able to answer",
+      "pollcaster": "ex. What's the most overrated?"
+    },
+    "zero_state_quiz_tour": "Quiz Tour",
+    "zero_state_poll_tour": "Poll Tour"
   },
   "edit_button": {
     "edit": "Edit"
@@ -186,9 +314,12 @@
     "delete_item": "Delete",
     "duplicate": "Duplicate",
     "edit": "Edit",
+    "move": "Move",
+    "options": "Options",
     "stats": "Stats",
     "unpublished_changes": "Unpublished changes",
-    "untitled": "Untitled"
+    "untitled": "Untitled",
+    "view_stats": "View stats"
   },
   "maker": {
     "appearance_accent_color": "Accent color",
@@ -216,6 +347,7 @@
     "settings_tweet_via_label": "Tweet via",
     "settings_tweet_via_placeholder": "@yourtwitterhandle",
     "side_nav_appearance": "Appearance",
+    "side_nav_mix": "Mix",
     "side_nav_offers": "Offers (coming soon)",
     "side_nav_settings": "Settings",
     "side_nav_sharing": "Sharing",
@@ -228,8 +360,10 @@
     "visible_by": "Visible by %{name}"
   },
   "map": {
-    "your_selection": "Your selection",
-    "other": "Other option"
+    "all_others": "All others",
+    "other": "Other",
+    "unlabeled_option": "Unlabeled option",
+    "your_selection": "Your selection"
   },
   "next_step": {
     "next_step": "Next Step",
@@ -256,6 +390,54 @@
     "unpublished_changes": "Unpublished changes",
     "untitled": "Untitled",
     "updated": "Poll updated"
+  },
+  "poll_question_options_add_media": {
+    "add_media_label": "Add media",
+    "drop_media": "Drop media to upload",
+    "field_placeholder_paste_link": "Paste your link",
+    "field_press_enter": "Press enter to add",
+    "processing_image": "Processing",
+    "search_input_placeholder": "Type in what you're looking for",
+    "search_input_press_enter": "Press enter to search",
+    "search_media_results_end": "There are no more results for \"%{search}\".",
+    "search_media_results_none": "There are no results for \"%{search}\".",
+    "search_media_results_none_help": "Try being less specific, or %{action}.",
+    "search_media_results_none_help_action": "resetting your search",
+    "search_media_results_searching": "Searching...",
+    "search_meta_attribution_warning": "Usable without attribution",
+    "search_meta_size": "Size: %{size}",
+    "search_meta_source": "Source: %{source}",
+    "search_preview_label": "Preview",
+    "search_select_image": "Select an image to preview what it’ll look like",
+    "search_use_image": "Use this image",
+    "select_media_device": "Upload",
+    "select_media_link": "From link",
+    "select_media_search": "Search",
+    "uploading_image": "Uploading: %{progress}%"
+  },
+  "poll_settings_add_media": {
+    "add_media_label": "Add media",
+    "drop_media": "Drop media to upload",
+    "field_placeholder_paste_link": "Paste your link",
+    "field_press_enter": "Press enter to add",
+    "processing_image": "Processing",
+    "search_input_placeholder": "Type in what you're looking for",
+    "search_input_press_enter": "Press enter to search",
+    "search_media_results_end": "There are no more results for \"%{search}\".",
+    "search_media_results_none": "There are no results for \"%{search}\".",
+    "search_media_results_none_help": "Try being less specific, or %{action}.",
+    "search_media_results_none_help_action": "resetting your search",
+    "search_media_results_searching": "Searching...",
+    "search_meta_attribution_warning": "Usable without attribution",
+    "search_meta_size": "Size: %{size}",
+    "search_meta_source": "Source: %{source}",
+    "search_preview_label": "Preview",
+    "search_select_image": "Select an image to preview what it’ll look like",
+    "search_use_image": "Use this image",
+    "select_media_device": "Upload",
+    "select_media_link": "From link",
+    "select_media_search": "Search",
+    "uploading_image": "Uploading: %{progress}%"
   },
   "type_selector": {
     "aspect_ratio": "aspect ratio",
@@ -290,6 +472,15 @@
     "refresh": "Refresh",
     "embed_preview": "Embed preview"
   },
+  "social": {
+    "__comment__": "this block mirrors qzzr-api translations for overview page",
+    "boombox-caption": "Made with Boombox",
+    "boombox-description": "Make your own quizzes and other interactive content for free on Boombox.",
+    "caption": "Made with Qzzr",
+    "description": "Make your own quizzes for free on Qzzr, the world's simplest quiz tool.",
+    "hashtag": "quizzes",
+    "quiz": "Check out \"%{quiz_title}\""
+  },
   "sharing": {
     "caption": {
       "pollcaster": "WWW.POLLCASTER.COM",
@@ -320,7 +511,7 @@
     "title_placeholder": "Quiz title",
     "description_placeholder": "Description (optional)",
     "define_outcomes": "Define outcomes (optional)",
-    "outcomes_example": "e.g. You're a genius (95-100)"
+    "outcomes_example": "ex. You're a genius (95-100)"
   },
   "quizzes_question": {
     "select_many_label": "Select many",
@@ -329,9 +520,9 @@
   },
   "quizzes_outcome": {
     "title": "Outcome title",
-    "title_placeholder": "e.g. Indiana Jones",
+    "title_placeholder": "ex. Indiana Jones",
     "description": "Description (optional)",
-    "description_placeholder": "e.g. You enjoy being awesome..."
+    "description_placeholder": "ex. You enjoy being awesome..."
   },
   "human_readable_numbers": {
     "trillion" : "T",
@@ -350,17 +541,26 @@
     "export_responses_label": "Export responses",
     "export_success": "We'll email you a CSV file shortly",
     "export_fail": "An error exporting your data occurred, please try again later",
-    "lead_conversions": "Lead conversions",
+    "lead_conversions": "Form responses",
+    "lead_conversion_rate": "Form conversion rate",
+    "!form_conversions": "__ lead_conversions __",
     "form_conversions": "Form conversions",
     "no_title": "No title found",
-    "offer_conversions": "Offer conversions",
+    "offer_conversions": "Link conversions",
+    "offer_conversion_rate": "Link conversion rate",
+    "offer_conversions_tooltip": "Number of times a person clicked through the custom link at the end of the quiz.",
+    "lead_conversions": "Lead conversions",
+    "lead_conversions_tooltip": "Number of times the form at the end of the quiz was filled in and submitted.",
+    "!link_conversions": "__ offer_conversions __",
     "link_conversions": "Link conversions",
     "outcomes": "Outcomes",
     "times_taken": "Times taken",
     "upgrade_export_responses": "Upgrade to export responses",
     "times_taken_tooltip": "Number of people who have started the quiz.",
     "avg_time_spent_tooltip": "Average amount of time people who completed the quiz have spent, from start to completion. The nature of averages can be skewed by outliers.",
+    "!form_conversions_tootip": "__ lead_conversions_tooltip __",
     "form_conversions_tootip": "Number of times the form at the end of the quiz was filled in and submitted.",
+    "!link_conversions_tooltip": "__ offer_conversions_tooltip __",
     "link_conversions_tooltip": "Number of times a person clicked through the custom link at the end of the quiz.",
     "facebook_likes_tooltip": "Number of people who liked your Facebook page at the end of the quiz.",
     "completion_rates_tooltip": "Percentage of people who started and then completed the quiz.",
@@ -417,9 +617,33 @@
     "reader_list_show": "Readers' Choice"
   },
   "lists_cover": {
-    "media_optional": "Add cover media (optional)",
+    "media_optional": "Add list media (optional)",
     "description_placeholder": "List description",
     "title_placeholder": "List title"
+  },
+  "lists_cover_add_media": {
+    "add_media_label": "Add cover media",
+    "drop_media": "Drop media to upload",
+    "field_placeholder_paste_link": "Paste your link",
+    "field_press_enter": "Press enter to add",
+    "processing_image": "Processing",
+    "search_input_placeholder": "Type in what you're looking for",
+    "search_input_press_enter": "Press enter to search",
+    "search_media_results_end": "There are no more results for \"%{search}\".",
+    "search_media_results_none": "There are no results for \"%{search}\".",
+    "search_media_results_none_help": "Try being less specific, or %{action}.",
+    "search_media_results_none_help_action": "resetting your search",
+    "search_media_results_searching": "Searching...",
+    "search_meta_attribution_warning": "Usable without attribution",
+    "search_meta_size": "Size: %{size}",
+    "search_meta_source": "Source: %{source}",
+    "search_preview_label": "Preview",
+    "search_select_image": "Select an image to preview what it’ll look like",
+    "search_use_image": "Use this image",
+    "select_media_device": "Upload",
+    "select_media_link": "From link",
+    "select_media_search": "Search",
+    "uploading_image": "Uploading: %{progress}%"
   },
   "lists_items": {
     "delete_confirm": "Are you sure you want to delete this item?",
@@ -431,6 +655,30 @@
     "title_placeholder": "Heading",
     "untitled": "Untitled"
   },
+  "list_items_add_media": {
+    "add_media_label": "Add list media",
+    "drop_media": "Drop media to upload",
+    "field_placeholder_paste_link": "Paste your link",
+    "field_press_enter": "Press enter to add",
+    "processing_image": "Processing",
+    "search_input_placeholder": "Type in what you're looking for",
+    "search_input_press_enter": "Press enter to search",
+    "search_media_results_end": "There are no more results for \"%{search}\".",
+    "search_media_results_none": "There are no results for \"%{search}\".",
+    "search_media_results_none_help": "Try being less specific, or %{action}.",
+    "search_media_results_none_help_action": "resetting your search",
+    "search_media_results_searching": "Searching...",
+    "search_meta_attribution_warning": "Usable without attribution",
+    "search_meta_size": "Size: %{size}",
+    "search_meta_source": "Source: %{source}",
+    "search_preview_label": "Preview",
+    "search_select_image": "Select an image to preview what it’ll look like",
+    "search_use_image": "Use this image",
+    "select_media_device": "Upload",
+    "select_media_link": "From link",
+    "select_media_search": "Search",
+    "uploading_image": "Uploading: %{progress}%"
+  },
   "lists_media_uploader": {
     "cancel": "Cancel",
     "different_url": "Try a different url.",
@@ -440,6 +688,14 @@
     "not_supported_media": "%{url} isn't a supported media source.",
     "paste_embed": "Paste web address",
     "press_enter": "Press enter to add"
+  },
+  "lists_mix": {
+    "ad_upgrade_action": "Upgrade",
+    "coming_soon": "Coming soon",
+    "displays_mix_label": "Include your content mix at the end of the list",
+    "displays_mix_tooltip": "Have other lists you'd like to show off? Your mix lets you handpick your best content, and recommend it at the end of your list.",
+    "is_featured_label": "Boost this list in others' mixes",
+    "is_mixed_label": "Include this list in your mix"
   },
   "lists_sharing": {
     "cover_image_default": "Your cover image is used by default",
@@ -456,6 +712,75 @@
     "twitter_username_label": "Twitter username",
     "twitter_username_placeholder": "ex. @YourCompany"
   },
+  "lists_sharing_add_media": {
+    "add_media_label": "Add media",
+    "drop_media": "Drop media to upload",
+    "field_placeholder_paste_link": "Paste your link",
+    "field_press_enter": "Press enter to add",
+    "processing_image": "Processing",
+    "search_input_placeholder": "Type in what you're looking for",
+    "search_input_press_enter": "Press enter to search",
+    "search_media_results_end": "There are no more results for \"%{search}\".",
+    "search_media_results_none": "There are no results for \"%{search}\".",
+    "search_media_results_none_help": "Try being less specific, or %{action}.",
+    "search_media_results_none_help_action": "resetting your search",
+    "search_media_results_searching": "Searching...",
+    "search_meta_attribution_warning": "Usable without attribution",
+    "search_meta_size": "Size: %{size}",
+    "search_meta_source": "Source: %{source}",
+    "search_preview_label": "Preview",
+    "search_select_image": "Select an image to preview what it’ll look like",
+    "search_use_image": "Use this image",
+    "select_media_device": "Upload",
+    "select_media_link": "From link",
+    "select_media_search": "Search",
+    "uploading_image": "Uploading: %{progress}%"
+  },
+  "polls_mix": {
+    "coming_soon": "Coming soon",
+    "displays_mix_label": "Include your content mix after voting",
+    "displays_mix_tooltip": "Have other polls you'd like to show off? Your mix lets you to handpick your best content, and recommend it at the end of your poll.",
+    "is_featured_label": "Include this poll in your mix",
+    "is_mixed_label": "Boost this poll in others' mixes"
+  },
+  "polls_sharing": {
+    "danger": "Danger. ",
+    "danger_description": "Read this before using share redirect URL",
+    "meta_tags_label": "Use your site's sharing meta tags",
+    "optional": " (optional)",
+    "redirect_url_label": "Share redirect URL",
+    "redirect_url_placeholder": "Use the full URL where your list is embeded",
+    "redirect_url_tooltip": "Shares are automatically redirected back to where we detect your content is embedded.",
+    "share_image": "Share Image",
+    "twitter_hashtags_label": "Twitter hashtags",
+    "twitter_hashtags_placeholder": "ex. #list",
+    "twitter_username_label": "Twitter username",
+    "twitter_username_placeholder": "ex. @YourCompany"
+  },
+  "polls_sharing_add_media": {
+    "add_media_label": "Add media",
+    "drop_media": "Drop media to upload",
+    "field_placeholder_paste_link": "Paste your link",
+    "field_press_enter": "Press enter to add",
+    "processing_image": "Processing",
+    "search_input_placeholder": "Type in what you're looking for",
+    "search_input_press_enter": "Press enter to search",
+    "search_media_results_end": "There are no more results for \"%{search}\".",
+    "search_media_results_none": "There are no results for \"%{search}\".",
+    "search_media_results_none_help": "Try being less specific, or %{action}.",
+    "search_media_results_none_help_action": "resetting your search",
+    "search_media_results_searching": "Searching...",
+    "search_meta_attribution_warning": "Usable without attribution",
+    "search_meta_size": "Size: %{size}",
+    "search_meta_source": "Source: %{source}",
+    "search_preview_label": "Preview",
+    "search_select_image": "Select an image to preview what it’ll look like",
+    "search_use_image": "Use this image",
+    "select_media_device": "Upload",
+    "select_media_link": "From link",
+    "select_media_search": "Search",
+    "uploading_image": "Uploading: %{progress}%"
+  },
   "browser_alert": {
     "item_text_invert": "Invert body text",
     "message": "Your browser is not supported. please use a %{browser : supported browser}",
@@ -463,4 +788,3 @@
     "reader_list_show": "Readers' Choice"
   }
 }
-

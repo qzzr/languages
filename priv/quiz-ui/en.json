@@ -1,0 +1,88 @@
+{
+  "embed_text": {
+    "having_trouble": "Having trouble?",
+    "try_alternate": "Try this code instead",
+    "try_preferred": "Go back to recommended code"
+  },
+  "logo": {
+    "made_with": "Made with"
+  },
+  "offer": {
+    "skip": "Skip",
+    "submit": "Submit"
+  },
+  "results": {
+    "bracket_count": {
+      "one": "%{smart_count} person",
+      "other": "%{smart_count} people"
+    },
+    "bracket_range": "%{lower}-%{upper}%",
+    "bracket_title": "How you compare to others",
+    "grade_count": "%{score}/%{count}",
+    "recommended": "Recommended for you",
+    "retake": "Retake",
+    "scored_percentage": "Scored %{percentage}%",
+    "scroll_down": "Scroll down for your result",
+    "share_your_result": "Share your result",
+    "your_result_graded": "Result: %{percentage}%",
+    "your_result_outcome": "Result: %{outcome}",
+    "lead_see_result": "Fill out the form below to see your result"
+  },
+  "social": {
+    "branded_caption": "Made with Qzzr",
+    "boombox_branded_caption": "Made with Boombox",
+    "branded_graded_result_match": "I scored %{score}% on \"%{quiz_title}\" on Qzzr. Can you match that?",
+    "boombox_branded_graded_result_match": "I scored %{score}% on \"%{quiz_title}\" on Boombox. Can you match that?",
+    "branded_outcome_result": "I got \"%{outcome_title}\" on \"%{quiz_title}\" on Qzzr. What about you?",
+    "boombox_branded_outcome_result": "I got \"%{outcome_title}\" on \"%{quiz_title}\" on Boombox. What about you?",
+    "caption": "Made with Qzzr",
+    "description": "Make your own quizzes for free on Qzzr, the world's simplest quiz tool.",
+    "boombox_description": "Make your own quizzes and other interactive content for free on Boombox.",
+    "email": "Email",
+    "embed": "Embed this quiz",
+    "embed-default": "Default",
+    "facebook": "Share",
+    "gplus": "Share",
+    "graded_result_match": "I scored %{score}% on \"%{quiz_title}\". Can you match that?",
+    "hashtag": "quizzes",
+    "link": "Link to this quiz",
+    "linkedin": "Share",
+    "outcome_result": "I got \"%{outcome_title}\" on \"%{quiz_title}\" What about you?",
+    "pinterest": "Pin it",
+    "quiz": "Check out \"%{quiz_title}\"",
+    "reddit": "Share",
+    "share_quiz": "Share this quiz",
+    "tumblr": "Share",
+    "twitter": "Tweet",
+    "wordpress": "WordPress",
+    "wordpress_link": "WordPress (for use with our %{link})",
+    "wordpress_link_label": "plugin"
+  },
+  "take": {
+    "browser_alert": "Your browser is not supported. please use a %{browser : supported browser}",
+    "click_to_advance": "Click anywhere to advance",
+    "correct": "Correct",
+    "correct-feedback": "Correct: %{feedback}",
+    "done": "Submit",
+    "incorrect": "Incorrect",
+    "incorrect-feedback": "Incorrect: %{feedback}",
+    "make_quiz": "Want to make your own quiz for free?",
+    "make_quiz_label": "Check out qzzr",
+    "make_quiz_label_boombox": "Check out Boombox",
+    "multiple_select": "Select all that apply: ",
+    "next_question": "Next question",
+    "not_found": "This quiz is no longer available.",
+    "not_found_mix_title": "Why not give one of these a go?",
+    "view_results": "View results",
+    "question_count": {
+      "one": "%{smart_count} question",
+      "other": "%{smart_count} questions"
+    },
+    "start": "Start",
+    "tap_to_advance": "Tap anywhere to advance",
+    "times_taken": {
+      "one": "Taken %{smart_count} time",
+      "other": "Taken %{smart_count} times"
+    }
+  }
+}

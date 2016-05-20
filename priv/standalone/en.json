@@ -9,6 +9,14 @@
     "privacy": "Privacy",
     "terms": "Terms"
   },
+  "account_dropdown": {
+    "edit_profile": "Edit settings",
+    "log_into_qzzr": "Log into Qzzr",
+    "log_into_pollcaster": "Log into Pollcaster",
+    "log_out": "Log out",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  },
   "sharing": {
     "caption": {
       "pollcaster": "WWW.POLLCASTER.COM",

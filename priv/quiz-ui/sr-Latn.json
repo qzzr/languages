@@ -1,0 +1,83 @@
+{
+  "embed_text": {
+    "having_trouble": "Problem pri ugradnji?",
+    "try_alternate": "Probaj ovaj kôd",
+    "try_preferred": "Vratite se na preporučeni kôd za ugradnju"
+  },
+  "logo": {
+    "made_with": "Napravljen sa"
+  },
+  "offer": {
+    "skip": "Preskoči",
+    "submit": "Prosledi"
+  },
+  "results": {
+    "bracket_count": {
+      "one": "%{smart_count} osoba",
+      "few": "%{smart_count} ljudi",
+      "other": "%{smart_count} ljudi"
+    },
+    "bracket_range": "%{lower}-%{upper}%",
+    "bracket_title": "Zagrade",
+    "grade_count": "%{score}/%{count}",
+    "recommended": "Drugi fantastični kvizovi",
+    "retake": "Ponovo igraj",
+    "scored_percentage": "Osvojeno %{percentage}%",
+    "scroll_down": "Померајте надоле за ваш резултат",
+    "share_your_result": "Delite svoj rezultat",
+    "your_result_graded": "Rezultat: Osvojeno %{percentage}%",
+    "your_result_outcome": "Rezultat: %{outcome}",
+    "lead_see_result": "Popunite formular ispod da vidite svoj rezultat"
+  },
+  "social": {
+    "branded_caption": "Napravljen sa Qzzr - Kvizovi za vas koje ste sami pravili",
+    "branded_graded_result_match": "Osvojio/la sam %{score}% na \"%{quiz_title}\" na Qzzr! Da li misliš da ti možeš bolje?",
+    "branded_outcome_result": "Osvojio/la sam „%{outcome_title}” na \"%{quiz_title}\" na Qzzr! A ti?",
+    "caption": "Napravljen sa Qzzr",
+    "description": "Napravite besplatno svoje kvizove na Qzzr, najjednostavnijoj alatki za pravljenje kvizova na svetu.",
+    "email": "E-pošta",
+    "embed": "Ugradi u stranicu",
+    "embed-default": "Podrazumevano",
+    "facebook": "Deli",
+    "gplus": "Deli",
+    "graded_result_match": "Osvojio/la sam %{score}% na „%{quiz_title}” Da li misliš da ti možeš bolje?",
+    "hashtag": "kvizovi",
+    "link": "Veza",
+    "linkedin": "Deli",
+    "outcome_result": "Osvojio/la sam \"%{outcome_title}\" na \"%{quiz_title}\" A ti?",
+    "pinterest": "Pin it",
+    "quiz": "Pogledaj „%{quiz_title}”",
+    "reddit": "Deli",
+    "share_quiz": "Deli ovaj kviz",
+    "tumblr": "Deli",
+    "twitter": "Tvit",
+    "wordpress": "WordPress",
+    "wordpress_link": "WordPress (za upotrebu sa našim %{link})",
+    "wordpress_link_label": "dodatna komp."
+  },
+  "take": {
+    "click_to_advance": "Pritisnite bilo gde da napredujete",
+    "correct": "Tačno",
+    "correct-feedback": "Tačno: %{feedback}",
+    "done": "Prosledi",
+    "incorrect": "Netačno",
+    "incorrect-feedback": "Netačno: %{feedback}",
+    "make_quiz": "Da li želite da sami besplatno napravite svoj kviz?",
+    "make_quiz_label": "Pogledajte qzzr",
+    "make_quiz_label_boombox": "Pogledajte Boombox",
+    "multiple_select": "Izaberite sve što odgovara: ",
+    "next_question": "Sledece pitanje",
+    "question_count": {
+      "one": "%{smart_count} pitanje",
+      "few": "%{smart_count} pitanja",
+      "other": "%{smart_count} pitanja"
+    },
+    "start": "Početak",
+    "tap_to_advance": "Dodirnite bilo gde za nastavak",
+    "times_taken": {
+      "one": "Rađen %{smart_count} puta",
+      "few": "Rađen %{smart_count} puta",
+      "other": "Rađen %{smart_count} puta"
+    }
+  }
+}

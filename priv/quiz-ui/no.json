@@ -1,0 +1,80 @@
+{
+  "embed_text": {
+    "having_trouble": "Problemer med integrering?",
+    "try_alternate": "Prøv denne koden",
+    "try_preferred": "Gå tilbake til den anbefalte integrerte koden"
+  },
+  "logo": {
+    "made_with": "Laget med"
+  },
+  "offer": {
+    "skip": "Hopp over",
+    "submit": "Send inn"
+  },
+  "results": {
+    "bracket_count": {
+      "one": "%{smart_count} person",
+      "other": "%{smart_count} folk"
+    },
+    "bracket_range": "%{lower}-%{upper}%",
+    "bracket_title": "Grupper",
+    "grade_count": "%{score}/%{count}",
+    "recommended": "Andre gode quizer",
+    "retake": "Ta på nytt",
+    "scored_percentage": "Fikk %{percentage}%",
+    "scroll_down": "Bla ned for resultatet ditt",
+    "share_your_result": "Del resultatet ditt",
+    "your_result_graded": "Resultat: Fikk %{percentage}%",
+    "your_result_outcome": "Resultat: %{outcome}",
+    "lead_see_result": "Fyll ut skjemaet nedenfor for å se resultatet ditt"
+  },
+  "social": {
+    "branded_caption": "Laget med Qzzr – quizer for deg, av deg",
+    "branded_graded_result_match": "Jeg fikk %{score}% på %{quiz_title} på Qzzr! Klarer du å slå det?",
+    "branded_outcome_result": "Jeg fikk %{outcome_title} på %{quiz_title} på Qzzr! Hva med deg?",
+    "caption": "Laget med Qzzr",
+    "description": "Lag dine egne quizer gratis på Qzzr – verdens enkleste quizverktøy.",
+    "email": "E-post",
+    "embed": "Integrer på siden",
+    "embed-default": "Standard",
+    "facebook": "Del",
+    "gplus": "Del",
+    "graded_result_match": "Jeg fikk %{score}% på %{quiz_title} – klarer du å slå det?",
+    "hashtag": "quizer",
+    "link": "Lenke",
+    "linkedin": "Del",
+    "outcome_result": "Jeg fikk %{outcome_title} på %{quiz_title} – klarer du bedre?",
+    "pinterest": "Pin it",
+    "quiz": "Sjekk %{quiz_title}",
+    "reddit": "Del",
+    "share_quiz": "Del quizen",
+    "tumblr": "Del",
+    "twitter": "Tvitre",
+    "wordpress": "WordPress",
+    "wordpress_link": "WordPress (for bruk med vår %{link})",
+    "wordpress_link_label": "programtillegg"
+  },
+  "take": {
+    "click_to_advance": "Klikk hvor som helst for å gå videre",
+    "correct": "Riktig",
+    "correct-feedback": "Riktig: %{feedback}",
+    "done": "Send inn",
+    "incorrect": "Feil",
+    "incorrect-feedback": "Feil: %{feedback}",
+    "make_quiz": "Har du lyst til å lage quizer gratis?",
+    "make_quiz_label": "Prøv Qzzr",
+    "make_quiz_label_boombox": "Prøv Boombox",
+    "multiple_select": "Velg alle som gjelder: ",
+    "next_question": "Neste spørsmål",
+    "question_count": {
+      "one": "%{smart_count} spørsmål",
+      "other": "%{smart_count} spørsmål"
+    },
+    "start": "Start",
+    "tap_to_advance": "Trykk hvor som helst for å gå videre",
+    "times_taken": {
+      "one": "Tatt %{smart_count} gang",
+      "other": "Tatt %{smart_count} ganger"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "embed_text": {
+    "having_trouble": "Har du problemer med at indlejre?",
+    "try_alternate": "Prøv denne kode",
+    "try_preferred": "Gå tilbage til den anbefalede indlejringskode"
+  },
+  "logo": {
+    "made_with": "Lavet med"
+  },
+  "offer": {
+    "skip": "Spring over",
+    "submit": "Indsend"
+  },
+  "results": {
+    "bracket_count": {
+      "one": "%{smart_count} person",
+      "other": "%{smart_count} personer"
+    },
+    "bracket_range": "%{lower}-%{upper}%",
+    "bracket_title": "Trin",
+    "grade_count": "%{score}/%{count}",
+    "recommended": "Andre fantastiske quizer",
+    "retake": "Tag igen",
+    "scored_percentage": "Har scoret %{percentage}%",
+    "scroll_down": "Rul ned for at se dit resultat",
+    "share_your_result": "Del dit resultat",
+    "your_result_graded": "Resultat: Har scoret %{percentage}%",
+    "your_result_outcome": "Resultat: %{outcome}",
+    "lead_see_result": "Udfyld formen herunder for at se dit resultat"
+  },
+  "social": {
+    "branded_caption": "Lavet med Qzzr - Quizer for dig, af dig",
+    "branded_graded_result_match": "Jeg har scoret %{score}% på \"%{quiz_title}\" på Qzzr! Kan du slå den?",
+    "branded_outcome_result": "Jeg blev \"%{outcome_title}\" på \"%{quiz_title}\" på Qzzr! Hvad med dig?",
+    "caption": "Lavet med Qzzr",
+    "description": "Lav dine egne quizer gratis på Qzzr, verdens enkleste quizredskab..",
+    "email": "E-mail",
+    "embed": "Indlejr på side",
+    "embed-default": "Default",
+    "facebook": "Del",
+    "gplus": "Del",
+    "graded_result_match": "Jeg har scoret %{score}% på \"%{quiz_title}\" Kan du slå den?",
+    "hashtag": "quizer",
+    "link": "Link",
+    "linkedin": "Del",
+    "outcome_result": "Jeg blev \"%{outcome_title}\" på \"%{quiz_title}\" Hvad med dig?",
+    "pinterest": "Pin it",
+    "quiz": "Tjek \"%{quiz_title}\"",
+    "reddit": "Del",
+    "share_quiz": "Del denne quiz",
+    "tumblr": "Del",
+    "twitter": "Tweet",
+    "wordpress": "WordPress",
+    "wordpress_link": "WordPress (til at bruge sammen med vores %{link})",
+    "wordpress_link_label": "plugin"
+  },
+  "take": {
+    "click_to_advance": "Klik hvorsomhelst for at fortsætte",
+    "correct": "Korrekt",
+    "correct-feedback": "Korrekt: %{feedback}",
+    "done": "Indsend",
+    "incorrect": "Forkert",
+    "incorrect-feedback": "Forkert: %{feedback}",
+    "make_quiz": "Vil du lave din egen quiz gratis?",
+    "make_quiz_label": "Prøv qzzr",
+    "make_quiz_label_boombox": "Prøv Boombox",
+    "multiple_select": "Vælg alle, der gælder: ",
+    "next_question": "Næste spørgsmål",
+    "question_count": {
+      "one": "%{smart_count} spørgsmål",
+      "other": "%{smart_count} spørgsmål"
+    },
+    "start": "Start",
+    "tap_to_advance": "Tryk hvorsomhelst for at fortsætte",
+    "times_taken": {
+      "one": "Taget %{smart_count} gang",
+      "other": "Taget %{smart_count} gange"
+    }
+  }
+}

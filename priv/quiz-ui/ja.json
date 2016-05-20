@@ -1,0 +1,75 @@
+{
+  "embed_text": {
+    "try_preferred": "推奨埋め込みコードに戻る"
+  },
+  "logo": {
+    "made_with": "以下で作成："
+  },
+  "offer": {
+    "skip": "スキップ",
+    "submit": "提出"
+  },
+  "results": {
+    "bracket_count": {
+      "other": "%{smart_count}人"
+    },
+    "bracket_range": "%{lower}-%{upper}%",
+    "bracket_title": "割合区分",
+    "grade_count": "%{score}/%{count}",
+    "recommended": "その他の楽しいクイズ",
+    "retake": "やり直す",
+    "scored_percentage": "得点：%{percentage}%",
+    "scroll_down": "スクロールダウンして結果を見る",
+    "share_your_result": "結果をシェア",
+    "your_result_graded": "結果：得点%{percentage}%",
+    "your_result_outcome": "結果：%{outcome}",
+    "lead_see_result": "下のフォームに記入して結果を見ましょう"
+  },
+  "social": {
+    "branded_caption": "Qzzrで作成 - ユーザーによるユーザーのためのクイズ",
+    "branded_graded_result_match": "Qzzrの「%{quiz_title}」で%{score}%を記録！それよりいいスコアが出せるかな？",
+    "branded_outcome_result": "Qzzrの「%{quiz_title}」で%{outcome_title}を獲得！皆さんはどうでしたか？",
+    "caption": "Qzzrで作成",
+    "description": "世界で一番シンプルなクイズツール「Qzzr」で自分だけのクイズを無料作成しましょう。",
+    "email": "Eメール",
+    "embed": "ページに埋め込む",
+    "embed-default": "デフォルト",
+    "facebook": "シェア",
+    "gplus": "シェア",
+    "graded_result_match": "「%{quiz_title}」で%{score}%を記録！それよりいいスコアが出せるかな？",
+    "hashtag": "クイズ",
+    "link": "リンク",
+    "linkedin": "シェア",
+    "outcome_result": "「%{quiz_title}」で%{outcome_title}を獲得！皆さんはどうでしたか？",
+    "pinterest": "ピン",
+    "quiz": "「%{quiz_title}」をチェック！",
+    "reddit": "シェア",
+    "share_quiz": "このクイズをシェア",
+    "tumblr": "シェア",
+    "twitter": "Tweet",
+    "wordpress": "WordPress",
+    "wordpress_link": "WordPress (%{link}と利用する場合)",
+    "wordpress_link_label": "プラグイン"
+  },
+  "take": {
+    "click_to_advance": "どこでもクリックして先に進む",
+    "correct": "正解",
+    "correct-feedback": "正解：%{feedback}",
+    "done": "提出",
+    "incorrect": "不正解",
+    "incorrect-feedback": "不正解：%{feedback}",
+    "make_quiz": "自分だけのクイズを無料で作成しますか？",
+    "make_quiz_label": "qzzrをチェック",
+    "make_quiz_label_boombox": "Boomboxをチェック",
+    "multiple_select": "当てはまるものを全て選んでください：",
+    "next_question": "次の質問",
+    "question_count": {
+      "other": "%{smart_count}問"
+    },
+    "start": "スタート",
+    "tap_to_advance": "どこでもタップして先に進む",
+    "times_taken": {
+      "other": "回答数：%{smart_count}回"
+    }
+  }
+}
