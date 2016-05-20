@@ -98,6 +98,7 @@
     "organization_heading": "Organization details",
     "invalid_email": "Invalid email",
     "invite_as_label": "Invite as %{role}",
+    "invite_changes_saved": "Changes saved",
     "invite_collaborators": "Invite collaborators",
     "invite_email_placeholder": "name@email.com",
     "invite_email_press_enter": "Press enter to invite",
