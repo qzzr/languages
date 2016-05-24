@@ -318,6 +318,7 @@
     "duplicate": "Duplicate",
     "edit": "Edit",
     "move": "Move",
+    "move_heading": "Move %{title}",
     "options": "Options",
     "stats": "Stats",
     "unpublished_changes": "Unpublished changes",
