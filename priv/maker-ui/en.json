@@ -153,6 +153,7 @@
     "empty_search_suggestions_spelling": "Make sure all words are spelled correctly.",
     "empty_search_suggestions_title": "Suggestions",
     "empty_search_suggestions_words": "Try different words.",
+    "hubs": "Hubs",
     "invalid_email": "Invalid email",
     "leads_description": "Learn about some of the premium features that are available for Pro and Enterprise accounts.",
     "link_dashboard": "Dashboard",
@@ -321,6 +322,7 @@
     "stats": "Stats",
     "unpublished_changes": "Unpublished changes",
     "untitled": "Untitled",
+    "untitled_hub": "Untitled hub",
     "view_stats": "View stats"
   },
   "maker": {
