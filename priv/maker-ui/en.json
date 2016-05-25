@@ -197,6 +197,8 @@
       "one": "%{member_count} person",
       "other": "%{member_count} people"
     },
+    "side_untitled_hub_label": "Untitled hub",
+    "side_untitled_org_label": "Untitled organization",
     "tips_description": "Get tips and strategies to help you make quizzes like the experts at BuzzFeed.",
     "tips_for_creating_poll": "Tips for creating polls",
     "tips_for_creating_quiz": "Tips for creating quizzes",
