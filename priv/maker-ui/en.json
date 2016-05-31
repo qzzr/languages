@@ -144,6 +144,7 @@
     "boombox_ad_text": "Create, share, re-purpose, and collaborate on all your content in one place.",
     "boombox_ad_text_pollcaster": "Create polls and quizzes in one place and collaborate with your team.",
     "boombox_ad_text_qzzr": "Create quizzes and polls in one place and collaborate with your team.",
+    "move_success": "%{content_name} moved to %{hub_name}",
     "side_link_create_hubs_subtitle": "Collaborate with others",
     "side_link_create_hubs_title": "Create a hub",
     "sidebar_ad_title": {
