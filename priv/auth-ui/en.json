@@ -307,5 +307,5 @@
   },
   "browser_alert": {
     "message": "Your browser is not supported. please use a %{browser : supported browser}"
-  },
+  }
 }

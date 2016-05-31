@@ -1002,5 +1002,5 @@
     "terms_of_service_2": "%{product}'s terms of service",
     "upgrade_plan": "Change plan to %{plan}",
     "view_org_roles": "View organization roles"
-  },
+  }
 }
