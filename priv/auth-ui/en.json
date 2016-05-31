@@ -67,6 +67,7 @@
     "qzzr_support": "Qzzr support"
   },
   "organization": {
+    "TODO": "remove this block when profile in editor",
     "billing_updated": "Billing information has been updated!",
     "billing_failed": "An error occured while updating your billing information",
     "admin_description": "Admins can add, and remove users from the organization, and create and edit content.",
@@ -147,6 +148,7 @@
     "upload_avatar": "UPLOAD AVATAR"
   },
   "profile": {
+    "TODO": "remove this block when profile in editor",
     "billing_failed": "An error occured while updating your billing information",
     "billing_updated": "Billing information has been updated!",
     "cancel": "Cancel",
@@ -189,6 +191,7 @@
     "title": "Enter your email, and we’ll send you an email on how to reset your password."
   },
   "settings": {
+    "TODO": "remove this block when profile in editor",
     "account_change_roles_ad_label": "Lock down access & change roles in your organization",
     "account_changes_saved": "Changes saved",
     "account_email_label": "Email address",
@@ -275,15 +278,18 @@
     "sign_in": "Sign in with %{name}"
   },
   "history": {
+    "TODO": "remove this block when profile in editor",
     "billing_history": "Billing history",
     "no_history": "No billing history found"
   },
   "billing": {
+    "TODO": "remove this block when profile in editor",
     "update_info": "Update billing info",
     "submit": "Submit",
     "success_message": "Successfully updated credit card"
   },
   "receipt": {
+    "TODO": "remove this block when profile in editor",
     "receipt": "Receipt",
     "subheading": "We received payment for your %{product} subscription. Thanks for your business! Questions? Contact us anytime at ",
     "date": "Date",
@@ -301,5 +307,5 @@
   },
   "browser_alert": {
     "message": "Your browser is not supported. please use a %{browser : supported browser}"
-  }
+  },
 }
