@@ -205,6 +205,8 @@
     "account_save": "Save",
     "billing_failed": "An error occured while updating your billing information",
     "billing_updated": "Billing information has been updated!",
+    "cancel": "Cancel",
+    "create": "Create",
     "create_hubs_button": "Create a Hub",
     "create_hubs_subtitle": "Collaborate with a group on specific content",
     "create_hubs_title": "Your Hubs",
