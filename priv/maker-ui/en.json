@@ -639,10 +639,12 @@
     "item_header_color": "Heading color",
     "item_number_show": "Rank",
     "item_text_invert": "Invert body text",
+    "location": "Location: %{owner}",
     "order": "List style",
     "order_ascending": "Count up",
     "order_descending": "Count down",
-    "reader_list_show": "Readers' Choice"
+    "reader_list_show": "Readers' Choice",
+    "your_account": "Your account"
   },
   "lists_cover": {
     "media_optional": "Add list media (optional)",
@@ -763,6 +765,10 @@
     "select_media_link": "From link",
     "select_media_search": "Search",
     "uploading_image": "Uploading: %{progress}%"
+  },
+  "polls_configure_sidebar": {
+    "location": "Location: %{owner}",
+    "your_account": "Your account"
   },
   "polls_mix": {
     "coming_soon": "Coming soon",
