@@ -19,9 +19,9 @@
     "retake": "Tee uudelleen",
     "scored_percentage": "Tulos %{percentage}",
     "scroll_down": "Selaa alaspäin",
-    "share_your_result": "Jaa tulos"
+    "share_your_result": "Jaa tulos",
     "your_result_graded": "Tulos: %{percentage}%",
-    "your_result_outcome": "Tulos: %{outcome}",
+    "your_result_outcome": "Tulos: %{outcome}"
   },
   "social": {
     "branded_graded_result_match": "Sain tulokseksi %{score}% \"%{quiz_title}\" Qzzr testissä! Yllätkö samaan?",
