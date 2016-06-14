@@ -8,6 +8,30 @@
     "privacy": "Privacy",
     "terms": "Terms"
   },
+  "account_settings": {
+    "billing_updated": "Billing information has been updated!",
+    "billing_failed": "An error occured while updating your billing information",
+    "change_roles_ad_label": "Lock down access & change roles in your organization",
+    "changes_saved": "Changes saved",
+    "email_label": "Email address",
+    "error_message_email": "Enter a different email address",
+    "hubs_header_label": "Your hubs",
+    "hubs_header_create": "Create",
+    "hubs_create_description": "Collaborate with a group on specific content",
+    "hubs_create_label": "Create a hub",
+    "name_label": "Full name",
+    "page_title": "Settings | %{brand}",
+    "password_label": "Change password",
+    "password_placeholder": "8 characters minimum",
+    "picture": "Profile picture",
+    "remove_image": "Remove image",
+    "save": "Save",
+    "side_account_label": "Your account",
+    "side_hubs_label": "Your hubs",
+    "side_hubs_sublabel": "Collaborate with a group of people on specific content",
+    "topbar_heading": "Settings",
+    "upgrade_now": "Upgrade now"
+  },
   "add_option": {
     "add": "Add Option"
   },
