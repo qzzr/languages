@@ -14,12 +14,14 @@
       "other": "%{smart_count} ihmistä"
     },
     "bracket_range": "%{lower}-%{upper}%",
-    "bracket_title": "Ryhmittely",
+    "bracket_title": "Näin pärjäsit verrattuna muihin",
     "grade_count": "%{score}/%{count}",
-    "retake": "Aloita",
+    "retake": "Tee uudelleen",
     "scored_percentage": "Tulos %{percentage}",
     "scroll_down": "Selaa alaspäin",
     "share_your_result": "Jaa tulos"
+    "your_result_graded": "Tulos: %{percentage}%",
+    "your_result_outcome": "Tulos: %{outcome}",
   },
   "social": {
     "branded_graded_result_match": "Sain tulokseksi %{score}% \"%{quiz_title}\" Qzzr testissä! Yllätkö samaan?",
@@ -47,6 +49,7 @@
     "incorrect": "Väärin",
     "multiple_select": "Valitse kaikki soveltuvat: ",
     "next_question": "Seuraava kysymys",
+    "view_results": "Näytä tulokset",
     "question_count": {
       "one": "%{smart_count} kysymys",
       "other": "%{smart_count} kysymystä"
