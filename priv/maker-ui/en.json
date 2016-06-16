@@ -1,6 +1,7 @@
 {
   "account_dropdown": {
     "edit_profile": "Edit settings",
+    "edit_hubs": "Edit hubs",
     "edit_settings": "Edit settings",
     "log_into_qzzr": "Log into Qzzr",
     "log_into_pollcaster": "Log into Pollcaster",
@@ -134,6 +135,7 @@
     "invite_heading": "Invite people to %{place}",
     "invite_members_heading": "Shared with",
     "invite_placeholder": "name@example.com",
+    "invite_remove_user": "Remove",
     "invite_resend": "Resend invite",
     "invite_role_admin": "Admin",
     "invite_role_contributor": "Collaborator",
