@@ -103,17 +103,27 @@
     "billing_history": "Billing history",
     "no_history": "No billing history found"
   },
-  "organization": {
-    "back": "Back",
-    "cancel": "Cancel",
+  "hubs": {
+    "untitled_hub_label": "Untitled hub"
+  },
+  "hubs_details": {
+    "avatar_label": "Avatar (optional)",
+    "location_root_label": "Boombox",
+    "name_label": "Hub name",
+    "remove_image_tooltip": "Remove image"
+  },
+  "hubs_topbar": {
+    "details": "Details",
+    "next_members": "Next: members",
+    "people": "People",
+    "hub": "Hub"
+  },
+  "hubs_people": {
     "change_role": "Change Role",
-    "change_roles_ad_label": "Lock down access & change roles in your organization",
     "changing_role_admin_to_contributor": "Changing your role to a Collaborator will make it so you can't change others' roles.",
     "changing_role_owner_to_admin": "Changing your role to an Admin will make it so you can’t see billing info.",
     "changing_role_owner_to_contributor": "Changing your role to a Collaborator will make it so you can’t see billing info, or change others' roles.",
-    "close": "Close",
     "confirm_role_change": "Are you sure you want to change your role?",
-    "done": "Done",
     "invalid_email": "Invalid email",
     "invite_as_label": "Invite as %{role}",
     "invite_changes_saved": "Changes saved",
@@ -124,6 +134,7 @@
     "invite_heading": "Invite people to %{place}",
     "invite_members_heading": "Shared with",
     "invite_placeholder": "name@example.com",
+    "invite_resend": "Resend invite",
     "invite_role_admin": "Admin",
     "invite_role_contributor": "Collaborator",
     "invite_role_feature_add_collaborators": "Add collaborators",
@@ -132,7 +143,6 @@
     "invite_role_feature_edit_billing": "Edit plan & billing info",
     "invite_role_feature_edit_hub_details": "Edit this Hub's details",
     "invite_role_feature_edit_hubs_within": "Edit any Hubs within this Hub",
-    "invite_role_feature_edit_org_details": "Edit this Organization's details",
     "invite_role_feature_everything_admins": "Do everything admins can do",
     "invite_role_feature_everything_collaborators": "Do everything collaborators can do",
     "invite_role_feature_remove": "Add/remove admins & collaborators",
@@ -142,16 +152,14 @@
     "invite_role_owner": "Owner",
     "invite_sending": "Sending invite",
     "invite_sent": "Invite sent",
-    "invite_via_email": "Invite via email",
-    "lose_access": "You will lose access to all organization content.",
-    "press_enter": "Press enter to send",
-    "remove": "Remove",
-    "remove_confirmation": "Are you sure you want to remove yourself from the organization?",
-    "resend_invite": "Resend invite",
-    "saved": "Saved",
-    "saving": "Saving",
-    "sent_invite": "Sent invite",
-    "upgrade_now": "Upgrade now"
+    "invite_via_email_action_send": "Press enter to send",
+    "lose_access": "You will lose access to all hub content.",
+    "remove_confirmation": "Are you sure you want to remove yourself from the hub?",
+    "title": "Invite people",
+    "unsent_email_action_close": "Close",
+    "unsent_email_action_edit": "Edit email",
+    "unsent_email_action_send": "Send",
+    "unsent_email_message": "You have an unsent invite for %{email}. Would you like to send it?"
   },
   "receipt": {
     "receipt": "Receipt",
