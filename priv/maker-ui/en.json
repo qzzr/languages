@@ -114,6 +114,7 @@
   },
   "hubs_details": {
     "avatar_label": "Avatar (optional)",
+    "display_name_label": "Display Name",
     "location_label": "Location",
     "location_root_label": "Boombox",
     "name_label": "Hub name",
