@@ -456,6 +456,7 @@
     "tap_upload_image": "Tap here to upload an image",
     "untitled_list": "Untitled List",
     "untitled_poll": "Untitled Poll",
+    "untitled_quiz": "Untitled quiz",
     "upgrade_now": "Upgrade now",
     "upload_image": "Drag image here or",
     "uploading_image": "Uploading: %{progress}%",
@@ -565,7 +566,7 @@
   },
   "sort_dropdown": {
     "created_at": "Date created",
-    "sort_by": "Sort content",
+    "sort_by": "Sort",
     "updated_at": "Date updated",
     "engagements": "Engagements",
     "votes": "Number of votes"
@@ -606,6 +607,9 @@
   "select_text": {
     "keyboard": "Press %{key} to copy",
     "default": "Copy text"
+  },
+  "quizzes_stats_topbar": {
+    "left_label": "Quiz Stats"
   },
   "quizzes_title": {
     "graded": "Graded",
@@ -693,6 +697,11 @@
   },
   "question_breakdown": {
     "no_questions": "No questions found, add questions to your quiz."
+  },
+  "lists_topbar": {
+    "cover": "Cover page",
+    "items": "Items",
+    "configure": "Configure",
   },
   "lists_configure_sidebar": {
     "accent_color": "Accent color",
@@ -839,6 +848,10 @@
     "select_media_link": "From link",
     "select_media_search": "Search",
     "uploading_image": "Uploading: %{progress}%"
+  },
+  "polls_topbar": {
+    "question": "Poll Question",
+    "configure": "Configure"
   },
   "polls_configure_sidebar": {
     "location": "Location: %{owner}",
