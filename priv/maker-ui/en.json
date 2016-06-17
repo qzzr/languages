@@ -19,7 +19,8 @@
     "cc_form_cvv_placeholder": "xxx",
     "submit_button_value": "Update",
     "success_message": "Successfully updated credit card",
-    "update_info": "Update Billing info"
+    "update_billing": "Update Billing",
+    "update_info": "Update billing info"
   },
   "account_settings": {
     "billing_updated": "Billing information has been updated!",
@@ -198,7 +199,8 @@
     "hub_details_header": "Enter in your payment details to upgrade this hub",
     "hub_name_label": "Hub name",
     "hub_plan_label": "Plan",
-    "hub_upgrade_button": "Upgrade hub"
+    "upgrade_hub_button": "Upgrade hub",
+    "upgrade_hub_toolbar": "Upgrade Hub"
   },
   "receipt": {
     "receipt": "Receipt",
