@@ -110,7 +110,7 @@
   "hubs_hubs": {
     "header_label": "%{hub} hubs",
     "header_create": "Create",
-    "create_description": "Collaborate with a group on specific content",
+    "create_description": "Collaborate with a group on specific content"
   },
   "hubs_details": {
     "avatar_label": "Avatar (optional)",
