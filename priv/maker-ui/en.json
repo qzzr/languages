@@ -12,6 +12,7 @@
   "account_billing": {
     "cc_form_number_label": "Credit card number",
     "cc_form_number_placeholder": "xxxx xxxx xxxx xxxx",
+    "cc_form_date_format": "%{mm}/%{yyyy}",
     "cc_form_date_label": "Exp. date",
     "cc_form_month_placeholder": "mm",
     "cc_form_year_placeholder": "yyyy",
@@ -191,6 +192,7 @@
     "cc_error_alert": "Double check your credit card details",
     "cc_form_number_label": "Credit card number",
     "cc_form_number_placeholder": "xxxx xxxx xxxx xxxx",
+    "cc_form_date_format": "%{mm}/%{yyyy}",
     "cc_form_date_label": "Exp. date",
     "cc_form_month_placeholder": "mm",
     "cc_form_year_placeholder": "yyyy",
