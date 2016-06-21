@@ -53,6 +53,8 @@
     "add": "Add Option"
   },
   "billing": {
+    "heading": "Billing info for %{name}",
+    "done_label": "Done",
     "update_info": "Update billing info",
     "submit": "Submit",
     "success_message": "Successfully updated credit card"
@@ -115,6 +117,8 @@
     "upgrade_boombox_label": "Upgrade to Boombox"
   },
   "history": {
+    "heading": "Billing history for %{name}",
+    "done_label": "Done",
     "billing_history": "Billing history",
     "no_history": "No billing history found"
   },
