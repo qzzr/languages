@@ -119,6 +119,8 @@
     "no_history": "No billing history found"
   },
   "hubs": {
+    "edit": "Edit",
+    "invite": "Invite",
     "untitled_hub_label": "Untitled hub"
   },
   "hubs_hubs": {
