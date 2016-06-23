@@ -83,7 +83,7 @@
   },
   "create_dropdown": {
     "button_tooltip": {
-      "default": "Create something great",
+      "default": "Create something engaging",
       "qzzr": "Create your first quiz"
     },
     "bulleted_list_label": "Unranked list",
@@ -227,6 +227,7 @@
     "boombox_ad_text": "Create, share, re-purpose, and collaborate on all your content in one place.",
     "boombox_ad_text_pollcaster": "Create polls and quizzes in one place and collaborate with your team.",
     "boombox_ad_text_qzzr": "Create quizzes and polls in one place and collaborate with your team.",
+    "hub_created": "Hub created",
     "move_success": "%{title} moved to %{name}",
     "side_link_create_hubs_subtitle": "Collaborate with others",
     "side_link_create_hubs_title": "Create a hub",
@@ -345,6 +346,7 @@
       "pollcaster": "Welcome to Pollcaster",
       "qzzr": "Welcome to Qzzr"
     },
+    "zero_state_invite_people": "Get your teamwork on %{inviteLink: invite people}",
     "zero_state_welcome_description": {
       "boombox": "Take a tour in this six-minute video to discover everything you can do with your new account, or start your first quiz, poll, or list with the %{icon} in the lower right corner.",
       "qzzr": "Take a tour in this six-minute video to discover everything you can do with your new account, or start your first quiz with the %{icon} in the lower right corner.",
