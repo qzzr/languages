@@ -138,7 +138,12 @@
     "location_label": "Location",
     "location_root_label": "Boombox",
     "name_label": "Hub name",
-    "remove_image_tooltip": "Remove image"
+    "remove_image_tooltip": "Remove image",
+    "cancel_plan_label": "Cancel Plan",
+    "cancel_plan_subject": "Cancel %{planName} for the %{hubName} Hub",
+    "cancel_plan_message": "Sad to see you go! Any reason in particular you're leaving? Let us know –––",
+    "delete_hub_label": "Delete hub",
+    "delete_hub_conditions": "You need to remove all child Hubs, content, and people from this Hub to be able to delete it."
   },
   "hubs_topbar": {
     "details": "Details",
@@ -944,8 +949,8 @@
     "create_org_billing_modal_heading": "Creating your organization will move all your billing information to your organization.",
     "current_plan_heading": "Your current plan",
     "delete_account_label": "Cancel account",
-    "delete_account_message": "We're so sorry to see you go! Let us know why you're leaving and help make us better!",
-    "delete_account_subject": "Hey guys I'm canceling because...",
+    "delete_account_message": "Sad to see you go!  Any reason in particular you're leaving? Let us know –––",
+    "delete_account_subject": "Cancel %{planName}",
     "edit_billing_info": "Edit billing info",
     "error_message_email": "Enter a different email address",
     "free_plan": "Free",
