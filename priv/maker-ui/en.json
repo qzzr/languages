@@ -585,6 +585,7 @@
     "created_at": "Date created",
     "sort_by": "Sort",
     "updated_at": "Date updated",
+    "name": "Alphabetically",
     "engagements": "Engagements",
     "votes": "Number of votes"
   },
