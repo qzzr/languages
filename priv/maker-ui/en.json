@@ -717,9 +717,10 @@
     "no_questions": "No questions found, add questions to your quiz."
   },
   "lists_topbar": {
-    "cover": "Cover page",
     "items": "Items",
-    "configure": "Configure"
+    "configure": "Configure",
+    "cover": "Cover page",
+    "left_label": "List"
   },
   "lists_configure_sidebar": {
     "accent_color": "Accent color",
@@ -869,7 +870,8 @@
   },
   "polls_topbar": {
     "question": "Poll Question",
-    "configure": "Configure"
+    "configure": "Configure",
+    "left_label": "Poll"
   },
   "polls_configure_sidebar": {
     "location": "Location: %{owner}",
