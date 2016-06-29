@@ -147,6 +147,7 @@
   },
   "hubs_topbar": {
     "details": "Details",
+    "done_label": "Done",
     "next_members": "Next: members",
     "people": "People",
     "hubs": "Hubs",
