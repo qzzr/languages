@@ -246,6 +246,7 @@
     "new_password": "New password",
     "match_error": "Passwords must match",
     "match_password": "Confirm new password",
+    "page_title": "Forgot password · %{brand}",
     "submit": "Change my password"
   },
   "signup": {
