@@ -145,7 +145,8 @@
     "cancel_plan_subject": "Cancel %{planName} for the %{hubName : Untitled} Hub",
     "cancel_plan_message": "Sad to see you go! Any reason in particular you're leaving? Let us know –––",
     "delete_hub_label": "Delete hub",
-    "delete_hub_conditions": "You need to remove all child Hubs, content, and people from this Hub to be able to delete it."
+    "delete_hub_conditions": "You need to remove all child Hubs, content, and people from this Hub to be able to delete it.",
+    "delete_hub_plan_conditions": "You must first cancel your plan in order to delete this hub"
   },
   "hubs_topbar": {
     "details": "Details",
