@@ -180,7 +180,7 @@
     "invite_role_feature_everything_admins": "Do everything admins can do",
     "invite_role_feature_everything_collaborators": "Do everything collaborators can do",
     "invite_role_feature_admin_add_remove": "Add/remove admins & collaborators",
-    "invite_role_feature_collaborator_add_remove": "Add/remove collaborators",
+    "invite_role_feature_collaborator_add_remove": "Add collaborators",
     "invite_role_heading_admins": "Admins can",
     "invite_role_heading_collaborators": "Collaborators can",
     "invite_role_heading_owners": "Owners can",
