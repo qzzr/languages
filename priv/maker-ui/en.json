@@ -165,6 +165,7 @@
     "invite_collaborators": "Invite collaborators",
     "invite_email_press_enter": "Press enter to invite",
     "invite_error_invalid_email": "Invalid email",
+    "invite_error_duplicate_email": "An invitation has already been sent to this email",
     "invite_heading": "Invite people to %{place}",
     "invite_members_heading": "Shared with",
     "invite_placeholder": "name@example.com",
