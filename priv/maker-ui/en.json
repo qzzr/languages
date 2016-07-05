@@ -242,7 +242,6 @@
     "boombox_ad_text_pollcaster": "Create polls and quizzes in one place and collaborate with your team.",
     "boombox_ad_text_qzzr": "Create quizzes and polls in one place and collaborate with your team.",
     "hub_created": "Hub created",
-    "move_success": "%{title} moved to %{name}",
     "side_link_create_hubs_subtitle": "Collaborate with others",
     "side_link_create_hubs_title": "Create a hub",
     "sidebar_ad_title": {
@@ -280,6 +279,7 @@
     "link_upgrade": "Upgrade",
     "link_upgrade_qzzr_pro": "Upgrade to Qzzr Pro",
     "no_results": "Your search returned no results",
+    "notification_move_content_success": "%{contentTitle : Untitled} moved to %{hubName : Untitled}",
     "notification_removed_from_hub": "You were removed from %{hubName}",
     "page_title_hub": "%{hubName : Untitled} Dashboard · %{brand}",
     "page_title_user": "Dashboard · %{brand}",
