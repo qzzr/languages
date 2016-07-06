@@ -55,7 +55,7 @@
     "add": "Add Option"
   },
   "billing": {
-    "heading": "Billing info for %{name}",
+    "heading": "Update Billing info for %{name}",
     "done_label": "Done",
     "update_info": "Update billing info",
     "submit": "Submit",
