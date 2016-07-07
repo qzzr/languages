@@ -20,6 +20,7 @@
   "invitations": {
     "ask_new_invite": "Ask the person who invited you to the organization to send you another invite.",
     "email_label": "Email address",
+    "email_placeholder": "example@email.com",
     "expired_invitation": "This invitation has expired.",
     "expired_invitation_get_in_touch": "This invitation has expired. Get in touch with %{inviterName} if you have questions.",
     "full_name_label": "Full name",
