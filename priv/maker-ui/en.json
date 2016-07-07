@@ -37,14 +37,11 @@
     "hubs_header_label": "Your hubs",
     "invite_icon_tooltip": "Invite",
     "name_label": "Full name",
-<<<<<<< Updated upstream
-=======
-    "notification_removed_from_hub": "You were removed from %{hubName}",
-    "notification_hub_deleted": "%{hubName : Untitled} deleted",
->>>>>>> Stashed changes
+    "notification_hub_deleted": "%{hubName} was deleted",
     "notification_hub_role_changed": "Your role in %{hubName} was changed to Collaborator",
     "notification_removed_from_hub": "You were removed from %{hubName}",
-    "notification_hub_deleted": "%{hubName} was deleted",
+    "hub_item_column_people_count_label": "People",
+    "hub_item_column_content_count_label": "Content pieces",
     "page_title": "Settings · %{brand}",
     "password_label": "Change password",
     "password_placeholder": "8 characters minimum",
