@@ -37,6 +37,11 @@
     "hubs_header_label": "Your hubs",
     "invite_icon_tooltip": "Invite",
     "name_label": "Full name",
+<<<<<<< Updated upstream
+=======
+    "notification_removed_from_hub": "You were removed from %{hubName}",
+    "notification_hub_deleted": "%{hubName : Untitled} deleted",
+>>>>>>> Stashed changes
     "notification_hub_role_changed": "Your role in %{hubName} was changed to Collaborator",
     "notification_removed_from_hub": "You were removed from %{hubName}",
     "notification_hub_deleted": "%{hubName} was deleted",
@@ -141,6 +146,7 @@
   "hubs_details": {
     "avatar_label": "Avatar (optional)",
     "display_name_label": "Mix display name",
+    "display_name_info_tooltip": "Displays as the author name for content you place in your Mix, or any content Boost. Example: “The Hardest Trivia Quiz” by Your Mix Display Name",
     "location_label": "Location",
     "location_root_label": "Boombox",
     "name_label": "Hub name",
