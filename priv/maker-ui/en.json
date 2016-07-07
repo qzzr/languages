@@ -508,6 +508,7 @@
     "embed_preview": "Embed preview",
     "list": "List",
     "page_title": "%{name : Untitled} · Overview · %{brand}",
+    "page_label": "overview",
     "published": "Poll published",
     "published_subtext": "Now share it with the world.",
     "sharing_embed": "Embed this poll",
