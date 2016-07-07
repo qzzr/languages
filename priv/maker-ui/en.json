@@ -35,6 +35,8 @@
     "hubs_create_description": "Collaborate with a group on specific content",
     "hubs_create_label": "Create a hub",
     "name_label": "Full name",
+    "notification_removed_from_hub": "You were removed from %{hubName}",
+    "notification_hub_role_changed": "Your role in %{hubName} was changed to Collaborator",
     "page_title": "Settings · %{brand}",
     "password_label": "Change password",
     "password_placeholder": "8 characters minimum",
@@ -53,7 +55,7 @@
     "add": "Add Option"
   },
   "billing": {
-    "heading": "Billing info for %{name}",
+    "heading": "Update Billing info for %{name}",
     "done_label": "Done",
     "update_info": "Update billing info",
     "submit": "Submit",
@@ -123,8 +125,8 @@
     "no_history": "No billing history found"
   },
   "hubs": {
-    "edit": "Edit",
-    "invite": "Invite",
+    "home_icon_tooltip": "Go to dashboard",
+    "invite_icon_tooltip": "Invite",
     "page_title": "%{hubName : Untitled} · Hub · %{brand}",
     "untitled_hub_label": "Untitled hub"
   },
@@ -135,7 +137,7 @@
   },
   "hubs_details": {
     "avatar_label": "Avatar (optional)",
-    "display_name_label": "Display Name",
+    "display_name_label": "Mix display name",
     "location_label": "Location",
     "location_root_label": "Boombox",
     "name_label": "Hub name",
@@ -144,7 +146,8 @@
     "cancel_plan_subject": "Cancel %{planName} for the %{hubName : Untitled} Hub",
     "cancel_plan_message": "Sad to see you go! Any reason in particular you're leaving? Let us know –––",
     "delete_hub_label": "Delete hub",
-    "delete_hub_conditions": "You need to remove all child Hubs, content, and people from this Hub to be able to delete it."
+    "delete_hub_conditions": "You need to remove all child Hubs, content, and people from this Hub to be able to delete it.",
+    "delete_hub_plan_conditions": "You must first cancel your plan in order to delete this hub"
   },
   "hubs_topbar": {
     "details": "Details",
@@ -162,6 +165,7 @@
     "invite_collaborators": "Invite collaborators",
     "invite_email_press_enter": "Press enter to invite",
     "invite_error_invalid_email": "Invalid email",
+    "invite_error_duplicate_email": "An invitation has already been sent to this email",
     "invite_heading": "Invite people to %{place}",
     "invite_members_heading": "Shared with",
     "invite_placeholder": "name@example.com",
@@ -178,7 +182,7 @@
     "invite_role_feature_everything_admins": "Do everything admins can do",
     "invite_role_feature_everything_collaborators": "Do everything collaborators can do",
     "invite_role_feature_admin_add_remove": "Add/remove admins & collaborators",
-    "invite_role_feature_collaborator_add_remove": "Add/remove collaborators",
+    "invite_role_feature_collaborator_add_remove": "Add collaborators",
     "invite_role_heading_admins": "Admins can",
     "invite_role_heading_collaborators": "Collaborators can",
     "invite_role_heading_owners": "Owners can",
@@ -238,7 +242,6 @@
     "boombox_ad_text_pollcaster": "Create polls and quizzes in one place and collaborate with your team.",
     "boombox_ad_text_qzzr": "Create quizzes and polls in one place and collaborate with your team.",
     "hub_created": "Hub created",
-    "move_success": "%{title} moved to %{name}",
     "side_link_create_hubs_subtitle": "Collaborate with others",
     "side_link_create_hubs_title": "Create a hub",
     "sidebar_ad_title": {
@@ -276,6 +279,8 @@
     "link_upgrade": "Upgrade",
     "link_upgrade_qzzr_pro": "Upgrade to Qzzr Pro",
     "no_results": "Your search returned no results",
+    "notification_move_content_success": "%{contentTitle : Untitled} moved to %{hubName : Untitled}",
+    "notification_removed_from_hub": "You were removed from %{hubName}",
     "page_title_hub": "%{hubName : Untitled} Dashboard · %{brand}",
     "page_title_user": "Dashboard · %{brand}",
     "press_enter": "Press enter to send",
@@ -893,8 +898,8 @@
     "coming_soon": "Coming soon",
     "displays_mix_label": "Include your content mix after voting",
     "displays_mix_tooltip": "Have other polls you'd like to show off? Your mix lets you to handpick your best content, and recommend it at the end of your poll.",
-    "is_featured_label": "Include this poll in your mix",
-    "is_mixed_label": "Boost this poll in others' mixes"
+    "is_featured_label": "Boost this poll in others' mixes",
+    "is_mixed_label": "Include this poll in your mix"
   },
   "polls_sharing": {
     "danger": "Danger. ",
