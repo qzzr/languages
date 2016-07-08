@@ -119,8 +119,8 @@
     "toolbar_create": "Create",
     "toolbar_create_poll": "Poll",
     "toolbar_create_quiz": "Quiz",
-    "unlock_polls_label": "Unlock polls",
-    "unlock_quizzes_label": "Unlock quizzes",
+    "unlock_polls_label": "Unlock polls & lists",
+    "unlock_quizzes_label": "Unlock quizzes & lists",
     "upgrade_boombox_label": "Upgrade to Boombox"
   },
   "history": {
