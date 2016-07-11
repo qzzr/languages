@@ -131,7 +131,7 @@
     "invalid": "Only @font-face CSS is valid.",
     "placeholder": "@font-face code",
     "save": "Press enter to save",
-    "success": "Changes saved",
+    "success": "Changes saved"
   },
   "history": {
     "heading": "Billing history for %{name}",
