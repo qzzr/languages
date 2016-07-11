@@ -123,6 +123,16 @@
     "unlock_quizzes_label": "Unlock quizzes & lists",
     "upgrade_boombox_label": "Upgrade to Boombox"
   },
+  "custom_font": {
+    "description": "Have a custom font you'd like to use across all your content? Paste the same @font-face CSS code from your website. %{learn_more: Learn more about implementing custom fonts}",
+    "family_label": "Font family",
+    "family_placeholder": "ex. 'Gotham', sans-serif",
+    "header": "Custom font (@font-face)",
+    "invalid": "Only @font-face CSS is valid.",
+    "placeholder": "@font-face code",
+    "save": "Press enter to save",
+    "success": "Changes saved",
+  },
   "history": {
     "heading": "Billing history for %{name}",
     "done_label": "Done",
