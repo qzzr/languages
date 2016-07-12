@@ -148,7 +148,9 @@
   "hubs_hubs": {
     "header_label": "%{hub} hubs",
     "header_create": "Create",
-    "create_description": "There are no Hubs within this Hub"
+    "create_description": "There are no Hubs within this Hub",
+    "hub_item_column_content_count_label": "Content pieces",
+    "hub_item_column_people_count_label": "People"
   },
   "hubs_details": {
     "avatar_label": "Avatar (optional)",
