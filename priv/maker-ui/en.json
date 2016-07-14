@@ -867,7 +867,8 @@
     "displays_mix_label": "Include your content mix at the end of the list",
     "displays_mix_tooltip": "Have other lists you'd like to show off? Your mix lets you handpick your best content, and recommend it at the end of your list.",
     "is_featured_label": "Boost this list in others' mixes",
-    "is_mixed_label": "Include this list in your mix"
+    "is_mixed_label": "Include this list in your mix",
+    "learn_more": "Learn more"
   },
   "lists_sharing": {
     "cover_image_default": "Your cover image is used by default",
@@ -924,7 +925,8 @@
     "displays_mix_label": "Include your content mix after voting",
     "displays_mix_tooltip": "Have other polls you'd like to show off? Your mix lets you to handpick your best content, and recommend it at the end of your poll.",
     "is_featured_label": "Boost this poll in others' mixes",
-    "is_mixed_label": "Include this poll in your mix"
+    "is_mixed_label": "Include this poll in your mix",
+    "learn_more": "Learn more"
   },
   "polls_sharing": {
     "danger": "Danger. ",
