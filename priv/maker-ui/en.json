@@ -864,10 +864,12 @@
     "ad_upgrade_action": "Upgrade",
     "coming_soon": "Coming soon",
     "displays_boost_tooltip": "Boosting will distribute your quiz on free Boombox, Qzzr, and Pollcaster content. Click to learn more.",
-    "displays_mix_label": "Include your content mix at the end of the list",
-    "displays_mix_tooltip": "Have other lists you'd like to show off? Your mix lets you handpick your best content, and recommend it at the end of your list.",
+    "displays_mix_label": "Include your Remix at the end of this list",
+    "displays_mix_label_hub": "Include %{hub_name}'s Remix at the end of this list",
+    "displays_mix_tooltip": "Have other pieces of content you'd like to show off? Use Remix to handpick the best content from your account or Hub and recommend it at the end of the list.",
     "is_featured_label": "Boost this list in others' mixes",
-    "is_mixed_label": "Include this list in your mix",
+    "is_mixed_label": "Include this list in your Remix",
+    "is_mixed_tooltip": "Your list won't show up in the Remix until you add a Share Redirect URL on the Sharing tab.",
     "learn_more": "Learn more"
   },
   "lists_sharing": {
@@ -922,10 +924,12 @@
     "ad_upgrade_action": "Upgrade",
     "coming_soon": "Coming soon",
     "displays_boost_tooltip": "Boosting will distribute your quiz on free Boombox, Qzzr, and Pollcaster content. Click to learn more.",
-    "displays_mix_label": "Include your content mix after voting",
-    "displays_mix_tooltip": "Have other polls you'd like to show off? Your mix lets you to handpick your best content, and recommend it at the end of your poll.",
+    "displays_mix_label": "Include your Remix after voting",
+    "displays_mix_label_hub": "Include %{hub_name}'s Remix after voting",
+    "displays_mix_tooltip": "Have other pieces of content you'd like to show off? Use Remix to handpick the best content from your account or Hub and recommend it on a poll after voting.",
     "is_featured_label": "Boost this poll in others' mixes",
-    "is_mixed_label": "Include this poll in your mix",
+    "is_mixed_label": "Include this poll in your Remix",
+    "is_mixed_tooltip": "Your poll won't show up in the Remix until you add a Share Redirect URL on the Sharing tab.",
     "learn_more": "Learn more"
   },
   "polls_sharing": {
