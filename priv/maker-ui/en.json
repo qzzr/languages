@@ -871,8 +871,10 @@
     "displays_mix_tooltip": "Have other pieces of content you'd like to show off? Use Remix to handpick the best content from your account or Hub and recommend it at the end of the list.",
     "is_featured_label": "Boost this list in others' mixes",
     "is_mixed_label": "Include this list in your Remix",
+    "is_mixed_label_hub": "Include this list in %{hub_name}'s Remix",
     "is_mixed_tooltip": "Your list won't show up in the Remix until you add a Share Redirect URL on the Sharing tab.",
-    "learn_more": "Learn more"
+    "learn_more": "Learn more",
+    "mix_tooltip": "Have other pieces of content you'd like to show off? Use Remix to handpick the best quizzes, polls, and lists and recommend them at the end of your content."
   },
   "lists_sharing": {
     "cover_image_default": "Your cover image is used by default",
@@ -931,8 +933,10 @@
     "displays_mix_tooltip": "Have other pieces of content you'd like to show off? Use Remix to handpick the best content from your account or Hub and recommend it on a poll after voting.",
     "is_featured_label": "Boost this poll in others' mixes",
     "is_mixed_label": "Include this poll in your Remix",
+    "is_mixed_label_hub": "Include this poll in %{hub_name}'s Remix",
     "is_mixed_tooltip": "Your poll won't show up in the Remix until you add a Share Redirect URL on the Sharing tab.",
-    "learn_more": "Learn more"
+    "learn_more": "Learn more",
+    "mix_tooltip": "Have other pieces of content you'd like to show off? Use Remix to handpick the best quizzes, polls, and lists and recommend them at the end of your content."
   },
   "polls_sharing": {
     "danger": "Danger. ",
