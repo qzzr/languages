@@ -44,6 +44,8 @@
     "notification_billing_updated": "Your billing info has been updated",
     "notification_hub_deleted": "%{hubName} was deleted",
     "notification_hub_role_changed": "Your role in %{hubName} was changed to Collaborator",
+    "notification_profile_changes_error": "An error occurred",
+    "notification_profile_changes_success": "Changes saved",
     "notification_removed_from_hub": "You were removed from %{hubName}",
     "page_title": "Settings · %{brand}",
     "password_label": "Change password",
