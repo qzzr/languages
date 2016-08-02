@@ -614,6 +614,7 @@
     "update": "Update"
   },
   "publish_dropdown": {
+    "confirm_cancel_label": "Cancel",
     "delete": "Delete",
     "delete_confirm": "Are you sure you want to delete this?",
     "unpublish": "Unpublish",
