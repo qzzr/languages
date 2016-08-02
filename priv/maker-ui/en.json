@@ -831,6 +831,8 @@
     "uploading_image": "Uploading: %{progress}%"
   },
   "lists_items": {
+    "delete_confirm_cancel_label": "Cancel",
+    "delete_confirm_delete_label": "Delete",
     "delete_confirm": "Are you sure you want to delete this item?",
     "delete_tooltip": "Delete item",
     "duplicate_tooltip": "Duplicate item",
