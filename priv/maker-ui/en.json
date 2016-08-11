@@ -319,6 +319,8 @@
     "remove_person_confirm": "Are you sure you want to remove this person? They will lose access to all organizational content.",
     "resend_invite": "RESEND INVITE",
     "search": "SEARCH",
+    "search_results_header_name": "Name",
+    "search_results_header_location": "Location",
     "side_ads_btn_learn_more": "Learn more",
     "side_ads_bullet_advanced_customization": "Advanced customization",
     "side_ads_bullet_email_leads": "Collect email leads",
@@ -478,7 +480,8 @@
     "unpublished_changes": "Unpublished changes",
     "untitled": "Untitled",
     "untitled_hub": "Untitled hub",
-    "view_stats": "View stats"
+    "view_stats": "View stats",
+    "search_your_account": "Your account"
   },
   "maker": {
     "appearance_accent_color": "Accent color",
