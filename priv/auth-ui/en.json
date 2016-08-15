@@ -284,6 +284,7 @@
     "password": "Password",
     "password_placeholder": "8 characters minimum",
     "plan": "Plan",
+    "plan_name": "Plan name",
     "secure_server": "You're using our secure server.",
     "secure_server": "You're using our secure server.",
     "sign_up_for": "Sign up for %{prodcut}",
