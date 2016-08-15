@@ -283,6 +283,7 @@
     "page_title": "Sign up · %{brand}",
     "password": "Password",
     "password_placeholder": "8 characters minimum",
+    "plan": "Plan",
     "secure_server": "You're using our secure server.",
     "secure_server": "You're using our secure server.",
     "sign_up_for": "Sign up for %{prodcut}",
