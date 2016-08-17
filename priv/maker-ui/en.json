@@ -454,6 +454,17 @@
     "zero_state_quiz_tour": "Quiz Tour",
     "zero_state_poll_tour": "Poll Tour"
   },
+  "dashboard_help_button": {
+    "trigger_label": "?",
+    "learning_center_label": "View Learning Center",
+    "get_help_label": "Get help"
+  },
+  "dashboard_owner": {
+    "search_by_you": "By you",
+    "search_filter_only": "Only %{filter}",
+    "search_filters_all_hubs": "All hubs",
+    "search_input_placeholder": "Search"
+  },
   "edit_button": {
     "edit": "Edit"
   },
