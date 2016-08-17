@@ -460,6 +460,12 @@
     "get_help_label": "Get help"
   },
   "dashboard_owner": {
+    "clear_search": "Clear Search",
+    "empty_search_suggestions_no_results": "No results for \"%{searchQuery}\"",
+    "empty_search_suggestions_search": "Search all content.",
+    "empty_search_suggestions_spelling": "Make sure all words are spelled correctly.",
+    "empty_search_suggestions_title": "Suggestions",
+    "empty_search_suggestions_words": "Try different words.",
     "search_by_you": "By you",
     "search_filter_only": "Only %{filter}",
     "search_filters_all_hubs": "All hubs",
