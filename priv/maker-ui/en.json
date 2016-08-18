@@ -319,6 +319,7 @@
     "remove_person_confirm": "Are you sure you want to remove this person? They will lose access to all organizational content.",
     "resend_invite": "RESEND INVITE",
     "search": "SEARCH",
+    "search_placeholder": "SEARCH",
     "search_results_header_name": "Name",
     "search_results_header_location": "Location",
     "side_ads_btn_learn_more": "Learn more",
@@ -469,7 +470,8 @@
     "search_by_you": "By you",
     "search_filter_only": "Only %{filter}",
     "search_filters_all_hubs": "All hubs",
-    "search_input_placeholder": "Search"
+    "search_input_placeholder": "Search",
+    "search_reset_filters": "Reset filters"
   },
   "edit_button": {
     "edit": "Edit"
@@ -823,6 +825,7 @@
     "order_ascending": "Count up",
     "order_descending": "Count down",
     "reader_list_show": "Readers' Choice",
+    "search_placeholder": "SEARCH",
     "your_account": "Your account"
   },
   "lists_cover": {
@@ -960,6 +963,7 @@
   },
   "polls_configure_sidebar": {
     "location": "Location: %{owner}",
+    "search_placeholder": "SEARCH",
     "your_account": "Your account"
   },
   "polls_mix": {
