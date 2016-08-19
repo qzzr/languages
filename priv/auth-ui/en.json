@@ -270,6 +270,8 @@
     "cc_form_year_placeholder": "yyyy",
     "cc_form_cvv_label": "CVV",
     "cc_form_cvv_placeholder": "xxx",
+    "cc_form_zip_label": "Card ZIP/Postal Code",
+    "cc_form_zip_placeholder": "eg. 84043",
     "downgrade_info": "If you wish to downgrade/cancel your plan, talk with us at %{email}",
     "downgrade_pricing_link_label": "our pricing page",
     "downgrade_title": "You can upgrade your plan at any time on %{link}",
