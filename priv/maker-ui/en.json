@@ -132,6 +132,7 @@
   "custom_font": {
     "description": "Have a custom font you'd like to use across all your content? Paste the same @font-face CSS code from your website. %{learn_more: Learn more about implementing custom fonts}",
     "family_label": "Font family",
+    "learn_more_link": "Learn more about implementing custom fonts",
     "family_placeholder": "ex. 'Gotham', sans-serif",
     "header": "Custom font (@font-face)",
     "invalid": "Only @font-face CSS is valid.",
