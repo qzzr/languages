@@ -137,7 +137,8 @@
     "invalid": "Only @font-face CSS is valid.",
     "placeholder": "@font-face code",
     "save": "Press enter to save",
-    "success": "Changes saved"
+    "success": "Changes saved",
+    "tooltip": "Paste the same @font-face CSS code from your website."
   },
   "history": {
     "heading": "Billing history for %{name}",
@@ -159,21 +160,26 @@
     "hub_item_column_people_count_label": "People"
   },
   "hubs_details": {
+    "advanced_settings_description": "These settings will be applied to newly created quizzes.",
+    "advanced_settings_fb_pixel_label": "Facebook pixel",
+    "advanced_settings_fb_pixel_example": "12345678901234",
+    "advanced_settings_fb_pixel_tooltip": "Paste your Facebook pixel ID to start building better social ad audiences with Boombox.",
+    "advanced_settings_heading": "Advanced settings",
     "avatar_label": "Avatar (optional)",
-    "display_name_label": "Mix display name",
+    "cancel_plan_label": "Cancel Plan",
+    "cancel_plan_message": "Sad to see you go! Any reason in particular you're leaving? Let us know –––",
+    "cancel_plan_subject": "Cancel %{planName} for the %{hubName : Untitled} Hub",
+    "delete_hub_conditions": "You need to remove all child Hubs, content, and people from this Hub to be able to delete it.",
+    "delete_hub_label": "Delete hub",
+    "delete_hub_plan_conditions": "You must first cancel your plan in order to delete this hub",
     "display_name_info_tooltip": "Displays as the author name for content you place in your Mix, or any content Boost. Example: “The Hardest Trivia Quiz” by Your Mix Display Name",
+    "display_name_label": "Mix display name",
     "location_label": "Location",
     "location_root_label": "Boombox",
     "name_label": "Hub name",
-    "notification_billing_updated": "Billing info has been updated for %{hubName : Untitled}",
     "notification_billing_failed": "An error occured while updating billing information for %{hubName : Untitled}",
-    "remove_image_tooltip": "Remove image",
-    "cancel_plan_label": "Cancel Plan",
-    "cancel_plan_subject": "Cancel %{planName} for the %{hubName : Untitled} Hub",
-    "cancel_plan_message": "Sad to see you go! Any reason in particular you're leaving? Let us know –––",
-    "delete_hub_label": "Delete hub",
-    "delete_hub_conditions": "You need to remove all child Hubs, content, and people from this Hub to be able to delete it.",
-    "delete_hub_plan_conditions": "You must first cancel your plan in order to delete this hub"
+    "notification_billing_updated": "Billing info has been updated for %{hubName : Untitled}",
+    "remove_image_tooltip": "Remove image"
   },
   "hubs_topbar": {
     "details": "Details",
