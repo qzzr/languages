@@ -485,7 +485,8 @@
     "search_filter_only": "Only %{filter}",
     "search_filters_all_hubs": "All hubs",
     "search_input_placeholder": "Search",
-    "search_reset_filters": "Reset filters"
+    "search_reset_filters": "Reset filters",
+    "search_filters_untitled_hub": "Untitled hub"
   },
   "edit_button": {
     "edit": "Edit"
