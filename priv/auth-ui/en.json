@@ -270,6 +270,8 @@
     "cc_form_year_placeholder": "yyyy",
     "cc_form_cvv_label": "CVV",
     "cc_form_cvv_placeholder": "xxx",
+    "cc_form_card_name_label": "Name on Card",
+    "cc_form_card_name_placeholder": "John Doe",
     "cc_form_line1_label": "Address line 1",
     "cc_form_line1_placeholder": "e.g. 123 Main St.",
     "cc_form_line2_label": "Address line 2",
