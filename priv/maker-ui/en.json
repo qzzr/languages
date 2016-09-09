@@ -41,6 +41,7 @@
   "account_settings": {
     "billing_failed": "An error occured while updating your billing information",
     "billing_updated": "Billing information has been updated!",
+    "boombox_plan_login": "It looks like you now have a Boombox plan.\n%{link: Log in to Boombox} using your same credentials.",
     "change_roles_ad_label": "Lock down access & change roles in your organization",
     "changes_saved": "Changes saved",
     "email_label": "Email address",
