@@ -903,6 +903,7 @@
     "order_descending": "Count down",
     "reader_list_show": "Readers' Choice",
     "search_placeholder": "SEARCH",
+    "untitled_hub": "Untitled hub",
     "your_account": "Your account"
   },
   "lists_cover": {
@@ -1041,7 +1042,8 @@
   "polls_configure_sidebar": {
     "location": "Location: %{owner}",
     "search_placeholder": "SEARCH",
-    "your_account": "Your account"
+    "your_account": "Your account",
+    "untitled_hub": "Untiteld hub"
   },
   "polls_mix": {
     "ad_upgrade_action": "Upgrade",
