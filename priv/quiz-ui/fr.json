@@ -66,6 +66,7 @@
     "make_quiz_label_boombox": "Découvrez Boombox",
     "multiple_select": "Sélectionner toutes les réponses pertinentes :",
     "next_question": "Question suivante",
+    "view_results": "Voir le résultat",
     "question_count": {
       "one": "%{smart_count} question",
       "other": "%{smart_count} questions"
