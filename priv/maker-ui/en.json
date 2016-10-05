@@ -403,6 +403,8 @@
     "link_upgrade": "Upgrade",
     "link_upgrade_qzzr_pro": "Upgrade to Qzzr Pro",
     "no_results": "Your search returned no results",
+    "no_hub_access_action": "Go to your dashboard",
+    "no_hub_access_title": "It looks like you no longer have access to this hub",
     "notification_move_content_success": "%{contentTitle : Untitled} moved to %{hubName : Untitled}",
     "notification_removed_from_hub": "You were removed from %{hubName}",
     "page_title_hub": "%{hubName : Untitled} Dashboard · %{brand}",
