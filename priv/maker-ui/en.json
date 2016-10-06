@@ -338,7 +338,7 @@
   "dashboard": {
     "all_content": "All content",
     "billing_address_success": "Your billing address was successfully updated!",
-    "billing_address_error": "An error occured while updating your billing address, please %{edit_billing: click to update your billing information",
+    "billing_address_error": "An error occured while updating your billing address, please %{edit_billing: click to update your billing information}",
     "boombox_ad_create": "Learn more",
     "boombox_ad_text": "Create, share, re-purpose, and collaborate on all your content in one place.",
     "boombox_ad_text_pollcaster": "Create polls and quizzes in one place and collaborate with your team.",
@@ -403,6 +403,8 @@
     "link_upgrade": "Upgrade",
     "link_upgrade_qzzr_pro": "Upgrade to Qzzr Pro",
     "no_results": "Your search returned no results",
+    "no_hub_access_action": "Go to your dashboard",
+    "no_hub_access_title": "It looks like you no longer have access to this hub",
     "notification_move_content_success": "%{contentTitle : Untitled} moved to %{hubName : Untitled}",
     "notification_removed_from_hub": "You were removed from %{hubName}",
     "page_title_hub": "%{hubName : Untitled} Dashboard · %{brand}",
