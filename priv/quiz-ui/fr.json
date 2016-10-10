@@ -13,24 +13,24 @@
   },
   "results": {
     "bracket_count": {
-      "one": "%{smart_count} personnes",
+      "one": "%{smart_count} personne",
       "other": "%{smart_count} personnes"
     },
-    "bracket_range": "%{lower}-%{upper}%",
+    "bracket_range": "%{lower}-%{upper} %",
     "bracket_title": "Classement",
     "grade_count": "%{score}/%{count}",
     "recommended": "D'autres tests sympa",
     "retake": "Refaire",
-    "scored_percentage": "Score %{percentage}%",
+    "scored_percentage": "Score %{percentage} %",
     "scroll_down": "Faites défiler vers le bas pour connaître votre résultat",
     "share_your_result": "Partager votre résultat",
-    "your_result_graded": "Résultat : Score de %{percentage}%",
+    "your_result_graded": "Résultat : score de %{percentage} %",
     "your_result_outcome": "Résultat : %{outcome}",
     "lead_see_result": "Remplissez le formulaire ci-dessous pour voir votre résultat"
   },
   "social": {
     "branded_caption": "Réalisé avec Qzzr – Des test pour vous créés par vous",
-    "branded_graded_result_match": "J'ai obtenu un score de %{score}% au test \"%{quiz_title}\" sur Qzzr ! Peux-tu faire mieux ?",
+    "branded_graded_result_match": "J'ai obtenu un score de %{score} % au test \"%{quiz_title}\" sur Qzzr ! Peux-tu faire mieux ?",
     "branded_outcome_result": "J'ai obtenu \"%{outcome_title}\" au test \"%{quiz_title}\" sur Qzzr ! Et toi ?",
     "caption": "Créé avec Qzzr",
     "description": "Créez vos propres tests gratuitement sur Qzzr, l'outil de création de tests le plus simple au monde.",
@@ -39,7 +39,7 @@
     "embed-default": "Par défaut",
     "facebook": "Partager",
     "gplus": "Partager",
-    "graded_result_match": "J'ai obtenu un score de %{score}% au test \"%{quiz_title}\" Peux-tu faire mieux ?",
+    "graded_result_match": "J'ai obtenu un score de %{score} % au test \"%{quiz_title}\" Peux-tu faire mieux ?",
     "hashtag": "tests",
     "link": "Lien",
     "linkedin": "Partager",
