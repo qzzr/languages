@@ -4,11 +4,6 @@
     "try_alternate": "Prueba este",
     "try_preferred": "Vuelve al código de inserción recomendado"
   },
-  "embed": {
-    "trouble": "¿No puedes insertar el código?",
-    "alternate": "Prueba este",
-    "preferred": "Vuelve al código de inserción recomendado"
-  },
   "logo": {
     "made_with": "Hecho con"
   },
