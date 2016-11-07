@@ -75,6 +75,7 @@
     "times_taken": {
       "one": "Gjort %{smart_count} gång",
       "other": "Taken %{smart_count} gånger"
-    }
+    },
+    "view_results": "Se resultat"
   }
 }

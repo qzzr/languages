@@ -78,6 +78,7 @@
       "one": "Rađen %{smart_count} puta",
       "few": "Rađen %{smart_count} puta",
       "other": "Rađen %{smart_count} puta"
-    }
+    },
+    "view_results": "Преглед резултата"
   }
 }

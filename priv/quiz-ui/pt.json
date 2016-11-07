@@ -75,6 +75,7 @@
     "times_taken": {
       "one": "Respondido %{smart_count} vez",
       "other": "Respondido %{smart_count} vezes"
-    }
+    },
+    "view_results": "Ver resultados"
   }
 }

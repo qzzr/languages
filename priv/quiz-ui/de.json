@@ -75,6 +75,7 @@
     "times_taken": {
       "one": "%{smart_count} Mal beantwortet",
       "other": "%{smart_count} Mal beantwortet"
-    }
+    },
+    "view_results": "Ergebnisse anzeigen"
   }
 }

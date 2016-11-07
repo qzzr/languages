@@ -81,6 +81,7 @@
       "few": "Пройдено %{smart_count} раз",
       "many": "Пройдено %{smart_count} раз",
       "other": "Пройдено %{smart_count} раз"
-    }
+    },
+    "view_results": "Посмотреть Результаты"
   }
 }

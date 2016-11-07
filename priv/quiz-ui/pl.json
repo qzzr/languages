@@ -81,6 +81,7 @@
       "few": "Rozwiązny %{smart_count} razy",
       "many": "Rozwiązny %{smart_count} razy",
       "other": "Rozwiązny %{smart_count} razy"
-    }
+    },
+    "view_results": "Pokaż wyniki"
   }
 }

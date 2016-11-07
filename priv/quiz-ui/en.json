@@ -73,7 +73,6 @@
     "next_question": "Next question",
     "not_found": "This quiz is no longer available.",
     "not_found_mix_title": "Why not give one of these a go?",
-    "view_results": "View results",
     "question_count": {
       "one": "%{smart_count} question",
       "other": "%{smart_count} questions"
@@ -83,6 +82,7 @@
     "times_taken": {
       "one": "Taken %{smart_count} time",
       "other": "Taken %{smart_count} times"
-    }
+    },
+    "view_results": "View results"
   }
 }

@@ -70,6 +70,7 @@
     "tap_to_advance": "どこでもタップして先に進む",
     "times_taken": {
       "other": "回答数：%{smart_count}回"
-    }
+    },
+    "view_results": "結果の表示"
   }
 }

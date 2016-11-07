@@ -76,6 +76,7 @@
     "times_taken": {
       "one": "Hecha %{smart_count} vez",
       "other": "Hechas %{smart_count} veces"
-    }
+    },
+    "view-results": "Ver resultados"
   }
 }

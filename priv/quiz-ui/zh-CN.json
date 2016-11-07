@@ -72,6 +72,7 @@
     "tap_to_advance": "点击任意地方继续",
     "times_taken": {
       "other": "已被完成 %{smart_count} 次"
-    }
+    },
+    "view_results": "查看结果"
   }
 }

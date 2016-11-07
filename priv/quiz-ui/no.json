@@ -75,6 +75,7 @@
     "times_taken": {
       "one": "Tatt %{smart_count} gang",
       "other": "Tatt %{smart_count} ganger"
-    }
+    },
+    "view_results": "Vis resultater"
   }
 }

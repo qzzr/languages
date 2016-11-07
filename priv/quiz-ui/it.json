@@ -75,6 +75,7 @@
     "times_taken": {
       "one": "Svolto %{smart_count} volta",
       "other": "Svolto %{smart_count} volte"
-    }
+    },
+    "view_results": "vedi i risultati"
   }
 }

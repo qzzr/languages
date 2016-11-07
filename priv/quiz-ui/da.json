@@ -75,6 +75,7 @@
     "times_taken": {
       "one": "Taget %{smart_count} gang",
       "other": "Taget %{smart_count} gange"
-    }
+    },
+    "view_results": "Se resultater"
   }
 }
