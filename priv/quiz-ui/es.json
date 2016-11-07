@@ -4,6 +4,11 @@
     "try_alternate": "Prueba este",
     "try_preferred": "Vuelve al código de inserción recomendado"
   },
+  "embed": {
+    "trouble": "¿No puedes insertar el código?",
+    "alternate": "Prueba este",
+    "preferred": "Vuelve al código de inserción recomendado"
+  },
   "logo": {
     "made_with": "Hecho con"
   },
@@ -66,7 +71,6 @@
     "make_quiz_label_boombox": "Echa un vistazo a Boombox",
     "multiple_select": "Selecciona todas las que correspondan: ",
     "next_question": "Siguiente pregunta",
-    "view_results": "Ver resultados",
     "question_count": {
       "one": "%{smart_count} pregunta",
       "other": "%{smart_count} preguntas"
@@ -77,6 +81,6 @@
       "one": "Hecha %{smart_count} vez",
       "other": "Hechas %{smart_count} veces"
     },
-    "view-results": "Ver resultados"
+    "view_results": "Ver resultados"
   }
 }

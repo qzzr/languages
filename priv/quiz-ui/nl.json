@@ -66,7 +66,6 @@
     "make_quiz_label_boombox": "Check Boombox",
     "multiple_select": "Selecteer alles wat van toepassing is: ",
     "next_question": "Volgende vraag",
-    "view_results": "Bekijk resultaten",
     "question_count": {
       "one": "%{smart_count} vraag",
       "other": "%{smart_count} vragen"
@@ -76,6 +75,7 @@
     "times_taken": {
       "one": "%{smart_count} keer nodig gehad",
       "other": "%{smart_count} keer nodig gehad"
-    }
+    },
+    "view_results": "Bekijk resultaten"
   }
 }
