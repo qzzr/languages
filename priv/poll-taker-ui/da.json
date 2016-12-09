@@ -13,13 +13,13 @@
   },
   "collect_info": {
     "female": "Kvinde",
-    "how_old_are_you": "Hvor gammel er du?",
+    "how_old_are_you": "Alder:",
     "male": "Mand",
     "see_the_breakdown": "Se analysen",
     "skip": "Spring over",
     "subtitle": "Din information er anonym.",
     "title": "Se, hvordan du m\u00e5ler dig med resten af verden.",
-    "whats_your_gender": "Hvad er dit k\u00f8n?",
+    "whats_your_gender": "K\u00f8n:",
     "years": "\u00e5r"
   },
   "map": {
@@ -34,10 +34,10 @@
   },
   "question": {
     "by_categories": "efter omr\u00e5de, alder og k\u00f8n",
-    "see_the_breakdown": "SE ANALYSEN",
-    "vote_now": "stem nu",
+    "see_the_breakdown": "Se resultater ",
+    "vote_now": "Afstemning",
     "num_votes": {
-      "0": "Ingen stemmer",
+      "0": "Ingen stemmer endnu",
       "one": "1 stemme",
       "other": "%{count} stemmer"
     }
