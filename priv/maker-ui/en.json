@@ -163,6 +163,8 @@
     "bulleted_list_sublabel": "ex. Top vacation spots",
     "checkbox_quiz_label": "Checklist quiz",
     "checkbox_quiz_sublabel": "ex. How New Yorker are you?",
+    "quiz_label": "Graded or Outcome Quiz",
+    "quiz_sublabel": "ex. Which color are you?",
     "graded_quiz_label": "Graded quiz",
     "graded_quiz_sublabel": "ex. Where is this place?",
     "list_label": "List",
