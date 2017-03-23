@@ -4,5 +4,11 @@
     "log_out": "Log out",
     "privacy": "Privacy",
     "terms": "Terms"
-  }
+  },
+  "human_readable_numbers": {
+    "billion": "%{value}B",
+    "million": "%{value}M",
+    "thousand": "%{value}k",
+    "trillion": "%{value}T"
+  },
 }
