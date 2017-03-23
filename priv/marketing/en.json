@@ -10,5 +10,5 @@
     "million": "%{value}M",
     "thousand": "%{value}k",
     "trillion": "%{value}T"
-  },
+  }
 }
