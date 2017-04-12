@@ -20,15 +20,15 @@
     "default": "Kopier teksten"
   },
   "sharing": {
-    "caption": "WWW.BOOMBOX.COM",
+    "caption": "WWW.QZZR.COM",
     "description_default": "Sjekk denne listen.",
     "hashtags": "liste",
-    "title_default": "Sjekk %{title} p\u00e5 WWW.BOOMBOX.COM",
-    "twitter_title_default": "Sjekk %{title} p\u00e5 WWW.BOOMBOX.COM %{url}",
+    "title_default": "Sjekk %{title} p\u00e5 WWW.QZZR.COM",
+    "twitter_title_default": "Sjekk %{title} p\u00e5 WWW.QZZR.COM %{url}",
     "list_description": "Sjekk denne listen.",
     "list_hashtags": "liste",
-    "list_title": "Sjekk %{title} p\u00e5 WWW.BOOMBOX.COM",
-    "list_twitter_title": "Sjekk %{title} p\u00e5 WWW.BOOMBOX.COM",
+    "list_title": "Sjekk %{title} p\u00e5 WWW.QZZR.COM",
+    "list_twitter_title": "Sjekk %{title} p\u00e5 WWW.QZZR.COM",
     "share": "Del",
     "share_on": "Del p\u00e5 %{name}",
     "twitter_via": "BoomboxTeam"

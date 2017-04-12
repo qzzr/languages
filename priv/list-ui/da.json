@@ -20,15 +20,15 @@
     "default": "Kopi\u00e9r tekst"
   },
   "sharing": {
-    "caption": "WWW.BOOMBOX.COM",
+    "caption": "WWW.QZZR.COM",
     "description_default": "Se min liste",
     "hashtags": "liste",
-    "title_default": "Se ind p\u00e5 %{title} p\u00e5 WWW.BOOMBOX.COM",
-    "twitter_title_default": "Se ind p\u00e5 %{title} p\u00e5 WWW.BOOMBOX.COM %{url}",
+    "title_default": "Se ind p\u00e5 %{title} p\u00e5 WWW.QZZR.COM",
+    "twitter_title_default": "Se ind p\u00e5 %{title} p\u00e5 WWW.QZZR.COM %{url}",
     "list_description": "Se min liste",
     "list_hashtags": "liste",
-    "list_title": "Se ind p\u00e5 %{title} p\u00e5 WWW.BOOMBOX.COM",
-    "list_twitter_title": "Se ind p\u00e5 %{title} p\u00e5 WWW.BOOMBOX.COM",
+    "list_title": "Se ind p\u00e5 %{title} p\u00e5 WWW.QZZR.COM",
+    "list_twitter_title": "Se ind p\u00e5 %{title} p\u00e5 WWW.QZZR.COM",
     "share": "Del",
     "share_on": "Del p\u00e5 %{name}",
     "twitter_via": "BoomboxTeam"

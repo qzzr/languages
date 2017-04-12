@@ -20,15 +20,15 @@
     "default": "Skop\u00edrova\u0165 text"
   },
   "sharing": {
-    "caption": "WWW.BOOMBOX.COM",
+    "caption": "WWW.QZZR.COM",
     "description_default": "Pozrite si tento zoznam.",
     "hashtags": "zoznam",
-    "title_default": "Pozrite si %{title} na WWW.BOOMBOX.COM",
-    "twitter_title_default": "Pozrite si %{title} na WWW.BOOMBOX.COM %{url}",
+    "title_default": "Pozrite si %{title} na WWW.QZZR.COM",
+    "twitter_title_default": "Pozrite si %{title} na WWW.QZZR.COM %{url}",
     "list_description": "Pozrite si tento zoznam.",
     "list_hashtags": "zoznam",
-    "list_title": "Pozrite si %{title} na WWW.BOOMBOX.COM",
-    "list_twitter_title": "Pozrite si %{title} na WWW.BOOMBOX.COM",
+    "list_title": "Pozrite si %{title} na WWW.QZZR.COM",
+    "list_twitter_title": "Pozrite si %{title} na WWW.QZZR.COM",
     "share": "Zdie\u013ea\u0165",
     "share_on": "Zdie\u013ea\u0165 cez %{name}",
     "twitter_via": "BoomboxTeam"

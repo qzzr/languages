@@ -20,15 +20,15 @@
     "default": "Salin teks"
   },
   "sharing": {
-    "caption": "WWW.BOOMBOX.COM",
+    "caption": "WWW.QZZR.COM",
     "description_default": "Lihatlah daftar ini.",
     "hashtags": "daftar",
-    "title_default": "Lihatlah %{title} di WWW.BOOMBOX.COM",
-    "twitter_title_default": "Lihatlah %{title} di WWW.BOOMBOX.COM %{url}",
+    "title_default": "Lihatlah %{title} di WWW.QZZR.COM",
+    "twitter_title_default": "Lihatlah %{title} di WWW.QZZR.COM %{url}",
     "list_description": "Lihatlah daftar ini.",
     "list_hashtags": "daftar",
-    "list_title": "Lihatlah %{title} di WWW.BOOMBOX.COM",
-    "list_twitter_title": "Lihatlah %{title} di WWW.BOOMBOX.COM",
+    "list_title": "Lihatlah %{title} di WWW.QZZR.COM",
+    "list_twitter_title": "Lihatlah %{title} di WWW.QZZR.COM",
     "share": "Bagikan",
     "share_on": "Bagikan di %{name}",
     "twitter_via": "BoomboxTeam"

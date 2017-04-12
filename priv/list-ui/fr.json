@@ -20,15 +20,15 @@
     "default": "Copier le texte"
   },
   "sharing": {
-    "caption": "WWW.BOOMBOX.COM",
+    "caption": "WWW.QZZR.COM",
     "description_default": "D\u00e9couvrir cette liste.",
     "hashtags": "liste",
-    "title_default": "D\u00e9couvrez %{title} sur WWW.BOOMBOX.COM",
-    "twitter_title_default": "D\u00e9couvrez %{title} sur WWW.BOOMBOX.COM %{url}",
+    "title_default": "D\u00e9couvrez %{title} sur WWW.QZZR.COM",
+    "twitter_title_default": "D\u00e9couvrez %{title} sur WWW.QZZR.COM %{url}",
     "list_description": "D\u00e9couvrir cette liste.",
     "list_hashtags": "liste",
-    "list_title": "D\u00e9couvrez %{title} sur WWW.BOOMBOX.COM",
-    "list_twitter_title": "D\u00e9couvrez %{title} sur WWW.BOOMBOX.COM",
+    "list_title": "D\u00e9couvrez %{title} sur WWW.QZZR.COM",
+    "list_twitter_title": "D\u00e9couvrez %{title} sur WWW.QZZR.COM",
     "share": "Partager",
     "share_on": "Partager sur %{name}",
     "twitter_via": "BoomboxTeam"

@@ -20,15 +20,15 @@
     "default": "Kopiraj besedilo"
   },
   "sharing": {
-    "caption": "WWW.BOOMBOX.COM",
+    "caption": "WWW.QZZR.COM",
     "description_default": "Oglej si ta seznam.",
     "hashtags": "seznam",
-    "title_default": "Oglej si %{title} na WWW.BOOMBOX.COM",
-    "twitter_title_default": "Oglej si %{title} na WWW.BOOMBOX.COM %{url}",
+    "title_default": "Oglej si %{title} na WWW.QZZR.COM",
+    "twitter_title_default": "Oglej si %{title} na WWW.QZZR.COM %{url}",
     "list_description": "Oglej si ta seznam.",
     "list_hashtags": "seznam",
-    "list_title": "Oglej si %{title} na WWW.BOOMBOX.COM",
-    "list_twitter_title": "Oglej si %{title} na WWW.BOOMBOX.COM",
+    "list_title": "Oglej si %{title} na WWW.QZZR.COM",
+    "list_twitter_title": "Oglej si %{title} na WWW.QZZR.COM",
     "share": "Deli",
     "share_on": "Deli na: %{name}",
     "twitter_via": "BoomboxTeam"

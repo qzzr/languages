@@ -20,15 +20,15 @@
     "default": "Kopioi teksti"
   },
   "sharing": {
-    "caption": "WWW.BOOMBOX.COM",
+    "caption": "WWW.QZZR.COM",
     "description_default": "Katso t\u00e4m\u00e4 lista.",
     "hashtags": "lista",
-    "title_default": "K\u00e4y katsomassa %{title} sivustolla WWW.BOOMBOX.COM",
-    "twitter_title_default": "K\u00e4y katsomassa %{title} sivustolla WWW.BOOMBOX.COM %{url}",
+    "title_default": "K\u00e4y katsomassa %{title} sivustolla WWW.QZZR.COM",
+    "twitter_title_default": "K\u00e4y katsomassa %{title} sivustolla WWW.QZZR.COM %{url}",
     "list_description": "Katso t\u00e4m\u00e4 lista.",
     "list_hashtags": "lista",
-    "list_title": "K\u00e4y katsomassa %{title} sivustolla WWW.BOOMBOX.COM",
-    "list_twitter_title": "K\u00e4y katsomassa %{title} sivustolla WWW.BOOMBOX.COM",
+    "list_title": "K\u00e4y katsomassa %{title} sivustolla WWW.QZZR.COM",
+    "list_twitter_title": "K\u00e4y katsomassa %{title} sivustolla WWW.QZZR.COM",
     "share": "Jaa",
     "share_on": "Jaa: %{name}",
     "twitter_via": "BoomboxTeam"

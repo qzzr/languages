@@ -20,15 +20,15 @@
     "default": "\ud14d\uc2a4\ud2b8 \ubcf5\uc0ac"
   },
   "sharing": {
-    "caption": "WWW.BOOMBOX.COM",
+    "caption": "WWW.QZZR.COM",
     "description_default": "\uc774 \ubaa9\ub85d\uc744 \ud655\uc778\ud574\ubcf4\uc138\uc694.",
     "hashtags": "\ubaa9\ub85d",
-    "title_default": "WWW.BOOMBOX.COM\uc5d0\uc11c %{title}\uc744(\ub97c) \ud655\uc778\ud574\ubcf4\uc138\uc694.",
-    "twitter_title_default": "WWW.BOOMBOX.COM %{url}\uc5d0\uc11c %{title}\uc744(\ub97c) \ud655\uc778\ud574\ubcf4\uc138\uc694.",
+    "title_default": "WWW.QZZR.COM\uc5d0\uc11c %{title}\uc744(\ub97c) \ud655\uc778\ud574\ubcf4\uc138\uc694.",
+    "twitter_title_default": "WWW.QZZR.COM %{url}\uc5d0\uc11c %{title}\uc744(\ub97c) \ud655\uc778\ud574\ubcf4\uc138\uc694.",
     "list_description": "\uc774 \ubaa9\ub85d\uc744 \ud655\uc778\ud574\ubcf4\uc138\uc694.",
     "list_hashtags": "\ubaa9\ub85d",
-    "list_title": "WWW.BOOMBOX.COM\uc5d0\uc11c %{title}\uc744(\ub97c) \ud655\uc778\ud574\ubcf4\uc138\uc694.",
-    "list_twitter_title": "WWW.BOOMBOX.COM\uc5d0\uc11c %{title}\uc744(\ub97c) \ud655\uc778\ud574\ubcf4\uc138\uc694.",
+    "list_title": "WWW.QZZR.COM\uc5d0\uc11c %{title}\uc744(\ub97c) \ud655\uc778\ud574\ubcf4\uc138\uc694.",
+    "list_twitter_title": "WWW.QZZR.COM\uc5d0\uc11c %{title}\uc744(\ub97c) \ud655\uc778\ud574\ubcf4\uc138\uc694.",
     "share": "\uacf5\uc720",
     "share_on": "%{name}\uc5d0\uc11c \uacf5\uc720",
     "twitter_via": "BoomboxTeam"

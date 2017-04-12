@@ -20,15 +20,15 @@
     "default": "Metni kopyala"
   },
   "sharing": {
-    "caption": "WWW.BOOMBOX.COM",
+    "caption": "WWW.QZZR.COM",
     "description_default": "\u015eu listeye bir g\u00f6z at.",
     "hashtags": "liste",
-    "title_default": "WWW.BOOMBOX.COM'da %{title}'a bir g\u00f6z at",
-    "twitter_title_default": "WWW.BOOMBOX.COM %{url}adresinde %{title}'a bir g\u00f6z at",
+    "title_default": "WWW.QZZR.COM'da %{title}'a bir g\u00f6z at",
+    "twitter_title_default": "WWW.QZZR.COM %{url}adresinde %{title}'a bir g\u00f6z at",
     "list_description": "\u015eu listeye bir g\u00f6z at.",
     "list_hashtags": "liste",
-    "list_title": "WWW.BOOMBOX.COM'da %{title}'a bir g\u00f6z at",
-    "list_twitter_title": "WWW.BOOMBOX.COM'da %{title}'a bir g\u00f6z at",
+    "list_title": "WWW.QZZR.COM'da %{title}'a bir g\u00f6z at",
+    "list_twitter_title": "WWW.QZZR.COM'da %{title}'a bir g\u00f6z at",
     "share": "Payla\u015f",
     "share_on": "\u015eurada payla\u015f: %{name}",
     "twitter_via": "BoomboxTeam"

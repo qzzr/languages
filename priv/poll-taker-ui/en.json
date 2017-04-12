@@ -57,11 +57,7 @@
     "default": "Copy text"
   },
   "sharing": {
-    "caption": {
-      "pollcaster": "WWW.POLLCASTER.COM",
-      "boombox": "WWW.BOOMBOX.COM"
-    },
-    "boombox-caption": "WWW.BOOMBOX.COM",
+    "caption" : "WWW.QZZR.COM",
     "description": "%{option1} or %{option2}",
     "hashtags": "poll",
     "title": "Vote now: %{title}",

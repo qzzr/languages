@@ -20,15 +20,15 @@
     "default": "Kopieer tekst"
   },
   "sharing": {
-    "caption": "WWW.BOOMBOX.COM",
+    "caption": "WWW.QZZR.COM",
     "description_default": "Check deze lijst.",
     "hashtags": "lijst",
-    "title_default": "Check %{title} op WWW.BOOMBOX.COM",
-    "twitter_title_default": "Check %{title} op WWW.BOOMBOX.COM %{url}",
+    "title_default": "Check %{title} op WWW.QZZR.COM",
+    "twitter_title_default": "Check %{title} op WWW.QZZR.COM %{url}",
     "list_description": "Check deze lijst.",
     "list_hashtags": "lijst",
-    "list_title": "Check %{title} op WWW.BOOMBOX.COM",
-    "list_twitter_title": "Check %{title} op WWW.BOOMBOX.COM",
+    "list_title": "Check %{title} op WWW.QZZR.COM",
+    "list_twitter_title": "Check %{title} op WWW.QZZR.COM",
     "share": "Delen",
     "share_on": "Deel op %{name}",
     "twitter_via": "BoomboxTeam"

@@ -20,15 +20,15 @@
     "default": "Kopiraj tekst"
   },
   "sharing": {
-    "caption": "WWW.BOOMBOX.COM",
+    "caption": "WWW.QZZR.COM",
     "description_default": "Provjeri ovaj popis",
     "hashtags": "popis",
-    "title_default": "Provjeri %{title} na WWW.BOOMBOX.COM",
-    "twitter_title_default": "Provjeri %{title} na WWW.BOOMBOX.COM %{url}",
+    "title_default": "Provjeri %{title} na WWW.QZZR.COM",
+    "twitter_title_default": "Provjeri %{title} na WWW.QZZR.COM %{url}",
     "list_description": "Provjeri ovaj popis",
     "list_hashtags": "popis",
-    "list_title": "Provjeri %{title} na WWW.BOOMBOX.COM",
-    "list_twitter_title": "Provjeri %{title} na WWW.BOOMBOX.COM",
+    "list_title": "Provjeri %{title} na WWW.QZZR.COM",
+    "list_twitter_title": "Provjeri %{title} na WWW.QZZR.COM",
     "share": "Dijeli",
     "share_on": "Dijeli na %{name}",
     "twitter_via": "BoomboxTeam"
