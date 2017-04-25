@@ -47,11 +47,7 @@
     "default": "Kopiera text"
   },
   "sharing": {
-    "caption": {
-      "pollcaster": "WWW.POLLCASTER.COM",
-      "boombox": "WWW.BOOMBOX.COM"
-    },
-    "boombox-caption": "WWW.BOOMBOX.COM",
+    "caption": "WWW.QZZR.COM",
     "description": "%{option1} eller %{option2}",
     "hashtags": "omr\u00f6stning",
     "title": "R\u00f6sta nu: %{title}",

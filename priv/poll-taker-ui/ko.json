@@ -47,11 +47,7 @@
     "default": "\ud14d\uc2a4\ud2b8 \ubcf5\uc0ac"
   },
   "sharing": {
-    "caption": {
-      "pollcaster": "WWW.POLLCASTER.COM",
-      "boombox": "WWW.BOOMBOX.COM"
-    },
-    "boombox-caption": "WWW.BOOMBOX.COM",
+    "caption": "WWW.QZZR.COM",
     "description": "%{option1} \ub610\ub294 %{option2}",
     "hashtags": "\uc124\ubb38\uc870\uc0ac",
     "title": "\ud22c\ud45c \ucc38\uc5ec: %{title}",

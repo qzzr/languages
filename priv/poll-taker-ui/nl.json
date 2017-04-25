@@ -47,11 +47,7 @@
     "default": "Tekst kopi\u00ebren"
   },
   "sharing": {
-    "caption": {
-      "pollcaster": "WWW.POLLCASTER.COM",
-      "boombox": "WWW.BOOMBOX.COM"
-    },
-    "boombox-caption": "WWW.BOOMBOX.COM",
+    "caption": "WWW.QZZR.COM",
     "description": "%{option1} of %{option2}",
     "hashtags": "poll",
     "title": "Stem nu: %{title}",

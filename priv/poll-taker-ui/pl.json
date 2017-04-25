@@ -49,11 +49,7 @@
     "default": "Skopiuj tekst"
   },
   "sharing": {
-    "caption": {
-      "pollcaster": "WWW.POLLCASTER.COM",
-      "boombox": "WWW.BOOMBOX.COM"
-    },
-    "boombox-caption": "WWW.BOOMBOX.COM",
+    "caption": "WWW.QZZR.COM",
     "description": "%{option1} lub %{option2}",
     "hashtags": "g\u0142osowanie",
     "title": "Zag\u0142osuj teraz: %{title}",

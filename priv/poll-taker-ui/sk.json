@@ -49,11 +49,7 @@
     "default": "Kop\u00edrova\u0165 text"
   },
   "sharing": {
-    "caption": {
-      "pollcaster": "WWW.POLLCASTER.COM",
-      "boombox": "WWW.BOOMBOX.COM"
-    },
-    "boombox-caption": "WWW.BOOMBOX.COM",
+    "caption": "WWW.QZZR.COM",
     "description": "%{option1} alebo %{option2}",
     "hashtags": "prieskum",
     "title": "Hlasova\u0165: %{title}",

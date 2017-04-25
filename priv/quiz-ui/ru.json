@@ -65,7 +65,6 @@
     "incorrect-feedback": "Неверно: %{feedback}",
     "make_quiz": "Хотите создать свой тест бесплатно?",
     "make_quiz_label": "Воспользуйтесь Qzzr",
-    "make_quiz_label_boombox": "Воспользуйтесь Boombox",
     "multiple_select": "Выберите все подходящие варианты:",
     "next_question": "Следующий вопрос",
     "question_count": {

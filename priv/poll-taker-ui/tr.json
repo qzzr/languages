@@ -47,11 +47,7 @@
     "default": "Metni kopyala"
   },
   "sharing": {
-    "caption": {
-      "pollcaster": "WWW.POLLCASTER.COM",
-      "boombox": "WWW.BOOMBOX.COM"
-    },
-    "boombox-caption": "WWW.BOOMBOX.COM",
+    "caption": "WWW.QZZR.COM",
     "description": "%{option1} ya da %{option2}",
     "hashtags": "anket",
     "title": "\u015eimdi oyla: %{title}",

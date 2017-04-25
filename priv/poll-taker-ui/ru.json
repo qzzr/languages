@@ -49,11 +49,7 @@
     "default": "\u0421\u043a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0442\u0435\u043a\u0441\u0442"
   },
   "sharing": {
-    "caption": {
-      "pollcaster": "WWW.POLLCASTER.COM",
-      "boombox": "WWW.BOOMBOX.COM"
-    },
-    "boombox-caption": "WWW.BOOMBOX.COM",
+    "caption": "WWW.QZZR.COM",
     "description": "%{option1} \u0438\u043b\u0438 %{option2}",
     "hashtags": "\u043e\u043f\u0440\u043e\u0441",
     "title": "\u0413\u043e\u043b\u043e\u0441\u043e\u0432\u0430\u0442\u044c: %{title}",

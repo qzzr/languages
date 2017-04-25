@@ -63,7 +63,6 @@
     "incorrect-feedback": "Fel: %{feedback}",
     "make_quiz": "Vill du göra din egen frågesport gratis?",
     "make_quiz_label": "Kolla in qzzr",
-    "make_quiz_label_boombox": "Kolla in Boombox",
     "multiple_select": "Välj alla rätta svar: ",
     "next_question": "Nästa fråga",
     "question_count": {

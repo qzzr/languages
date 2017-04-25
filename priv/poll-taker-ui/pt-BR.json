@@ -47,11 +47,7 @@
     "default": "Copiar texto"
   },
   "sharing": {
-    "caption": {
-      "pollcaster": "WWW.POLLCASTER.COM",
-      "boombox": "WWW.BOOMBOX.COM"
-    },
-    "boombox-caption": "WWW.BOOMBOX.COM",
+    "caption": "WWW.QZZR.COM",
     "description": "%{option1}\u00a0ou\u00a0%{option2}",
     "hashtags": "pesquisa",
     "title": "Vote agora: %{title}",

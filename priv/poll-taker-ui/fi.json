@@ -47,11 +47,7 @@
     "default": "Kopioi teksti"
   },
   "sharing": {
-    "caption": {
-      "pollcaster": "WWW.POLLCASTER.COM",
-      "boombox": "WWW.BOOMBOX.COM"
-    },
-    "boombox-caption": "WWW.BOOMBOX.COM",
+    "caption": "WWW.QZZR.COM",
     "description": "%{option1} vai %{option2}",
     "hashtags": "\u00e4\u00e4nestys",
     "title": "\u00c4\u00e4nest\u00e4 nyt: %{title}",

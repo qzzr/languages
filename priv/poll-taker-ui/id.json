@@ -47,11 +47,7 @@
     "default": "Salin teks"
   },
   "sharing": {
-    "caption": {
-      "pollcaster": "WWW.POLLCASTER.COM",
-      "boombox": "WWW.BOOMBOX.COM"
-    },
-    "boombox-caption": "WWW.BOOMBOX.COM",
+    "caption": "WWW.QZZR.COM",
     "description": "%{option1} atau %{option2}",
     "hashtags": "polling",
     "title": "Berikan suara sekarang: %{title}",

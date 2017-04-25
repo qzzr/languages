@@ -3,8 +3,6 @@
     "edit_profile": "Edit settings",
     "edit_hubs": "Edit hubs",
     "edit_settings": "Edit settings",
-    "log_into_qzzr": "Log into Qzzr",
-    "log_into_pollcaster": "Log into Pollcaster",
     "log_out": "Log out",
     "privacy": "Privacy",
     "terms": "Terms"
@@ -41,7 +39,6 @@
   "account_settings": {
     "billing_failed": "An error occured while updating your billing information",
     "billing_updated": "Billing information has been updated!",
-    "boombox_plan_login": "It looks like you now have a Boombox plan.\n%{link: Log in to Boombox} using your same credentials.",
     "change_roles_ad_label": "Lock down access & change roles in your organization",
     "changes_saved": "Changes saved",
     "email_label": "Email address",
@@ -65,7 +62,7 @@
     "notification_profile_changes_success": "Changes saved",
     "notification_profile_changes_duplicate_email": "Someone is already using that email. Please try a different one.",
     "notification_removed_from_hub": "You were removed from %{hubName}",
-    "page_title": "Settings · %{brand}",
+    "page_title": "Settings · Qzzr",
     "password_label": "Change password",
     "password_placeholder": "8 characters minimum",
     "picture": "Profile picture",
@@ -119,7 +116,7 @@
     "secure_server": "You're using our secure server",
     "submit_upgrade_label": "Upgrade",
     "terms_of_service": "By signing up, you agree to %{terms}.",
-    "terms_of_service_terms": "%{product}'s terms of service",
+    "terms_of_service_terms": "Qzzr's terms of service",
     "upgrade_plan": "Change plan to %{plan}"
   },
   "add_option": {
@@ -131,13 +128,6 @@
     "update_info": "Update billing info",
     "submit": "Submit",
     "success_message": "Successfully updated credit card"
-  },
-  "boombox_redirect": {
-    "go": "Take me to boombox",
-    "info": "Boombox is a creative toolbox for serious publishers brought to you by the same team who brought you Qzzr.  It contains a bevy of world-class engagement tools (including Qzzr).  Great for teams, Boombox allows you to share, re-purpose, and collaborate on the same pool of creations.",
-    "subtitle": "Qzzr Enterprise is now Boombox.",
-    "summary": "Because you believed in us through Qzzr, we're upgrading you (at no extra charge) as an expression of our gratitude.",
-    "title": "Crank up the volume!"
   },
   "breakdown": {
     "by_age": "BY AGE",
@@ -155,10 +145,7 @@
     "create": "Add Outcome"
   },
   "create_dropdown": {
-    "button_tooltip": {
-      "default": "Create something engaging",
-      "qzzr": "Create your first quiz"
-    },
+    "button_tooltip": "Create your first quiz",
     "bulleted_list_label": "Unranked list",
     "bulleted_list_sublabel": "ex. Top vacation spots",
     "checkbox_quiz_label": "Checklist quiz",
@@ -190,8 +177,7 @@
     "toolbar_create_poll": "Poll",
     "toolbar_create_quiz": "Quiz",
     "unlock_polls_label": "Unlock polls & lists",
-    "unlock_quizzes_label": "Unlock quizzes & lists",
-    "upgrade_boombox_label": "Upgrade to Boombox"
+    "unlock_quizzes_label": "Unlock quizzes & lists"
   },
   "custom_font": {
     "description": "Have a custom font you'd like to use across all your content? Paste the same @font-face CSS code from your website. %{learn_more: Learn more about implementing custom fonts}",
@@ -214,7 +200,7 @@
   "hubs": {
     "home_icon_tooltip": "Go to dashboard",
     "invite_icon_tooltip": "Invite",
-    "page_title": "%{hubName : Untitled} · Hub · %{brand}",
+    "page_title": "%{hubName : Untitled} · Hub · Qzzr",
     "untitled_hub_label": "Untitled hub"
   },
   "hubs_hubs": {
@@ -330,7 +316,7 @@
   },
   "receipt": {
     "receipt": "Receipt",
-    "subheading": "We received payment for your %{product} subscription. Thanks for your business! Questions? Contact us anytime at ",
+    "subheading": "We received payment for your Qzzr subscription. Thanks for your business! Questions? Contact us anytime at ",
     "date": "Date",
     "account_billed": "Account billed",
     "plan": "Plan",
@@ -343,23 +329,12 @@
     "all_content": "All content",
     "billing_address_success": "Your billing address was successfully updated!",
     "billing_address_error": "An error occured while updating your billing address, please %{edit_billing: click to update your billing information}",
-    "boombox_ad_create": "Learn more",
-    "boombox_ad_text": "Create, share, re-purpose, and collaborate on all your content in one place.",
-    "boombox_ad_text_pollcaster": "Create polls and quizzes in one place and collaborate with your team.",
-    "boombox_ad_text_qzzr": "Create quizzes and polls in one place and collaborate with your team.",
     "confirm_dropdown_confirm_label": "Confirm deletion",
     "confirm_dropdown_cancel_label": "Cancel",
     "hub_created": "Hub created",
     "side_link_create_hubs_subtitle": "Collaborate with others",
     "side_link_create_hubs_title": "Create a hub",
-    "sidebar_ad_title": {
-      "boombox": "Kick it up a notch"
-    },
-    "sidebar_ad_label": {
-      "pollcaster": "Create polls and quizzes in one place and collaborate with your team.",
-      "qzzr": "Create quizzes and polls in one place and collaborate with your team.",
-      "boombox": "Upgrade to reduce Boombox branding, generate leads, use integrations, boost your content, export data & more"
-    },
+    "sidebar_ad_label":  "Create quizzes and polls in one place and collaborate with your team.",
     "side_organization_label": "Your organization",
     "cancel": "Cancel",
     "cc_form_billing_address": "Billing address",
@@ -411,8 +386,8 @@
     "no_hub_access_title": "It looks like you no longer have access to this hub",
     "notification_move_content_success": "%{contentTitle : Untitled} moved to %{hubName : Untitled}",
     "notification_removed_from_hub": "You were removed from %{hubName}",
-    "page_title_hub": "%{hubName : Untitled} Dashboard · %{brand}",
-    "page_title_user": "Dashboard · %{brand}",
+    "page_title_hub": "%{hubName : Untitled} Dashboard · Qzzr",
+    "page_title_user": "Dashboard · Qzzr",
     "press_enter": "Press enter to send",
     "published": "Published",
     "qzzr_ad_create": "Create a Quiz",
@@ -437,11 +412,7 @@
     "side_ads_heading_full_platform": "The full interactive platform",
     "side_ads_heading_upgrade_qzzr_pro": "Upgrade to Pro",
     "side_ads_heading_kick_it": "Kick it up a notch",
-    "side_ads_subheading": {
-      "pollcaster": "Create polls and quizzes in one place and collaborate with your team.",
-      "qzzr": "Create quizzes and polls in one place and collaborate with your team.",
-      "boombox": "Upgrade to reduce Boombox branding, generate leads, use integrations, boost your content, export data & more"
-    },
+    "side_ads_subheading": "Create quizzes and polls in one place and collaborate with your team.",
     "side_filter_by_account": "Created by you",
     "side_invite_members": "Invite",
     "side_link_create_organization": "Create an organization",
@@ -463,17 +434,8 @@
     "tips_learn_offers": "Learn more about leads & offers",
     "tips_poll_tour": "Take a tour of our poll editor",
     "tips_quiz_tour": "Take a tour of our quiz editor",
-    "title": {
-      "boombox": "Boombox",
-      "enterprise": "Qzzr",
-      "pollcaster": "Pollcaster",
-      "qzzr": "Qzzr"
-    },
-    "tour_description": {
-      "boombox": "Take a tour of Boombox in this six-minute video to discover everything you can do with your new account.",
-      "pollcaster": "In this two-minute video you’ll learn some tips on creating a poll and embedding it on your site.",
-      "qzzr": "Take a tour of Qzzr in this six-minute video to discover everything you can do with your new account."
-    },
+    "title": "Qzzr",
+    "tour_description": "Take a tour of Qzzr in this six-minute video to discover everything you can do with your new account.",
     "tour_label": "Watch video",
     "tour_title": "Take a tour",
     "update_billing_please": "Aw shucks. Looks like there’s something is wrong with your billing information. Please update your billing address to continue.",
@@ -482,81 +444,23 @@
     "webinar_label": "Watch webinar",
     "webinar_title": "Make your polls remarkable",
     "your_account": "your account",
-    "zero_state_header": {
-      "boombox": "Welcome to Boombox.",
-      "enterprise": "Welcome to Qzzr.",
-      "pollcaster": "Welcome to Pollcaster.",
-      "qzzr": "Welcome to Qzzr."
-    },
-    "zero_state_sub_header": {
-      "boombox": "Create a quiz, poll, or list. It's fast and easy.",
-      "enterprise": "Create a quiz or a poll. It's fast and easy.",
-      "pollcaster": "Create your first poll. It's fast and easy.",
-      "qzzr": "Create your first quiz. It's fast and easy."
-    },
-    "zero_state_welcome_header": {
-      "boombox": "Welcome to Boombox",
-      "pollcaster": "Welcome to Pollcaster",
-      "qzzr": "Welcome to Qzzr"
-    },
+    "zero_state_header": "Welcome to Qzzr.",
+    "zero_state_sub_header": "Create your first quiz. It's fast and easy.",
+    "zero_state_welcome_header": "Welcome to Qzzr",
     "zero_state_invite_people": "Get your teamwork on %{inviteLink: invite people}",
-    "zero_state_welcome_description": {
-      "boombox": "Take a tour in this six-minute video to discover everything you can do with your new account, or start your first quiz, poll, or list with the %{icon} in the lower right corner.",
-      "qzzr": "Take a tour in this six-minute video to discover everything you can do with your new account, or start your first quiz with the %{icon} in the lower right corner.",
-      "pollcaster": "Take a tour in this six-minute video to discover everything you can do with your new account, or start your first poll with the %{icon} in the lower right corner."
-    },
+    "zero_state_welcome_description": "Take a tour in this six-minute video to discover everything you can do with your new account, or start your first quiz with the %{icon} in the lower right corner.",
     "zero_state_drafts_title": "Drafts",
-    "zero_state_drafts_example_1": {
-      "boombox": "ex. How well do you ACTUALLY know ___?",
-      "qzzr": "ex. How well do you ACTUALLY know ___?",
-      "pollcaster": "ex. Twizzlers or Red Vines?"
-    },
-    "zero_state_drafts_example_2": {
-      "boombox": "ex. The top 10 ___",
-      "qzzr": "ex. Which ___ are you?",
-      "pollcaster": "ex. Which team is going to win the championship?"
-    },
+    "zero_state_drafts_example_1": "ex. How well do you ACTUALLY know ___?",
+    "zero_state_drafts_example_2": "ex. Which ___ are you?",
     "zero_state_published_title": "Published",
-    "zero_state_published_example_1": {
-      "boombox": "ex. Which character from ___ are you?",
-      "qzzr": "ex. Which character from ___ are you?",
-      "pollcaster": "ex. Paul, John, George, or Ringo?"
-    },
-    "zero_state_published_example_2": {
-      "boombox": "ex. Taylor or Kanye?",
-      "qzzr": "ex. The Ultimate ___ Quiz",
-      "pollcaster": "ex. Taylor or Kanye?"
-    },
-    "zero_state_published_example_3": {
-      "boombox": "ex. The worst movies of the decade",
-      "qzzr": "ex. The Hardest ___ Quiz",
-      "pollcaster": "ex. Which is better: beats or bears?"
-    },
-    "zero_state_published_example_4": {
-      "boombox": "ex. Where should you go on vacation?",
-      "qzzr": "ex. Where should you go on vacation?",
-      "pollcaster": "ex. What's your favorite ___?"
-    },
-    "zero_state_published_example_5": {
-      "boombox": "ex. The world's hardest ___ quiz",
-      "qzzr": "ex. Which character from ___ are you?",
-      "pollcaster": "ex. Who should win the Emmy?"
-    },
-    "zero_state_published_example_6": {
-      "boombox": "ex. Can you name this ___?",
-      "qzzr": "ex. Can you name this ___?",
-      "pollcaster": "ex. What's the best vacation spot?"
-    },
-    "zero_state_published_example_7": {
-      "boombox": "ex. Who was the best dressed?",
-      "qzzr": "ex. Which TV show should you watch?",
-      "pollcaster": "ex. Who was the best dressed?"
-    },
-    "zero_state_published_example_8": {
-      "boombox": "ex. Batman or Superman?",
-      "qzzr": "ex. 11 questions everyone should be able to answer",
-      "pollcaster": "ex. What's the most overrated?"
-    },
+    "zero_state_published_example_1": "ex. Which character from ___ are you?",
+    "zero_state_published_example_2": "ex. The Ultimate ___ Quiz",
+    "zero_state_published_example_3": "ex. The Hardest ___ Quiz",
+    "zero_state_published_example_4": "ex. Where should you go on vacation?",
+    "zero_state_published_example_5": "ex. Which character from ___ are you?",
+    "zero_state_published_example_6": "ex. Can you name this ___?",
+    "zero_state_published_example_7": "ex. Which TV show should you watch?",
+    "zero_state_published_example_8": "ex. 11 questions everyone should be able to answer",
     "zero_state_quiz_tour": "Quiz Tour",
     "zero_state_poll_tour": "Poll Tour"
   },
@@ -624,7 +528,7 @@
     "offers_ad_label": "Get leads, link to special offers, and get likes for your Facebook page",
     "offers_ad_title": "Unlock offers",
     "option_placeholder": "Enter an option",
-    "page_title": "%{name : Untitled} · %{type} · %{brand}",
+    "page_title": "%{name : Untitled} · %{type} · Qzzr",
     "poll_option_delete_confirm_cancel_label" : "Cancel",
     "poll_option_delete_confirm_confirm_label" : "Delete",
     "poll_option_delete_confirm_message": "Are you sure you want to delete this option?",
@@ -671,7 +575,7 @@
     "check_later": "Check back later...",
     "embed_preview": "Embed preview",
     "list": "List",
-    "page_title": "%{name : Untitled} · Overview · %{brand}",
+    "page_title": "%{name : Untitled} · Overview · Qzzr",
     "page_label": "Overview",
     "published": "Poll published",
     "published_subtext": "Now share it with the world.",
@@ -770,18 +674,13 @@
   },
   "social": {
     "__comment__": "this block mirrors qzzr-api translations for overview page",
-    "boombox-caption": "Made with Boombox",
-    "boombox-description": "Make your own quizzes and other interactive content for free on Boombox.",
     "caption": "Made with Qzzr",
     "description": "Make your own quizzes for free on Qzzr, the world's simplest quiz tool.",
     "hashtag": "quizzes",
     "quiz": "Check out \"%{quiz_title}\""
   },
   "sharing": {
-    "caption": {
-      "pollcaster": "WWW.POLLCASTER.COM",
-      "boombox": "WWW.BOOMBOX.COM"
-    },
+    "caption": "WWW.QZZR.COM",
     "description": "%{option1} or %{option2}",
     "hashtags": "poll",
     "title": "Vote now: %{title}",
@@ -872,7 +771,7 @@
     "offer_conversions": "Link conversions",
     "offer_conversions_tooltip": "Number of times a person clicked through the custom link at the end of the quiz.",
     "outcomes": "Outcomes",
-    "page_title": "%{name : Untitled} · %{type} · %{brand}",
+    "page_title": "%{name : Untitled} · %{type} · Qzzr",
     "score_distribution_tooltip": "Percentage breakdown of how a question was answered. On graded quizzes, the percentage who answered correct is also shown.",
     "shares_tooltip": "Number of times a share button on the widget was pressed.",
     "starts_tooltip": "Number of times the quiz was first engaged with.",
@@ -1138,7 +1037,7 @@
     "account_email_label": "Email address",
     "account_heading": "Account settings",
     "account_name_label": "Full name",
-    "account_page_title": "%{brand}",
+    "account_page_title": "Qzzr",
     "account_password_label": "Change password",
     "account_password_placeholder": "8 characters minimum",
     "account_picture": "Profile picture",
@@ -1271,7 +1170,7 @@
     "free_plan": "Free",
     "heading": "Account settings",
     "name_label": "Full name",
-    "page_title": "%{brand}",
+    "page_title": "Qzzr",
     "password_confirm_label": "Confirm new password",
     "password_confirm_placeholder": "New password",
     "password_gate_label": "Password",
@@ -1286,61 +1185,5 @@
     "upload_avatar": "Upload avatar",
     "uploading_image": "Uploading: %{progress}%",
     "view_billing_history": "View billing history"
-  },
-  "search_parameters": {
-    "query": "Query",
-    "filter": "Filter",
-    "search_options": "Search Options",
-    "by_you": "By You",
-    "all": "All Types",
-    "quizzes": "Quizzes",
-    "polls": "Polls",
-    "lists": "Lists",
-    "hubs": "Hubs",
-    "orgs": "Hubs",
-    "all_hubs": "All Hubs",
-    "all_orgs": "All Hubs",
-    "either": "Either",
-    "org": "Hub",
-    "hub": "Hub",
-    "user": "User",
-    "both": "Both"
-  },
-  "signup": {
-    "billing_info": "Your billing info",
-    "boombox_signup": "Creating interactive content is easy.",
-    "boombox_signup_restricted": "You do not have permission to change your organization's plan.",
-    "boombox_signup_restricted_description": "Only organization owners can change plans.",
-    "boombox_signup_description": "First, sign up for your Boombox account.",
-    "create_an_object": {
-      "boombox": "Creating interactive content is easy.",
-      "pollcaster": "Creating a poll is easy.",
-      "qzzr": "Creating a quiz is easy."
-    },
-    "callout": "First, sign up for your %{product} account.",
-    "downgrade_info": "If you wish to downgrade/cancel your plan, talk with us at %{email}",
-    "downgrade_pricing_link_label": "our pricing page",
-    "downgrade_title": "You can upgrade your plan at any time on %{link}",
-    "email": "Email",
-    "email_placeholder": "name@example.com",
-    "error": "Something went wrong while processing this request, try again later.",
-    "fullname": "Full name",
-    "fullname_placeholder": "Put a name to that pretty face",
-    "is_current_plan": "You are already signed up for this plan",
-    "login_name": "LOG IN",
-    "page_title": "Create a %{brand} account",
-    "password": "Password",
-    "password_placeholder": "8 characters minimum",
-    "secure_server": "You're using our secure server.",
-    "secure_server": "You're using our secure server.",
-    "sign_up_for": "Sign up for %{prodcut}",
-    "submit": "SIGN UP & CONTINUE",
-    "submit_upgrade": "UPGRADE",
-    "terms_of_service": "By signing up, you agree to %{terms}.",
-    "terms_of_service_terms": "%{product}'s terms of service",
-    "terms_of_service_1": "By signing up, you agree to ",
-    "terms_of_service_2": "%{product}'s terms of service",
-    "upgrade_plan": "Change plan to %{plan}",
-    "view_org_roles": "View organization roles"
   }
 }

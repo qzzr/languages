@@ -18,10 +18,7 @@
     "terms": "Terms"
   },
   "sharing": {
-    "caption": {
-      "pollcaster": "WWW.POLLCASTER.COM",
-      "boombox": "WWW.QZZR.COM"
-    },
+    "caption": "WWW.QZZR.COM",
     "description_default": "Check out this list.",
     "hashtags": "list",
     "title_default": "Check out %{title} on WWW.QZZR.COM",
