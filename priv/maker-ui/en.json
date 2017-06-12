@@ -150,6 +150,8 @@
     "bulleted_list_sublabel": "ex. Top vacation spots",
     "checkbox_quiz_label": "Checklist quiz",
     "checkbox_quiz_sublabel": "ex. How New Yorker are you?",
+    "document_label": "Custom content",
+    "document_sublabel": "Powerful content without limitations",
     "quiz_label": "Quiz",
     "quiz_sublabel": "ex. Which character from ___ are you?",
     "graded_quiz_label": "Graded quiz",
@@ -190,6 +192,17 @@
     "save": "Press enter to save",
     "success": "Changes saved",
     "tooltip": "Paste the same @font-face CSS code from your website."
+  },
+  "document_edit": {
+    "content_title": "Label for dashboard",
+    "content_title_tooltip": "This will only be displayed on your dashboard, for you to easily distinguish your content pieces from one another.",
+    "content_tags": "Tags associated with content",
+    "content_tags_tooltip": "Hint: cannot be the same as another piece of your content",
+  },
+  "documents_topbar": {
+    "edit": "Edit Document",
+    "left_label"": "Document",
+    "overview": "Overview"
   },
   "history": {
     "heading": "Billing history for %{name}",
@@ -420,6 +433,7 @@
     "side_links_list": "List",
     "side_links_poll": "Poll",
     "side_links_quiz": "Quiz",
+    "side_links_document": "Document",
     "side_members_count": {
       "one": "%{member_count} person",
       "other": "%{member_count} people"
@@ -547,9 +561,10 @@
     "side_nav_settings": "Settings",
     "side_nav_sharing": "Sharing",
     "tap_upload_image": "Tap here to upload an image",
+    "untitled_document": "Untitled Document",
     "untitled_list": "Untitled List",
     "untitled_poll": "Untitled Poll",
-    "untitled_quiz": "Untitled quiz",
+    "untitled_quiz": "Untitled Quiz",
     "upgrade_now": "Upgrade now",
     "upload_image": "Drag image here or",
     "uploading_image": "Uploading: %{progress}%",
