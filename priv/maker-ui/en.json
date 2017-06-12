@@ -197,7 +197,7 @@
     "content_title": "Label for dashboard",
     "content_title_tooltip": "This will only be displayed on your dashboard, for you to easily distinguish your content pieces from one another.",
     "content_tags": "Tags associated with content",
-    "content_tags_tooltip": "Hint: cannot be the same as another piece of your content",
+    "content_tags_tooltip": "Hint: cannot be the same as another piece of your content"
   },
   "documents_topbar": {
     "edit": "Edit Document",
