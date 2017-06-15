@@ -204,6 +204,13 @@
     "left_label": "Document",
     "overview": "Overview"
   },
+  "document_overview": {
+    "page_title": "%{name : Untitled} · Overview · Qzzr",
+    "page_label": "Overview",
+    "published": "Document published",
+    "published_subtext": "Now share it with the world.",
+    "updated": "Document updated"
+  },
   "history": {
     "heading": "Billing history for %{name}",
     "done_label": "Done",
