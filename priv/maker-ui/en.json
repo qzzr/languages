@@ -212,6 +212,9 @@
     "published_subtext": "Now share it with the world.",
     "updated": "Content updated"
   },
+  "delinquent_org": {
+    "message": "Oh no! it looks like your account is past due. Your account must be current in order to continue. Please %{contact_us: contact us} for help getting current."
+  },
   "history": {
     "heading": "Billing history for %{name}",
     "done_label": "Done",
