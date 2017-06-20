@@ -200,16 +200,17 @@
     "content_tags_tooltip": "Hint: cannot be the same as another piece of your content"
   },
   "documents_topbar": {
-    "edit": "Edit Document",
-    "left_label": "Document",
+    "edit": "Edit Custom Content",
+    "left_label": "Custom Content",
+    "revision_history": "Revision History",
     "overview": "Overview"
   },
   "document_overview": {
     "page_title": "%{name : Untitled} · Overview · Qzzr",
     "page_label": "Overview",
-    "published": "Document published",
+    "published": "Content published",
     "published_subtext": "Now share it with the world.",
-    "updated": "Document updated"
+    "updated": "Content updated"
   },
   "history": {
     "heading": "Billing history for %{name}",
@@ -440,7 +441,7 @@
     "side_links_list": "List",
     "side_links_poll": "Poll",
     "side_links_quiz": "Quiz",
-    "side_links_document": "Document",
+    "side_links_document": "Custom Content",
     "side_members_count": {
       "one": "%{member_count} person",
       "other": "%{member_count} people"
@@ -568,7 +569,7 @@
     "side_nav_settings": "Settings",
     "side_nav_sharing": "Sharing",
     "tap_upload_image": "Tap here to upload an image",
-    "untitled_document": "Untitled Document",
+    "untitled_document": "Untitled Content",
     "untitled_list": "Untitled List",
     "untitled_poll": "Untitled Poll",
     "untitled_quiz": "Untitled Quiz",
