@@ -450,7 +450,7 @@
       "other": "%{member_count} people"
     },
     "subscription_cancelled_success": "Your subscription was successfully cancelled",
-    "subscription_cancelled_error": "An error has occurred while cancelling your subscription, please try again",
+    "subscription_cancelled_error": "An error has occurred while cancelling your subscription. Please try again, or contact support",
     "side_untitled_hub_label": "Untitled hub",
     "side_untitled_org_label": "Untitled organization",
     "tips_description": "Get tips and strategies to help you make quizzes like the experts at BuzzFeed.",
