@@ -266,6 +266,7 @@
     "cc_form_year_placeholder": "yyyy",
     "cc_form_zip_label": "Billing ZIP/Postal Code",
     "cc_form_zip_placeholder": "eg. 54321",
+    "coupon_applied": "Coupon code",
     "downgrade_info": "If you wish to downgrade/cancel your plan, talk with us at %{email}",
     "downgrade_pricing_link_label": "our pricing page",
     "downgrade_title": "You can upgrade your plan at any time on %{link}",
@@ -290,6 +291,7 @@
     "terms_of_service_terms": "Qzzr's terms of service",
     "terms_of_service_1": "By signing up, you agree to ",
     "terms_of_service_2": "Qzzr's terms of service",
+    "trial_end_date": "Trial end date",
     "upgrade_plan": "Change plan to %{plan}",
     "view_org_roles": "View organization roles"
   },
