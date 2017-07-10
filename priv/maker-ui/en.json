@@ -1099,6 +1099,25 @@
     "upgrade_now": "Upgrade now",
     "view_billing_history": "View billing history"
   },
+  "search_parameters": {
+    "query": "Query",
+    "filter": "Filter",
+    "search_options": "Search Options",
+    "by_you": "By You",
+    "all": "All Types",
+    "quizzes": "Quizzes",
+    "polls": "Polls",
+    "lists": "Lists",
+    "hubs": "Hubs",
+    "orgs": "Hubs",
+    "all_hubs": "All Hubs",
+    "all_orgs": "All Hubs",
+    "either": "Either",
+    "org": "Hub",
+    "hub": "Hub",
+    "user": "User",
+    "both": "Both"
+  },
   "organization": {
     "billing_updated": "Billing information has been updated!",
     "billing_failed": "An error occured while updating your billing information",
