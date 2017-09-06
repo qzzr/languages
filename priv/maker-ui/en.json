@@ -113,6 +113,8 @@
     "page_title": "Change plan",
     "plan_item_heading": "Plan details",
     "plan_item_label": "Plan",
+    "coupon_applied": "Coupon applied",
+    "trial_end_date": "Trial end date",
     "secure_server": "You're using our secure server",
     "submit_upgrade_label": "Upgrade",
     "terms_of_service": "By signing up, you agree to %{terms}.",
@@ -210,7 +212,9 @@
     "page_label": "Overview",
     "published": "Content published",
     "published_subtext": "Now share it with the world.",
-    "updated": "Content updated"
+    "updated": "Content updated",
+    "embed_heading": "Embed this content",
+    "link_heading": "Link to this content"
   },
   "delinquent_org": {
     "message": "Oh no! it looks like your account is past due. Your account must be current in order to continue. Please %{contact_us: contact us} for help getting current."
