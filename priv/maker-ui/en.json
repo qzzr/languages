@@ -116,6 +116,7 @@
     "coupon_applied": "Coupon applied",
     "trial_end_date": "Trial end date",
     "secure_server": "You're using our secure server",
+    "total": "Total after discount",
     "submit_upgrade_label": "Upgrade",
     "terms_of_service": "By signing up, you agree to %{terms}.",
     "terms_of_service_terms": "Qzzr's terms of service",
