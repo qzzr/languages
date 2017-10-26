@@ -203,10 +203,10 @@
     "content_tags_tooltip": "Hint: cannot be the same as another piece of your content",
     "has_markup_warning": "WARNING: this document contains markup, if you use the JSON form editor, you will lose progress made in the markup area. Consider creating a new document from scratch.",
     "has_json_warning": "WARNING: This document contains JSON, if you edit the markup, if you choose to return to JSON editing, you will lose your markup changes",
-    "edit_markup", "Edit Markup",
-    "return_to_json", "Return to JSON",
-    "go_to_markup", "Go to Markup",
-    "use_form_editor", "Use Form Editor"
+    "edit_markup": "Edit Markup",
+    "return_to_json": "Return to JSON",
+    "go_to_markup": "Go to Markup",
+    "use_form_editor": "Use Form Editor"
   },
   "documents_topbar": {
     "edit": "Edit Custom Content",
