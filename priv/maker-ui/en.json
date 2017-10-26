@@ -197,13 +197,22 @@
     "tooltip": "Paste the same @font-face CSS code from your website."
   },
   "document_edit": {
-    "content_title": "Label for dashboard",
+    "content_title": "Dashboard label",
     "content_title_tooltip": "This will only be displayed on your dashboard, for you to easily distinguish your content pieces from one another.",
     "content_tags": "Tags associated with content",
-    "content_tags_tooltip": "Hint: cannot be the same as another piece of your content"
+    "content_tags_tooltip": "Hint: cannot be the same as another piece of your content",
+    "has_markup_warning": "WARNING: this document contains markup, if you use the JSON form editor, you will lose progress made in the markup area. Consider creating a new document from scratch.",
+    "has_json_warning": "WARNING: This document contains JSON, if you edit the markup, if you choose to return to JSON editing, you will lose your markup changes",
+    "edit_markup", "Edit Markup",
+    "return_to_json", "Return to JSON",
+    "go_to_markup", "Go to Markup",
+    "use_form_editor", "Use Form Editor"
   },
   "documents_topbar": {
     "edit": "Edit Custom Content",
+    "form_editor": "Form Editor",
+    "json": "JSON",
+    "markup": "Markup",
     "left_label": "Custom Content",
     "revision_history": "Revision History",
     "overview": "Overview"
