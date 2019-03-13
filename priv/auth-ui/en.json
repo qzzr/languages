@@ -17,7 +17,7 @@
   },
   "invitations": {
     "ask_new_invite": "Ask the person who invited you to the organization to send you another invite.",
-    "email_label": "Email address",
+    "email_label": "Email",
     "email_placeholder": "example@email.com",
     "expired_invitation": "This invitation has expired.",
     "expired_invitation_get_in_touch": "This invitation has expired. Get in touch with %{inviterName} if you have questions.",
@@ -159,8 +159,8 @@
     "delete_account_message": "We're so sorry to see you go! Let us know why you're leaving and help make us better!",
     "delete_account_subject": "Hey guys I'm canceling because...",
     "edit_billing_info": "Edit billing info",
-    "email_label": "Email address",
-    "error_message_email": "Enter a different email address",
+    "email_label": "Email",
+    "error_message_email": "Enter a different email",
     "free_plan": "Free",
     "heading": "Account settings",
     "name_label": "Full name",
@@ -181,19 +181,19 @@
     "view_billing_history": "View billing history"
   },
   "reset_password": {
-    "email": "Enter your email",
+    "email": "Email",
     "email_placeholder": "name@example.com",
     "email_sent_message": "Check your inbox and follow the instructions in the email to reset your password.",
     "login_name": "Log in",
     "submit": "Reset password",
     "page_title": "Reset password · Qzzr",
-    "title": "Enter your email, and we’ll send you an email on how to reset your password."
+    "title": "Enter your email, and we’ll contact you on how to reset your password."
   },
   "settings": {
     "TODO": "remove this block when profile in editor",
     "account_change_roles_ad_label": "Lock down access & change roles in your organization",
     "account_changes_saved": "Changes saved",
-    "account_email_label": "Email address",
+    "account_email_label": "Email",
     "account_heading": "Account settings",
     "account_name_label": "Full name",
     "account_page_title": "Qzzr",
@@ -216,7 +216,7 @@
     "delete_account_message": "We're so sorry to see you go! Let us know why you're leaving and help make us better!",
     "delete_account_subject": "Hey guys I'm canceling because...",
     "edit_billing_info": "Edit billing info",
-    "error_message_email": "Enter a different email address",
+    "error_message_email": "Enter a different email",
     "free_plan": "Free",
     "side_account_label": "Your account",
     "side_hubs_label": "Your hubs",
