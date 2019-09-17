@@ -162,8 +162,8 @@
     "list_label": "List",
     "list_label_coming_soon": "List (coming soon)",
     "list_sublabel": "ex. Top 10 films of the decade",
-    "multi_poll_label": "Multi option poll",
-    "multi_poll_sublabel": "ex. John, Paul, Ringo, or George?",
+    "multi_poll_label": "Poll",
+    "multi_poll_sublabel": "ex. John, Paul, or George?",
     "numbered_list_label": "Ranked list",
     "numbered_list_sublabel": "ex. Top 10 films of the decade",
     "onboarding_outcome_quiz_label": "Create an outcome quiz",
@@ -175,7 +175,7 @@
     "outcome_quiz_label": "Outcome quiz",
     "outcome_quiz_sublabel": "ex. Which color are you?",
     "poll_label": "Poll",
-    "poll_sublabel": "ex. John, Paul, Ringo, or George?",
+    "poll_sublabel": "ex. John, Paul, or George?",
     "this_that_poll_label": "This or that poll",
     "this_that_poll_sublabel": "ex. Superman or Batman",
     "toolbar_create": "Create",
@@ -416,7 +416,7 @@
     "invalid_email": "Invalid email",
     "leads_description": "Learn about some of the premium features that are available for Pro and Enterprise accounts.",
     "link_dashboard": "Dashboard",
-    "link_learning_center": "Learning center",
+    "link_learning_center": "Help center",
     "link_upgrade": "Upgrade",
     "link_upgrade_qzzr_pro": "Upgrade to Qzzr Pro",
     "no_results": "Your search returned no results",
@@ -507,8 +507,8 @@
   },
   "dashboard_help_button": {
     "trigger_label": "?",
-    "learning_center_label": "View Learning Center",
-    "get_help_label": "Get help"
+    "learning_center_label": "View Help Center",
+    "get_help_label": "Contact Support"
   },
   "dashboard_owner": {
     "clear_search": "Clear Search",
