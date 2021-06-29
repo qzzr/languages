@@ -191,7 +191,7 @@
     "family_placeholder": "ex. 'Gotham', sans-serif",
     "header": "Custom font (@font-face)",
     "invalid": "Only @font-face CSS is valid.",
-    "placeholder": "@font-face code",
+    "placeholder": "ex. font-family",
     "save": "Press enter to save",
     "success": "Changes saved",
     "tooltip": "Paste the same @font-face CSS code from your website."
